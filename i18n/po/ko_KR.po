@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2017-06-01 13:21-0400\n"
+"PO-Revision-Date: 2017-06-01 15:51-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1480,7 +1480,7 @@ msgstr ""
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr ""
+msgstr "지갑 키는 암호화 됩니다. 비밀번호는 복구 될수 없읍니다. 반드시 기록해 두세요."
 
 #: public/views/modals/offer-contract.html:127
 msgid "after the contract expires in:"
