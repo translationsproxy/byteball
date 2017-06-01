@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2017-06-01 15:51-0400\n"
+"PO-Revision-Date: 2017-06-01 16:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1300,11 +1300,11 @@ msgstr "개인 정보 보호를 위해, 한번 주소를 사용할 경우 새 �
 
 #: public/views/walletHome.html:182
 msgid "Total Locked Balance"
-msgstr ""
+msgstr "총 고정 잔액"
 
 #: public/views/create.html:56
 msgid "Total number of co-signers"
-msgstr ""
+msgstr "전체 공동서명자 수"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
