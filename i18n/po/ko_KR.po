@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2017-06-01 16:00-0400\n"
+"PO-Revision-Date: 2017-06-01 16:21-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -130,7 +130,7 @@ msgstr "다른 장치에서의 지갑 생성에 승인"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr "정말로 백업 단어를 삭제하시겠습니까?"
+msgstr "정말로 백업 단어를 삭제 하시겠습니까?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
