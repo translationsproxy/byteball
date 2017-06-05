@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-06-05 03:12-0400\n"
+"PO-Revision-Date: 2017-06-05 03:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -973,7 +973,7 @@ msgstr "削除"
 
 #: public/views/correspondentDevices.html:37
 msgid "Remove a device"
-msgstr ""
+msgstr "デバイスの削除"
 
 #: public/views/editCorrespondentDevice.html:41
 msgid "Rename:"
@@ -990,7 +990,7 @@ msgstr "パスワードの再入力"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "置換"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
@@ -1096,7 +1096,7 @@ msgstr "全額を送金"
 
 #: public/views/modals/multi-payment.html:62
 msgid "Send Payment"
-msgstr ""
+msgstr "支払いの送信"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
@@ -1477,7 +1477,7 @@ msgstr "パスワード"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr ""
+msgstr "バックアップファイル"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
@@ -1489,7 +1489,7 @@ msgstr ""
 
 #: public/views/editCorrespondentDevice.html:58
 msgid "clear chat history"
-msgstr ""
+msgstr "チャット履歴の削除"
 
 #: public/views/modals/offer-contract.html:137
 msgid "days"
