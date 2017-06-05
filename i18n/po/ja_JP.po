@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-06-05 03:42-0400\n"
+"PO-Revision-Date: 2017-06-05 04:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -31,7 +31,7 @@ msgstr "2. 契約を解除出来る人:"
 
 #: public/views/splash.html:50
 msgid "A wallet for decentralized value"
-msgstr ""
+msgstr "みんなが価値を作るウォレット"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -759,7 +759,7 @@ msgstr ""
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:402
 msgid "No"
-msgstr ""
+msgstr "いいえ"
 
 #: public/views/walletHome.html:483
 msgid "No transactions yet"
@@ -1011,7 +1011,7 @@ msgstr "必要な署名の数を選択"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr ""
+msgstr "バックアップファイルからの復元"
 
 #: public/views/splash.html:60
 msgid "Retrying..."
@@ -1054,7 +1054,7 @@ msgstr "スキャンがエラーに終わりました"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr ""
+msgstr "相手側のデバイスからこのQRコードを読み込むか、下記のコードを送信して下さい:"
 
 #: src/js/controllers/index.js:1432
 msgid "Scan your fingerprint please"
@@ -1066,7 +1066,7 @@ msgstr "ウォレット残高照会中…"
 
 #: public/views/recoveryFromSeed.html:31
 msgid "Scanning for addresses..."
-msgstr ""
+msgstr "アドレスの読み込み中..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
@@ -1078,7 +1078,7 @@ msgstr "ウォレットを選択"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr ""
+msgstr "サブウォレットの選択"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
