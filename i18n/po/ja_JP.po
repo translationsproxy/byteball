@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-06-01 13:22-0400\n"
+"PO-Revision-Date: 2017-06-05 02:31-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,11 +23,11 @@ msgstr "(二重払い可能性あり)"
 
 #: public/views/modals/offer-contract.html:18
 msgid "1. Payment to the contract:"
-msgstr ""
+msgstr "契約への支払い"
 
 #: public/views/modals/offer-contract.html:73
 msgid "2. Who can unlock the contract:"
-msgstr ""
+msgstr "契約を解除出来るのは誰か"
 
 #: public/views/splash.html:50
 msgid "A wallet for decentralized value"
