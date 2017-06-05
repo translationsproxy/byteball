@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-06-05 03:02-0400\n"
+"PO-Revision-Date: 2017-06-05 03:12-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -586,7 +586,7 @@ msgstr "ハードウェアウォレット"
 
 #: public/views/backup.html:39
 msgid "Hide the Wallet Seed"
-msgstr ""
+msgstr "ウォレットの復元フレーズを非表示"
 
 #: src/js/controllers/index.js:542
 msgid "History"
@@ -664,7 +664,7 @@ msgstr "認証できませんでした"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr ""
+msgstr "他のデバイスの招待"
 
 #: public/views/translators.html:12
 #: public/views/translators.html:13
@@ -686,7 +686,7 @@ msgstr "言語設定"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr ""
+msgstr "後で"
 
 #: public/views/splash.html:33
 msgid "Light wallet"
@@ -788,7 +788,7 @@ msgstr "契約の申込み"
 
 #: public/views/backup.html:78
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr ""
+msgstr "復元フレーズを控えたら、このデバイスから削除することをおすすめします。"
 
 #: public/views/recoveryFromSeed.html:60
 msgid "Only single-sig wallets can be recovered."
@@ -797,7 +797,7 @@ msgstr ""
 #: public/views/modals/bind.html:42
 #: public/views/modals/offer-contract.html:87
 msgid "Oracle address:"
-msgstr ""
+msgstr "Oracleアドレス:"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -805,7 +805,7 @@ msgstr ""
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr ""
+msgstr "ペアリング済のデバイス"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
@@ -1104,7 +1104,7 @@ msgstr "ビットコインアドレスをメールにて共有"
 
 #: public/views/walletHome.html:372
 msgid "Send all"
-msgstr ""
+msgstr "すべて送信"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
@@ -1128,7 +1128,7 @@ msgstr "セッションのログ"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "パスワードの設定"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
@@ -1149,7 +1149,7 @@ msgstr "アドレスを共有"
 
 #: public/views/walletHome.html:257
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "送金を受けるためにはこのウォレットアドレスを共有して下さい。"
 
 #: public/views/walletHome.html:567
 msgid "Show all"
@@ -1366,15 +1366,15 @@ msgstr "注意：この復元フレーズにパスワードがかかっていま
 
 #: public/views/import.html:54
 msgid "WARNING: This will permanently delete all your existing wallets!"
-msgstr ""
+msgstr "警告: 全てのウォレットが完全削除されます！"
 
 #: public/views/recoveryFromSeed.html:56
 msgid "WARNINGS:"
-msgstr ""
+msgstr "注意:"
 
 #: public/views/splash.html:49
 msgid "WELCOME TO BYTEBALL"
-msgstr ""
+msgstr "BYTEBALLへようこそ"
 
 #: public/views/copayers.html:16
 msgid "Waiting for co-signers"
@@ -1434,7 +1434,7 @@ msgstr "注意！"
 #: public/views/modals/offer-contract.html:144
 #: public/views/walletHome.html:411
 msgid "Who signs:"
-msgstr ""
+msgstr "署名者:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
@@ -1446,7 +1446,7 @@ msgstr ""
 
 #: public/views/backup.html:50
 msgid "Write it down and keep it somewhere safe."
-msgstr ""
+msgstr "これを書き留めて、安全な場所に保管して下さい。"
 
 #: src/js/services/profileService.js:606
 msgid "Wrong password"
@@ -1534,7 +1534,7 @@ msgstr "任意"
 #: src/js/controllers/walletHome.js:788
 #: src/js/controllers/walletHome.js:824
 msgid "sending"
-msgstr ""
+msgstr "送信中"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
