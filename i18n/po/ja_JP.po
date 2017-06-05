@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-06-05 02:31-0400\n"
+"PO-Revision-Date: 2017-06-05 02:42-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
-msgstr ""
+msgstr "Byteballについて"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
@@ -46,11 +46,11 @@ msgstr "承諾"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
-msgstr ""
+msgstr "招待の受け入れ"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr ""
+msgstr "他の端末からの招待の受け入れ"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
@@ -58,7 +58,7 @@ msgstr "ポケット"
 
 #: public/views/correspondentDevices.html:31
 msgid "Add a new device"
-msgstr ""
+msgstr "端末の追加"
 
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
@@ -94,15 +94,15 @@ msgstr "<i>{{index.walletName}}</i> の通称設定"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr ""
+msgstr "全てのウォレットアドレス"
 
 #: public/views/translators.html:26
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr ""
+msgstr "Byteballの翻訳への寄稿にご協力ください。 crowdin.comにサインアップし、Byteballプロジェクトに参加してください"
 
 #: public/views/modals/multi-payment.html:65
 msgid "Already Paid"
-msgstr ""
+msgstr "既に支払い済みです"
 
 #: public/views/walletHome.html:128
 msgid "Also"
@@ -122,7 +122,7 @@ msgstr "金額"
 
 #: public/views/modals/bind.html:26
 msgid "An event is posted by an oracle:"
-msgstr ""
+msgstr "このイベントはoracleによって投稿されました:"
 
 #: public/views/copayers.html:11
 msgid "Approve wallet creation on other devices"
@@ -140,15 +140,15 @@ msgstr "本当にこのウォレットを削除しても\n"
 
 #: public/views/modals/customized-amount.html:71
 msgid "Asset"
-msgstr ""
+msgstr "資産"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "ハブから証明一覧の自動アップデート"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "このハブから証明一覧の自動アップデート"
 
 #: public/views/includes/available-balance.html:7
 #: public/views/walletHome.html:299
@@ -171,7 +171,7 @@ msgstr "今すぐバックアップ"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "ウォレットのバックアップ用シード"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -188,12 +188,12 @@ msgstr "ビットコインをもらう前に、このウォレットのバック
 #: public/views/modals/bind.html:100
 #: public/views/modals/bind.html:8
 msgid "Bind payment"
-msgstr ""
+msgstr "支払いの紐付け"
 
 #: public/views/walletHome.html:346
 #: public/views/walletHome.html:353
 msgid "Bind the payment to a condition"
-msgstr ""
+msgstr "支払いを状況に紐付け"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
