@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Albanian\n"
 "Language: sq_AL\n"
-"PO-Revision-Date: 2017-06-05 02:10-0400\n"
+"PO-Revision-Date: 2017-06-05 02:22-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -371,11 +371,11 @@ msgstr "Krijuar:"
 
 #: public/views/splash.html:71
 msgid "Creating Profile..."
-msgstr ""
+msgstr "Duke krijuar profilin..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr ""
+msgstr "Duke krijuar kuleten..."
 
 #: public/views/backup.html:84
 msgid "DELETE WORDS"
@@ -461,7 +461,7 @@ msgstr "Redakto"
 
 #: public/views/correspondentDevice.html:283
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr ""
+msgstr "Ju ose {{correspondent.name}} ruajtjen e chat historisë e keni të ndaluar. Historia nuk është duke u ruajtur për asnjerin tani."
 
 #: public/views/preferencesEmail.html:33
 msgid "Email for wallet notifications"
@@ -1261,7 +1261,7 @@ msgstr ""
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
-msgstr ""
+msgstr "Kjo nuk mund të ndryshohet më vonë"
 
 #: public/views/walletHome.html:315
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
@@ -1277,7 +1277,7 @@ msgstr ""
 
 #: public/views/recoveryFromSeed.html:58
 msgid "This will permanently delete all your existing wallets!"
-msgstr ""
+msgstr "Kjo do të fshijë përgjithmonë të gjitha kuletat e juaja!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1294,7 +1294,7 @@ msgstr ""
 
 #: public/views/walletHome.html:258
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr ""
+msgstr "Për të ruajtur privatësin e juaj, adresa të reja do të gjenerohen pas qdo përdorimi."
 
 #: public/views/walletHome.html:182
 msgid "Total Locked Balance"
@@ -1339,7 +1339,7 @@ msgstr ""
 
 #: public/views/walletHome.html:175
 msgid "Unsent transactions"
-msgstr ""
+msgstr "Transaksionet e padërguara"
 
 #: public/views/walletHome.html:51
 msgid "Updating Wallet..."
@@ -1347,7 +1347,7 @@ msgstr "Duke azhuruar kuletën..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
-msgstr ""
+msgstr "Azhuro në {{version}}"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1355,7 +1355,7 @@ msgstr "Verzoni"
 
 #: public/views/walletHome.html:200
 msgid "WARNING: Backup needed"
-msgstr ""
+msgstr "Kujdes: Bëjeni një backup"
 
 #: public/views/backup.html:68
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
