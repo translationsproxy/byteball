@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-06-05 02:51-0400\n"
+"PO-Revision-Date: 2017-06-05 03:02-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -171,7 +171,7 @@ msgstr "今すぐバックアップ"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "ウォレットのバックアップ用シード"
+msgstr "ウォレットの復元フレーズ"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -440,7 +440,7 @@ msgstr "デバイス名"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr ""
+msgstr "デバイス名は他の端末とやりとりする際に表示されます。"
 
 #: public/views/translators.html:29
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -470,7 +470,7 @@ msgstr "メールによるウォレットのお知らせ"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr ""
+msgstr "プッシュ通知の有効化"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
@@ -487,11 +487,11 @@ msgstr "ウォレット作成時にエラー"
 
 #: public/views/modals/bind.html:65
 msgid "Expected value:"
-msgstr ""
+msgstr "期待値:"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "エクスポート"
 
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
@@ -784,7 +784,7 @@ msgstr "メモ"
 
 #: public/views/modals/offer-contract.html:8
 msgid "Offer a contract"
-msgstr ""
+msgstr "契約の申込み"
 
 #: public/views/backup.html:78
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
@@ -887,7 +887,7 @@ msgstr ""
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr ""
+msgstr "ポート"
 
 #: public/views/translators.html:17
 msgid "Portuguese"
@@ -945,11 +945,11 @@ msgstr "Wallet Serviceへ再接続しています…"
 
 #: public/views/recoveryFromSeed.html:53
 msgid "Recover"
-msgstr ""
+msgstr "復元"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr ""
+msgstr "バックアップフレーズから復元"
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Recovery is only available in full wallets."
@@ -977,7 +977,7 @@ msgstr ""
 
 #: public/views/editCorrespondentDevice.html:41
 msgid "Rename:"
-msgstr ""
+msgstr "名前の変更:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
@@ -986,7 +986,7 @@ msgstr "パスワードを再入力"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "パスワードの再入力"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
@@ -1116,7 +1116,7 @@ msgstr "送金中..."
 
 #: public/views/walletHome.html:62
 msgid "Sending..."
-msgstr ""
+msgstr "送信中"
 
 #: public/views/walletHome.html:516
 msgid "Sent"
@@ -1140,7 +1140,7 @@ msgstr "メールのお知らせを有効にすると、悪意のあるサーバ
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:253
@@ -1212,7 +1212,7 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
-msgstr ""
+msgstr "Tor"
 
 #: public/views/walletHome.html:481
 #: public/views/walletHome.html:94
@@ -1465,7 +1465,7 @@ msgstr "ウォレットがありません"
 #: public/views/backup.html:49
 #: public/views/recoveryFromSeed.html:50
 msgid "Your Wallet Seed:"
-msgstr ""
+msgstr "ウォレットの復元フレーズ"
 
 #: public/views/export.html:33
 msgid "Your export password"
@@ -1538,7 +1538,7 @@ msgstr ""
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
-msgstr ""
+msgstr "宛先"
 
 #: public/views/walletHome.html:387
 #: public/views/walletHome.html:398
