@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Albanian\n"
 "Language: sq_AL\n"
-"PO-Revision-Date: 2017-06-05 02:00-0400\n"
+"PO-Revision-Date: 2017-06-05 02:10-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -954,7 +954,7 @@ msgstr ""
 
 #: public/views/walletHome.html:58
 msgid "Recreating Wallet..."
-msgstr ""
+msgstr "Ri-krijo kuleten..."
 
 #: src/js/controllers/index.js:165
 msgid "Refused"
@@ -962,7 +962,7 @@ msgstr "E refuzuar"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr ""
+msgstr "Të dhëna rreth verzionit"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
@@ -1071,7 +1071,7 @@ msgstr ""
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
-msgstr ""
+msgstr "Zgjidh një kuletë"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
@@ -1079,21 +1079,21 @@ msgstr ""
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "Zgjidh identitetin tënd"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:449
 #: src/js/controllers/index.js:538
 msgid "Send"
-msgstr ""
+msgstr "Dërgo"
 
 #: public/views/walletHome.html:290
 msgid "Send All"
-msgstr ""
+msgstr "Dërgo të gjitha"
 
 #: public/views/modals/multi-payment.html:62
 msgid "Send Payment"
-msgstr ""
+msgstr "Dërgo pagesen"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
@@ -1101,23 +1101,23 @@ msgstr ""
 
 #: public/views/walletHome.html:372
 msgid "Send all"
-msgstr ""
+msgstr "Dërgo të gjitha"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
-msgstr ""
+msgstr "Dërgo përmes email-it"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr ""
+msgstr "Duke dërguar të hollat..."
 
 #: public/views/walletHome.html:62
 msgid "Sending..."
-msgstr ""
+msgstr "Duke dërguar..."
 
 #: public/views/walletHome.html:516
 msgid "Sent"
-msgstr ""
+msgstr "U dërguan me sukses"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
@@ -1125,11 +1125,11 @@ msgstr ""
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "Vendosë një fjalekalim"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr ""
+msgstr "Vendosë një fjalekalim"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
@@ -1150,7 +1150,7 @@ msgstr ""
 
 #: public/views/walletHome.html:567
 msgid "Show all"
-msgstr ""
+msgstr "Shfaqi të gjitha"
 
 #: public/views/backup.html:38
 msgid "Show the Wallet Seed Anyway"
@@ -1286,7 +1286,7 @@ msgstr ""
 #: public/views/walletHome.html:322
 #: public/views/walletHome.html:548
 msgid "To"
-msgstr ""
+msgstr "Tek"
 
 #: public/views/walletHome.html:350
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1306,7 +1306,7 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
-msgstr ""
+msgstr "Transaksioni"
 
 #: public/views/walletHome.html:505
 msgid "Transactions<br> Downloaded"
@@ -1318,7 +1318,7 @@ msgstr ""
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
-msgstr ""
+msgstr "Përkthyesit"
 
 #: src/js/controllers/walletHome.js:645
 msgid "Unable to send transaction proposal"
@@ -1327,7 +1327,7 @@ msgstr ""
 #: public/views/modals/tx-details.html:105
 #: public/views/walletHome.html:536
 msgid "Unconfirmed"
-msgstr ""
+msgstr "E pa konfirmuar"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
@@ -1343,7 +1343,7 @@ msgstr ""
 
 #: public/views/walletHome.html:51
 msgid "Updating Wallet..."
-msgstr ""
+msgstr "Duke azhuruar kuletën..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
@@ -1351,7 +1351,7 @@ msgstr ""
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
-msgstr ""
+msgstr "Verzoni"
 
 #: public/views/walletHome.html:200
 msgid "WARNING: Backup needed"
@@ -1367,7 +1367,7 @@ msgstr ""
 
 #: public/views/recoveryFromSeed.html:56
 msgid "WARNINGS:"
-msgstr ""
+msgstr "KUJDES:"
 
 #: public/views/splash.html:49
 msgid "WELCOME TO BYTEBALL"
@@ -1379,11 +1379,11 @@ msgstr ""
 
 #: public/views/copayers.html:25
 msgid "Waiting..."
-msgstr ""
+msgstr "Duke pritur..."
 
 #: public/views/preferencesDeleteWallet.html:12
 msgid "Wallet"
-msgstr ""
+msgstr "Kuleta"
 
 #: public/views/preferences.html:20
 msgid "Wallet Alias"
@@ -1395,16 +1395,16 @@ msgstr ""
 
 #: public/views/preferencesInformation.html:20
 msgid "Wallet Id"
-msgstr ""
+msgstr "Id e kuletes"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
 msgid "Wallet Information"
-msgstr ""
+msgstr "Të dhëna rreth kuletes"
 
 #: public/views/preferencesInformation.html:12
 msgid "Wallet Name (at creation)"
-msgstr ""
+msgstr "Emri i kuletës(I zgjedhur në fillim)"
 
 #: src/js/services/profileService.js:378
 msgid "Wallet already in Byteball:"
@@ -1412,7 +1412,7 @@ msgstr ""
 
 #: public/views/create.html:48
 msgid "Wallet name"
-msgstr ""
+msgstr "Emri i kuletës"
 
 #: public/views/backup.html:28
 msgid "Wallet seed not available."
@@ -1421,11 +1421,11 @@ msgstr ""
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Wallets"
-msgstr ""
+msgstr "Kuletat"
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
-msgstr ""
+msgstr "Kujdes!"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:144
@@ -1443,21 +1443,21 @@ msgstr ""
 
 #: public/views/backup.html:50
 msgid "Write it down and keep it somewhere safe."
-msgstr ""
+msgstr "Shkruajeni diku dhe mbajeni të sigurtë."
 
 #: src/js/services/profileService.js:606
 msgid "Wrong password"
-msgstr ""
+msgstr "Fjalëkalimi gabuar"
 
 #: public/views/authConfirmation.html:17
 #: public/views/modals/confirmation.html:6
 #: src/js/controllers/index.js:401
 msgid "Yes"
-msgstr ""
+msgstr "Po"
 
 #: public/views/walletHome.html:20
 msgid "You do not have a wallet"
-msgstr ""
+msgstr "Ju nuk keni një kuletë"
 
 #: public/views/backup.html:49
 #: public/views/recoveryFromSeed.html:50
