@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-06-05 03:31-0400\n"
+"PO-Revision-Date: 2017-06-05 03:42-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -500,7 +500,7 @@ msgstr ""
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "エクスポート中..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
@@ -532,11 +532,11 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:118
 msgid "Full backup"
-msgstr ""
+msgstr "フルバックアップ"
 
 #: public/views/splash.html:25
 msgid "Full wallet"
-msgstr ""
+msgstr "通常のウォレット"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
@@ -598,15 +598,15 @@ msgstr "ホーム"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr ""
+msgstr "サーバーホスト"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr ""
+msgstr "ハブ"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr ""
+msgstr "ハブのURL"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
@@ -622,7 +622,7 @@ msgstr ""
 
 #: public/views/modals/bind.html:83
 msgid "If the condition is not met, I can take this money back after:"
-msgstr ""
+msgstr "もし契約条件が満たされない場合、後日返金を受けることが出来ます:"
 
 #: public/views/modals/offer-contract.html:59
 msgid "If the peer doesn't pay, I can take my money back after:"
@@ -690,7 +690,7 @@ msgstr "後で"
 
 #: public/views/splash.html:33
 msgid "Light wallet"
-msgstr ""
+msgstr "軽量版ウォレット"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
@@ -875,7 +875,7 @@ msgstr ""
 
 #: public/views/splash.html:20
 msgid "Please choose the type of this wallet"
-msgstr ""
+msgstr "ウォレットのタイプを選択"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
@@ -883,7 +883,7 @@ msgstr "必須項目をご入力下さい"
 
 #: public/views/splash.html:77
 msgid "Please name this device"
-msgstr ""
+msgstr "この端末に名前をつけて下さい"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -904,7 +904,7 @@ msgstr "設定"
 
 #: src/js/services/backButtonService.js:42
 msgid "Press again to exit"
-msgstr ""
+msgstr "もう一度押すと終了します"
 
 #: public/views/recoveryFromSeed.html:59
 msgid "Private assets (such as blackbytes) are not recovered."
