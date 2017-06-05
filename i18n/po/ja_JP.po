@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-06-05 03:20-0400\n"
+"PO-Revision-Date: 2017-06-05 03:31-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "契約への支払い"
 
 #: public/views/modals/offer-contract.html:73
 msgid "2. Who can unlock the contract:"
-msgstr "契約を解除出来るのは誰か"
+msgstr "2. 契約を解除出来る人:"
 
 #: public/views/splash.html:50
 msgid "A wallet for decentralized value"
@@ -193,7 +193,7 @@ msgstr "支払いの紐付け"
 #: public/views/walletHome.html:346
 #: public/views/walletHome.html:353
 msgid "Bind the payment to a condition"
-msgstr "支払いを状況に紐付け"
+msgstr "支払いを条件に紐付け"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -213,7 +213,7 @@ msgstr "キャンセル"
 
 #: public/views/splash.html:39
 msgid "CONTINUE"
-msgstr "続行"
+msgstr "次へ"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:446
@@ -1248,11 +1248,11 @@ msgstr "ウォレット \"{{walletName}}\" が削除されました"
 
 #: public/views/splash.html:34
 msgid "The wallet will contain minimum information relevant to you.  The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately."
-msgstr ""
+msgstr "最小限の情報でローカル領域を節約します。ウォレットのベンダーはあなたの残高やトランザクションを覗くことが出来てしまいますが、その代わりに同期の必要がなくすぐに使い始めることができます。"
 
 #: public/views/splash.html:26
 msgid "The wallet will contain the most current state of the entire Byteball database.  This option is better for privacy but will consume more resources and the initial sync will take several hours."
-msgstr ""
+msgstr "Byteballのデータベース全体が最新の状態で格納されます。 このオプションはプライバシー面は優れていますが、リソースを多く消費し、初回の同期に数時間かかる場合があります。"
 
 #: public/views/correspondentDevice.html:294
 msgid "Their recording preference"
@@ -1264,7 +1264,7 @@ msgstr "送金可能なウォレットがありません"
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
-msgstr ""
+msgstr "この選択は後から変更することが出来ません。"
 
 #: public/views/walletHome.html:315
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
@@ -1350,7 +1350,7 @@ msgstr "ウォレット更新中…"
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
-msgstr ""
+msgstr "{{version}} にアップグレード"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
