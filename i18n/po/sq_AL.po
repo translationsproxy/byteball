@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Albanian\n"
 "Language: sq_AL\n"
-"PO-Revision-Date: 2017-06-01 13:22-0400\n"
+"PO-Revision-Date: 2017-06-05 02:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -700,7 +700,7 @@ msgstr ""
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr ""
+msgstr "Ndoshta me vone"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/multi-payment.html:40
@@ -708,7 +708,7 @@ msgstr ""
 #: public/views/preferencesInformation.html:76
 #: public/views/walletHome.html:416
 msgid "Me"
-msgstr ""
+msgstr "Unë"
 
 #: public/views/modals/tx-details.html:97
 msgid "Merchant message"
@@ -925,11 +925,11 @@ msgstr ""
 
 #: src/js/controllers/index.js:534
 msgid "Receive"
-msgstr ""
+msgstr "Prano"
 
 #: public/views/walletHome.html:514
 msgid "Received"
-msgstr ""
+msgstr "Të pranuara"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:45
@@ -958,7 +958,7 @@ msgstr ""
 
 #: src/js/controllers/index.js:165
 msgid "Refused"
-msgstr ""
+msgstr "E refuzuar"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
@@ -966,28 +966,28 @@ msgstr ""
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
-msgstr ""
+msgstr "Fshije"
 
 #: public/views/correspondentDevices.html:37
 msgid "Remove a device"
-msgstr ""
+msgstr "Fshije pajisjen"
 
 #: public/views/editCorrespondentDevice.html:41
 msgid "Rename:"
-msgstr ""
+msgstr "Ri-emëro:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr ""
+msgstr "Përsërit fjalëkalimin"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "Përsërit fjalëkalimin"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "Zëvëndëso"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
