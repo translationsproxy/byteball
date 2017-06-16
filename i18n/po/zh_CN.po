@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-15 23:21-0400\n"
+"PO-Revision-Date: 2017-06-15 23:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -605,7 +605,7 @@ msgstr "Hub"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr ""
+msgstr "Hub URL"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
@@ -685,7 +685,7 @@ msgstr "语言设定"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr ""
+msgstr "稍后"
 
 #: public/views/splash.html:33
 msgid "Light wallet"
@@ -758,7 +758,7 @@ msgstr "新的证人"
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:402
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: public/views/walletHome.html:483
 msgid "No transactions yet"
@@ -869,7 +869,7 @@ msgstr "永久删除此钱包。 此操作无法撤销！"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
-msgstr ""
+msgstr "普通钱包"
 
 #: public/views/splash.html:20
 msgid "Please choose the type of this wallet"
@@ -902,7 +902,7 @@ msgstr "偏好设定"
 
 #: src/js/services/backButtonService.js:42
 msgid "Press again to exit"
-msgstr ""
+msgstr "再次点击退出"
 
 #: public/views/recoveryFromSeed.html:59
 msgid "Private assets (such as blackbytes) are not recovered."
@@ -959,7 +959,7 @@ msgstr "重新创建钱包中…"
 
 #: src/js/controllers/index.js:165
 msgid "Refused"
-msgstr ""
+msgstr "拒绝"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
@@ -1052,7 +1052,7 @@ msgstr "查询结果出现错误"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr ""
+msgstr "使用其他设备扫描上述QR码，或将此配对码发送到其他设备："
 
 #: src/js/controllers/index.js:1432
 msgid "Scan your fingerprint please"
@@ -1080,7 +1080,7 @@ msgstr ""
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "选择您的身份"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:449
@@ -1147,7 +1147,7 @@ msgstr "分享地址"
 
 #: public/views/walletHome.html:257
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "分享这个钱包地址来接收付款。"
 
 #: public/views/walletHome.html:567
 msgid "Show all"
@@ -1155,15 +1155,15 @@ msgstr "显示所有"
 
 #: public/views/backup.html:38
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "无论如何显示钱包种子"
 
 #: src/js/controllers/index.js:379
 msgid "Sign transaction spending  from wallet ?"
-msgstr ""
+msgstr "从钱包签署交易支出？"
 
 #: src/js/services/profileService.js:261
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "小额支付钱包"
 
 #: public/views/translators.html:20
 msgid "Spanish"
@@ -1206,7 +1206,7 @@ msgstr ""
 
 #: public/views/walletHome.html:60
 msgid "Syncing... {{index.syncProgress}}"
-msgstr ""
+msgstr "同步...{{index.syncProgress}}"
 
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
