@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-15 21:48-0400\n"
+"PO-Revision-Date: 2017-06-15 22:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -192,7 +192,7 @@ msgstr "绑定付款"
 #: public/views/walletHome.html:346
 #: public/views/walletHome.html:353
 msgid "Bind the payment to a condition"
-msgstr ""
+msgstr "将支付绑定到条件"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -200,7 +200,7 @@ msgstr "比特币URI无效！"
 
 #: public/views/correspondentDevice.html:280
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "您和{{correspondent.name}}都启用了本地聊天记录。"
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
