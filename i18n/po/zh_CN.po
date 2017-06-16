@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-16 02:01-0400\n"
+"PO-Revision-Date: 2017-06-16 02:11-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -906,7 +906,7 @@ msgstr "再次点击退出"
 
 #: public/views/recoveryFromSeed.html:59
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr "私人资产 （如 blackbytes) 不能恢复。"
+msgstr "私人资产(如: blackbytes)不能恢复。"
 
 #: src/js/controllers/walletHome.js:1277
 msgid "Private payloads sent"
@@ -1336,7 +1336,7 @@ msgstr "Blackbytes单位"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr "以字节为单位"
+msgstr "Blackbytes单位"
 
 #: public/views/walletHome.html:175
 msgid "Unsent transactions"
