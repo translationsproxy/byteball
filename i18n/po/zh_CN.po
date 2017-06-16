@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-15 22:56-0400\n"
+"PO-Revision-Date: 2017-06-15 23:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1504,11 +1504,11 @@ msgstr ""
 #: public/views/modals/bind.html:90
 #: public/views/modals/offer-contract.html:66
 msgid "hours"
-msgstr ""
+msgstr "小时"
 
 #: public/views/modals/offer-contract.html:79
 msgid "if an event is posted by an oracle:"
-msgstr ""
+msgstr "如果事件由oracle发布："
 
 #: public/views/modals/bind.html:77
 msgid "in merkle tree"
@@ -1516,7 +1516,7 @@ msgstr ""
 
 #: public/views/walletHome.html:131
 msgid "in smart wallets"
-msgstr ""
+msgstr "在智能钱包"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -1532,11 +1532,11 @@ msgstr "任意"
 #: src/js/controllers/walletHome.js:788
 #: src/js/controllers/walletHome.js:824
 msgid "sending"
-msgstr ""
+msgstr "正在发送"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
-msgstr ""
+msgstr "到"
 
 #: public/views/walletHome.html:387
 #: public/views/walletHome.html:398
