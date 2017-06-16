@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-15 23:00-0400\n"
+"PO-Revision-Date: 2017-06-15 23:10-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -971,11 +971,11 @@ msgstr "删除"
 
 #: public/views/correspondentDevices.html:37
 msgid "Remove a device"
-msgstr ""
+msgstr "移除设备"
 
 #: public/views/editCorrespondentDevice.html:41
 msgid "Rename:"
-msgstr ""
+msgstr "重命名:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
@@ -984,7 +984,7 @@ msgstr "重复密码"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "再次确认密码"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
@@ -1001,7 +1001,7 @@ msgstr "要求特定金额"
 
 #: public/views/correspondentDevice.html:328
 msgid "Request payment"
-msgstr ""
+msgstr "请求付款"
 
 #: public/views/create.html:64
 msgid "Required number of signatures"
@@ -1009,7 +1009,7 @@ msgstr "选择必要的签名数"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr ""
+msgstr "从完整备份中还原"
 
 #: public/views/splash.html:60
 msgid "Retrying..."
