@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-15 22:11-0400\n"
+"PO-Revision-Date: 2017-06-15 22:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -651,7 +651,7 @@ msgstr "多宗交易的钱包，其首次交易历史同步可能需要几分钟
 
 #: public/views/correspondentDevice.html:319
 msgid "Insert my address"
-msgstr ""
+msgstr "插入我的地址"
 
 #: public/views/walletHome.html:518
 msgid "Invalid"
@@ -663,7 +663,7 @@ msgstr "指纹识别无效"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr ""
+msgstr "邀请其他设备"
 
 #: public/views/translators.html:12
 #: public/views/translators.html:13
@@ -689,7 +689,7 @@ msgstr ""
 
 #: public/views/splash.html:33
 msgid "Light wallet"
-msgstr ""
+msgstr "轻钱包"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
@@ -729,7 +729,7 @@ msgstr "移动"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr ""
+msgstr "多设备钱包"
 
 #: public/views/walletHome.html:218
 msgid "My Byteball address"
@@ -749,11 +749,11 @@ msgstr "新的随机种子"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
-msgstr ""
+msgstr "有新版本可用！"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
-msgstr ""
+msgstr "新的证人"
 
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:402
@@ -787,7 +787,7 @@ msgstr ""
 
 #: public/views/backup.html:78
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr ""
+msgstr "一旦你写下你的钱包种子，建议从这个设备中删除它。"
 
 #: public/views/recoveryFromSeed.html:60
 msgid "Only single-sig wallets can be recovered."
@@ -796,11 +796,11 @@ msgstr ""
 #: public/views/modals/bind.html:42
 #: public/views/modals/offer-contract.html:87
 msgid "Oracle address:"
-msgstr ""
+msgstr "Oracle 地址："
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr ""
+msgstr "配对"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
