@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-16 02:11-0400\n"
+"PO-Revision-Date: 2017-06-16 02:21-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -192,7 +192,7 @@ msgstr "绑定付款"
 #: public/views/walletHome.html:346
 #: public/views/walletHome.html:353
 msgid "Bind the payment to a condition"
-msgstr "将支付绑定到条件"
+msgstr "绑定条件支付"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -229,7 +229,7 @@ msgstr "更改Hub："
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr "更改钱包别名仅影响本地钱包名称。"
+msgstr "更改钱包别名只会影响本地钱包名称。"
 
 #: src/js/controllers/index.js:546
 msgid "Chat"
@@ -259,7 +259,7 @@ msgstr "共同签署人 {{$index + 1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr "共同签署者"
+msgstr "共同签署人"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
@@ -287,7 +287,7 @@ msgstr "确认"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
-msgstr "确认付款"
+msgstr "确认支付"
 
 #: public/views/modals/tx-details.html:108
 msgid "Confirmed"
@@ -304,15 +304,15 @@ msgstr "通讯没有恢复。"
 
 #: src/js/controllers/walletHome.js:597
 msgid "Could not create payment proposal"
-msgstr "无法创建付款协议"
+msgstr "无法创建支付协议"
 
 #: src/js/services/profileService.js:209
 msgid "Could not create using the specified extended private key"
-msgstr "指定的扩展私钥无法进行创建"
+msgstr "无法使用指定的扩展私钥创建"
 
 #: src/js/services/profileService.js:219
 msgid "Could not create using the specified extended public key"
-msgstr "指定的扩展公钥无法进行创建"
+msgstr "无法使用指定的扩展公钥创建"
 
 #: src/js/services/profileService.js:202
 msgid "Could not create: Invalid wallet seed"
