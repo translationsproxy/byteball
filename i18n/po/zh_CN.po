@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-15 23:10-0400\n"
+"PO-Revision-Date: 2017-06-15 23:21-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -170,7 +170,7 @@ msgstr "立即备份"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "备份钱包种子"
+msgstr "备份钱包的seed"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -906,7 +906,7 @@ msgstr ""
 
 #: public/views/recoveryFromSeed.html:59
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "私人资产 （如 blackbytes) 不能恢复。"
 
 #: src/js/controllers/walletHome.js:1277
 msgid "Private payloads sent"
@@ -943,15 +943,15 @@ msgstr "正在重新连接到钱包服务..."
 
 #: public/views/recoveryFromSeed.html:53
 msgid "Recover"
-msgstr ""
+msgstr "恢复"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr ""
+msgstr "从备份的seed中恢复"
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Recovery is only available in full wallets."
-msgstr ""
+msgstr "恢复仅在完整钱包中可用。"
 
 #: public/views/walletHome.html:58
 msgid "Recreating Wallet..."
@@ -1064,7 +1064,7 @@ msgstr "查询钱包余额中…"
 
 #: public/views/recoveryFromSeed.html:31
 msgid "Scanning for addresses..."
-msgstr ""
+msgstr "正在扫描地址..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
@@ -1233,7 +1233,7 @@ msgstr ""
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr ""
+msgstr "该Hub建议更换以下证人："
 
 #: public/views/modals/bind.html:22
 msgid "The peer receives this payment if:"
@@ -1250,7 +1250,7 @@ msgstr ""
 
 #: public/views/splash.html:26
 msgid "The wallet will contain the most current state of the entire Byteball database.  This option is better for privacy but will consume more resources and the initial sync will take several hours."
-msgstr ""
+msgstr "钱包将包含整个Byteball数据库的最新状态。 这个选项对于隐私更好，但会消耗更多的资源，初始同步将需要几个小时。"
 
 #: public/views/correspondentDevice.html:294
 msgid "Their recording preference"
