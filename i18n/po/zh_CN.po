@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-16 04:36-0400\n"
+"PO-Revision-Date: 2017-06-16 04:47-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -791,7 +791,7 @@ msgstr "一旦你写下你的钱包种子，建议从这个设备中删除它。
 
 #: public/views/recoveryFromSeed.html:60
 msgid "Only single-sig wallets can be recovered."
-msgstr ""
+msgstr "只有单签钱包能恢复。"
 
 #: public/views/modals/bind.html:42
 #: public/views/modals/offer-contract.html:87
@@ -853,7 +853,7 @@ msgstr "付款已发送"
 
 #: public/views/modals/offer-contract.html:50
 msgid "Peer pays to:"
-msgstr ""
+msgstr "对方支付到:"
 
 #: public/views/modals/offer-contract.html:36
 msgid "Peer pays:"
@@ -1229,7 +1229,7 @@ msgstr ""
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr ""
+msgstr "通过Hub从其他设备接收消息。"
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
