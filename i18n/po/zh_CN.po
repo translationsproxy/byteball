@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-15 23:51-0400\n"
+"PO-Revision-Date: 2017-06-16 02:01-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -300,7 +300,7 @@ msgstr "已复制到剪贴板"
 
 #: public/views/recoveryFromSeed.html:61
 msgid "Correspondents are not restored."
-msgstr ""
+msgstr "通讯没有恢复。"
 
 #: src/js/controllers/walletHome.js:597
 msgid "Could not create payment proposal"
@@ -359,7 +359,7 @@ msgstr "创建新的钱包"
 
 #: src/js/controllers/index.js:243
 msgid "Create new wallet  together with  ?"
-msgstr ""
+msgstr "一起创建新的钱包？"
 
 #: public/views/create.html:161
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
@@ -1287,7 +1287,7 @@ msgstr "这将永久删除您现有的所有钱包！"
 #: public/views/walletHome.html:322
 #: public/views/walletHome.html:548
 msgid "To"
-msgstr "至："
+msgstr "到"
 
 #: public/views/walletHome.html:350
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1364,7 +1364,7 @@ msgstr "注意：这个种子是由密码创建的。要恢复这个钱包，需
 
 #: public/views/import.html:54
 msgid "WARNING: This will permanently delete all your existing wallets!"
-msgstr "警告： 这将永久删除您现有的钱包 ！"
+msgstr "警告： 这个操作将永久删除您现有的钱包 ！"
 
 #: public/views/recoveryFromSeed.html:56
 msgid "WARNINGS:"
@@ -1409,7 +1409,7 @@ msgstr "钱包名称 (创建时)"
 
 #: src/js/services/profileService.js:378
 msgid "Wallet already in Byteball:"
-msgstr "钱包已经在Byteball："
+msgstr "钱包已存在Byteball中："
 
 #: public/views/create.html:48
 msgid "Wallet name"
@@ -1432,7 +1432,7 @@ msgstr "注意！"
 #: public/views/modals/offer-contract.html:144
 #: public/views/walletHome.html:411
 msgid "Who signs:"
-msgstr "谁签署："
+msgstr "签署者："
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
@@ -1463,7 +1463,7 @@ msgstr "您没有钱包"
 #: public/views/backup.html:49
 #: public/views/recoveryFromSeed.html:50
 msgid "Your Wallet Seed:"
-msgstr "你的钱包的种子："
+msgstr "你的钱包种子："
 
 #: public/views/export.html:33
 msgid "Your export password"
@@ -1483,7 +1483,7 @@ msgstr "您的钱包密码将被加密，密码无法被恢复，一定要记下
 
 #: public/views/modals/offer-contract.html:127
 msgid "after the contract expires in:"
-msgstr "合同到期后："
+msgstr "合同到期时间："
 
 #: public/views/editCorrespondentDevice.html:58
 msgid "clear chat history"
@@ -1508,7 +1508,7 @@ msgstr "小时"
 
 #: public/views/modals/offer-contract.html:79
 msgid "if an event is posted by an oracle:"
-msgstr "如果事件由oracle发布："
+msgstr ""
 
 #: public/views/modals/bind.html:77
 msgid "in merkle tree"
