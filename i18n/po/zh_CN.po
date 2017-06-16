@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-16 04:57-0400\n"
+"PO-Revision-Date: 2017-06-16 05:16-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -363,7 +363,7 @@ msgstr "一起创建新的钱包？"
 
 #: public/views/create.html:161
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr ""
+msgstr "创建共{{requiredCosigners}} 人签署, 其中{{totalCosigners}} 人签署即通过的钱包"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -568,7 +568,7 @@ msgstr "{{selectedWalletName}} 获取钱包地址中 ..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr "全局设置"
+msgstr "全局首选项"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
@@ -1036,7 +1036,7 @@ msgstr "保存"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
-msgstr "保存设置中……"
+msgstr "正在保存设置..."
 
 #: public/views/preferences.html:55
 msgid "Scan Fingerprint"
@@ -1225,7 +1225,7 @@ msgstr "使用条款"
 
 #: public/views/modals/bind.html:73
 msgid "The expected value will be posted:"
-msgstr ""
+msgstr "将公示预期值在："
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
