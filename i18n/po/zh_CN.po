@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-15 22:51-0400\n"
+"PO-Revision-Date: 2017-06-15 22:56-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1444,7 +1444,7 @@ msgstr "见证人"
 
 #: public/views/backup.html:50
 msgid "Write it down and keep it somewhere safe."
-msgstr ""
+msgstr "把它写下来，把它放在一个安全的地方。"
 
 #: src/js/services/profileService.js:606
 msgid "Wrong password"
@@ -1463,7 +1463,7 @@ msgstr "您没有钱包"
 #: public/views/backup.html:49
 #: public/views/recoveryFromSeed.html:50
 msgid "Your Wallet Seed:"
-msgstr ""
+msgstr "你的钱包的种子："
 
 #: public/views/export.html:33
 msgid "Your export password"
@@ -1475,7 +1475,7 @@ msgstr "您的密码"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr ""
+msgstr "你的钱包文件："
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
@@ -1483,19 +1483,19 @@ msgstr "您的钱包密码将被加密，密码无法被恢复，一定要记下
 
 #: public/views/modals/offer-contract.html:127
 msgid "after the contract expires in:"
-msgstr ""
+msgstr "合同到期后："
 
 #: public/views/editCorrespondentDevice.html:58
 msgid "clear chat history"
-msgstr ""
+msgstr "清除聊天记录"
 
 #: public/views/modals/offer-contract.html:137
 msgid "days"
-msgstr ""
+msgstr "天"
 
 #: public/views/modals/bind.html:78
 msgid "either way"
-msgstr ""
+msgstr "无论哪种方式"
 
 #: public/views/modals/bind.html:76
 msgid "explicitly"
