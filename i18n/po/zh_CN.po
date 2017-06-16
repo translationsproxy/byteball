@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-06-15 23:30-0400\n"
+"PO-Revision-Date: 2017-06-15 23:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1005,7 +1005,7 @@ msgstr "请求付款"
 
 #: public/views/create.html:64
 msgid "Required number of signatures"
-msgstr "选择必要的签名数"
+msgstr "所需签名数"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
@@ -1549,7 +1549,7 @@ msgstr ""
 
 #: public/views/modals/customized-amount.html:75
 msgid "{{buttonLabel}}"
-msgstr ""
+msgstr "{{buttonLabel}}"
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
@@ -1574,4 +1574,4 @@ msgstr ""
 
 #: public/views/backup.html:22
 msgid "{{wordsC.text}}"
-msgstr ""
+msgstr "{{wordsC.text}}"
