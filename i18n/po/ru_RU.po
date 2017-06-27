@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-06-27 03:10-0400\n"
+"PO-Revision-Date: 2017-06-27 03:28-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1154,7 +1154,7 @@ msgstr "Показать все"
 
 #: public/views/backup.html:38
 msgid "Show the Wallet Seed Anyway"
-msgstr "Всё равно показать мнемонику (seed) кошелька"
+msgstr "Все равно показать мнемонику (seed) кошелька"
 
 #: src/js/controllers/index.js:379
 msgid "Sign transaction spending  from wallet ?"
@@ -1236,7 +1236,7 @@ msgstr "Хаб предлагает заменить следующих свид
 
 #: public/views/modals/bind.html:22
 msgid "The peer receives this payment if:"
-msgstr "Контрагент получает этот платёж если:"
+msgstr "Контрагент получает этот платеж если:"
 
 #: src/js/controllers/copayers.js:75
 #: src/js/controllers/preferencesDelete.js:56
@@ -1257,11 +1257,11 @@ msgstr "Их выбор о сохранении чата"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
-msgstr "Нет кошельков, чтобы осуществить этот платёж"
+msgstr "Нет кошельков, чтобы осуществить этот платеж"
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
-msgstr "Выбор не может быть изменён позже"
+msgstr "Выбор не может быть изменен позже"
 
 #: public/views/walletHome.html:315
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
@@ -1290,7 +1290,7 @@ msgstr "Кому"
 
 #: public/views/walletHome.html:350
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr "Чтобы привязать платёж к условию, кликайте адрес контрагента в чате"
+msgstr "Чтобы привязать платеж к условию, кликайте адрес контрагента в чате"
 
 #: public/views/walletHome.html:258
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1548,7 +1548,7 @@ msgstr "{{address}} может быть потрачен, если:"
 
 #: public/views/modals/customized-amount.html:75
 msgid "{{buttonLabel}}"
-msgstr "{{buttonLabel}}"
+msgstr ""
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
