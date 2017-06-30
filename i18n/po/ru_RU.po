@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-06-29 23:31-0400\n"
+"PO-Revision-Date: 2017-06-29 23:41-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1370,7 +1370,7 @@ msgstr "Нет кошельков, чтобы осуществить этот п
 
 #: public/views/walletHome.html:257
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr ""
+msgstr "Этот адрес используется совместно с {{index.shared_address_cosigners}}."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
@@ -1657,11 +1657,11 @@ msgstr "необязательно"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
-msgstr ""
+msgstr "переотправить приватное содержание"
 
 #: public/views/modals/tx-details.html:118
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "переотправить приватное содержание совладельцам"
 
 #: src/js/controllers/walletHome.js:686
 #: src/js/controllers/walletHome.js:692
