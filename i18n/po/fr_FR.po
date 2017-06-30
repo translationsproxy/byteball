@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2017-06-29 21:00-0400\n"
+"PO-Revision-Date: 2017-06-30 06:02-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,7 +23,7 @@ msgstr "(double dépense éventuelle)"
 
 #: public/views/create.html:82
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- Sélectionnez cosignataire --"
 
 #: src/js/controllers/backup.js:18
 msgid ".  Better yet, use multisig wallets with redundancy, e.g. 1-of-2 wallet with one key on this device and another key on your smartphone.  Just the wallet seed is not enough."
@@ -748,7 +748,7 @@ msgstr "Japonais"
 
 #: public/views/translators.html:44
 msgid "Korean"
-msgstr ""
+msgstr "Coréen"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
@@ -816,7 +816,7 @@ msgstr "Mes préférences d’enregistrement"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "Nom du contact"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
@@ -841,7 +841,7 @@ msgstr "Non"
 
 #: src/js/controllers/password.js:15
 msgid "No password given"
-msgstr ""
+msgstr "Aucun mot de passe donné"
 
 #: public/views/walletHome.html:483
 msgid "No transactions yet"
@@ -1682,7 +1682,7 @@ msgstr "trop long !"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "avec"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
@@ -1715,7 +1715,7 @@ msgstr "{{item.m}}-sur-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'On':'Off'}}"
 
 #: public/views/backup.html:22
 msgid "{{wordsC.text}}"
