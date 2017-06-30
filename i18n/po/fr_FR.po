@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2017-06-30 06:02-0400\n"
+"PO-Revision-Date: 2017-06-30 06:10-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "-- Sélectionnez cosignataire --"
 
 #: src/js/controllers/backup.js:18
 msgid ".  Better yet, use multisig wallets with redundancy, e.g. 1-of-2 wallet with one key on this device and another key on your smartphone.  Just the wallet seed is not enough."
-msgstr ""
+msgstr ".  Mieux encore, utilisez un portefeuille multisig avec redondance, par exemple un portefeuille 1-de-2 avec une clé sur ce dispositif et une autre clé sur votre smartphone.  La graine de portefeuille ne suffit pas."
 
 #: public/views/modals/offer-contract.html:18
 msgid "1. Payment to the contract:"
@@ -62,7 +62,7 @@ msgstr "Compte"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Ajouter Bot"
 
 #: public/views/correspondentDevices.html:60
 msgid "Add a new device"
@@ -79,7 +79,7 @@ msgstr "Ajouter un portefeuille"
 
 #: public/views/correspondentDevices.html:80
 msgid "Added"
-msgstr ""
+msgstr "Ajouté"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
@@ -102,7 +102,7 @@ msgstr "Accepter"
 
 #: public/views/translators.html:34
 msgid "Albanian"
-msgstr ""
+msgstr "Albanais"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
@@ -219,7 +219,7 @@ msgstr "L'URI Bitcoin n'est pas valide !"
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:29
 msgid "Bot Store"
-msgstr ""
+msgstr "Bot Store"
 
 #: public/views/correspondentDevice.html:282
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -231,7 +231,7 @@ msgstr "Navigateur non supporté"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Adresse Byteball"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -266,11 +266,11 @@ msgstr "Discuter"
 #: public/views/translators.html:46
 #: public/views/translators.html:47
 msgid "Chinese"
-msgstr ""
+msgstr "Chinois"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "Choisir fichier"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -333,7 +333,7 @@ msgstr "Confirmé"
 
 #: public/views/correspondentDevices.html:26
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:387
@@ -502,7 +502,7 @@ msgstr "Télécharger le fichier CSV"
 #: public/views/translators.html:40
 #: public/views/translators.html:41
 msgid "Dutch"
-msgstr ""
+msgstr "Néerlandais"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -604,7 +604,7 @@ msgstr "COMMENCER"
 
 #: src/js/controllers/walletHome.js:415
 msgid "Generate QR Code"
-msgstr ""
+msgstr "Générer un Code QR"
 
 #: public/views/walletHome.html:266
 msgid "Generate new address"
@@ -670,7 +670,7 @@ msgstr "URL du Hub"
 
 #: public/views/translators.html:42
 msgid "Hungarian"
-msgstr ""
+msgstr "Hongrois"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
@@ -710,7 +710,7 @@ msgstr "Incluant les confirmations en attente"
 
 #: public/views/translators.html:36
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonésien"
 
 #: public/views/walletHome.html:499
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
@@ -879,7 +879,7 @@ msgstr "Seuls les portefeuilles mono-signature peuvent être récupérés"
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Tchat ouvert"
 
 #: public/views/modals/bind.html:42
 #: public/views/modals/offer-contract.html:87
@@ -896,7 +896,7 @@ msgstr "Appareils appairés"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Code d’appairage"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
@@ -925,7 +925,7 @@ msgstr "Rémunération et offre"
 
 #: src/js/services/correspondentListService.js:108
 msgid "Pay to this address"
-msgstr ""
+msgstr "Payer vers cette adresse"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
@@ -981,7 +981,7 @@ msgstr "Veuillez nommer cet appareil"
 
 #: public/views/translators.html:35
 msgid "Polish"
-msgstr ""
+msgstr "Polonais"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1295,7 +1295,7 @@ msgstr "Succès"
 
 #: public/views/translators.html:43
 msgid "Swedish"
-msgstr ""
+msgstr "Suédois"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
@@ -1330,7 +1330,7 @@ msgstr "Conditions d'utilisation"
 
 #: public/views/correspondentDevice.html:335
 msgid "Text message to"
-msgstr ""
+msgstr "Message texte à"
 
 #: public/views/modals/bind.html:73
 msgid "The expected value will be posted:"
@@ -1371,7 +1371,7 @@ msgstr "Il n'y a pas de portefeuilles pour faire ce paiement"
 
 #: public/views/walletHome.html:257
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr ""
+msgstr "Cette adresse est partagée avec {{index.shared_address_cosigners}}."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
@@ -1412,7 +1412,7 @@ msgstr "Pour protéger votre vie privée, les nouvelles adresses sont générés
 
 #: src/js/controllers/backup.js:17
 msgid "To restore your wallets, you will need a full backup of Byteball data at"
-msgstr ""
+msgstr "Pour restaurer votre porte-monnaie, vous aurez besoin d’une sauvegarde complète des données de Byteball à"
 
 #: public/views/walletHome.html:182
 msgid "Total Locked Balance"
@@ -1600,7 +1600,7 @@ msgstr "La clé de votre portefeuille sera chiffrée. Le mot de passe ne peut pa
 
 #: public/views/create.html:84
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[ Ajouter nouveau dispositif cosignataire ]"
 
 #: public/views/modals/offer-contract.html:127
 msgid "after the contract expires in:"
@@ -1608,7 +1608,7 @@ msgstr "après que le contrat expire dans :"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "annuler la création du portefeuille"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1616,7 +1616,7 @@ msgstr "effacer l’historique du chat"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "créé"
 
 #: public/views/modals/offer-contract.html:137
 msgid "days"
@@ -1658,11 +1658,11 @@ msgstr "optionnelle"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
-msgstr ""
+msgstr "ré-envoyer les charges privées"
 
 #: public/views/modals/tx-details.html:118
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "ré-envoyer les charges privées aux cosignataires"
 
 #: src/js/controllers/walletHome.js:686
 #: src/js/controllers/walletHome.js:692
