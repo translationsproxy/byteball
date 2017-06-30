@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-06-29 21:00-0400\n"
+"PO-Revision-Date: 2017-06-29 23:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -231,7 +231,7 @@ msgstr "Браузер не поддерживается"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Byteball адрес"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -270,7 +270,7 @@ msgstr ""
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "Выберите файл"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -333,7 +333,7 @@ msgstr "Подтверждено"
 
 #: public/views/correspondentDevices.html:26
 msgid "Contacts"
-msgstr ""
+msgstr "Контакты"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:387
@@ -604,7 +604,7 @@ msgstr "НАЧАТЬ"
 
 #: src/js/controllers/walletHome.js:415
 msgid "Generate QR Code"
-msgstr ""
+msgstr "Сгенерировать QR-код"
 
 #: public/views/walletHome.html:266
 msgid "Generate new address"
@@ -1681,7 +1681,7 @@ msgstr "слишком много!"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "с"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
