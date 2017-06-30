@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-06-29 21:21-0400\n"
+"PO-Revision-Date: 2017-06-29 21:31-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "-- Pilih co-signer --"
 
 #: src/js/controllers/backup.js:18
 msgid ".  Better yet, use multisig wallets with redundancy, e.g. 1-of-2 wallet with one key on this device and another key on your smartphone.  Just the wallet seed is not enough."
-msgstr ".  Lebih baik lagi, gunakan dompet multisig dengan redundansi, misalnya 1-dari-2 dompet dengan satu kunci pada perangkat ini dan kunci yang lain pada ponsel pintar Anda.  Hanya benih dompet saja tidaklah cukup."
+msgstr ".  Lebih baik lagi, gunakan dompet multisig dengan redundansi, misalnya 1-dari-2 dompet dengan satu kunci pada perangkat ini dan kunci yang lain pada ponsel pintar anda.  Hanya benih dompet saja tidaklah cukup."
 
 #: public/views/modals/offer-contract.html:18
 msgid "1. Payment to the contract:"
