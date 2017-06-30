@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-06-29 07:22-0400\n"
+"PO-Revision-Date: 2017-06-29 21:01-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,7 +23,7 @@ msgstr "(kemungkinan pembayaran ganda)"
 
 #: public/views/create.html:82
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- Pilih co-signer --"
 
 #: src/js/controllers/backup.js:18
 msgid ".  Better yet, use multisig wallets with redundancy, e.g. 1-of-2 wallet with one key on this device and another key on your smartphone.  Just the wallet seed is not enough."
@@ -62,7 +62,7 @@ msgstr "Akun"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Tambahkan Bot"
 
 #: public/views/correspondentDevices.html:60
 msgid "Add a new device"
@@ -102,7 +102,7 @@ msgstr "Setuju"
 
 #: public/views/translators.html:34
 msgid "Albanian"
-msgstr ""
+msgstr "Albania"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
@@ -333,7 +333,7 @@ msgstr "Telah disetujui"
 
 #: public/views/correspondentDevices.html:26
 msgid "Contacts"
-msgstr ""
+msgstr "Kontak"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:387
@@ -604,7 +604,7 @@ msgstr "MEMULAI"
 
 #: src/js/controllers/walletHome.js:415
 msgid "Generate QR Code"
-msgstr ""
+msgstr "Menghasilkan kode QR"
 
 #: public/views/walletHome.html:266
 msgid "Generate new address"
@@ -710,7 +710,7 @@ msgstr "Termasuk konfirmasi yang tertunda"
 
 #: public/views/translators.html:36
 msgid "Indonesian"
-msgstr ""
+msgstr "Bahasa Indonesia"
 
 #: public/views/walletHome.html:499
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
@@ -816,7 +816,7 @@ msgstr "Preferensi rekaman saya"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "Nama kontak"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
@@ -841,7 +841,7 @@ msgstr "Tidak"
 
 #: src/js/controllers/password.js:15
 msgid "No password given"
-msgstr ""
+msgstr "Tidak ada kata sandi yang diberikan"
 
 #: public/views/walletHome.html:483
 msgid "No transactions yet"
@@ -879,7 +879,7 @@ msgstr "Hanya satu-sig dompet dapat dipulihkan."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Buka obrolan"
 
 #: public/views/modals/bind.html:42
 #: public/views/modals/offer-contract.html:87
@@ -896,7 +896,7 @@ msgstr "Perangkat berpasangan"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Menyandingkan kode"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
@@ -925,7 +925,7 @@ msgstr "Membayar dan menawarkan"
 
 #: src/js/services/correspondentListService.js:108
 msgid "Pay to this address"
-msgstr ""
+msgstr "Bayar ke alamat ini"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
@@ -1330,7 +1330,7 @@ msgstr "Syarat Penggunaan"
 
 #: public/views/correspondentDevice.html:335
 msgid "Text message to"
-msgstr ""
+msgstr "Kirim pesan ke"
 
 #: public/views/modals/bind.html:73
 msgid "The expected value will be posted:"
@@ -1608,7 +1608,7 @@ msgstr "setelah kontrak berakhir pada:"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "batalkan pembuatan dompet"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1616,7 +1616,7 @@ msgstr "hapus riwayat obrolan"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "dibuat"
 
 #: public/views/modals/offer-contract.html:137
 msgid "days"
@@ -1682,7 +1682,7 @@ msgstr "terlalu panjang!"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "dengan"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
@@ -1715,7 +1715,7 @@ msgstr "{{item.m}}-of-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'On':'Off'}}"
 
 #: public/views/backup.html:22
 msgid "{{wordsC.text}}"
