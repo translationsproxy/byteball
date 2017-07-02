@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-07-02 15:20-0400\n"
+"PO-Revision-Date: 2017-07-02 15:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -142,7 +142,7 @@ msgstr "Wydarzenie jest ogłaszane przez wyrocznię:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr "Zaakceptuj utworzenie portfela na innych urządzeniach"
+msgstr "Akceptuj utworzenie portfela na innych urządzeniach"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
