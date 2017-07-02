@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-07-02 15:00-0400\n"
+"PO-Revision-Date: 2017-07-02 15:10-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -925,7 +925,7 @@ msgstr "Zapłać i uruchom kontrakt"
 
 #: src/js/services/correspondentListService.js:108
 msgid "Pay to this address"
-msgstr ""
+msgstr "Zapłać na ten adres"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
@@ -981,7 +981,7 @@ msgstr "Proszę nazwij to urządzenie"
 
 #: public/views/translators.html:35
 msgid "Polish"
-msgstr ""
+msgstr "Polski"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1295,7 +1295,7 @@ msgstr "Gotowe"
 
 #: public/views/translators.html:43
 msgid "Swedish"
-msgstr ""
+msgstr "Szwedzki"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
@@ -1330,7 +1330,7 @@ msgstr "Warunki korzystania"
 
 #: public/views/correspondentDevice.html:335
 msgid "Text message to"
-msgstr ""
+msgstr "Wiadomość tekstowa do"
 
 #: public/views/modals/bind.html:73
 msgid "The expected value will be posted:"
@@ -1371,7 +1371,7 @@ msgstr "Nie istnieją portfele, by dokonać tej płatności"
 
 #: public/views/walletHome.html:257
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr ""
+msgstr "Ten adres jest współdzielony z {{index.shared_address_cosigners}}."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
@@ -1412,7 +1412,7 @@ msgstr "W celu ochrony Twojej prywatności, nowe adresy są generowane automatyc
 
 #: src/js/controllers/backup.js:17
 msgid "To restore your wallets, you will need a full backup of Byteball data at"
-msgstr ""
+msgstr "Aby przywrócić portfele, będziesz potrzebować pełną kopię zapasową danych Byteball"
 
 #: public/views/walletHome.html:182
 msgid "Total Locked Balance"
@@ -1600,7 +1600,7 @@ msgstr "Klucz Twojego portfela zostanie zaszyfrowany. Hasła nie da się odzyska
 
 #: public/views/create.html:84
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[ Dodaj nowe urządzenie współsygnatariusza ]"
 
 #: public/views/modals/offer-contract.html:127
 msgid "after the contract expires in:"
@@ -1608,7 +1608,7 @@ msgstr "po wygaśnięciu kontraktu po:"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "anuluj tworzenie portfela"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1616,7 +1616,7 @@ msgstr "wyczyść historię czatu"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "utworzono"
 
 #: public/views/modals/offer-contract.html:137
 msgid "days"
@@ -1658,11 +1658,11 @@ msgstr "opcjonalnie"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
-msgstr ""
+msgstr "ponownie wyślij prywatne płatności"
 
 #: public/views/modals/tx-details.html:118
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "ponownie wyślij prywatne płatności do współsygnatariuszy"
 
 #: src/js/controllers/walletHome.js:686
 #: src/js/controllers/walletHome.js:692
@@ -1682,7 +1682,7 @@ msgstr "za długie!"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "z"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
@@ -1715,7 +1715,7 @@ msgstr "{{item.m}}-z-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'On':'Off'}}"
 
 #: public/views/backup.html:22
 msgid "{{wordsC.text}}"
