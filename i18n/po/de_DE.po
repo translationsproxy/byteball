@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-07-06 05:11-0400\n"
+"PO-Revision-Date: 2017-07-06 05:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -188,7 +188,7 @@ msgstr "Jetzt sichern"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "Backup des Wallet Seeds"
+msgstr "Wallet Seed Backup erstellen"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -256,7 +256,7 @@ msgstr "Hub ändern:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr "Änderung am Alias hat nur Auswirkungen auf den lokalen Namen des Wallets."
+msgstr "Eine Änderung des Wallet Alias wirkt sich nur auf den lokalen Wallet Name aus."
 
 #: src/js/controllers/index.js:602
 msgid "Chat"
