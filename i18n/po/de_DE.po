@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-06-29 21:00-0400\n"
+"PO-Revision-Date: 2017-07-06 05:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -62,7 +62,7 @@ msgstr "Konto"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Bot hinzufügen"
 
 #: public/views/correspondentDevices.html:60
 msgid "Add a new device"
@@ -79,7 +79,7 @@ msgstr "Wallet hinzufügen"
 
 #: public/views/correspondentDevices.html:80
 msgid "Added"
-msgstr ""
+msgstr "Hinzugefügt"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
@@ -102,7 +102,7 @@ msgstr "Zustimmen"
 
 #: public/views/translators.html:34
 msgid "Albanian"
-msgstr ""
+msgstr "Albanisch"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
@@ -231,7 +231,7 @@ msgstr "Der eingesetzte Browser wird nicht unterstützt"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Byteball Adresse"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -266,11 +266,11 @@ msgstr "Chat"
 #: public/views/translators.html:46
 #: public/views/translators.html:47
 msgid "Chinese"
-msgstr ""
+msgstr "Chinesisch"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "Datei auswählen"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -333,7 +333,7 @@ msgstr "Bestätigt"
 
 #: public/views/correspondentDevices.html:26
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakte"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:387
@@ -502,7 +502,7 @@ msgstr ".csv-Datei herunterladen"
 #: public/views/translators.html:40
 #: public/views/translators.html:41
 msgid "Dutch"
-msgstr ""
+msgstr "Niederländisch"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -604,7 +604,7 @@ msgstr "ERSTE SCHRITTE"
 
 #: src/js/controllers/walletHome.js:415
 msgid "Generate QR Code"
-msgstr ""
+msgstr "QR Code erzeugen"
 
 #: public/views/walletHome.html:266
 msgid "Generate new address"
@@ -670,7 +670,7 @@ msgstr "Hub Url"
 
 #: public/views/translators.html:42
 msgid "Hungarian"
-msgstr ""
+msgstr "Ungarisch"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
@@ -710,7 +710,7 @@ msgstr "Einschließlich laufender Bestätigungen"
 
 #: public/views/translators.html:36
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonesisch"
 
 #: public/views/walletHome.html:499
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
@@ -748,7 +748,7 @@ msgstr "日本語"
 
 #: public/views/translators.html:44
 msgid "Korean"
-msgstr ""
+msgstr "Koreanisch"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
@@ -816,7 +816,7 @@ msgstr "Meine Voreinstellung für Aufnahmen"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "Name des Kontakts"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
