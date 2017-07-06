@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-07-06 05:00-0400\n"
+"PO-Revision-Date: 2017-07-06 05:11-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -219,7 +219,7 @@ msgstr "Bitcoin URI ist NICHT gültig!"
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:29
 msgid "Bot Store"
-msgstr ""
+msgstr "Bot Marktplatz"
 
 #: public/views/correspondentDevice.html:282
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -841,7 +841,7 @@ msgstr "Nein"
 
 #: src/js/controllers/password.js:15
 msgid "No password given"
-msgstr ""
+msgstr "Kein Passwort vergeben"
 
 #: public/views/walletHome.html:483
 msgid "No transactions yet"
@@ -879,7 +879,7 @@ msgstr "Nur einfach signierte Wallets können wiederhergestellt werden."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Öffne Chat"
 
 #: public/views/modals/bind.html:42
 #: public/views/modals/offer-contract.html:87
@@ -981,7 +981,7 @@ msgstr "Vergeben Sie einen Name für das Gerät"
 
 #: public/views/translators.html:35
 msgid "Polish"
-msgstr ""
+msgstr "Polnisch"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1295,7 +1295,7 @@ msgstr "Erfolgreich"
 
 #: public/views/translators.html:43
 msgid "Swedish"
-msgstr ""
+msgstr "Schwedisch"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
@@ -1330,7 +1330,7 @@ msgstr "Nutzungsbedingungen"
 
 #: public/views/correspondentDevice.html:335
 msgid "Text message to"
-msgstr ""
+msgstr "Textnachricht an"
 
 #: public/views/modals/bind.html:73
 msgid "The expected value will be posted:"
@@ -1608,7 +1608,7 @@ msgstr "nach Ablauf des Vertrags in:"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "breche Wallet Erstellung ab"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1616,7 +1616,7 @@ msgstr "Chatverlauf löschen"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "erstellt"
 
 #: public/views/modals/offer-contract.html:137
 msgid "days"
