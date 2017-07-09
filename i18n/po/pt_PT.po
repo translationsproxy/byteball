@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2017-06-29 21:00-0400\n"
+"PO-Revision-Date: 2017-07-09 15:21-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -329,7 +329,7 @@ msgstr "Confirmar pagamento"
 
 #: public/views/modals/tx-details.html:108
 msgid "Confirmed"
-msgstr "Confrimado"
+msgstr "Confirmado"
 
 #: public/views/correspondentDevices.html:26
 msgid "Contacts"
