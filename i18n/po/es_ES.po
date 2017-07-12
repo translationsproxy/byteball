@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2017-07-12 10:44-0400\n"
+"PO-Revision-Date: 2017-07-12 10:53-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr "(El sitio no verá su balance y no se gastará ningún dinero)"
+msgstr "(El sitio no verá su balance, no se gastará ningún dinero)"
 
 #: public/views/walletHome.html:525
 msgid "(possible double spend)"
@@ -965,7 +965,7 @@ msgstr "Borrar permanentemente este monedero. ESTA ACCIÓN NO PUEDE SER REVERTID
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
-msgstr "Monedero plano"
+msgstr "Cartera simple"
 
 #: public/views/splash.html:20
 msgid "Please choose the type of this wallet"
@@ -973,7 +973,7 @@ msgstr "Por favor, elija tipo de monedero"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
-msgstr "Por favor ingrese los campos requeridos"
+msgstr "Por favor, introduzca campos requeridos"
 
 #: public/views/splash.html:77
 msgid "Please name this device"
@@ -1543,7 +1543,7 @@ msgstr "Monederos"
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
-msgstr "¡Advertencia!"
+msgstr "¡Aviso!"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:144
@@ -1553,7 +1553,7 @@ msgstr "Firmante:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
-msgstr "Dirección de testigo"
+msgstr "Dirección del testigo"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Witnesses"
@@ -1561,17 +1561,17 @@ msgstr "Testigos"
 
 #: public/views/backup.html:50
 msgid "Write it down and keep it somewhere safe."
-msgstr "Apuntar y guardar en lugar seguro."
+msgstr "Anotar y guardar en lugar seguro."
 
 #: src/js/services/profileService.js:617
 msgid "Wrong password"
-msgstr "Contraseña incorrecta"
+msgstr "Contraseña errónea"
 
 #: public/views/authConfirmation.html:17
 #: public/views/modals/confirmation.html:6
 #: src/js/controllers/index.js:437
 msgid "Yes"
-msgstr "Si"
+msgstr "Sí"
 
 #: public/views/walletHome.html:20
 msgid "You do not have a wallet"
@@ -1580,23 +1580,23 @@ msgstr "No tiene ningún monedero"
 #: public/views/backup.html:49
 #: public/views/recoveryFromSeed.html:50
 msgid "Your Wallet Seed:"
-msgstr "Tu Semilla del Monedero:"
+msgstr "Su Semilla:"
 
 #: public/views/export.html:33
 msgid "Your export password"
-msgstr "Contraseña al exportar"
+msgstr "Su contraseña al exportar"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
-msgstr "Contraseña"
+msgstr "Su contraseña"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr "Fichero de tu monedero:"
+msgstr "Su fichero de monedero:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr "La clave del monedero se cifrará. La contraseña no puede ser recuperada. Asegúrese de escribirla"
+msgstr "La clave del monedero se cifrará. La contraseña no puede ser recuperada. Asegúrese de anotarla"
 
 #: public/views/create.html:84
 msgid "[ Add new co-signer device ]"
@@ -1715,7 +1715,7 @@ msgstr "{{item.m}}-de-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'On':'Off'}}"
 
 #: public/views/backup.html:22
 msgid "{{wordsC.text}}"
