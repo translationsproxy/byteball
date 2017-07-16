@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-07-16 01:51-0400\n"
+"PO-Revision-Date: 2017-07-16 02:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -126,7 +126,7 @@ msgstr "Juga"
 
 #: public/views/splash.html:87
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "Juga di menu Pengaturan, anda akan menemukan opsi keamanan seperti pengaturan sandi."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
