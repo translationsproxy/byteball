@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-07-16 08:30-0400\n"
+"PO-Revision-Date: 2017-07-16 08:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -130,7 +130,7 @@ msgstr "W menu Ustawienia znajdziesz także opcje dotyczące bezpieczeństwa, ta
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Nie zapomnij także o usunięciu słów źródłowych"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/bind.html:32
@@ -494,7 +494,7 @@ msgstr "Nazwa urządzenia jest widoczna dla innych urządzeń, z którymi się �
 
 #: public/views/recoveryFromSeed.html:50
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Nie klonuj portfeli, zaprzestań używania pierwotnego portfela z tymi słowami źródłowymi."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -707,7 +707,7 @@ msgstr "Jeśli partner nie zapłaci, mogę odzyskać pieniądze po:"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Jeśli przeniosłeś tę kopię zapasową portfela z innego urządzenia, zaprzestań używania portfela na pierwotnym urządzeniu natychmiast po utworzeniu tej kopii zapasowej. Nigdy nie klonuj portfeli. Jeśli potrzebujesz dostępu do portfela z różnych urządzeń, używaj multipodpisu."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
