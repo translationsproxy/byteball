@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-07-16 02:40-0400\n"
+"PO-Revision-Date: 2017-07-16 02:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -130,7 +130,7 @@ msgstr "Juga di menu Pengaturan, anda akan menemukan opsi keamanan seperti penga
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Juga, jangan lupa untuk menghapus benih anda"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/bind.html:32
@@ -494,7 +494,7 @@ msgstr "Nama perangkat dapat dilihat oleh perangkat lain yang berkomunikasi."
 
 #: public/views/recoveryFromSeed.html:50
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Jangan menggandakan dompet, hentikan penggunakan dompet asli dengan benih ini."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
