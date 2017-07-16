@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-07-16 01:51-0400\n"
+"PO-Revision-Date: 2017-07-16 08:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -126,7 +126,7 @@ msgstr "Oraz"
 
 #: public/views/splash.html:87
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "W menu Ustawienia znajdziesz także opcje dotyczące bezpieczeństwa, takie jak ustawianie hasła."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -1623,7 +1623,7 @@ msgstr "Klucz Twojego portfela zostanie zaszyfrowany. Hasła nie da się odzyska
 
 #: public/views/splash.html:86
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "Twój portfel zostanie utworzony na tym urządzeniu. Nie utrać go. Zobacz opcje tworzenia kopii zapasowej w menu Ustawienia."
 
 #: public/views/create.html:84
 msgid "[ Add new co-signer device ]"
