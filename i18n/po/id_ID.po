@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-07-16 03:10-0400\n"
+"PO-Revision-Date: 2017-07-16 03:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -711,7 +711,7 @@ msgstr "Jika anda telah memindahkan cadangan ini dari perangkat lain, hentikan p
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Jika anda berencana untuk mengembalikan dompet pada perangkat lain, hentikan penggunaan pada perangkat saat ini segera setelah membuat cadangan.  Jangan pernah menggandakan dompet.  Jika anda membutuhkan akses dari beberapa perangkat, gunakan multisig."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -1376,11 +1376,11 @@ msgstr "Dompet \"{{walletName}}\" telah dihapus"
 
 #: public/views/splash.html:34
 msgid "The wallet will contain minimum information relevant to you.  The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr "Dompet akan berisi informasi minimal yang relevan bagi anda. Vendor dompet akan dapat mengetahui beberapa saldo anda dan akan dapat melihat transaksi mana yang menjadi milik anda, namun anda dapat segera mulai menggunakan dompet dan dompet berfungsi sepenuhnya."
+msgstr "Dompet akan berisi informasi minimal yang relevan bagi anda. Vendor dompet akan dapat mengetahui beberapa saldo anda dan dapat melihat transaksi mana yang menjadi milik anda, namun anda dapat segera mulai menggunakan dompet dan dompet berfungsi sepenuhnya."
 
 #: public/views/splash.html:26
 msgid "The wallet will contain the most current state of the entire Byteball database.  This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "Dompet akan berisi keadaan terkini dari keseluruhan basis data Byteball.  Pilihan ini lebih baik bagi privasi tetapi akan menggunakan beberapa gigabyte penyimpanan dan sinkronisasi awal akan memakan waktu beberapa hari.  Beban CPU akan tinggi selama sinkronisasi."
 
 #: public/views/correspondentDevice.html:297
 msgid "Their recording preference"
