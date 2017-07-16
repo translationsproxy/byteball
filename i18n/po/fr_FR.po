@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2017-07-16 01:51-0400\n"
+"PO-Revision-Date: 2017-07-16 02:01-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -707,11 +707,11 @@ msgstr "Si le pair ne paie pas, je peux récupérer mon argent après :"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Si vous avez déplacé cette sauvegarde à partir d'un autre appareil, cessez de l’utiliser sur celui d’origine immédiatement après avoir créé la sauvegarde.  Ne Jamais cloner de portefeuille. Si vous devez accéder à partir de plusieurs périphériques, utilisez la multisignature."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Si vous prévoyez de restaurer le portefeuille sur un autre appareil, cessez de l’utiliser sur l’actuel immédiatement après avoir créé la sauvegarde.  Ne Jamais cloner de portefeuille.  Si vous devez accéder à partir de plusieurs périphériques, utilisez la multisignature."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -1376,11 +1376,11 @@ msgstr "Le portefeuille \"{{walletName}}\" a été supprimé"
 
 #: public/views/splash.html:34
 msgid "The wallet will contain minimum information relevant to you.  The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "Le portefeuille contient un minimum d'informations vous concernent. Le vendeur de portefeuille sera en mesure de connaître certains de vos soldes et sera en mesure de voir vos transactions, mais vous pouvez commencer d’utiliser le portefeuille immédiatement et celui-ci est entièrement fonctionnel."
 
 #: public/views/splash.html:26
 msgid "The wallet will contain the most current state of the entire Byteball database.  This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "Le portefeuille contient l’état le plus récent de la base de données Byteball.  Cette option est préférable concernant la vie privée mais prendra plusieurs gigaoctets de stockage et la synchronisation initiale prendra plusieurs jours.  La charge CPU sera élevée au cours de la synchronisation."
 
 #: public/views/correspondentDevice.html:297
 msgid "Their recording preference"
@@ -1623,7 +1623,7 @@ msgstr "La clé de votre portefeuille sera chiffrée. Le mot de passe ne peut pa
 
 #: public/views/splash.html:86
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "Votre portefeuille sera créé sur cet appareil, garder le en sécurité.  Voir vos options de sauvegarde dans le menu paramètres."
 
 #: public/views/create.html:84
 msgid "[ Add new co-signer device ]"
