@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-07-16 08:40-0400\n"
+"PO-Revision-Date: 2017-07-16 08:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -711,7 +711,7 @@ msgstr "Jeśli przeniosłeś tę kopię zapasową portfela z innego urządzenia,
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Jeśli planujesz przywrócenie tego portfela na innym urządzeniu, zaprzestań używania tego portfela na tym urządzeniu natychmiast po utworzeniu kopii zapasowej na innym urządzeniu. Nigdy nie klonuj portfeli. Jeśli potrzebujesz dostępu do portfela z różnych urządzeń, używaj multipodpisu."
 
 #: public/views/import.html:40
 msgid "Import"
