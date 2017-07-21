@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-21 01:50-0400\n"
+"PO-Revision-Date: 2017-07-21 02:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -79,7 +79,7 @@ msgstr "添加钱包"
 
 #: public/views/correspondentDevices.html:80
 msgid "Added"
-msgstr ""
+msgstr "添加"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
@@ -239,7 +239,7 @@ msgstr "浏览器不支持"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Byteball 地址"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -494,7 +494,7 @@ msgstr "与您通信的其他设备可以看到设备名称。"
 
 #: public/views/recoveryFromSeed.html:50
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "不要复制钱包，不要在原始钱包上使用这个口令"
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -578,7 +578,7 @@ msgstr "费用"
 
 #: public/views/modals/tx-details.html:103
 msgid "Finality"
-msgstr ""
+msgstr "最终"
 
 #: public/views/translators.html:11
 #: public/views/translators.html:12
@@ -617,7 +617,7 @@ msgstr "开始"
 
 #: src/js/controllers/walletHome.js:416
 msgid "Generate QR Code"
-msgstr ""
+msgstr "生成二维码"
 
 #: public/views/walletHome.html:266
 msgid "Generate new address"
@@ -769,7 +769,7 @@ msgstr "日语"
 
 #: public/views/translators.html:44
 msgid "Korean"
-msgstr ""
+msgstr "韩文"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
