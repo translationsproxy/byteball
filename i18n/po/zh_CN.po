@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-21 03:11-0400\n"
+"PO-Revision-Date: 2017-07-21 04:33-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -862,7 +862,7 @@ msgstr "否"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "没有设置密码"
 
 #: public/views/walletHome.html:483
 msgid "No transactions yet"
@@ -917,7 +917,7 @@ msgstr "已配对设备"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "配对的代码"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
@@ -946,7 +946,7 @@ msgstr ""
 
 #: src/js/services/correspondentListService.js:108
 msgid "Pay to this address"
-msgstr ""
+msgstr "付款到这个地址"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
@@ -978,7 +978,7 @@ msgstr ""
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "节点"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -1709,7 +1709,7 @@ msgstr "太长！"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "与、和"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
