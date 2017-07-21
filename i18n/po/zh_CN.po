@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-21 03:00-0400\n"
+"PO-Revision-Date: 2017-07-21 03:11-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -699,11 +699,11 @@ msgstr "我收到另一笔款项："
 
 #: public/views/modals/bind.html:83
 msgid "If the condition is not met, I can take this money back after:"
-msgstr ""
+msgstr "如果条件不满足，我可以之后收回这笔钱"
 
 #: public/views/modals/offer-contract.html:59
 msgid "If the peer doesn't pay, I can take my money back after:"
-msgstr ""
+msgstr "如果对方不付款，我可以在之后收回我的钱"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -731,7 +731,7 @@ msgstr ""
 
 #: public/views/translators.html:36
 msgid "Indonesian"
-msgstr ""
+msgstr "印度尼西亚语"
 
 #: public/views/walletHome.html:499
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
@@ -813,7 +813,7 @@ msgstr "商家信息："
 
 #: public/views/walletHome.html:385
 msgid "Merkle proof"
-msgstr ""
+msgstr "默克尔证明"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
@@ -833,7 +833,7 @@ msgstr "我的Byteball地址"
 
 #: public/views/correspondentDevice.html:292
 msgid "My recording preference"
-msgstr ""
+msgstr "我的录制偏好"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
@@ -900,7 +900,7 @@ msgstr "只有单签钱包能恢复。"
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "打开聊天"
 
 #: public/views/modals/bind.html:42
 #: public/views/modals/offer-contract.html:87
