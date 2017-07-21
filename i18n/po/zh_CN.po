@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-21 02:00-0400\n"
+"PO-Revision-Date: 2017-07-21 03:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -62,7 +62,7 @@ msgstr "账户"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "添加机器人"
 
 #: public/views/correspondentDevices.html:60
 msgid "Add a new device"
@@ -102,7 +102,7 @@ msgstr "同意"
 
 #: public/views/translators.html:34
 msgid "Albanian"
-msgstr ""
+msgstr "阿尔巴尼亚语"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
@@ -126,11 +126,11 @@ msgstr "还有"
 
 #: public/views/splash.html:87
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "此外在设置菜单中，你可以找到安全选项例如设置密码"
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "此外，不要忘记删除你的口令私钥"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/bind.html:32
@@ -227,7 +227,7 @@ msgstr "比特币URI无效！"
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:29
 msgid "Bot Store"
-msgstr ""
+msgstr "机器人商店"
 
 #: public/views/correspondentDevice.html:283
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -515,7 +515,7 @@ msgstr "下载CSV的文件"
 #: public/views/translators.html:40
 #: public/views/translators.html:41
 msgid "Dutch"
-msgstr ""
+msgstr "荷兰语"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -683,7 +683,7 @@ msgstr "Hub URL"
 
 #: public/views/translators.html:42
 msgid "Hungarian"
-msgstr ""
+msgstr "匈牙利语"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
