@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-21 04:33-0400\n"
+"PO-Revision-Date: 2017-07-21 06:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -837,7 +837,7 @@ msgstr "我的录制偏好"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "联系人姓名"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
@@ -1002,7 +1002,7 @@ msgstr "请为此设备命名"
 
 #: public/views/translators.html:35
 msgid "Polish"
-msgstr ""
+msgstr "波兰语"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1196,7 +1196,7 @@ msgstr "选择一个钱包"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr ""
+msgstr "选择一个钱包"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1316,7 +1316,7 @@ msgstr "成功"
 
 #: public/views/translators.html:43
 msgid "Swedish"
-msgstr ""
+msgstr "瑞典语"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
@@ -1351,7 +1351,7 @@ msgstr "使用条款"
 
 #: public/views/correspondentDevice.html:336
 msgid "Text message to"
-msgstr ""
+msgstr "发送短信"
 
 #: public/views/modals/bind.html:73
 msgid "The expected value will be posted:"
