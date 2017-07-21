@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-16 01:51-0400\n"
+"PO-Revision-Date: 2017-07-21 01:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,7 +23,7 @@ msgstr "（可能双重支付）"
 
 #: public/views/create.html:82
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- 选择多签名账户 --"
 
 #: src/js/controllers/backup.js:18
 msgid ".  Better yet, use multisig wallets with redundancy, e.g. 1-of-2 wallet with one key on this device and another key on your smartphone.  Just the wallet seed is not enough."
@@ -275,11 +275,11 @@ msgstr "对话"
 #: public/views/translators.html:46
 #: public/views/translators.html:47
 msgid "Chinese"
-msgstr ""
+msgstr "中文"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "选择文件"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -342,7 +342,7 @@ msgstr "已确认"
 
 #: public/views/correspondentDevices.html:26
 msgid "Contacts"
-msgstr ""
+msgstr "联系人"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:388
@@ -1495,7 +1495,7 @@ msgstr "版本"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "警告:"
 
 #: public/views/walletHome.html:200
 msgid "WARNING: Backup needed"
@@ -1623,11 +1623,11 @@ msgstr "您的钱包密码将被加密，密码无法被恢复，一定要记下
 
 #: public/views/splash.html:86
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "你的钱包将被创建在此设备上，请确保其是安全的。请在设备菜单中查看备份选项。"
 
 #: public/views/create.html:84
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[添加新的多钱包设备]"
 
 #: public/views/modals/offer-contract.html:127
 msgid "after the contract expires in:"
@@ -1635,7 +1635,7 @@ msgstr "合同到期时间："
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "取消创建钱包"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1643,7 +1643,7 @@ msgstr "清除聊天记录"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "已创建"
 
 #: public/views/modals/offer-contract.html:137
 msgid "days"
@@ -1655,7 +1655,7 @@ msgstr "无论哪种方式"
 
 #: public/views/modals/bind.html:76
 msgid "explicitly"
-msgstr ""
+msgstr "明确的"
 
 #: public/views/modals/bind.html:90
 #: public/views/modals/offer-contract.html:66
