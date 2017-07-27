@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-27 02:32-0400\n"
+"PO-Revision-Date: 2017-07-27 02:42-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -106,7 +106,7 @@ msgstr "阿尔巴尼亚语"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
-msgstr "<i>{{index.walletName}}</i>别名"
+msgstr "<i>{{index.walletName}}</i>的别名"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
