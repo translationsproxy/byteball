@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-27 00:50-0400\n"
+"PO-Revision-Date: 2017-07-27 01:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -275,7 +275,7 @@ msgstr "对话"
 #: public/views/translators.html:46
 #: public/views/translators.html:47
 msgid "Chinese"
-msgstr "简体中文"
+msgstr "中文（简体）"
 
 #: public/views/import.html:33
 msgid "Choose File"
@@ -1066,7 +1066,7 @@ msgstr "恢复"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr "从备份的seed中恢复"
+msgstr "使用seed恢复钱包"
 
 #: public/views/recoveryFromSeed.html:31
 msgid "Recovery is only available in full wallets."
@@ -1404,7 +1404,7 @@ msgstr "这是一个私人资产，只能通过点击聊天中的链接发送或
 
 #: public/views/walletHome.html:347
 msgid "This payment is bound to a condition"
-msgstr "此款项被绑定到一个条件"
+msgstr "此款项被绑定支付条件"
 
 #: public/views/modals/tx-details.html:73
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
@@ -1603,7 +1603,7 @@ msgstr "您没有钱包"
 #: public/views/backup.html:49
 #: public/views/recoveryFromSeed.html:38
 msgid "Your Wallet Seed:"
-msgstr "你的钱包种子："
+msgstr "你的钱包seed："
 
 #: public/views/export.html:33
 msgid "Your export password"
@@ -1631,7 +1631,7 @@ msgstr "[添加新的多钱包设备]"
 
 #: public/views/modals/offer-contract.html:127
 msgid "after the contract expires in:"
-msgstr "合同到期时间："
+msgstr "合约到期时间:"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
