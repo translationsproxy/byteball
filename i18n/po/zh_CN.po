@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-27 00:10-0400\n"
+"PO-Revision-Date: 2017-07-27 00:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -805,7 +805,7 @@ msgstr "稍后再说"
 #: public/views/preferencesInformation.html:76
 #: public/views/walletHome.html:416
 msgid "Me"
-msgstr "自己"
+msgstr "我"
 
 #: public/views/modals/tx-details.html:97
 msgid "Merchant message"
@@ -978,7 +978,7 @@ msgstr "对方支付:"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr "节点"
+msgstr "对方:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -1015,7 +1015,7 @@ msgstr "葡萄牙语"
 
 #: public/views/modals/offer-contract.html:110
 msgid "Posted value:"
-msgstr "到账金额:"
+msgstr "实际值:"
 
 #: public/views/walletHome.html:153
 #: public/views/walletHome.html:25
@@ -1426,7 +1426,7 @@ msgstr "到"
 
 #: public/views/walletHome.html:350
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr "要将付款绑定到条件，请点击在聊天中对方的地址"
+msgstr "要将付款绑定条件，请点击聊天中对方地址"
 
 #: public/views/walletHome.html:259
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
