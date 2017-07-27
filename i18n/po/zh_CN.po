@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-26 23:40-0400\n"
+"PO-Revision-Date: 2017-07-26 23:51-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -707,11 +707,11 @@ msgstr "如果对方不付款，我可以在之后收回我的钱"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "如果您打算在另一台设备上还原钱包，请在创建备份后立即停止使用旧钱包。不要克隆钱包。 如果您需要从多个设备访问，请使用multisig。"
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "如果您打算在另一台设备上还原钱包，请在创建备份后立即停止使用旧钱包。不要克隆钱包。 如果您需要从多个设备访问，请使用multisig。"
 
 #: public/views/import.html:40
 msgid "Import"
@@ -727,7 +727,7 @@ msgstr "钱包导入中…"
 
 #: public/views/walletHome.html:111
 msgid "Including pending confirmation"
-msgstr ""
+msgstr "等待确认"
 
 #: public/views/translators.html:36
 msgid "Indonesian"
@@ -974,7 +974,7 @@ msgstr "对方支付到:"
 
 #: public/views/modals/offer-contract.html:36
 msgid "Peer pays:"
-msgstr ""
+msgstr "对方支付:"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
