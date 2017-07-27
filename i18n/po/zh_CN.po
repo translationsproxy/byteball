@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-27 01:00-0400\n"
+"PO-Revision-Date: 2017-07-27 01:10-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -196,7 +196,7 @@ msgstr "立即备份"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "备份钱包的seed"
+msgstr "备份钱包口令"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -597,7 +597,7 @@ msgstr "完整地址:"
 
 #: public/views/preferencesGlobal.html:118
 msgid "Full backup"
-msgstr "完整备份"
+msgstr "完整备份钱包文件"
 
 #: public/views/splash.html:25
 msgid "Full wallet"
@@ -1066,7 +1066,7 @@ msgstr "恢复"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr "使用seed恢复钱包"
+msgstr "使用口令恢复钱包"
 
 #: public/views/recoveryFromSeed.html:31
 msgid "Recovery is only available in full wallets."
@@ -1111,7 +1111,7 @@ msgstr "替换"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr "要求密码"
+msgstr "密码保护"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:274
@@ -1128,7 +1128,7 @@ msgstr "通过所需签名数"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr "从完整备份中还原"
+msgstr "使用完整备份文件还原钱包"
 
 #: public/views/splash.html:60
 msgid "Retrying..."
@@ -1292,7 +1292,7 @@ msgstr "西班牙语"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr "指定种子…"
+msgstr "指定口令…"
 
 #: public/views/preferences.html:49
 #: public/views/preferencesGlobal.html:82
@@ -1426,7 +1426,7 @@ msgstr "到"
 
 #: public/views/walletHome.html:350
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr "要将付款绑定条件，请点击聊天中对方地址"
+msgstr "要将付款绑定到条件，请点击聊天窗口中对方的地址"
 
 #: public/views/walletHome.html:259
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1557,7 +1557,7 @@ msgstr "钱包名称"
 
 #: public/views/backup.html:28
 msgid "Wallet seed not available."
-msgstr "钱包种子不可用。"
+msgstr "钱包口令不可用。"
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
@@ -1603,7 +1603,7 @@ msgstr "您没有钱包"
 #: public/views/backup.html:49
 #: public/views/recoveryFromSeed.html:38
 msgid "Your Wallet Seed:"
-msgstr "你的钱包seed："
+msgstr "你的钱包口令："
 
 #: public/views/export.html:33
 msgid "Your export password"
