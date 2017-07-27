@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-27 02:11-0400\n"
+"PO-Revision-Date: 2017-07-27 02:32-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -19,11 +19,11 @@ msgstr "(站点看不到你的余额，也无须花费)"
 
 #: public/views/walletHome.html:525
 msgid "(possible double spend)"
-msgstr "（可能双重支付）"
+msgstr "（重复支付）"
 
 #: public/views/create.html:82
 msgid "-- Select co-signer --"
-msgstr "-- 选择多签名账户 --"
+msgstr "-- 选择多重签名账户 --"
 
 #: src/js/controllers/backup.js:18
 msgid ".  Better yet, use multisig wallets with redundancy, e.g. 1-of-2 wallet with one key on this device and another key on your smartphone.  Just the wallet seed is not enough."
@@ -31,11 +31,11 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:18
 msgid "1. Payment to the contract:"
-msgstr "支付到合约"
+msgstr "1.支付合约"
 
 #: public/views/modals/offer-contract.html:73
 msgid "2. Who can unlock the contract:"
-msgstr "谁能解锁合约"
+msgstr "2.谁能解锁合约"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -46,7 +46,7 @@ msgstr "关于ByteBall"
 #: src/js/controllers/walletHome.js:118
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr "承诺"
+msgstr "同意"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
@@ -54,7 +54,7 @@ msgstr "接受邀请"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr "从其它设备按受邀请"
+msgstr "接受来自其他设备的邀请"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
@@ -208,7 +208,7 @@ msgstr "地址余额"
 
 #: public/views/walletHome.html:204
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "接收资金之前，强烈建议您备份钱包密匙。"
+msgstr "接收资金之前，强烈建议您备份钱包口令密匙。"
 
 #: public/views/modals/bind.html:100
 #: public/views/modals/bind.html:8
@@ -1729,7 +1729,7 @@ msgstr "{{fee}} 将扣除比特币网络费用"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "可以花了 {{hrd.destinationAddress}}，如果："
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
@@ -1742,7 +1742,7 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'On':'Off'}}"
 
 #: public/views/backup.html:22
 msgid "{{wordsC.text}}"
