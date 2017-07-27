@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-26 23:51-0400\n"
+"PO-Revision-Date: 2017-07-27 00:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -275,7 +275,7 @@ msgstr "对话"
 #: public/views/translators.html:46
 #: public/views/translators.html:47
 msgid "Chinese"
-msgstr "中文"
+msgstr "简体中文"
 
 #: public/views/import.html:33
 msgid "Choose File"
@@ -414,7 +414,7 @@ msgstr "一起创建新的钱包？"
 
 #: public/views/create.html:161
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr "创建共{{requiredCosigners}} 人签署, 其中{{totalCosigners}} 人签署即通过的钱包"
+msgstr "创建共{{totalCosigners}}人签署, 其中 {{requiredCosigners}} 人签署即通过的钱包"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -825,7 +825,7 @@ msgstr "移动"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr "多设备钱包"
+msgstr "多重签名钱包"
 
 #: public/views/walletHome.html:218
 msgid "My Byteball address"
@@ -1015,7 +1015,7 @@ msgstr "葡萄牙语"
 
 #: public/views/modals/offer-contract.html:110
 msgid "Posted value:"
-msgstr ""
+msgstr "到账金额:"
 
 #: public/views/walletHome.html:153
 #: public/views/walletHome.html:25
@@ -1033,7 +1033,7 @@ msgstr "私人资产(如: blackbytes)不能恢复。"
 #: src/js/controllers/walletHome.js:1235
 #: src/js/controllers/walletHome.js:1308
 msgid "Private payloads sent"
-msgstr ""
+msgstr "发送私人匿名资产"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1124,7 +1124,7 @@ msgstr "请求付款"
 
 #: public/views/create.html:64
 msgid "Required number of signatures"
-msgstr "所需签名数"
+msgstr "通过所需签名数"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
