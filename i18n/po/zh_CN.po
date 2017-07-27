@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-21 06:30-0400\n"
+"PO-Revision-Date: 2017-07-26 23:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1471,11 +1471,11 @@ msgstr "未确认"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr "Blackbytes单位"
+msgstr "blackbytes单位"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr "Blackbytes单位"
+msgstr "bytes单位"
 
 #: public/views/walletHome.html:175
 msgid "Unsent transactions"
