@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-07-27 02:42-0400\n"
+"PO-Revision-Date: 2017-08-11 01:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -942,7 +942,7 @@ msgstr "将您的纸钱包私钥粘贴至此处"
 
 #: public/views/modals/offer-contract.html:170
 msgid "Pay and offer"
-msgstr ""
+msgstr "买与卖"
 
 #: src/js/services/correspondentListService.js:108
 msgid "Pay to this address"
@@ -1283,7 +1283,7 @@ msgstr "从钱包签署交易支出？"
 
 #: src/js/services/profileService.js:274
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "小额钱包"
 
 #: public/views/translators.html:30
 #: public/views/translators.html:31
@@ -1328,7 +1328,7 @@ msgstr "扫描纸钱包"
 
 #: public/views/walletHome.html:61
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr ""
+msgstr "同步中... {{index.count_unhandled_private_payments}} 隐私支付余额"
 
 #: public/views/walletHome.html:60
 msgid "Syncing... {{index.syncProgress}}"
@@ -1384,7 +1384,7 @@ msgstr "钱包将包含整个Byteball数据库的最新状态。 这个选项对
 
 #: public/views/correspondentDevice.html:297
 msgid "Their recording preference"
-msgstr ""
+msgstr "他们录制的偏好"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
