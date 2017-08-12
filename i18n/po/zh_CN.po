@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-08-11 01:50-0400\n"
+"PO-Revision-Date: 2017-08-12 02:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1668,7 +1668,7 @@ msgstr "事件是由 oracle 发布："
 
 #: public/views/modals/bind.html:77
 msgid "in merkle tree"
-msgstr ""
+msgstr "在默克尔哈希树里"
 
 #: public/views/walletHome.html:131
 msgid "in smart wallets"
