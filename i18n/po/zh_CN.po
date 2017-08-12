@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-08-12 02:40-0400\n"
+"PO-Revision-Date: 2017-08-12 02:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr "(站点看不到你的余额，也无须花费)"
+msgstr "(站点看不到你的余额，也没有花费)"
 
 #: public/views/walletHome.html:525
 msgid "(possible double spend)"
@@ -27,7 +27,7 @@ msgstr "-- 选择多重签名账户 --"
 
 #: src/js/controllers/backup.js:18
 msgid ".  Better yet, use multisig wallets with redundancy, e.g. 1-of-2 wallet with one key on this device and another key on your smartphone.  Just the wallet seed is not enough."
-msgstr ""
+msgstr "更好的做法是，用多重签名钱包作为冗余备份，例如，这台设备上的一个钱包有一个密钥，另一个密钥在你的智能手机上。仅仅钱包种子是不够的。"
 
 #: public/views/modals/offer-contract.html:18
 msgid "1. Payment to the contract:"
