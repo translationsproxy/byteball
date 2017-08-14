@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-07-16 03:20-0400\n"
+"PO-Revision-Date: 2017-08-14 03:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -318,7 +318,7 @@ msgstr "Warna"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr "Memasukkan hash"
+msgstr "Bentukan hash"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
