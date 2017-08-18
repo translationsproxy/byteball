@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-07-16 01:51-0400\n"
+"PO-Revision-Date: 2017-08-18 12:51-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1331,7 +1331,7 @@ msgstr "Synchronisiere... {{index.count_unhandled_private_payments}} private Zah
 
 #: public/views/walletHome.html:60
 msgid "Syncing... {{index.syncProgress}}"
-msgstr "Snchronisiere... {{index.syncProgress}}"
+msgstr "Synchronisiere... {{index.syncProgress}}"
 
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
