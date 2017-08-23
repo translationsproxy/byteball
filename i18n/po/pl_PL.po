@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-08-23 05:33-0400\n"
+"PO-Revision-Date: 2017-08-23 05:42-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1682,17 +1682,9 @@ msgstr "{{hrd.destinationAddress}} można wydać jeżeli:"
 msgid "{{index.m}}-of-{{index.n}}"
 msgstr "{{index.m}}-z-{{index.n}}"
 
-#: public/views/modals/bind.html:40
-msgid "{{info.displayName}}"
-msgstr ""
-
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
 msgstr "{{item.m}}-z-{{item.n}}"
-
-#: public/views/modals/bind.html:49
-msgid "{{oracle.name}}"
-msgstr ""
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
