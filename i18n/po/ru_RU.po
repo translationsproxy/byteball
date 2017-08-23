@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-08-23 05:12-0400\n"
+"PO-Revision-Date: 2017-08-23 05:33-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -641,19 +641,19 @@ msgstr "Я подтверждаю, что я прочитал(а), понял(а
 
 #: public/views/modals/offer-contract.html:35
 msgid "I pay"
-msgstr ""
+msgstr "Я плачу"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "я получаю другой платёж"
 
 #: public/views/modals/bind.html:75
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "Если условие не выполнено, я могу забрать деньги обратно после"
 
 #: public/views/modals/offer-contract.html:59
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Если контрагент не заплатил, я могу забрать свои деньги обратно после"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -706,7 +706,7 @@ msgstr ""
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Хранить только данные, относящиеся к Вам"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
@@ -771,7 +771,7 @@ msgstr "Мой выбор о сохранении чата"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "Имя контакта"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
@@ -844,7 +844,7 @@ msgstr "Спаренные устройства"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Код сопряжения"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
@@ -873,7 +873,7 @@ msgstr "Заплатить и предложить"
 
 #: src/js/services/correspondentListService.js:108
 msgid "Pay to this address"
-msgstr ""
+msgstr "Заплатить на этот адрес"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
@@ -1255,7 +1255,7 @@ msgstr "Хаб предлагает заменить следующих свид
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "Контрагент получает этот платеж если"
 
 #: public/views/modals/vote.html:61
 msgid "The vote will be signed by all your funded addresses"
@@ -1530,7 +1530,7 @@ msgstr ""
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "событие зарегистрировано оракулом"
 
 #: public/views/modals/offer-contract.html:69
 msgid "can unlock the contract"
@@ -1613,7 +1613,7 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:43
 msgid "peer pays"
-msgstr ""
+msgstr "контрагент платит"
 
 #: public/views/modals/bind.html:58
 msgid "posted"
@@ -1668,10 +1668,6 @@ msgstr ""
 msgid "{{cancel_label || 'Cancel'}}"
 msgstr "{{cancel_label || 'Отмена'}}"
 
-#: public/views/modals/offer-contract.html:55
-msgid "{{dest.display_value}}"
-msgstr ""
-
 #: src/js/controllers/walletHome.js:1352
 msgid "{{fee}} will be deducted for bitcoin networking fees"
 msgstr "{{fee}} будет использовано для оплаты комиссии"
@@ -1686,8 +1682,6 @@ msgid "{{index.m}}-of-{{index.n}}"
 msgstr "{{index.m}}-из-{{index.n}}"
 
 #: public/views/modals/bind.html:40
-#: public/views/modals/offer-contract.html:40
-#: public/views/modals/offer-contract.html:48
 msgid "{{info.displayName}}"
 msgstr ""
 
@@ -1696,19 +1690,9 @@ msgid "{{item.m}}-of-{{item.n}}"
 msgstr "{{item.m}}-из-{{item.n}}"
 
 #: public/views/modals/bind.html:49
-#: public/views/modals/offer-contract.html:76
 msgid "{{oracle.name}}"
-msgstr ""
-
-#: public/views/modals/offer-contract.html:66
-#: public/views/modals/offer-contract.html:95
-msgid "{{party.display_value}}"
 msgstr ""
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
-
-#: public/views/modals/offer-contract.html:87
-msgid "{{relation}}"
 msgstr ""
