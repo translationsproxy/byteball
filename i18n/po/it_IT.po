@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2017-08-23 05:12-0400\n"
+"PO-Revision-Date: 2017-08-23 05:33-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1668,10 +1668,6 @@ msgstr ""
 msgid "{{cancel_label || 'Cancel'}}"
 msgstr ""
 
-#: public/views/modals/offer-contract.html:55
-msgid "{{dest.display_value}}"
-msgstr ""
-
 #: src/js/controllers/walletHome.js:1352
 msgid "{{fee}} will be deducted for bitcoin networking fees"
 msgstr "{{fee}} verranno detratti come commissione del network"
@@ -1686,8 +1682,6 @@ msgid "{{index.m}}-of-{{index.n}}"
 msgstr "{{index.m}}-di-{{index.n}}"
 
 #: public/views/modals/bind.html:40
-#: public/views/modals/offer-contract.html:40
-#: public/views/modals/offer-contract.html:48
 msgid "{{info.displayName}}"
 msgstr ""
 
@@ -1696,19 +1690,9 @@ msgid "{{item.m}}-of-{{item.n}}"
 msgstr "{{item.m}}-di-{{item.n}}"
 
 #: public/views/modals/bind.html:49
-#: public/views/modals/offer-contract.html:76
 msgid "{{oracle.name}}"
-msgstr ""
-
-#: public/views/modals/offer-contract.html:66
-#: public/views/modals/offer-contract.html:95
-msgid "{{party.display_value}}"
 msgstr ""
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
-
-#: public/views/modals/offer-contract.html:87
-msgid "{{relation}}"
 msgstr ""
