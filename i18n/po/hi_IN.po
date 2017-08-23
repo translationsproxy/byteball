@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2017-08-23 05:33-0400\n"
+"PO-Revision-Date: 2017-08-23 05:42-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1681,16 +1681,8 @@ msgstr ""
 msgid "{{index.m}}-of-{{index.n}}"
 msgstr ""
 
-#: public/views/modals/bind.html:40
-msgid "{{info.displayName}}"
-msgstr ""
-
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr ""
-
-#: public/views/modals/bind.html:49
-msgid "{{oracle.name}}"
 msgstr ""
 
 #: public/views/preferencesGlobal.html:29
