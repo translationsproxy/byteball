@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-08-23 05:33-0400\n"
+"PO-Revision-Date: 2017-08-23 05:41-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -127,7 +127,7 @@ msgstr "Сумма"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "Ответ:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
@@ -314,7 +314,7 @@ msgstr "Подтвердить"
 
 #: public/views/modals/vote.html:55
 msgid "Confirm Vote"
-msgstr ""
+msgstr "Подтвердить голос"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -322,7 +322,7 @@ msgstr "Подтвердить платеж"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "Подтвердить голос"
 
 #: public/views/modals/tx-details.html:108
 msgid "Confirmed"
@@ -498,7 +498,7 @@ msgstr "Скачать CSV-файл"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Хранить всю базу данных Byteball"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -909,7 +909,7 @@ msgstr "Простой кошелек"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr ""
+msgstr "Выберите какие данные хранить в вашем кошельке"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
@@ -951,7 +951,7 @@ msgstr "QR-сканер"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Вопрос:"
 
 #: src/js/controllers/index.js:594
 msgid "Receive"
@@ -1387,7 +1387,7 @@ msgstr "Версия"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "ПРЕДУПРЕЖДЕНИЕ:"
 
 #: public/views/walletHome.html:200
 msgid "WARNING: Backup needed"
@@ -1542,7 +1542,7 @@ msgstr ""
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "отменить создание кошелька"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1550,7 +1550,7 @@ msgstr "очистить историю чата"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "создан"
 
 #: public/views/modals/offer-contract.html:100
 msgid "days"
@@ -1579,7 +1579,7 @@ msgstr "часов"
 
 #: public/views/modals/offer-contract.html:70
 msgid "if an event is posted by an oracle"
-msgstr ""
+msgstr "если оракулом отправлено событие"
 
 #: public/views/modals/bind.html:66
 msgid "in merkle tree"
@@ -1681,17 +1681,9 @@ msgstr "{{hrd.destinationAddress}} могут быть потрачены, ес�
 msgid "{{index.m}}-of-{{index.n}}"
 msgstr "{{index.m}}-из-{{index.n}}"
 
-#: public/views/modals/bind.html:40
-msgid "{{info.displayName}}"
-msgstr ""
-
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
 msgstr "{{item.m}}-из-{{item.n}}"
-
-#: public/views/modals/bind.html:49
-msgid "{{oracle.name}}"
-msgstr ""
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
