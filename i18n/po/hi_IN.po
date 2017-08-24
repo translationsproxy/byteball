@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2017-08-23 05:42-0400\n"
+"PO-Revision-Date: 2017-08-24 05:31-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -19,26 +19,26 @@ msgstr ""
 
 #: public/views/walletHome.html:525
 msgid "(possible double spend)"
-msgstr ""
+msgstr "(संभव डबल खर्च)"
 
 #: public/views/create.html:82
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "--सह-हस्ताक्षरकर्ता चुने--"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
-msgstr ""
+msgstr "बाईटबॉल के बारे में"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
 #: src/js/controllers/walletHome.js:118
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr ""
+msgstr "स्वीकारें"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
-msgstr ""
+msgstr "निमंत्रण स्वीकारें"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
@@ -46,15 +46,15 @@ msgstr ""
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
-msgstr ""
+msgstr "खाता"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "बॉट जोड़ें"
 
 #: public/views/correspondentDevices.html:60
 msgid "Add a new device"
-msgstr ""
+msgstr "नया डिवाइस जोड़ें"
 
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
@@ -63,7 +63,7 @@ msgstr ""
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
-msgstr ""
+msgstr "वॉलेट जोड़ें"
 
 #: public/views/correspondentDevices.html:80
 msgid "Added"
@@ -73,7 +73,7 @@ msgstr ""
 #: public/views/modals/destination-address.html:118
 #: public/views/paymentUri.html:15
 msgid "Address"
-msgstr ""
+msgstr "पता"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -82,11 +82,11 @@ msgstr ""
 
 #: public/views/preferences.html:45
 msgid "Advanced"
-msgstr ""
+msgstr "उन्नत"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
-msgstr ""
+msgstr "सहमत"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
@@ -123,11 +123,11 @@ msgstr ""
 #: public/views/paymentUri.html:16
 #: public/views/walletHome.html:371
 msgid "Amount"
-msgstr ""
+msgstr "राशि"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "जवाब:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
@@ -169,7 +169,7 @@ msgstr ""
 #: public/views/modals/destination-address.html:9
 #: public/views/modals/tx-details.html:5
 msgid "Back"
-msgstr ""
+msgstr "वापस"
 
 #: public/views/walletHome.html:210
 msgid "Backup now"
@@ -212,7 +212,7 @@ msgstr ""
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:29
 msgid "Bot Store"
-msgstr ""
+msgstr "बॉट स्टोर"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -220,20 +220,20 @@ msgstr ""
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr ""
+msgstr "असमर्थित ब्राउज़र"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "बाईटबॉल पता"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr ""
+msgstr "रद्द करें"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr ""
+msgstr "जारी रखें"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:446
@@ -242,7 +242,7 @@ msgstr ""
 #: src/js/controllers/walletHome.js:119
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द करें"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
@@ -385,16 +385,16 @@ msgstr ""
 
 #: public/views/walletHome.html:22
 msgid "Create"
-msgstr ""
+msgstr "बनाएँ"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
-msgstr ""
+msgstr "नया वॉलेट बनाएं"
 
 #: public/views/add.html:15
 #: public/views/create.html:165
 msgid "Create new wallet"
-msgstr ""
+msgstr "नया वॉलेट बनाएं"
 
 #: src/js/controllers/index.js:272
 msgid "Create new wallet  together with  ?"
