@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-08-23 05:42-0400\n"
+"PO-Revision-Date: 2017-08-24 00:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,7 +23,7 @@ msgstr "(mögliche Doppelausgabe)"
 
 #: public/views/create.html:82
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-Mitunterzeichner auswählen-"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Vergiss nicht, deinen Seed zu löschen"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -127,7 +127,7 @@ msgstr "Betrag"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "Antwort:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
@@ -193,7 +193,7 @@ msgstr "Bevor Beträge empfangen werden, wird dringend empfohlen die Wallet Schl
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Besser noch, verwenden Sie Multisig Brieftaschen mit Redundanz,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:84
@@ -314,7 +314,7 @@ msgstr "Bestätigen"
 
 #: public/views/modals/vote.html:55
 msgid "Confirm Vote"
-msgstr ""
+msgstr "Wahl bestätigen"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -322,7 +322,7 @@ msgstr "Zahlung bestätigen"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "Wahl bestätigen"
 
 #: public/views/modals/tx-details.html:108
 msgid "Confirmed"
@@ -498,7 +498,7 @@ msgstr ".csv-Datei herunterladen"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Lade die gesamte Byteball-Datenbank"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -641,11 +641,11 @@ msgstr "Ich bestätige, dass ich die Nutzungsbedingungen gelesen habe, diese ver
 
 #: public/views/modals/offer-contract.html:35
 msgid "I pay"
-msgstr ""
+msgstr "Ich zahle"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Ich erhalte eine weitere Zahlung von"
 
 #: public/views/modals/bind.html:75
 msgid "If the condition is not met, I can take this money back after"
@@ -844,7 +844,7 @@ msgstr "Verbundene Geräte"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Kopplungs-Code"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
@@ -873,7 +873,7 @@ msgstr "Zahlen und Anbieten"
 
 #: src/js/services/correspondentListService.js:108
 msgid "Pay to this address"
-msgstr ""
+msgstr "An diese Adresse zahlen"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
@@ -951,7 +951,7 @@ msgstr "QR-Scanner"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Frage:"
 
 #: src/js/controllers/index.js:594
 msgid "Receive"
@@ -1255,7 +1255,7 @@ msgstr "Der Hub möchte die folgenden Zeugen ersetzen:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "Der Teilnehmer erhält die Zahlung wenn"
 
 #: public/views/modals/vote.html:61
 msgid "The vote will be signed by all your funded addresses"
@@ -1605,7 +1605,7 @@ msgstr "zusätzlich"
 
 #: public/views/modals/offer-contract.html:91
 msgid "or"
-msgstr ""
+msgstr "oder"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
@@ -1646,7 +1646,7 @@ msgstr "zu lang!"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "mit"
 
 #: public/views/modals/offer-contract.html:83
 msgid "with expected value"
