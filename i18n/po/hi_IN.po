@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2017-08-24 05:51-0400\n"
+"PO-Revision-Date: 2017-08-24 06:01-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -144,7 +144,7 @@ msgstr ""
 
 #: public/views/modals/customized-amount.html:71
 msgid "Asset"
-msgstr ""
+msgstr "संपत्ति"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -157,7 +157,7 @@ msgstr ""
 #: public/views/includes/available-balance.html:7
 #: public/views/walletHome.html:299
 msgid "Available Balance"
-msgstr ""
+msgstr "उपलब्ध बैलेंस"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -177,15 +177,15 @@ msgstr "बैकअप"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "वॉलेट मूल बैकअप"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr ""
+msgstr "बैकअप शब्दों को हटाया"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "पतों के अनुसार बैलेंस"
 
 #: public/views/walletHome.html:204
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
@@ -198,7 +198,7 @@ msgstr ""
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:84
 msgid "Bind payment"
-msgstr ""
+msgstr "भुगतान जोड़ें"
 
 #: public/views/walletHome.html:346
 #: public/views/walletHome.html:353
@@ -207,7 +207,7 @@ msgstr ""
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr ""
+msgstr "बिटकॉइन URI गलत है!"
 
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:29
@@ -246,7 +246,7 @@ msgstr "रद्द करें"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr ""
+msgstr "हब बदलें:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
@@ -254,15 +254,15 @@ msgstr ""
 
 #: src/js/controllers/index.js:606
 msgid "Chat"
-msgstr ""
+msgstr "चैट"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "फ़ाइल चुनें"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr ""
+msgstr "को भेजने के लिए डिवाइस चुने"
 
 #: public/views/correspondentDevices.html:16
 #: public/views/includes/topbar.html:13
@@ -278,15 +278,15 @@ msgstr ""
 #: public/views/modals/select-subwallet.html:4
 #: public/views/modals/vote.html:4
 msgid "Close"
-msgstr ""
+msgstr "बंद करें"
 
 #: public/views/create.html:80
 msgid "Co-signer {{$index+1}}:"
-msgstr ""
+msgstr "सह-हस्ताक्षरकर्ता {{$index+1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr ""
+msgstr "सह-हस्ताक्षरकर्ता"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
@@ -294,7 +294,7 @@ msgstr ""
 
 #: public/views/preferences.html:29
 msgid "Color"
-msgstr ""
+msgstr "रंग"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
@@ -310,7 +310,7 @@ msgstr ""
 #: src/js/controllers/walletHome.js:120
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
-msgstr ""
+msgstr "पुष्टि करें"
 
 #: public/views/modals/vote.html:55
 msgid "Confirm Vote"
@@ -326,11 +326,11 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:108
 msgid "Confirmed"
-msgstr ""
+msgstr "पुष्टि हुई"
 
 #: public/views/correspondentDevices.html:26
 msgid "Contacts"
-msgstr ""
+msgstr "संपर्क सूची"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:388
@@ -369,7 +369,7 @@ msgstr ""
 #: src/js/services/profileService.js:473
 #: src/js/services/profileService.js:495
 msgid "Could not import"
-msgstr ""
+msgstr "आयात नहीं हो सका"
 
 #: src/js/services/profileService.js:423
 msgid "Could not import. Check input file and password"
@@ -446,11 +446,11 @@ msgstr ""
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
-msgstr ""
+msgstr "वॉलेट नष्ट करें"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete wallet"
-msgstr ""
+msgstr "वॉलेट नष्ट करें"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -515,7 +515,7 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr ""
+msgstr "पुश नोटिफिकेशन चालू करें"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
@@ -523,7 +523,7 @@ msgstr ""
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr ""
+msgstr "आपका पासवर्ड डालें"
 
 #: src/js/services/profileService.js:280
 #: src/js/services/profileService.js:330
@@ -561,15 +561,15 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:53
 msgid "From"
-msgstr ""
+msgstr "से"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
-msgstr ""
+msgstr "पूरा पता:"
 
 #: public/views/preferencesGlobal.html:118
 msgid "Full backup"
-msgstr ""
+msgstr "पूरा बैकअप"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
@@ -581,15 +581,15 @@ msgstr ""
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
-msgstr ""
+msgstr "शुरू करें"
 
 #: src/js/controllers/walletHome.js:416
 msgid "Generate QR Code"
-msgstr ""
+msgstr "QR कोड बनाएं"
 
 #: public/views/walletHome.html:266
 msgid "Generate new address"
-msgstr ""
+msgstr "नया पता बनाएं"
 
 #: public/views/walletHome.html:59
 msgid "Generating .csv file..."
@@ -605,7 +605,7 @@ msgstr ""
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
-msgstr ""
+msgstr "पीछे जाएँ"
 
 #: public/views/preferences.html:37
 msgid "Hardware wallet"
@@ -617,15 +617,15 @@ msgstr ""
 
 #: src/js/controllers/index.js:602
 msgid "History"
-msgstr ""
+msgstr "इतिहास"
 
 #: src/js/controllers/index.js:590
 msgid "Home"
-msgstr ""
+msgstr "घर"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr ""
+msgstr "होस्ट"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
@@ -694,11 +694,11 @@ msgstr "अमान्य"
 
 #: src/js/controllers/index.js:1501
 msgid "Invalid Touch ID"
-msgstr ""
+msgstr "गलत टच आईडी"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr ""
+msgstr "अन्य डिवाइस को आमंत्रित करें"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
@@ -743,7 +743,7 @@ msgstr "मैं"
 
 #: public/views/modals/tx-details.html:97
 msgid "Merchant message"
-msgstr ""
+msgstr "व्यापारी संदेश"
 
 #: public/views/walletHome.html:385
 msgid "Merkle proof"
@@ -763,7 +763,7 @@ msgstr ""
 
 #: public/views/walletHome.html:218
 msgid "My Byteball address"
-msgstr ""
+msgstr "मेरा बाईटबॉल पता"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
@@ -771,7 +771,7 @@ msgstr ""
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "संपर्क का नाम"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
@@ -787,7 +787,7 @@ msgstr ""
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
-msgstr ""
+msgstr "नए गवाह"
 
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:441
