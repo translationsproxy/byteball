@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-08-23 05:42-0400\n"
+"PO-Revision-Date: 2017-08-24 04:10-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -127,7 +127,7 @@ msgstr "Sebesar"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "Jawaban:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
@@ -952,7 +952,7 @@ msgstr "Pemindai QR"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Pertanyaan:"
 
 #: src/js/controllers/index.js:594
 msgid "Receive"
@@ -1256,7 +1256,7 @@ msgstr "Hub menyarankan untuk mengganti saksi berikut ini:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "Rekanan menerima pembayaran ini jika"
 
 #: public/views/modals/vote.html:61
 msgid "The vote will be signed by all your funded addresses"
@@ -1531,11 +1531,11 @@ msgstr ""
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "peristiwa dilansir oleh peramal"
 
 #: public/views/modals/offer-contract.html:69
 msgid "can unlock the contract"
-msgstr ""
+msgstr "dapat membuka kontrak"
 
 #: public/views/modals/offer-contract.html:98
 msgid "can unlock the contract after it expires in"
@@ -1580,7 +1580,7 @@ msgstr "jam"
 
 #: public/views/modals/offer-contract.html:70
 msgid "if an event is posted by an oracle"
-msgstr ""
+msgstr "jika peristiwa dilansir oleh peramal"
 
 #: public/views/modals/bind.html:66
 msgid "in merkle tree"
@@ -1606,7 +1606,7 @@ msgstr "opsional"
 
 #: public/views/modals/offer-contract.html:91
 msgid "or"
-msgstr ""
+msgstr "atau"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
@@ -1618,7 +1618,7 @@ msgstr ""
 
 #: public/views/modals/bind.html:58
 msgid "posted"
-msgstr ""
+msgstr "diterbitkan"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
