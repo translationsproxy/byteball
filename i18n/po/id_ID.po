@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-08-24 04:20-0400\n"
+"PO-Revision-Date: 2017-08-24 04:31-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -193,7 +193,7 @@ msgstr "Sebelum menerima dana, sangat disarankan mencadangkan kunci dompet anda.
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Lebih baik lagi, gunakan dompet multisig dengan redundansi,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:84
@@ -481,7 +481,7 @@ msgstr "Jangan menggandakan dompet, hentikan penggunakan dompet asli dengan beni
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Jangan gunakan untuk menggandakan dompet."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -498,7 +498,7 @@ msgstr "Unduh berkas CSV"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Mengunduh seluruh database Byteball"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -641,11 +641,11 @@ msgstr "Saya menegaskan bahwa saya telah membaca, mengerti, dan menyetujui persy
 
 #: public/views/modals/offer-contract.html:35
 msgid "I pay"
-msgstr ""
+msgstr "Saya membayar"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Saya menerima pembayaran lain dari"
 
 #: public/views/modals/bind.html:75
 msgid "If the condition is not met, I can take this money back after"
