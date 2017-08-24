@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-08-24 04:52-0400\n"
+"PO-Revision-Date: 2017-08-24 05:03-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1293,7 +1293,7 @@ msgstr "Ini adalah aset pribadi, kirimkan hanya dengan mengklik link di obrolan 
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "Pilihan ini lebih baik untuk privasi tetapi akan memerlukan beberapa gigabyte penyimpanan dan sinkronisasi awal akan memakan waktu beberapa hari.  Beban CPU akan tinggi selama sinkronisasi."
 
 #: public/views/walletHome.html:347
 msgid "This payment is bound to a condition"
@@ -1319,7 +1319,7 @@ msgstr "Ke"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "Untuk dapat mengembalikan segalanya, silakan membuat cadangan lengkap (pilihan tersedia pada menu)"
 
 #: public/views/walletHome.html:350
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1559,11 +1559,11 @@ msgstr "hari"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "misalnya 1-dari-2 dompet dengan satu kunci pada perangkat ini dan kunci yang lain pada komputer laptop anda."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "misalnya 1-dari-2 dompet dengan satu kunci pada perangkat ini dan kunci yang lain pada ponsel pintar anda."
 
 #: public/views/modals/bind.html:70
 msgid "either way"
