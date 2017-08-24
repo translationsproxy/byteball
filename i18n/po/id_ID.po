@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-08-24 04:10-0400\n"
+"PO-Revision-Date: 2017-08-24 04:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -314,7 +314,7 @@ msgstr "Menyetujui"
 
 #: public/views/modals/vote.html:55
 msgid "Confirm Vote"
-msgstr ""
+msgstr "Mengkonfirmasi suara"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -322,7 +322,7 @@ msgstr "Menyetujui pembayaran"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "Mengkonfirmasi suara"
 
 #: public/views/modals/tx-details.html:108
 msgid "Confirmed"
@@ -1260,7 +1260,7 @@ msgstr "Rekanan menerima pembayaran ini jika"
 
 #: public/views/modals/vote.html:61
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "Suara akan ditandatangani oleh semua alamat yang didanai"
 
 #: src/js/controllers/copayers.js:75
 #: src/js/controllers/preferencesDelete.js:56
@@ -1269,7 +1269,7 @@ msgstr "Dompet \"{{walletName}}\" telah dihapus"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "Vendor dompet akan dapat mengetahui sebagian dari saldo anda dan dapat melihat transaksi mana yang menjadi milik anda, namun anda dapat segera mulai menggunakan dompet dan dompet berfungsi sepenuhnya."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
@@ -1527,7 +1527,7 @@ msgstr "[ Tambahkan perangkat co-signer baru ]"
 #: public/views/modals/offer-contract.html:36
 #: public/views/modals/offer-contract.html:44
 msgid "amount"
-msgstr ""
+msgstr "sebesar"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
@@ -1539,7 +1539,7 @@ msgstr "dapat membuka kontrak"
 
 #: public/views/modals/offer-contract.html:98
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "dapat membuka kontrak setelah masanya berakhir dalam"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
