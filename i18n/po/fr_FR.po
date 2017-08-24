@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2017-08-24 14:20-0400\n"
+"PO-Revision-Date: 2017-08-24 14:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1597,7 +1597,7 @@ msgstr "verrouillés par les paiements en attente"
 #: public/views/modals/bind.html:53
 #: public/views/modals/offer-contract.html:80
 msgid "on feed name"
-msgstr ""
+msgstr "sur le nom du flux"
 
 #: public/views/walletHome.html:386
 #: public/views/walletHome.html:397
