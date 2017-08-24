@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-08-24 00:40-0400\n"
+"PO-Revision-Date: 2017-08-24 00:51-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1387,7 +1387,7 @@ msgstr "Version"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "WARNUNG:"
 
 #: public/views/walletHome.html:200
 msgid "WARNING: Backup needed"
@@ -1520,21 +1520,21 @@ msgstr ""
 
 #: public/views/create.html:84
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[Neues Mitunterzeichner Gerät hinzufügen]"
 
 #: public/views/modals/bind.html:35
 #: public/views/modals/offer-contract.html:36
 #: public/views/modals/offer-contract.html:44
 msgid "amount"
-msgstr ""
+msgstr "Betrag"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "ein Event wird von einem Orakel gepostet"
 
 #: public/views/modals/offer-contract.html:69
 msgid "can unlock the contract"
-msgstr ""
+msgstr "kann den Vertrag entsperren"
 
 #: public/views/modals/offer-contract.html:98
 msgid "can unlock the contract after it expires in"
@@ -1609,7 +1609,7 @@ msgstr "oder"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "oder sichern Sie alle Byteball Daten nach"
 
 #: public/views/modals/offer-contract.html:43
 msgid "peer pays"
@@ -1617,15 +1617,15 @@ msgstr ""
 
 #: public/views/modals/bind.html:58
 msgid "posted"
-msgstr ""
+msgstr "veröffentlicht"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
-msgstr ""
+msgstr "Private Transaktionen erneut senden"
 
 #: public/views/modals/tx-details.html:118
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "Private Transaktionen zu Mitunterzeichner erneut senden"
 
 #: src/js/controllers/walletHome.js:687
 #: src/js/controllers/walletHome.js:693
@@ -1650,11 +1650,11 @@ msgstr "mit"
 
 #: public/views/modals/offer-contract.html:83
 msgid "with expected value"
-msgstr ""
+msgstr "mit erwartetem Wert"
 
 #: public/views/modals/bind.html:56
 msgid "with expected value of"
-msgstr ""
+msgstr "mit erwartetem Wert von"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
