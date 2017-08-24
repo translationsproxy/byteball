@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-08-24 04:41-0400\n"
+"PO-Revision-Date: 2017-08-24 04:52-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -703,7 +703,7 @@ msgstr "Mengundang perangkat lain"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Hanya benih dompet tidaklah cukup.  Dengan benih saja, anda tidak akan mampu memulihkan dompet multisig dan aset pribadi seperti blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -1597,7 +1597,7 @@ msgstr "terkunci oleh pembayaran tertunda"
 #: public/views/modals/bind.html:53
 #: public/views/modals/offer-contract.html:80
 msgid "on feed name"
-msgstr ""
+msgstr "pada nama feed"
 
 #: public/views/walletHome.html:386
 #: public/views/walletHome.html:397
