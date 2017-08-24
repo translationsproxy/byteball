@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2017-08-24 05:41-0400\n"
+"PO-Revision-Date: 2017-08-24 05:51-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -78,7 +78,7 @@ msgstr "पता"
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
 msgid "Addressbook"
-msgstr ""
+msgstr "पता पुस्तिका"
 
 #: public/views/preferences.html:45
 msgid "Advanced"
@@ -94,7 +94,7 @@ msgstr ""
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr ""
+msgstr "सभी वॉलेट पतें"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
@@ -102,7 +102,7 @@ msgstr ""
 
 #: public/views/modals/multi-payment.html:65
 msgid "Already Paid"
-msgstr ""
+msgstr "पहले से ही भुगतान"
 
 #: public/views/walletHome.html:128
 msgid "Also"
@@ -173,7 +173,7 @@ msgstr "वापस"
 
 #: public/views/walletHome.html:210
 msgid "Backup now"
-msgstr ""
+msgstr "बैकअप"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
@@ -1445,7 +1445,7 @@ msgstr ""
 
 #: public/views/create.html:48
 msgid "Wallet name"
-msgstr ""
+msgstr "वॉलेट का नाम"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
@@ -1458,7 +1458,7 @@ msgstr "वॉलेट"
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
-msgstr ""
+msgstr "चेतावनी!"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:103
@@ -1473,7 +1473,7 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:71
 msgid "Witnesses"
-msgstr ""
+msgstr "गवाह"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1481,34 +1481,34 @@ msgstr ""
 
 #: src/js/services/profileService.js:620
 msgid "Wrong password"
-msgstr ""
+msgstr "गलत पासवर्ड"
 
 #: public/views/authConfirmation.html:17
 #: public/views/modals/confirmation.html:6
 #: src/js/controllers/index.js:440
 msgid "Yes"
-msgstr ""
+msgstr "हाँ"
 
 #: public/views/walletHome.html:20
 msgid "You do not have a wallet"
-msgstr ""
+msgstr "आपके पास कोई वॉलेट नहीं है"
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr ""
+msgstr "आपका वॉलेट मूल:"
 
 #: public/views/export.html:33
 msgid "Your export password"
-msgstr ""
+msgstr "आपका निर्यात पासवर्ड"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
-msgstr ""
+msgstr "आपका पासवर्ड"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr ""
+msgstr "आपकी वॉलेट फ़ाइल:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
@@ -1520,13 +1520,13 @@ msgstr ""
 
 #: public/views/create.html:84
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[ नया सह-हस्ताक्षरकर्ता डिवाइस जोड़ें ]"
 
 #: public/views/modals/bind.html:35
 #: public/views/modals/offer-contract.html:36
 #: public/views/modals/offer-contract.html:44
 msgid "amount"
-msgstr ""
+msgstr "राशि"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
@@ -1550,11 +1550,11 @@ msgstr ""
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "बनाया"
 
 #: public/views/modals/offer-contract.html:100
 msgid "days"
-msgstr ""
+msgstr "दिन"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
@@ -1575,7 +1575,7 @@ msgstr ""
 #: public/views/modals/bind.html:77
 #: public/views/modals/offer-contract.html:61
 msgid "hours"
-msgstr ""
+msgstr "घंटे"
 
 #: public/views/modals/offer-contract.html:70
 msgid "if an event is posted by an oracle"
@@ -1601,11 +1601,11 @@ msgstr ""
 #: public/views/walletHome.html:386
 #: public/views/walletHome.html:397
 msgid "optional"
-msgstr ""
+msgstr "वैकल्पिक"
 
 #: public/views/modals/offer-contract.html:91
 msgid "or"
-msgstr ""
+msgstr "या"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
@@ -1617,7 +1617,7 @@ msgstr ""
 
 #: public/views/modals/bind.html:58
 msgid "posted"
-msgstr ""
+msgstr "प्रकाशित हुआ"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
@@ -1632,21 +1632,21 @@ msgstr ""
 #: src/js/controllers/walletHome.js:789
 #: src/js/controllers/walletHome.js:825
 msgid "sending"
-msgstr ""
+msgstr "भेज रहे है"
 
 #: public/views/modals/approveNewWitnesses.html:17
 #: public/views/modals/offer-contract.html:51
 msgid "to"
-msgstr ""
+msgstr "को"
 
 #: public/views/walletHome.html:387
 #: public/views/walletHome.html:398
 msgid "too long!"
-msgstr ""
+msgstr "बहुत लंबा!"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "के साथ"
 
 #: public/views/modals/offer-contract.html:83
 msgid "with expected value"
