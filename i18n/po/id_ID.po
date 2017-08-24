@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-08-24 04:31-0400\n"
+"PO-Revision-Date: 2017-08-24 04:41-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -649,11 +649,11 @@ msgstr "Saya menerima pembayaran lain dari"
 
 #: public/views/modals/bind.html:75
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "Jika kondisinya tidak terpenuhi, uang saya akan kembali setelah"
 
 #: public/views/modals/offer-contract.html:59
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Jika rekanan tidak membayar, uang saya akan kembali setelah"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -707,7 +707,7 @@ msgstr ""
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Simpan hanya data yang relevan bagi anda"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
@@ -910,7 +910,7 @@ msgstr "Dompet Polos"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr ""
+msgstr "Silahkan memilih berapa banyak data yang akan disimpan dalam dompet anda"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
@@ -1610,11 +1610,11 @@ msgstr "atau"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "atau cadangan semua data Byteball di"
 
 #: public/views/modals/offer-contract.html:43
 msgid "peer pays"
-msgstr ""
+msgstr "rekanan membayar"
 
 #: public/views/modals/bind.html:58
 msgid "posted"
@@ -1651,11 +1651,11 @@ msgstr "dengan"
 
 #: public/views/modals/offer-contract.html:83
 msgid "with expected value"
-msgstr ""
+msgstr "dengan nilai yang diharapkan"
 
 #: public/views/modals/bind.html:56
 msgid "with expected value of"
-msgstr ""
+msgstr "dengan nilai yang diharapkan dari"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
