@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-08-23 05:42-0400\n"
+"PO-Revision-Date: 2017-08-25 03:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -127,7 +127,7 @@ msgstr "金额"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "答案"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
@@ -314,7 +314,7 @@ msgstr "确认"
 
 #: public/views/modals/vote.html:55
 msgid "Confirm Vote"
-msgstr ""
+msgstr "确认投票"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -322,7 +322,7 @@ msgstr "确认支付"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "确认投票"
 
 #: public/views/modals/tx-details.html:108
 msgid "Confirmed"
