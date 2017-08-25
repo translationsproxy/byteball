@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-08-25 03:40-0400\n"
+"PO-Revision-Date: 2017-08-25 03:51-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -481,7 +481,7 @@ msgstr "不要复制钱包，不要在原始钱包上使用这个口令"
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "不要使用它来复制这个钱包。"
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -498,7 +498,7 @@ msgstr "下载CSV的文件"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "下载整个 Byteball 数据库"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -641,19 +641,19 @@ msgstr "我确定我已经读过，理解并且同意这些条款。"
 
 #: public/views/modals/offer-contract.html:35
 msgid "I pay"
-msgstr ""
+msgstr "我支付:"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "我收到另一笔款项："
 
 #: public/views/modals/bind.html:75
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "如果条件不满足，我可以之后收回这笔钱"
 
 #: public/views/modals/offer-contract.html:59
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "如果对方不支付，我可以在这个时间后收回我的钱"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -703,7 +703,7 @@ msgstr "邀请其他设备"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "只有钱包种子是不够的。 用这个单独的种子，你将无法恢复多重钱包和如 blackbytes一样的私人资产。"
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -952,7 +952,7 @@ msgstr "QR-扫描"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "问题："
 
 #: src/js/controllers/index.js:594
 msgid "Receive"
@@ -1527,15 +1527,15 @@ msgstr "[添加新的多钱包设备]"
 #: public/views/modals/offer-contract.html:36
 #: public/views/modals/offer-contract.html:44
 msgid "amount"
-msgstr ""
+msgstr "金额"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "事件是由 oracle 发布："
 
 #: public/views/modals/offer-contract.html:69
 msgid "can unlock the contract"
-msgstr ""
+msgstr "可以解锁合同"
 
 #: public/views/modals/offer-contract.html:98
 msgid "can unlock the contract after it expires in"
@@ -1580,7 +1580,7 @@ msgstr "小时"
 
 #: public/views/modals/offer-contract.html:70
 msgid "if an event is posted by an oracle"
-msgstr ""
+msgstr "事件是由 oracle 发布："
 
 #: public/views/modals/bind.html:66
 msgid "in merkle tree"
@@ -1606,19 +1606,19 @@ msgstr "任意"
 
 #: public/views/modals/offer-contract.html:91
 msgid "or"
-msgstr ""
+msgstr "或"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "或备份所有的 Byteball 数据于"
 
 #: public/views/modals/offer-contract.html:43
 msgid "peer pays"
-msgstr ""
+msgstr "点对点支付"
 
 #: public/views/modals/bind.html:58
 msgid "posted"
-msgstr ""
+msgstr "已发布"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
@@ -1667,7 +1667,7 @@ msgstr "{{buttonLabel}}"
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
-msgstr ""
+msgstr "{{cancel_label || 'Cancel'}}"
 
 #: src/js/controllers/walletHome.js:1352
 msgid "{{fee}} will be deducted for bitcoin networking fees"
@@ -1680,11 +1680,11 @@ msgstr "可以花了 {{hrd.destinationAddress}}，如果："
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
 msgid "{{index.m}}-of-{{index.n}}"
-msgstr ""
+msgstr "{{index.n}}-的-{{index.m}}"
 
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr ""
+msgstr "{{item.n}}-的-{{item.m}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
