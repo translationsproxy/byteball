@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-08-26 11:30-0400\n"
+"PO-Revision-Date: 2017-08-26 11:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Также, не забудьте удалить Вашу мнемонику (seed)"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -481,7 +481,7 @@ msgstr ""
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Не используйте это для клонирования кошелька."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -796,7 +796,7 @@ msgstr "Нет"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "Не указан пароль"
 
 #: public/views/walletHome.html:483
 msgid "No transactions yet"
@@ -1526,7 +1526,7 @@ msgstr "[ Добавить новое устройство совладельц�
 #: public/views/modals/offer-contract.html:36
 #: public/views/modals/offer-contract.html:44
 msgid "amount"
-msgstr ""
+msgstr "количество"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
@@ -1605,7 +1605,7 @@ msgstr "необязательно"
 
 #: public/views/modals/offer-contract.html:91
 msgid "or"
-msgstr ""
+msgstr "или"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
@@ -1617,7 +1617,7 @@ msgstr "контрагент платит"
 
 #: public/views/modals/bind.html:58
 msgid "posted"
-msgstr ""
+msgstr "опубликовано"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
