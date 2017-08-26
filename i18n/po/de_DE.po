@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-08-25 16:50-0400\n"
+"PO-Revision-Date: 2017-08-26 07:01-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -110,7 +110,7 @@ msgstr "Auch"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "Im Menü \"Einstellungen\" befinden sich Sicherheitsoptionen um z.B. ein Passwort festzulegen."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
