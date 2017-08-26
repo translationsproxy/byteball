@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-08-23 05:41-0400\n"
+"PO-Revision-Date: 2017-08-26 11:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -67,7 +67,7 @@ msgstr "Добавить кошелек"
 
 #: public/views/correspondentDevices.html:80
 msgid "Added"
-msgstr ""
+msgstr "Добавлен"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
