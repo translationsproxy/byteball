@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-08-26 11:50-0400\n"
+"PO-Revision-Date: 2017-08-26 12:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -193,7 +193,7 @@ msgstr "До получения средств, настоятельно рек�
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Еще лучше, используйте кошельки с мульти подписью и с избыточностью,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:84
