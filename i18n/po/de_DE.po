@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-08-28 04:31-0400\n"
+"PO-Revision-Date: 2017-08-28 04:41-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1538,7 +1538,7 @@ msgstr "kann den Vertrag entsperren"
 
 #: public/views/modals/offer-contract.html:98
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "kann den Vertrag entsperren nachdem er abgelaufen ist in"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -1558,11 +1558,11 @@ msgstr "Tage"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "z.B. 1-von-2 Wallet mit einem Schlüssel auf diesem Gerät und einem weiteren Schlüssel auf Ihrem Computer."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "z.B. 1-von-2 Wallet mit einem Schlüssel auf diesem Gerät und einem weiteren Schlüssel auf Ihrem Smartphone."
 
 #: public/views/modals/bind.html:70
 msgid "either way"
@@ -1596,7 +1596,7 @@ msgstr "durch ausstehende Zahlungen gesperrt"
 #: public/views/modals/bind.html:53
 #: public/views/modals/offer-contract.html:80
 msgid "on feed name"
-msgstr ""
+msgstr "auf Feed Namen"
 
 #: public/views/walletHome.html:386
 #: public/views/walletHome.html:397
@@ -1687,4 +1687,4 @@ msgstr "{{item.m}}-von-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'An':'Aus'}}"
