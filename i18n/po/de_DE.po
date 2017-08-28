@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-08-28 04:00-0400\n"
+"PO-Revision-Date: 2017-08-28 04:31-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -661,7 +661,7 @@ msgstr "Wenn Sie dieses Backup von einem anderen Gerät haben, benutzen Sie das 
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Wenn Sie vorhaben diese Wallet auf einem anderen Gerät wiederherzustellen, benutzen Sie diese Wallet auf diesem Gerät nach der Erstellung des Backups nicht mehr. Kopieren Sie niemals eine Wallet. Wenn Sie Zugriff von verschiedenen Geräten brauchen, benutzen Sie MultiSig."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -1268,7 +1268,7 @@ msgstr "Wallet \"{{walletName}}\" wurde gelöscht"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "Der Wallet Anbieter ist in der Lage Ihren Kontostand zu sehen und welche Transaktionen Ihnen zuzuordnen sind, aber sie können die vollfunktionsfähige Wallet sofort zu nutzen."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
