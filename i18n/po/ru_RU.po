@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-09-05 14:11-0400\n"
+"PO-Revision-Date: 2017-09-05 14:22-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -477,7 +477,7 @@ msgstr "Имя устройства видимо для других устро�
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr "Не клонируйте кошельки, прекратите использовать исходный кошелёк с этим seed."
+msgstr "Не клонируйте кошельки, прекратите использовать исходный кошелёк с этой мнемофразой (seed)."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
@@ -702,7 +702,7 @@ msgstr "Пригласить другое устройство"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr "Сохранение только seed может быть недостаточно. Если резервируете только seed, вы не сможете восстановить кошелёк с мультиподписью и приватные активы (токены), такие как чёрные байты."
+msgstr "Сохранение только мнемофразы (seed) может быть недостаточно. Если резервируете только мнемофраза, вы не сможете восстановить кошелёк с мультиподписью и приватные активы (токены), такие как чёрные байты."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
