@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-09-05 13:50-0400\n"
+"PO-Revision-Date: 2017-09-05 14:01-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1268,7 +1268,7 @@ msgstr "Кошелек «{{walletName}}» был удален"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr "Wallet vendor (производитель кошелька) сможет увидеть баланс некоторых ваших адресов и определить, какие из транзакций ваши. Но вы сразу же можете использовать кошелёк."
+msgstr "Вы будете работать с сетью Byteball через надёжный промежуточный узел (hub), который будет обслуживать ваши транзации. Этот узел сможет увидеть баланс некоторых ваших адресов и определить, какие из транзакций ваши. Зато вы сразу же можете использовать кошелёк без скачивания большого объёма данных."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
