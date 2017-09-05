@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-08-26 12:00-0400\n"
+"PO-Revision-Date: 2017-09-05 13:31-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -212,7 +212,7 @@ msgstr "Bitcoin URI не действителен!"
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:29
 msgid "Bot Store"
-msgstr ""
+msgstr "Магазин ботов"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -477,7 +477,7 @@ msgstr "Имя устройства видимо для других устро�
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Не клонируйте кошельки, прекратите использовать исходный кошелёк с этим seed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
@@ -1688,3 +1688,4 @@ msgstr "{{item.m}}-из-{{item.n}}"
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
 msgstr ""
+
