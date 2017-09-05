@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-09-05 14:22-0400\n"
+"PO-Revision-Date: 2017-09-05 15:14-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -498,7 +498,7 @@ msgstr "Скачать CSV-файл"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr "Хранить всю базу данных Byteball"
+msgstr "Скачать и хранить всю базу данных Byteball"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
