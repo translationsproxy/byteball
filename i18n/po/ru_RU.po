@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-09-05 14:01-0400\n"
+"PO-Revision-Date: 2017-09-05 14:11-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1596,7 +1596,7 @@ msgstr "заблокировано в ожидании платежей"
 #: public/views/modals/bind.html:53
 #: public/views/modals/offer-contract.html:80
 msgid "on feed name"
-msgstr ""
+msgstr "в фиде с именем"
 
 #: public/views/walletHome.html:386
 #: public/views/walletHome.html:397
@@ -1609,7 +1609,7 @@ msgstr "или"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "или сохранить все данные кошелька Byteball в"
 
 #: public/views/modals/offer-contract.html:43
 msgid "peer pays"
@@ -1650,11 +1650,11 @@ msgstr "с"
 
 #: public/views/modals/offer-contract.html:83
 msgid "with expected value"
-msgstr ""
+msgstr "с ожидаемым значением"
 
 #: public/views/modals/bind.html:56
 msgid "with expected value of"
-msgstr ""
+msgstr "с ожидаемым значением"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
@@ -1687,5 +1687,5 @@ msgstr "{{item.m}}-из-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'Вкл.':'Выкл.'}}"
 
