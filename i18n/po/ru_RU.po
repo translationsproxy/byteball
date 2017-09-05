@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-09-05 13:31-0400\n"
+"PO-Revision-Date: 2017-09-05 13:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -657,11 +657,11 @@ msgstr "Если контрагент не заплатил, я могу заб�
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Если вы восстанавливаете резервную копию, сделанную на другом устройстве, прекратите использовать кошелёк на исходном (первом) устройстве сразу же после создания резервной копии. Никогда не клонируйте кошельки. Если вам нужен доступ к кошельку с нескольких устройств, используйте кошелёк с мультиподписью (multisig)."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Если вы планируете восстановить из резеврной этот кошелёк на другом устройстве, прекратите использовать его на этом устройстве сразу после создания резервной копии. НИКОГДА НЕ КЛОНИРУЙТЕ КОШЕЛЬКИ. Если вам нужен доступ к кошельку с нескольких устройств - используйте кошелек с мультиподписью (спаренные устройства)."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -702,7 +702,7 @@ msgstr "Пригласить другое устройство"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Сохранение только seed может быть недостаточно. Если резервируете только seed, вы не сможете восстановить кошелёк с мультиподписью и приватные активы (токены), такие как чёрные байты."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -1259,7 +1259,7 @@ msgstr "Контрагент получает этот платеж если"
 
 #: public/views/modals/vote.html:61
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "Для вашего голоса будет засчитан баланс всех адресов вашего кошелька"
 
 #: src/js/controllers/copayers.js:75
 #: src/js/controllers/preferencesDelete.js:56
