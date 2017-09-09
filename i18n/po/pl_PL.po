@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-09-09 01:51-0400\n"
+"PO-Revision-Date: 2017-09-09 02:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -326,7 +326,7 @@ msgstr "Potwierdź głos"
 
 #: public/views/modals/tx-details.html:108
 msgid "Confirmed"
-msgstr "Potwierdzone"
+msgstr "Potwierdzona"
 
 #: public/views/correspondentDevices.html:26
 msgid "Contacts"
@@ -347,11 +347,11 @@ msgstr "Nie można utworzyć propozycji płatności"
 
 #: src/js/services/profileService.js:222
 msgid "Could not create using the specified extended private key"
-msgstr "Nie można utworzyć przy użyciu określonego rozszerzonego klucza prywatnego"
+msgstr "Nie można utworzyć przy użyciu wskazanego rozszerzonego klucza prywatnego"
 
 #: src/js/services/profileService.js:232
 msgid "Could not create using the specified extended public key"
-msgstr "Nie można utworzyć przy użyciu określonego rozszerzonego klucza publicznego"
+msgstr "Nie można utworzyć przy użyciu wskazanego rozszerzonego klucza publicznego"
 
 #: src/js/services/profileService.js:215
 msgid "Could not create: Invalid wallet seed"
@@ -677,7 +677,7 @@ msgstr "Importowanie portfela..."
 
 #: public/views/walletHome.html:111
 msgid "Including pending confirmation"
-msgstr "W tym oczekujące potwierdzenie"
+msgstr "W tym oczekujące na potwierdzenie"
 
 #: public/views/walletHome.html:499
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
