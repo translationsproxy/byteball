@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-09-09 02:00-0400\n"
+"PO-Revision-Date: 2017-09-09 02:10-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -829,7 +829,7 @@ msgstr "Po zapisaniu słów źródłowych portfela, zaleca się usunięcie ich z
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr "Tylko potfele z jednym podpisem mogą być przywrócone."
+msgstr "Tylko portfele z jednym podpisem mogą być przywrócone."
 
 #: public/views/bot.html:35
 msgid "Open chat"
@@ -837,7 +837,7 @@ msgstr "Otwórz czat"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr "Paruj"
+msgstr "Sparuj"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
@@ -862,11 +862,11 @@ msgstr "Wymagane hasło"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
-msgstr "Hasła są rozbieżne"
+msgstr "Hasła nie zgadzają się"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr "Wklej tutaj klucz prywatny twojego portfela papierowego"
+msgstr "Wprowadź tutaj klucz prywatny twojego portfela papierowego"
 
 #: public/views/modals/offer-contract.html:129
 msgid "Pay and offer"
