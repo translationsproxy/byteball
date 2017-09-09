@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-09-09 01:20-0400\n"
+"PO-Revision-Date: 2017-09-09 01:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -707,7 +707,7 @@ msgstr "Same słowa źródłowe portfela nie są wystarczające. Nie umożliwiaj
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Zachowaj tylko dane dotyczące Ciebie"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
@@ -910,7 +910,7 @@ msgstr "Czysty Portfel"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr ""
+msgstr "Wybierz proszę ile danych przechowywać w Twoim portfelu"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
@@ -952,7 +952,7 @@ msgstr "Skaner QR"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Pytanie:"
 
 #: src/js/controllers/index.js:594
 msgid "Receive"
@@ -1256,11 +1256,11 @@ msgstr "Hub sugeruje wymianę następujących świadków:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "Partner otrzyma tę płatność, gdy"
 
 #: public/views/modals/vote.html:61
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "Głos zostanie podpisany przez wszystkie Twoje adresy zawierające środki"
 
 #: src/js/controllers/copayers.js:75
 #: src/js/controllers/preferencesDelete.js:56
@@ -1269,7 +1269,7 @@ msgstr "Portfel \"{{walletName}}\" został usunięty"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "Dostawca portfela będzie mógł poznać stan niektórych Twoich środków i będzie widział, które transakcje są Twoje, ale możesz zacząć używać portfela natychmiast i jest on w pełni funkcjonalny."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
@@ -1293,7 +1293,7 @@ msgstr "To jest prywatne aktywo. Wysyłaj je tylko poprzez kliknięcie w link ot
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "Ta opcja jest lepsza dla zachowania prywatności, ale zajmie kilka gigabajtów pamięci na dysku i początkowa synchronizacja zajmie kilka dni.  Obciążenie procesora podczas synchronizacji będzie wysokie."
 
 #: public/views/walletHome.html:347
 msgid "This payment is bound to a condition"
@@ -1319,7 +1319,7 @@ msgstr "Do"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "Aby móc przywrócić wszystko, proszę utwórz pełny backup (opcja znajduje się w Menu)"
 
 #: public/views/walletHome.html:350
 msgid "To bind the payment to a condition, please click the peer's address in chat"
