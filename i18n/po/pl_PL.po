@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-09-09 01:30-0400\n"
+"PO-Revision-Date: 2017-09-09 01:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1527,19 +1527,19 @@ msgstr "[ Dodaj nowe urządzenie współsygnatariusza ]"
 #: public/views/modals/offer-contract.html:36
 #: public/views/modals/offer-contract.html:44
 msgid "amount"
-msgstr ""
+msgstr "kwota"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "wydarzenie jest ogłoszone przez wyrocznię"
 
 #: public/views/modals/offer-contract.html:69
 msgid "can unlock the contract"
-msgstr ""
+msgstr "mogę odblokować kontrakt"
 
 #: public/views/modals/offer-contract.html:98
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "może odblokować kontrakt po jego wygaśnięciu po"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -1559,11 +1559,11 @@ msgstr "dniach"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "Na przykład portfel 1 z 2, gdzie jeden klucz znajduje się na tym urządzeniu, a drugi klucz na Twoim laptopie."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "Na przykład portfel 1 z 2, gdzie jeden klucz znajduje się na tym urządzeniu, a drugi klucz na Twoim smartfonie."
 
 #: public/views/modals/bind.html:70
 msgid "either way"
@@ -1580,7 +1580,7 @@ msgstr "godziny"
 
 #: public/views/modals/offer-contract.html:70
 msgid "if an event is posted by an oracle"
-msgstr ""
+msgstr "gdy wydarzenie jest ogłoszone przez wyrocznię:"
 
 #: public/views/modals/bind.html:66
 msgid "in merkle tree"
