@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-09-09 04:03-0400\n"
+"PO-Revision-Date: 2017-09-11 09:03-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -298,7 +298,7 @@ msgstr "Kolor"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr "Zatwierdzony hash"
+msgstr "Hash zatwierdzenia"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
