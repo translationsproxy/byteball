@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-08-28 04:41-0400\n"
+"PO-Revision-Date: 2017-09-12 09:51-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -347,7 +347,7 @@ msgstr "Es kann kein Zahlungsvorschlag erzeugt werden"
 
 #: src/js/services/profileService.js:222
 msgid "Could not create using the specified extended private key"
-msgstr "Erzeugung mit erweiterten privaten Schlüssel nicht möglich"
+msgstr "Erzeugung mit dem erweiterten privaten Schlüssel nicht möglich"
 
 #: src/js/services/profileService.js:232
 msgid "Could not create using the specified extended public key"
@@ -442,7 +442,7 @@ msgstr "Definition der Vertragsadresse"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
-msgstr "Definition der Adressen"
+msgstr "Definitionen der Adressen"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
@@ -473,7 +473,7 @@ msgstr "Gerätename"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr "Der Gerätename ist während der Kommunikation mit anderen sichtbar."
+msgstr "Der Gerätename ist während der Kommunikation mit anderen Geräten sichtbar."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
@@ -507,7 +507,7 @@ msgstr "Ändern"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr "Entweder Sie oder {{correspondent.name}} haben den Chat Verlauf deaktiviert. Der Verlauf wird daher nicht gespeichert."
+msgstr "Entweder Sie oder {{correspondent.name}} haben den Chat Verlauf deaktiviert. Der Verlauf wird daher für niemanden gespeichert."
 
 #: public/views/preferencesEmail.html:33
 msgid "Email for wallet notifications"
@@ -1688,3 +1688,4 @@ msgstr "{{item.m}}-von-{{item.n}}"
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
 msgstr "{{prefGlobal.torEnabled?'An':'Aus'}}"
+
