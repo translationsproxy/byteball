@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-09-11 09:03-0400\n"
+"PO-Revision-Date: 2017-09-13 04:21-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -906,7 +906,7 @@ msgstr "Bezpowrotnie usuń ten portfel. TEJ CZYNNOŚCI NIE MOŻNA COFNĄĆ"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
-msgstr "Portfel na jednym urządzeniu"
+msgstr "Zwykły portfel"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
