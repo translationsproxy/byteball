@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 06:21-0400\n"
+"PO-Revision-Date: 2017-09-24 06:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1258,7 +1258,7 @@ msgstr "ハブは次の証人の入れ替えを提案しています :"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr "ピアが支払いを受け取る条件 :"
+msgstr "ピアが支払いを受け取るのは"
 
 #: public/views/modals/vote.html:61
 msgid "The vote will be signed by all your funded addresses"
@@ -1582,7 +1582,7 @@ msgstr "時間"
 
 #: public/views/modals/offer-contract.html:70
 msgid "if an event is posted by an oracle"
-msgstr "イベントがオラクル"
+msgstr "次のイベントが発生した場合 :オラクル"
 
 #: public/views/modals/bind.html:66
 msgid "in merkle tree"
@@ -1620,7 +1620,7 @@ msgstr "ピア支払い"
 
 #: public/views/modals/bind.html:58
 msgid "posted"
-msgstr "を"
+msgstr "が"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
@@ -1657,7 +1657,7 @@ msgstr ""
 
 #: public/views/modals/bind.html:56
 msgid "with expected value of"
-msgstr ""
+msgstr "に予想値"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
