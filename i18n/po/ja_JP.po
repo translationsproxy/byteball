@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 07:10-0400\n"
+"PO-Revision-Date: 2017-09-24 07:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -19,7 +19,7 @@ msgstr "(サイトが残高を見たり、お金を使用することはあり�
 
 #: public/views/walletHome.html:525
 msgid "(possible double spend)"
-msgstr "(二重払い可能性あり)"
+msgstr "(二重払いの可能性あり)"
 
 #: public/views/create.html:82
 msgid "-- Select co-signer --"
@@ -34,7 +34,7 @@ msgstr "Byteballについて"
 #: src/js/controllers/walletHome.js:118
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr "承諾"
+msgstr "承認"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
@@ -46,7 +46,7 @@ msgstr "他のデバイスからの招待の受け入れ"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
-msgstr "ポケット"
+msgstr "アカウント"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
@@ -59,7 +59,7 @@ msgstr "デバイスの追加"
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr "新規追加"
+msgstr "エントリーの追加"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -1541,7 +1541,7 @@ msgstr "がコントラクトを解除できるのは"
 
 #: public/views/modals/offer-contract.html:98
 msgid "can unlock the contract after it expires in"
-msgstr "は期限切れ後にコントラクトを解除できます : 期限は"
+msgstr "が期限切れ後にコントラクトを解除できます : 期限は"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -1599,7 +1599,7 @@ msgstr "未対応送金の提案によりロック中"
 #: public/views/modals/bind.html:53
 #: public/views/modals/offer-contract.html:80
 msgid "on feed name"
-msgstr "によってフィード"
+msgstr "フィード"
 
 #: public/views/walletHome.html:386
 #: public/views/walletHome.html:397
@@ -1653,15 +1653,15 @@ msgstr "と"
 
 #: public/views/modals/offer-contract.html:83
 msgid "with expected value"
-msgstr ""
+msgstr "予想値"
 
 #: public/views/modals/bind.html:56
 msgid "with expected value of"
-msgstr "に予想値"
+msgstr "予想値"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
-msgstr ""
+msgstr "{{address}}は次の場合に使うことができます :"
 
 #: public/views/modals/customized-amount.html:75
 msgid "{{buttonLabel}}"
@@ -1669,7 +1669,7 @@ msgstr ""
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
-msgstr ""
+msgstr "{cancel_label || 'キャンセル'}"
 
 #: src/js/controllers/walletHome.js:1352
 msgid "{{fee}} will be deducted for bitcoin networking fees"
@@ -1677,18 +1677,18 @@ msgstr "{{fee}} のビットコインネットワーク手数料が差し引か�
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "{{hrd.destinationAddress}}は次の場合に使うことができます :"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
 msgid "{{index.m}}-of-{{index.n}}"
-msgstr ""
+msgstr "{{index.n}}の内{{index.m}}"
 
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr ""
+msgstr "{{item.n}}の内{{item.m}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'On':'Off'}}"
 
