@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-23 22:50-0400\n"
+"PO-Revision-Date: 2017-09-23 23:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -213,7 +213,7 @@ msgstr "Bitcoin URI が無効です！"
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:29
 msgid "Bot Store"
-msgstr ""
+msgstr "Botストア"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -225,7 +225,7 @@ msgstr "ブラウザ未対応"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Byteballアドレス"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -259,7 +259,7 @@ msgstr "チャット"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "ファイルを選択"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -283,15 +283,15 @@ msgstr "閉じる"
 
 #: public/views/create.html:80
 msgid "Co-signer {{$index+1}}:"
-msgstr ""
+msgstr "連署者 {{$index+1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr ""
+msgstr "連署者"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr ""
+msgstr "マルチシグの連署者"
 
 #: public/views/preferences.html:29
 msgid "Color"
@@ -315,7 +315,7 @@ msgstr "確認"
 
 #: public/views/modals/vote.html:55
 msgid "Confirm Vote"
-msgstr ""
+msgstr "投票を確認"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -323,7 +323,7 @@ msgstr "支払いの確認"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "投票を確認"
 
 #: public/views/modals/tx-details.html:108
 msgid "Confirmed"
@@ -331,7 +331,7 @@ msgstr "確認済み"
 
 #: public/views/correspondentDevices.html:26
 msgid "Contacts"
-msgstr ""
+msgstr "コンタクト"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:388
@@ -1565,7 +1565,7 @@ msgstr ""
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "例えば、2つの内1つのキーを持ったウォレットをこのデバイスに、もう1つのキーをスマートフォンに。"
 
 #: public/views/modals/bind.html:70
 msgid "either way"
