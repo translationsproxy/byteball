@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 04:20-0400\n"
+"PO-Revision-Date: 2017-09-24 04:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1561,7 +1561,7 @@ msgstr "日"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "例えば、2つの内1つのキーを持ったウォレットをこのデバイスに、もう1つのキーをノートパソコンに。"
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
@@ -1569,11 +1569,11 @@ msgstr "例えば、2つの内1つのキーを持ったウォレットをこの�
 
 #: public/views/modals/bind.html:70
 msgid "either way"
-msgstr ""
+msgstr "両方"
 
 #: public/views/modals/bind.html:62
 msgid "explicitly"
-msgstr ""
+msgstr "明確にする"
 
 #: public/views/modals/bind.html:77
 #: public/views/modals/offer-contract.html:61
@@ -1582,15 +1582,15 @@ msgstr "時間"
 
 #: public/views/modals/offer-contract.html:70
 msgid "if an event is posted by an oracle"
-msgstr ""
+msgstr "オラクルによってイベントが登録された場合"
 
 #: public/views/modals/bind.html:66
 msgid "in merkle tree"
-msgstr ""
+msgstr "マークル木"
 
 #: public/views/walletHome.html:131
 msgid "in smart wallets"
-msgstr ""
+msgstr "はスマートウォレットにあります。"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
