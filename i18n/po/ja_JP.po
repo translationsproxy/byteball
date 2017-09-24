@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 05:40-0400\n"
+"PO-Revision-Date: 2017-09-24 06:21-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1582,7 +1582,7 @@ msgstr "時間"
 
 #: public/views/modals/offer-contract.html:70
 msgid "if an event is posted by an oracle"
-msgstr "オラクルによってイベントが登録された場合"
+msgstr "イベントがオラクル"
 
 #: public/views/modals/bind.html:66
 msgid "in merkle tree"
@@ -1620,7 +1620,7 @@ msgstr "ピア支払い"
 
 #: public/views/modals/bind.html:58
 msgid "posted"
-msgstr ""
+msgstr "を"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
