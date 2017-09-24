@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 04:30-0400\n"
+"PO-Revision-Date: 2017-09-24 04:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1599,7 +1599,7 @@ msgstr "未対応送金の提案によりロック中"
 #: public/views/modals/bind.html:53
 #: public/views/modals/offer-contract.html:80
 msgid "on feed name"
-msgstr ""
+msgstr "は次のフィードにある :"
 
 #: public/views/walletHome.html:386
 #: public/views/walletHome.html:397
@@ -1608,7 +1608,7 @@ msgstr "任意"
 
 #: public/views/modals/offer-contract.html:91
 msgid "or"
-msgstr ""
+msgstr "または"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
@@ -1616,7 +1616,7 @@ msgstr "または、以下の場所にあるByteballのすべてのデータを�
 
 #: public/views/modals/offer-contract.html:43
 msgid "peer pays"
-msgstr ""
+msgstr "ピア支払い"
 
 #: public/views/modals/bind.html:58
 msgid "posted"
