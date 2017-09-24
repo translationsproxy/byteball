@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 03:31-0400\n"
+"PO-Revision-Date: 2017-09-24 03:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1308,7 +1308,7 @@ msgstr "この取引が無効になりました。二重払いの可能性があ
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
-msgstr ""
+msgstr "既存のすべてのウォレットが完全に削除されます！"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1321,7 +1321,7 @@ msgstr "宛先"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "すべてを復元可能にするためには、フルバックアップを作成してください（メニューにオプションがあります）"
 
 #: public/views/walletHome.html:350
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1612,7 +1612,7 @@ msgstr ""
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "または、以下の場所にあるByteballのすべてのデータをバックアップしてください :"
 
 #: public/views/modals/offer-contract.html:43
 msgid "peer pays"
