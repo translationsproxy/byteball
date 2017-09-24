@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-23 23:00-0400\n"
+"PO-Revision-Date: 2017-09-23 23:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -399,15 +399,15 @@ msgstr "新規ウォレット作成"
 
 #: src/js/controllers/index.js:272
 msgid "Create new wallet  together with  ?"
-msgstr ""
+msgstr "一緒に新しいウォレットを作成しますか？"
 
 #: public/views/create.html:161
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr ""
+msgstr "{{requiredCosigners}}-of-{{totalCosigners}} ウォレットを作成"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr ""
+msgstr "作成済："
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
@@ -435,15 +435,15 @@ msgstr "暗号化されたペーパーウォレットはこの端末だと解読
 
 #: public/views/walletHome.html:157
 msgid "Definition"
-msgstr ""
+msgstr "定義"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
-msgstr ""
+msgstr "スマートアドレスの定義"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
-msgstr ""
+msgstr "アドレスの定義"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
@@ -478,11 +478,11 @@ msgstr "デバイス名は他の端末とやりとりする際に表示されま
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "ウォレットを複製しないでください。このシードを使って元のウォレットを使用しないでください。"
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "ウォレットを複製するために使わないでください。"
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -499,7 +499,7 @@ msgstr "CSVファイルをダウンロード"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Byteballデータベースをすべてダウンロードする。"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
