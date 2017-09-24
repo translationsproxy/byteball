@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 02:40-0400\n"
+"PO-Revision-Date: 2017-09-24 02:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1183,11 +1183,11 @@ msgstr "ウォレットシードを表示する"
 
 #: src/js/controllers/index.js:418
 msgid "Sign transaction spending  from wallet ?"
-msgstr ""
+msgstr "ウォレットからの支払いに署名しますか？"
 
 #: src/js/services/profileService.js:275
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "少額ウォレット"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
@@ -1223,11 +1223,11 @@ msgstr "ペーパーウォレットの全残高インポート"
 
 #: public/views/walletHome.html:61
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr ""
+msgstr "同期中…残り{{index.count_unhandled_private_payments}}個のプライベートペイメント。"
 
 #: public/views/walletHome.html:60
 msgid "Syncing... {{index.syncProgress}}"
-msgstr ""
+msgstr "同期中…{{index.syncProgress}}"
 
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
