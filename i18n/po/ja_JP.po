@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 07:30-0400\n"
+"PO-Revision-Date: 2017-09-24 07:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -250,7 +250,7 @@ msgstr "ハブの変更:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr "ウォレット通称を変更しても、この端末でしか変わりません。"
+msgstr "ウォレットの別名を変更しても、この端末でしか変わりません。"
 
 #: src/js/controllers/index.js:606
 msgid "Chat"
@@ -343,7 +343,7 @@ msgstr "取引先は復元されません。"
 
 #: src/js/controllers/walletHome.js:598
 msgid "Could not create payment proposal"
-msgstr "送金の提案を作成できませんでした"
+msgstr "送金依頼を作成できませんでした"
 
 #: src/js/services/profileService.js:222
 msgid "Could not create using the specified extended private key"
@@ -359,7 +359,7 @@ msgstr "作成できません：ウォレットの復元フレーズが不正で
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr "解読できませんでした"
+msgstr "復号化できませんでした"
 
 #: public/views/walletHome.html:480
 msgid "Could not fetch transaction history"
@@ -430,7 +430,7 @@ msgstr "拒否されました。"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr "暗号化されたペーパーウォレットはこの端末だと解読に5分以上掛かる場合がございます。アプリを閉じたり他のアプリに切り替えたりせずに、終了するまでそのままお待ち下さい。"
+msgstr "暗号化されたペーパーウォレットは復号にデバイス上で5分以上掛かる場合があります。アプリを閉じたり他のアプリに切り替えたりせずに、終了するまでそのままお待ち下さい。"
 
 #: public/views/walletHome.html:157
 msgid "Definition"
