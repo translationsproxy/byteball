@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 03:20-0400\n"
+"PO-Revision-Date: 2017-09-24 03:31-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1271,11 +1271,11 @@ msgstr "ウォレット \"{{walletName}}\" が削除されました"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "ウォレットベンダーはあなたの残高の一部を知ることができ、どのトランザクションがあなたのものかを見ることができますが、ウォレットをすぐにフル機能で使用することができます。"
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
-msgstr ""
+msgstr "レコード設定"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
@@ -1283,7 +1283,7 @@ msgstr "送金可能なウォレットがありません"
 
 #: public/views/walletHome.html:257
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr ""
+msgstr "このアドレスは{{index.shared_address_cosigners}}と共有されます。"
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
@@ -1291,15 +1291,15 @@ msgstr "この選択は後から変更することが出来ません。"
 
 #: public/views/walletHome.html:315
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
-msgstr ""
+msgstr "これはプライベートアセットです。チャット内のリンクをクリックして送信するか、自身の他のウォレットに送信してください。"
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "このオプションはプライバシーが保護されますが、数Gバイトのストレージが必要になり、同期に数日かかります。同期厨はCPU負荷が上がります。"
 
 #: public/views/walletHome.html:347
 msgid "This payment is bound to a condition"
-msgstr ""
+msgstr "この支払は条件付きです"
 
 #: public/views/modals/tx-details.html:73
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
