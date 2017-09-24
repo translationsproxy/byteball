@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 02:30-0400\n"
+"PO-Revision-Date: 2017-09-24 02:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -942,7 +942,7 @@ msgstr "プライベートアセット（blackbytesなど）は回復されま�
 #: src/js/controllers/walletHome.js:1237
 #: src/js/controllers/walletHome.js:1310
 msgid "Private payloads sent"
-msgstr ""
+msgstr "プライベートペイロード送信"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -954,7 +954,7 @@ msgstr "QRコードを読み取って下さい"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "質問 :"
 
 #: src/js/controllers/index.js:594
 msgid "Receive"
@@ -987,7 +987,7 @@ msgstr "ウォレットを再作成中…"
 
 #: src/js/controllers/index.js:194
 msgid "Refused"
-msgstr ""
+msgstr "拒否"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
@@ -1029,7 +1029,7 @@ msgstr "指定金額を要求"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr ""
+msgstr "支払いをリクエストする"
 
 #: public/views/create.html:64
 msgid "Required number of signatures"
@@ -1104,7 +1104,7 @@ msgstr "サブウォレットの選択"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "アカウントを選択"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:449
@@ -1179,7 +1179,7 @@ msgstr "すべて表示"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "ウォレットシードを表示する"
 
 #: src/js/controllers/index.js:418
 msgid "Sign transaction spending  from wallet ?"
