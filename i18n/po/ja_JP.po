@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-23 22:30-0400\n"
+"PO-Revision-Date: 2017-09-23 22:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -106,15 +106,15 @@ msgstr "既に支払い済みです"
 
 #: public/views/walletHome.html:128
 msgid "Also"
-msgstr ""
+msgstr "また"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "また、設定メニューにパスワード設定のセキュリティオプションがあります。"
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "また、シードを削除するのを忘れないでください。"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
