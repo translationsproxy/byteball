@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-08-23 05:41-0400\n"
+"PO-Revision-Date: 2017-09-23 22:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr ""
+msgstr "(サイトが残高を見たり、お金を使用することはありません)"
 
 #: public/views/walletHome.html:525
 msgid "(possible double spend)"
@@ -23,7 +23,7 @@ msgstr "(二重払い可能性あり)"
 
 #: public/views/create.html:82
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- 連署者を選択してください --"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -50,7 +50,7 @@ msgstr "ポケット"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Botを追加"
 
 #: public/views/correspondentDevices.html:60
 msgid "Add a new device"
@@ -67,7 +67,7 @@ msgstr "ウォレットを追加"
 
 #: public/views/correspondentDevices.html:80
 msgid "Added"
-msgstr ""
+msgstr "追加済"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
@@ -1691,3 +1691,4 @@ msgstr ""
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
 msgstr ""
+
