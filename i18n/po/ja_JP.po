@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 00:50-0400\n"
+"PO-Revision-Date: 2017-09-24 01:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -642,7 +642,7 @@ msgstr "内容をよく読み、理解し、同意します。"
 
 #: public/views/modals/offer-contract.html:35
 msgid "I pay"
-msgstr ""
+msgstr "自分側支払"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
