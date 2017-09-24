@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 06:30-0400\n"
+"PO-Revision-Date: 2017-09-24 06:41-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -646,7 +646,7 @@ msgstr "自分側支払"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr "自分が別の支払いを受けた場合："
+msgstr "自分が以下の金額の別の支払いを受けた場合："
 
 #: public/views/modals/bind.html:75
 msgid "If the condition is not met, I can take this money back after"
@@ -1569,11 +1569,11 @@ msgstr "例えば、2つの内1つのキーを持ったウォレットをこの�
 
 #: public/views/modals/bind.html:70
 msgid "either way"
-msgstr "両方"
+msgstr "がいずれかの方法で掲示される。"
 
 #: public/views/modals/bind.html:62
 msgid "explicitly"
-msgstr "明確にする"
+msgstr "明示される。"
 
 #: public/views/modals/bind.html:77
 #: public/views/modals/offer-contract.html:61
@@ -1586,7 +1586,7 @@ msgstr "次のイベントが発生した場合 :オラクル"
 
 #: public/views/modals/bind.html:66
 msgid "in merkle tree"
-msgstr "マークル木"
+msgstr "マークル木に掲示される。"
 
 #: public/views/walletHome.html:131
 msgid "in smart wallets"
@@ -1624,11 +1624,11 @@ msgstr "が"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
-msgstr ""
+msgstr "プライベートペイロードを再送信"
 
 #: public/views/modals/tx-details.html:118
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "連署者にプライベートペイロードを再送信"
 
 #: src/js/controllers/walletHome.js:687
 #: src/js/controllers/walletHome.js:693
