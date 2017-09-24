@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 00:40-0400\n"
+"PO-Revision-Date: 2017-09-24 00:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -578,7 +578,7 @@ msgstr "残高がありました"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr ""
+msgstr "送金先"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
@@ -586,7 +586,7 @@ msgstr "はじめよう"
 
 #: src/js/controllers/walletHome.js:416
 msgid "Generate QR Code"
-msgstr ""
+msgstr "QRコードを生成"
 
 #: public/views/walletHome.html:266
 msgid "Generate new address"
@@ -602,7 +602,7 @@ msgstr "「{{selectedWalletName}}」のアドレスを取得中…"
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "グローバル設定"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
