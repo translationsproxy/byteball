@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 03:50-0400\n"
+"PO-Revision-Date: 2017-09-24 04:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1519,17 +1519,17 @@ msgstr "ウォレットの鍵が暗号化されます。Copayではパスワー�
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "このデバイス上にウォレットが作成されます。安全に気をつけてください。バックアップオプションは設定メニューを見てください。"
 
 #: public/views/create.html:84
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[ 連署デバイスを追加する ]"
 
 #: public/views/modals/bind.html:35
 #: public/views/modals/offer-contract.html:36
 #: public/views/modals/offer-contract.html:44
 msgid "amount"
-msgstr ""
+msgstr "金額"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
