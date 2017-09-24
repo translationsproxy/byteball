@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 07:00-0400\n"
+"PO-Revision-Date: 2017-09-24 07:10-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1533,15 +1533,15 @@ msgstr "金額"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr "オラクルによってイベントが登録された場合"
+msgstr "次のイベントが発生した場合 :オラクル"
 
 #: public/views/modals/offer-contract.html:69
 msgid "can unlock the contract"
-msgstr "は次の場合にコントラクトを解除できます :"
+msgstr "がコントラクトを解除できるのは"
 
 #: public/views/modals/offer-contract.html:98
 msgid "can unlock the contract after it expires in"
-msgstr "は期限切れ後にコントラクトを解除できます : あと"
+msgstr "は期限切れ後にコントラクトを解除できます : 期限は"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -1569,11 +1569,11 @@ msgstr "例えば、2つの内1つのキーを持ったウォレットをこの�
 
 #: public/views/modals/bind.html:70
 msgid "either way"
-msgstr "がいずれかの方法で掲示される。"
+msgstr "がいずれかの方法で"
 
 #: public/views/modals/bind.html:62
 msgid "explicitly"
-msgstr "明示される。"
+msgstr "明確に"
 
 #: public/views/modals/bind.html:77
 #: public/views/modals/offer-contract.html:61
@@ -1586,7 +1586,7 @@ msgstr "次のイベントが発生した場合 :オラクル"
 
 #: public/views/modals/bind.html:66
 msgid "in merkle tree"
-msgstr "マークル木に掲示される。"
+msgstr "マークル木に"
 
 #: public/views/walletHome.html:131
 msgid "in smart wallets"
@@ -1599,7 +1599,7 @@ msgstr "未対応送金の提案によりロック中"
 #: public/views/modals/bind.html:53
 #: public/views/modals/offer-contract.html:80
 msgid "on feed name"
-msgstr "は次のフィードにある :"
+msgstr "によってフィード"
 
 #: public/views/walletHome.html:386
 #: public/views/walletHome.html:397
