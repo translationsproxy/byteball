@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 01:50-0400\n"
+"PO-Revision-Date: 2017-09-24 02:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -773,7 +773,7 @@ msgstr "レコード設定"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "連絡先の名前"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
@@ -785,7 +785,7 @@ msgstr "新規フレーズ作成"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
-msgstr ""
+msgstr "新しいバージョンがあります！"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
