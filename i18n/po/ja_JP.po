@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 00:30-0400\n"
+"PO-Revision-Date: 2017-09-24 00:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -407,7 +407,7 @@ msgstr "{{requiredCosigners}}-of-{{totalCosigners}} ウォレットを作成"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr "作成済："
+msgstr "作成済 :"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
@@ -566,7 +566,7 @@ msgstr "From"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
-msgstr ""
+msgstr "フルアドレス :"
 
 #: public/views/preferencesGlobal.html:118
 msgid "Full backup"
