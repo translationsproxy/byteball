@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 01:00-0400\n"
+"PO-Revision-Date: 2017-09-24 01:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -646,7 +646,7 @@ msgstr "自分側支払"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "自分が別の支払いを受けた場合："
 
 #: public/views/modals/bind.html:75
 msgid "If the condition is not met, I can take this money back after"
