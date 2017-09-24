@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 02:00-0400\n"
+"PO-Revision-Date: 2017-09-24 02:10-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -789,7 +789,7 @@ msgstr "新しいバージョンがあります！"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
-msgstr ""
+msgstr "新しい証人"
 
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:441
@@ -798,7 +798,7 @@ msgstr "いいえ"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "パスワードがありません"
 
 #: public/views/walletHome.html:483
 msgid "No transactions yet"
@@ -830,11 +830,11 @@ msgstr "復元フレーズを控えたら、このデバイスから削除する
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr ""
+msgstr "シングルシグウォレットのみ回復できます。"
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "チャットを開く"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
