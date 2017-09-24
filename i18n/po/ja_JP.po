@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 07:20-0400\n"
+"PO-Revision-Date: 2017-09-24 07:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -90,7 +90,7 @@ msgstr "同意します"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
-msgstr "<i>{{index.walletName}}</i> の通称設定"
+msgstr "<i>{{index.walletName}}</i> の別名"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
@@ -127,11 +127,11 @@ msgstr "金額"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr "回答："
+msgstr "回答 :"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr "他のデバイスでウォレットの作成を認める。"
+msgstr "他のデバイスでウォレットの作成を認める"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
@@ -140,8 +140,7 @@ msgstr "復元フレーズを削除してもよろしいですか？"
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr "本当にこのウォレットを削除しても\n"
-"宜しいですか？"
+msgstr "本当にこのウォレットを削除してもよろしいですか？"
 
 #: public/views/modals/customized-amount.html:71
 msgid "Asset"
@@ -149,11 +148,11 @@ msgstr "資産"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr "ハブから証明一覧の自動アップデート"
+msgstr "ハブから証人リストの自動アップデート"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr "このハブから証明一覧の自動アップデート"
+msgstr "このハブから証人リストの自動アップデート"
 
 #: public/views/includes/available-balance.html:7
 #: public/views/walletHome.html:299
@@ -178,11 +177,11 @@ msgstr "今すぐバックアップ"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "ウォレットの復元フレーズ"
+msgstr "ウォレットのバックアップシード"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr "復元フレーズを削除しました。"
+msgstr "バックアップフレーズを削除しました。"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -190,7 +189,7 @@ msgstr "アドレスごとの残高"
 
 #: public/views/walletHome.html:204
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "ビットコインをもらう前に、このウォレットのバックアップすることを強くおすすめします。"
+msgstr "送金してもらう前に、このウォレットをバックアップすることを強くおすすめします。"
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -199,12 +198,12 @@ msgstr "できれば、冗長性を備えたマルチシグウォレットを使
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:84
 msgid "Bind payment"
-msgstr "支払いの紐付け"
+msgstr "条件付き支払い"
 
 #: public/views/walletHome.html:346
 #: public/views/walletHome.html:353
 msgid "Bind the payment to a condition"
-msgstr "支払いを条件に紐付け"
+msgstr "条件付き支払い"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
