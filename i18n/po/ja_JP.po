@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 00:11-0400\n"
+"PO-Revision-Date: 2017-09-24 00:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -538,7 +538,7 @@ msgstr "エクスポート"
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
 msgid "Export completed successfully"
-msgstr ""
+msgstr "エクスポートが完了しました。"
 
 #: public/views/export.html:19
 msgid "Exporting..."
