@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 01:30-0400\n"
+"PO-Revision-Date: 2017-09-24 01:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -658,11 +658,11 @@ msgstr "ピアが支払わない場合、右の時間が経過した後に返金
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "バックアップを他のデバイスから持ってきた場合、バックアップ作成後すぐに元のデバイスの使用をやめてください。絶対にウォレットを複製しないでください。複数のデバイスからアクセスする必要がある場合はマルチシグを使ってください。"
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "他のデバイスでリストアする場合は、バックアップ作成後すぐに現在のデバイスの使用をやめてください。絶対にウォレットを複製しないでください。複数のデバイスからアクセスする必要がある場合はマルチシグを使ってください。"
 
 #: public/views/import.html:40
 msgid "Import"
@@ -678,7 +678,7 @@ msgstr "ウォレットインポート中…"
 
 #: public/views/walletHome.html:111
 msgid "Including pending confirmation"
-msgstr ""
+msgstr "保留中の確認を含む"
 
 #: public/views/walletHome.html:499
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
@@ -688,7 +688,7 @@ msgstr "初回の取引紹介は少し時間がかかる場合がございます
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "アドレスを挿入する"
 
 #: public/views/walletHome.html:518
 msgid "Invalid"
@@ -704,7 +704,7 @@ msgstr "他のデバイスの招待"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "ウォレットシードだけでは不十分です。シードのみでは、マルチシグウォレットやblackbytesのようなプライベートアセットはリストアできません。"
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
