@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 02:20-0400\n"
+"PO-Revision-Date: 2017-09-24 02:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -871,11 +871,11 @@ msgstr "ペーパーウォレットの秘密鍵をここに貼り付けて下さ
 
 #: public/views/modals/offer-contract.html:129
 msgid "Pay and offer"
-msgstr ""
+msgstr "支払いとオファー"
 
 #: src/js/services/correspondentListService.js:108
 msgid "Pay to this address"
-msgstr ""
+msgstr "このアドレスに支払う"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
@@ -899,7 +899,7 @@ msgstr "送金が完了しました"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "ピア :"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -908,11 +908,11 @@ msgstr "永久にこのウォレットを削除します。\n"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
-msgstr ""
+msgstr "通常ウォレット"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr ""
+msgstr "ウォレットに保存するデータ量を選択してください"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
@@ -937,7 +937,7 @@ msgstr "もう一度押すと終了します"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "プライベートアセット（blackbytesなど）は回復されません。"
 
 #: src/js/controllers/walletHome.js:1237
 #: src/js/controllers/walletHome.js:1310
