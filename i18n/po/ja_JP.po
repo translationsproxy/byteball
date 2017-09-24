@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-24 06:41-0400\n"
+"PO-Revision-Date: 2017-09-24 06:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1649,7 +1649,7 @@ msgstr "長すぎます！"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "と"
 
 #: public/views/modals/offer-contract.html:83
 msgid "with expected value"
