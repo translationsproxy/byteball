@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-26 11:31-0400\n"
+"PO-Revision-Date: 2017-09-26 11:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -682,7 +682,7 @@ msgstr "保留中の確認を含む"
 #: public/views/walletHome.html:499
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr "初回の取引紹介は少し時間がかかる場合がございます。(特に取引履歴がたくさんあるウォレット)<br>\n"
+msgstr "取引履歴の多いウォレットの場合、初回の同期には時間がかかる場合があります。<br>\n"
 "          少々お待ち下さい。"
 
 #: public/views/correspondentDevice.html:327
