@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-26 11:40-0400\n"
+"PO-Revision-Date: 2017-09-26 11:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -703,7 +703,7 @@ msgstr "他のデバイスの招待"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr "ウォレットシードだけでは不十分です。シードのみでは、マルチシグウォレットやblackbytesのようなプライベートアセットはリストアできません。"
+msgstr "ウォレットシードだけでは不十分です。シードのみではマルチシグウォレットやblackbytesのようなプライベートアセットはリストアできません。"
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -780,7 +780,7 @@ msgstr "ネットワーク"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr "新規フレーズ作成"
+msgstr "乱数シードの生成"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
@@ -821,11 +821,11 @@ msgstr "メモ"
 #: public/views/modals/offer-contract.html:25
 #: src/js/services/correspondentListService.js:108
 msgid "Offer a contract"
-msgstr "契約の申込み"
+msgstr "コントラクトの申込み"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr "復元フレーズを控えたら、このデバイスから削除することをおすすめします。"
+msgstr "ウォレットシードを控えたら、このデバイスから削除することをおすすめします。"
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
@@ -902,8 +902,7 @@ msgstr "ピア :"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
-msgstr "永久にこのウォレットを削除します。\n"
-"二度と取り戻せない行為ですのどご注意下さい。"
+msgstr "永久にこのウォレットを削除します。“この操作は取り消せません！”"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
@@ -949,7 +948,7 @@ msgstr "QRコード"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr "QRコードを読み取って下さい"
+msgstr "QRコードスキャン"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
@@ -978,7 +977,7 @@ msgstr "復元"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr "バックアップフレーズから復元"
+msgstr "シードから復元"
 
 #: public/views/walletHome.html:58
 msgid "Recreating Wallet..."
