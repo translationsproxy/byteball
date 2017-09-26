@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-26 12:01-0400\n"
+"PO-Revision-Date: 2017-09-26 12:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1156,7 +1156,7 @@ msgstr "パスワード設定"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr "メールのお知らせを有効にすると、悪意のあるサーバー運用者ならあなたの全てのアドレスとそれぞれの残高・履歴情報が把握できプライバシーの侵害に繋がる可能性があります。"
+msgstr "メール通知を有効にすると、ウォレットのサービスプロバイダがハッキングされたときにプライバシーが守られない可能性があります。攻撃者が入手できる情報には、ウォレットアドレスとその残高が含まれますが、それ以外は含まれません。"
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
@@ -1189,12 +1189,12 @@ msgstr "少額ウォレット"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr "フレーズ指定…"
+msgstr "シードを指定…"
 
 #: public/views/preferences.html:49
 #: public/views/preferencesGlobal.html:82
 msgid "Spending Restrictions"
-msgstr "送金上限"
+msgstr "支払いを制限する"
 
 #: public/views/preferencesGlobal.html:96
 msgid "Still not done"
