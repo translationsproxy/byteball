@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-26 12:20-0400\n"
+"PO-Revision-Date: 2017-09-26 12:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1213,11 +1213,11 @@ msgstr "成功"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr "ウォレットの全残高インポート"
+msgstr "ウォレットのスイープ"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr "ペーパーウォレットの全残高インポート"
+msgstr "ペーパーウォレットのスイープ"
 
 #: public/views/walletHome.html:61
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
