@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-26 12:40-0400\n"
+"PO-Revision-Date: 2017-09-26 12:51-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1513,7 +1513,7 @@ msgstr "バックアップファイル"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr "ウォレットの鍵が暗号化されます。Copayではパスワードをリセットしてくれる機能がありませんので、パスワードを忘れないよう、控えておいて下さい。"
+msgstr "ウォレットキーが暗号化されます。パスワードは復元できません。忘れないよう書き留めておいてください。"
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
@@ -1592,7 +1592,7 @@ msgstr "はスマートウォレットにあります。"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
-msgstr "未対応送金の提案によりロック中"
+msgstr "保留中の支払いによりロック中"
 
 #: public/views/modals/bind.html:53
 #: public/views/modals/offer-contract.html:80
@@ -1602,7 +1602,7 @@ msgstr "フィード"
 #: public/views/walletHome.html:386
 #: public/views/walletHome.html:397
 msgid "optional"
-msgstr "任意"
+msgstr "オプション"
 
 #: public/views/modals/offer-contract.html:91
 msgid "or"
@@ -1638,7 +1638,7 @@ msgstr "送信中"
 #: public/views/modals/approveNewWitnesses.html:17
 #: public/views/modals/offer-contract.html:51
 msgid "to"
-msgstr "宛先"
+msgstr "を"
 
 #: public/views/walletHome.html:387
 #: public/views/walletHome.html:398
@@ -1671,7 +1671,7 @@ msgstr "{cancel_label || 'キャンセル'}"
 
 #: src/js/controllers/walletHome.js:1352
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr "{{fee}} のビットコインネットワーク手数料が差し引かれます。"
+msgstr "{{fee}} のネットワーク手数料が差し引かれます。"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
