@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-26 12:30-0400\n"
+"PO-Revision-Date: 2017-09-26 12:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1297,7 +1297,7 @@ msgstr "このオプションはプライバシーが保護されますが、数
 
 #: public/views/walletHome.html:347
 msgid "This payment is bound to a condition"
-msgstr "この支払は条件付きです"
+msgstr "この支払いは条件付きです"
 
 #: public/views/modals/tx-details.html:73
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
@@ -1315,7 +1315,7 @@ msgstr "既存のすべてのウォレットが完全に削除されます！"
 #: public/views/walletHome.html:322
 #: public/views/walletHome.html:548
 msgid "To"
-msgstr "宛先"
+msgstr "To"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
@@ -1396,7 +1396,7 @@ msgstr "注意：バックアップが必要です"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr "注意：この復元フレーズにパスワードがかかっています。このウォレットを復元するためには、復元フレーズに加え、パスワードも必要です。"
+msgstr "注意：このシードにはパスワードがかかっています。このウォレットを復元するためには、シードとパスワードが必要です。"
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
@@ -1421,7 +1421,7 @@ msgstr "ウォレット"
 
 #: public/views/preferences.html:20
 msgid "Wallet Alias"
-msgstr "ウォレットの通称"
+msgstr "ウォレットの別名"
 
 #: public/views/preferencesInformation.html:27
 msgid "Wallet Configuration (m-n)"
@@ -1497,7 +1497,7 @@ msgstr "ウォレットがありません"
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr "ウォレットの復元フレーズ"
+msgstr "ウォレットシード :"
 
 #: public/views/export.html:33
 msgid "Your export password"
