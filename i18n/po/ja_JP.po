@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-26 11:50-0400\n"
+"PO-Revision-Date: 2017-09-26 12:01-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1035,7 +1035,7 @@ msgstr "必要な署名の数を選択"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr "バックアップファイルからの復元"
+msgstr "フルバックアップから復元"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
@@ -1043,7 +1043,7 @@ msgstr "再度試しています…"
 
 #: public/views/includes/password.html:32
 msgid "SET"
-msgstr "指定"
+msgstr "セット"
 
 #: public/views/editCorrespondentDevice.html:41
 #: public/views/modals/destination-address.html:132
@@ -1112,7 +1112,7 @@ msgstr "送信"
 
 #: public/views/walletHome.html:290
 msgid "Send All"
-msgstr "全額を送金"
+msgstr "すべて送信"
 
 #: public/views/modals/multi-payment.html:62
 msgid "Send Payment"
@@ -1120,7 +1120,7 @@ msgstr "支払いの送信"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr "ビットコインアドレスをメールにて共有"
+msgstr "アドレスをメールで送る"
 
 #: public/views/walletHome.html:372
 msgid "Send all"
@@ -1136,7 +1136,7 @@ msgstr "送金中..."
 
 #: public/views/walletHome.html:62
 msgid "Sending..."
-msgstr "送信中"
+msgstr "送信中..."
 
 #: public/views/walletHome.html:516
 msgid "Sent"
@@ -1148,11 +1148,11 @@ msgstr "セッションのログ"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr "パスワードの設定"
+msgstr "パスワード設定"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr "パスワードを設定"
+msgstr "パスワード設定"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
