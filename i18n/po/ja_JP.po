@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-09-26 12:51-0400\n"
+"PO-Revision-Date: 2017-09-30 12:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -485,7 +485,7 @@ msgstr "ウォレットを複製するために使わないでください。"
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr "ご自分の言語はCrowdinで見当たりませんか？Crowdinの管理者に連絡とってみてください。是非とも対応したく思っております。"
+msgstr "ご自身の言語はCrowdinで見当たりませんか？Crowdinの管理者に連絡とってください。対応させていただきます。"
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
