@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-10-18 03:41-0400\n"
+"PO-Revision-Date: 2017-10-18 03:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -63,7 +63,7 @@ msgstr "Добавить новую запись"
 
 #: public/views/walletHome.html:491
 msgid "Add fields"
-msgstr ""
+msgstr "Добавить поля"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -81,7 +81,7 @@ msgstr "Адрес"
 
 #: public/views/walletHome.html:466
 msgid "Address to attest"
-msgstr ""
+msgstr "Какой адрес атттестовать"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -156,11 +156,11 @@ msgstr "Актив"
 
 #: public/views/walletHome.html:455
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Аттестовать данные о профиле пользователя Byteball адреса."
 
 #: public/views/walletHome.html:308
 msgid "Attestation"
-msgstr ""
+msgstr "Аттестация"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -437,7 +437,7 @@ msgstr "УДАЛИТЬ МНЕМОНИКУ"
 
 #: public/views/walletHome.html:310
 msgid "Data"
-msgstr ""
+msgstr "Данные"
 
 #: public/views/walletHome.html:307
 msgid "Data into datafeed"
@@ -946,7 +946,7 @@ msgstr "Порт"
 
 #: public/views/walletHome.html:461
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Отправить в Byteball произвольные пары ключ-значение."
 
 #: public/views/walletHome.html:452
 msgid "Post values into datafeeds manually, be an oracle."
@@ -976,7 +976,7 @@ msgstr "Приватная информация отправлена"
 
 #: public/views/walletHome.html:309
 msgid "Profile"
-msgstr ""
+msgstr "Профиль"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1439,7 +1439,7 @@ msgstr "Обновить до {{version}}"
 
 #: public/views/walletHome.html:481
 msgid "Values"
-msgstr ""
+msgstr "Значения"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1522,7 +1522,7 @@ msgstr "Внимание!"
 
 #: public/views/walletHome.html:303
 msgid "What to send"
-msgstr ""
+msgstr "Что отправить"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
