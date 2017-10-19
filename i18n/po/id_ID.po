@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-10-18 03:42-0400\n"
+"PO-Revision-Date: 2017-10-18 21:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: public/views/walletHome.html:308
 msgid "Attestation"
-msgstr ""
+msgstr "Pengesahan"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -437,7 +437,7 @@ msgstr "HAPUS KATA-KATA"
 
 #: public/views/walletHome.html:310
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: public/views/walletHome.html:307
 msgid "Data into datafeed"
@@ -977,7 +977,7 @@ msgstr "Muatan pribadi dikirim"
 
 #: public/views/walletHome.html:309
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
