@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-10-18 03:50-0400\n"
+"PO-Revision-Date: 2017-10-19 01:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1223,7 +1223,7 @@ msgstr "Подписать транзакцию из кошелька?"
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Кошелёк с одним адресом"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
