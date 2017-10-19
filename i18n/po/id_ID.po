@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-10-18 21:40-0400\n"
+"PO-Revision-Date: 2017-10-18 21:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1229,7 +1229,7 @@ msgstr "Dompet alamat tunggal"
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "Dompet alamat tunggal tidak akan membuat alamat baru pada setiap transaksi, kembalian akan selalu ditujukan ke satu-satunya alamat pada dompet."
 
 #: src/js/services/profileService.js:275
 msgid "Small Expenses Wallet"
@@ -1353,7 +1353,7 @@ msgstr "Transaksi ini telah menjadi tidak sah; mungkin karena upaya pembayaran g
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "Dompet ini tidak dapat dikonversi ke dompet alamat tunggal karena sudah terdiri dari beberapa alamat atau multi perangkat"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
