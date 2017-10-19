@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-10-18 21:00-0400\n"
+"PO-Revision-Date: 2017-10-18 21:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1440,7 +1440,7 @@ msgstr "Pemutahiran ke {{version}}"
 
 #: public/views/walletHome.html:481
 msgid "Values"
-msgstr ""
+msgstr "Nilai"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1523,7 +1523,7 @@ msgstr "Peringatan!"
 
 #: public/views/walletHome.html:303
 msgid "What to send"
-msgstr ""
+msgstr "Apa yang dikirim"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
