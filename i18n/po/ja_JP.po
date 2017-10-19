@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-10-19 08:02-0400\n"
+"PO-Revision-Date: 2017-10-19 08:13-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -156,7 +156,7 @@ msgstr "資産"
 
 #: public/views/walletHome.html:455
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Byteballアドレスにリンクされたプロフィールデータを認証します。"
 
 #: public/views/walletHome.html:308
 msgid "Attestation"
