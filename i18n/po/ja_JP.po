@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-10-19 07:43-0400\n"
+"PO-Revision-Date: 2017-10-19 08:02-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -81,7 +81,7 @@ msgstr "アドレス"
 
 #: public/views/walletHome.html:466
 msgid "Address to attest"
-msgstr ""
+msgstr "認証するアドレス"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -160,7 +160,7 @@ msgstr ""
 
 #: public/views/walletHome.html:308
 msgid "Attestation"
-msgstr ""
+msgstr "個人認証"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -437,7 +437,7 @@ msgstr "フレーズを削除"
 
 #: public/views/walletHome.html:310
 msgid "Data"
-msgstr ""
+msgstr "データ"
 
 #: public/views/walletHome.html:307
 msgid "Data into datafeed"
