@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-10-19 08:13-0400\n"
+"PO-Revision-Date: 2017-10-21 00:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -441,7 +441,7 @@ msgstr "データ"
 
 #: public/views/walletHome.html:307
 msgid "Data into datafeed"
-msgstr ""
+msgstr "データフィード"
 
 #: public/views/modals/tx-details.html:78
 msgid "Date"
@@ -947,11 +947,11 @@ msgstr "ポート"
 
 #: public/views/walletHome.html:461
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Byteballネットワークにデータの任意のキーと値のペアをポストします。"
 
 #: public/views/walletHome.html:452
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "オラクルになるために、データフィードに手動で値をポストします。"
 
 #: public/views/walletHome.html:458
 msgid "Post your profile data, anything you want to say about yourself."
