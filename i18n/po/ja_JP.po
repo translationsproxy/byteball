@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-10-21 00:40-0400\n"
+"PO-Revision-Date: 2017-10-21 01:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1317,7 +1317,7 @@ msgstr "ウォレット \"{{walletName}}\" が削除されました"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr "ウォレットベンダーはあなたの残高の一部を知ることができ、どのトランザクションがあなたのものかを見ることができますが、ウォレットをすぐにフル機能で使用することができます。"
+msgstr "ウォレットベンダーはあなたの残高の一部を知ることができ、どの取引があなたのものかを見ることができますが、ウォレットをすぐにフル機能で使用することができます。"
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
