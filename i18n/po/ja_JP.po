@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-10-21 00:20-0400\n"
+"PO-Revision-Date: 2017-10-21 00:30-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -955,7 +955,7 @@ msgstr "オラクルになるために、データフィードに手動で値を
 
 #: public/views/walletHome.html:458
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "自分自身について自由に記述したプロフィールデータをポストします。"
 
 #: public/views/walletHome.html:157
 #: public/views/walletHome.html:29
@@ -977,7 +977,7 @@ msgstr "プライベートペイロード送信"
 
 #: public/views/walletHome.html:309
 msgid "Profile"
-msgstr ""
+msgstr "プロフィール"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1224,7 +1224,7 @@ msgstr "ウォレットからの支払いに署名しますか？"
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "シングルアドレスウォレット"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
