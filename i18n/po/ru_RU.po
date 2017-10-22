@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-10-19 01:00-0400\n"
+"PO-Revision-Date: 2017-10-22 03:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -441,7 +441,7 @@ msgstr "Данные"
 
 #: public/views/walletHome.html:307
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Данные в фиде"
 
 #: public/views/modals/tx-details.html:78
 msgid "Date"
