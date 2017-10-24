@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-10-24 14:31-0400\n"
+"PO-Revision-Date: 2017-10-24 14:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -950,11 +950,11 @@ msgstr "Отправить в Byteball произвольные пары клю�
 
 #: public/views/walletHome.html:452
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Вставить данные в фид вручную как оракул."
 
 #: public/views/walletHome.html:458
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Опубликовать свои произвольные данные, всё что вы хотите сказать."
 
 #: public/views/walletHome.html:157
 #: public/views/walletHome.html:29
@@ -1228,7 +1228,7 @@ msgstr "Кошелёк с одним адресом"
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "Кошелёк с одним адресом (монокошелёк) не создаёт новый адрес для каждой транзакции, сдача всегда приходит на этот единственный адрес кошелька."
 
 #: src/js/services/profileService.js:275
 msgid "Small Expenses Wallet"
