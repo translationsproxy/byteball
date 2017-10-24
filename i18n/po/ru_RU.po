@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-10-22 03:40-0400\n"
+"PO-Revision-Date: 2017-10-24 14:31-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -227,7 +227,7 @@ msgstr "Bitcoin URI не действителен!"
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:38
 msgid "Bot Store"
-msgstr "Магазин ботов"
+msgstr "Боты"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -1607,7 +1607,7 @@ msgstr "может разблокировать контракт"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr "может разблокировать контракт по истечении срока его действия в"
+msgstr "может разблокировать контракт, когда тот истечёт через"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -1627,7 +1627,7 @@ msgstr "дней"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr "например, кошелёк 1-из-2, один ключ на этом устройстве, а другой ключ на ноутбуке."
+msgstr "например, кошелёк 1-из-2, один ключ на этом устройстве, а другой ключ на ПК/ноутбуке."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
