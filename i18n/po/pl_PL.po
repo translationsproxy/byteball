@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-11-04 15:10-0400\n"
+"PO-Revision-Date: 2017-11-04 15:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1705,7 +1705,7 @@ msgstr "ponownie wyślij prywatne płatności do współsygnatariuszy"
 #: src/js/controllers/walletHome.js:975
 #: src/js/controllers/walletHome.js:985
 msgid "sending"
-msgstr "wyślij"
+msgstr "wysyłanie"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
