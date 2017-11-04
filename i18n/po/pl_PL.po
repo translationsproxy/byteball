@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-11-04 13:10-0400\n"
+"PO-Revision-Date: 2017-11-04 13:20-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -63,7 +63,7 @@ msgstr "Dodaj nowy wpis"
 
 #: public/views/walletHome.html:491
 msgid "Add fields"
-msgstr ""
+msgstr "Dodaj pola"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -1224,7 +1224,7 @@ msgstr "Podpisać transakcję wychodzącą z portfela?"
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Portfel o jednym adresie"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
@@ -1353,7 +1353,7 @@ msgstr "Ta transakcja stała się nieważna; prawdopodobnie z powodu próby podw
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "Ten portfel nie może zostać przekonwertowany na portfel o jednym adresie, ponieważ składa się z wielu adresów lub jest utworzony na kilku urządzeniach."
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
