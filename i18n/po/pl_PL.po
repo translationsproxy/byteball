@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-11-04 13:30-0400\n"
+"PO-Revision-Date: 2017-11-04 13:40-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -81,7 +81,7 @@ msgstr "Adres"
 
 #: public/views/walletHome.html:466
 msgid "Address to attest"
-msgstr ""
+msgstr "Adres do poświadczenia"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -156,11 +156,11 @@ msgstr "Aktywo"
 
 #: public/views/walletHome.html:455
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Poświadcz dane profilu powiązanego z dowolnym adresem Byteball."
 
 #: public/views/walletHome.html:308
 msgid "Attestation"
-msgstr ""
+msgstr "Poświadczenie"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -951,7 +951,7 @@ msgstr ""
 
 #: public/views/walletHome.html:452
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Ogłoś ręcznie dane w źródle danych, zostań wyrocznią."
 
 #: public/views/walletHome.html:458
 msgid "Post your profile data, anything you want to say about yourself."
@@ -1557,7 +1557,7 @@ msgstr "Tak"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "Nie możesz powiązać swojej transakcji w celu cofnięcia płatności, ponieważ jesteś w portfelu o jednym adresie (portfelu jednoadresowym). Użyj portfela o wielu adresach i przetransferuj środki do tego wieloadresowego portfela."
 
 #: public/views/walletHome.html:24
 msgid "You do not have a wallet"
