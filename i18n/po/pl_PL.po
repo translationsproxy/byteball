@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-11-04 14:50-0400\n"
+"PO-Revision-Date: 2017-11-04 15:01-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -951,7 +951,7 @@ msgstr "Zamieść oznaczone pary (numer-wartość) dowolnych danych w sieci Byte
 
 #: public/views/walletHome.html:452
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr "Ogłoś ręcznie dane w źródle danych, zostań wyrocznią."
+msgstr "Ogłoś ręcznie dane w źródle danych, bądź wyrocznią."
 
 #: public/views/walletHome.html:458
 msgid "Post your profile data, anything you want to say about yourself."
