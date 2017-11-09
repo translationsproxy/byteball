@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-10-18 03:42-0400\n"
+"PO-Revision-Date: 2017-11-09 01:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -63,7 +63,7 @@ msgstr "添加新条目"
 
 #: public/views/walletHome.html:491
 msgid "Add fields"
-msgstr ""
+msgstr "添加字段"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -81,7 +81,7 @@ msgstr "地址"
 
 #: public/views/walletHome.html:466
 msgid "Address to attest"
-msgstr ""
+msgstr "地址证明"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
