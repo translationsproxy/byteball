@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-11-09 01:41-0500\n"
+"PO-Revision-Date: 2017-11-09 01:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: public/views/walletHome.html:308
 msgid "Attestation"
-msgstr ""
+msgstr "认证"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -437,7 +437,7 @@ msgstr "删除文档"
 
 #: public/views/walletHome.html:310
 msgid "Data"
-msgstr ""
+msgstr "数据"
 
 #: public/views/walletHome.html:307
 msgid "Data into datafeed"
@@ -955,7 +955,7 @@ msgstr ""
 
 #: public/views/walletHome.html:458
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "发布您的个人数据，任何要说的话。"
 
 #: public/views/walletHome.html:157
 #: public/views/walletHome.html:29
@@ -1229,7 +1229,7 @@ msgstr "单地址钱包"
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "单地址钱包不会为每个交易产生新地址，余额改变将始终转到钱包包含的唯一地址上。"
 
 #: src/js/services/profileService.js:275
 msgid "Small Expenses Wallet"
