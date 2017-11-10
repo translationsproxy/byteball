@@ -11,13 +11,13 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2017-10-18 03:42-0400\n"
+"PO-Revision-Date: 2017-11-10 17:13-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
 msgstr "(Το site δεν θα βλέπει το υπολοιπό σας και τα χρήματα δεν θα δαπανηθούν)"
 
-#: public/views/walletHome.html:587
+#: public/views/walletHome.html:588
 msgid "(possible double spend)"
 msgstr "(πιθανό διπλό ξόδεμα)"
 
@@ -61,7 +61,7 @@ msgstr "Προσθήκη νέας συσκευής"
 msgid "Add a new entry"
 msgstr "Προσθήκη νέας καταχώρησης"
 
-#: public/views/walletHome.html:491
+#: public/views/walletHome.html:492
 msgid "Add fields"
 msgstr ""
 
@@ -79,7 +79,7 @@ msgstr ""
 msgid "Address"
 msgstr "Διεύθυνση"
 
-#: public/views/walletHome.html:466
+#: public/views/walletHome.html:467
 msgid "Address to attest"
 msgstr ""
 
@@ -150,11 +150,11 @@ msgstr ""
 msgid "Are you sure you want to delete this wallet?"
 msgstr "Είσαι σίγουρος ότι θέλετε να διαγράψετε αυτό το πορτοφόλι?"
 
-#: public/views/modals/customized-amount.html:71
+#: public/views/modals/customized-amount.html:72
 msgid "Asset"
 msgstr ""
 
-#: public/views/walletHome.html:455
+#: public/views/walletHome.html:456
 msgid "Attest profile data linked to any Byteball address."
 msgstr ""
 
@@ -251,7 +251,7 @@ msgid "CONTINUE"
 msgstr ""
 
 #: public/views/modals/destination-address.html:127
-#: public/views/walletHome.html:429
+#: public/views/walletHome.html:430
 #: src/js/controllers/copayers.js:9
 #: src/js/controllers/preferencesDelete.js:10
 #: src/js/controllers/walletHome.js:119
@@ -267,7 +267,7 @@ msgstr ""
 msgid "Changing wallet alias only affects the local wallet name."
 msgstr "Αλλάζοντας το ψευδώνυμο του πορτοφολιού επηρεάζει μόνο το τοπικό όνομα πορτοφολιού."
 
-#: src/js/controllers/index.js:609
+#: src/js/controllers/index.js:622
 msgid "Chat"
 msgstr ""
 
@@ -320,7 +320,7 @@ msgid "Compress the file? (Slower)"
 msgstr ""
 
 #: src/js/controllers/copayers.js:10
-#: src/js/controllers/index.js:445
+#: src/js/controllers/index.js:459
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:120
 #: src/js/services/confirmDialog.js:10
@@ -348,7 +348,7 @@ msgid "Contacts"
 msgstr ""
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
-#: src/js/controllers/walletHome.js:391
+#: src/js/controllers/walletHome.js:393
 msgid "Copied to clipboard"
 msgstr "Αντιγράφηκε στο πρόχειρο"
 
@@ -356,19 +356,19 @@ msgstr "Αντιγράφηκε στο πρόχειρο"
 msgid "Correspondents are not restored."
 msgstr "Ανταποκριτές δεν επαναφέρονται."
 
-#: src/js/controllers/walletHome.js:601
+#: src/js/controllers/walletHome.js:602
 msgid "Could not create payment proposal"
 msgstr "Δεν ήταν δυνατή η δημιουργία πρότασης πληρωμής"
 
-#: src/js/services/profileService.js:222
+#: src/js/services/profileService.js:264
 msgid "Could not create using the specified extended private key"
 msgstr "Δεν ήταν δυνατή η δημιουργία χρησιμοποιώντας το συγκεκριμένο ιδιωτικό κλειδί επέκτασης"
 
-#: src/js/services/profileService.js:232
+#: src/js/services/profileService.js:274
 msgid "Could not create using the specified extended public key"
 msgstr ""
 
-#: src/js/services/profileService.js:215
+#: src/js/services/profileService.js:257
 msgid "Could not create: Invalid wallet seed"
 msgstr ""
 
@@ -376,17 +376,17 @@ msgstr ""
 msgid "Could not decrypt"
 msgstr ""
 
-#: public/views/walletHome.html:542
+#: public/views/walletHome.html:543
 msgid "Could not fetch transaction history"
 msgstr "Δεν ήταν δυνατή η λήψη του ιστορικού συναλλαγών"
 
-#: src/js/services/profileService.js:447
-#: src/js/services/profileService.js:474
-#: src/js/services/profileService.js:496
+#: src/js/services/profileService.js:489
+#: src/js/services/profileService.js:516
+#: src/js/services/profileService.js:538
 msgid "Could not import"
 msgstr ""
 
-#: src/js/services/profileService.js:424
+#: src/js/services/profileService.js:466
 msgid "Could not import. Check input file and password"
 msgstr "Δεν ήταν δυνατή η εισαγωγή. Ελέγξτε το αρχείο και τον κωδικό πρόσβασης"
 
@@ -394,7 +394,7 @@ msgstr "Δεν ήταν δυνατή η εισαγωγή. Ελέγξτε το α
 msgid "Could not recognize a valid Byteball QR Code"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:601
+#: src/js/controllers/walletHome.js:602
 msgid "Could not send payment"
 msgstr "Δεν είναι δυνατή η αποστολή της πληρωμής"
 
@@ -411,7 +411,7 @@ msgstr ""
 msgid "Create new wallet"
 msgstr "Δημιουργήστε νέο πορτοφόλι"
 
-#: src/js/controllers/index.js:272
+#: src/js/controllers/index.js:286
 msgid "Create new wallet  together with  ?"
 msgstr ""
 
@@ -447,7 +447,7 @@ msgstr ""
 msgid "Date"
 msgstr "Ημερομηνία"
 
-#: src/js/controllers/index.js:242
+#: src/js/controllers/index.js:256
 msgid "Declined"
 msgstr "Απορρίφθηκε"
 
@@ -515,7 +515,7 @@ msgstr "Δεν βλέπετε τη γλώσσα σας στο Crowdin; Επικ�
 msgid "Done"
 msgstr ""
 
-#: public/views/walletHome.html:637
+#: public/views/walletHome.html:638
 msgid "Download CSV file"
 msgstr "Κατεβάστε το αρχείο CSV"
 
@@ -548,8 +548,8 @@ msgstr ""
 msgid "Enter your password"
 msgstr "Παρακαλώ εισάγετε τον κωδικό σας"
 
-#: src/js/services/profileService.js:280
-#: src/js/services/profileService.js:331
+#: src/js/services/profileService.js:322
+#: src/js/services/profileService.js:373
 msgid "Error creating wallet"
 msgstr "Σφάλμα στην δημιουργία πορτοφολιού"
 
@@ -606,7 +606,7 @@ msgstr "Τα χρήματα θα μεταφερθούν στο"
 msgid "GET STARTED"
 msgstr "ΞΕΚΙΝΗΣΤΕ"
 
-#: src/js/controllers/walletHome.js:419
+#: src/js/controllers/walletHome.js:421
 msgid "Generate QR Code"
 msgstr ""
 
@@ -638,11 +638,11 @@ msgstr "Υλικό πορτοφόλι"
 msgid "Hide the Wallet Seed"
 msgstr "Απόκρυψη του Seed πορτοφολιού"
 
-#: src/js/controllers/index.js:605
+#: src/js/controllers/index.js:618
 msgid "History"
 msgstr "Ιστορικό"
 
-#: src/js/controllers/index.js:593
+#: src/js/controllers/index.js:606
 msgid "Home"
 msgstr "Αρχική Σελίδα"
 
@@ -702,7 +702,7 @@ msgstr "Εισάγεται το πορτοφόλι ..."
 msgid "Including pending confirmation"
 msgstr ""
 
-#: public/views/walletHome.html:561
+#: public/views/walletHome.html:562
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
 msgstr ""
@@ -711,11 +711,11 @@ msgstr ""
 msgid "Insert my address"
 msgstr ""
 
-#: public/views/walletHome.html:580
+#: public/views/walletHome.html:581
 msgid "Invalid"
 msgstr "Μη έγκυρο"
 
-#: src/js/controllers/index.js:1520
+#: src/js/controllers/index.js:1533
 msgid "Invalid Touch ID"
 msgstr ""
 
@@ -765,7 +765,7 @@ msgstr "Εγώ"
 msgid "Merchant message"
 msgstr "Μήνυμα Εμπόρου"
 
-#: public/views/walletHome.html:395
+#: public/views/walletHome.html:396
 msgid "Merkle proof"
 msgstr ""
 
@@ -773,7 +773,7 @@ msgstr ""
 msgid "Message"
 msgstr "Μήνυμα"
 
-#: public/views/walletHome.html:579
+#: public/views/walletHome.html:580
 msgid "Moved"
 msgstr "Μετακινήθηκε"
 
@@ -810,7 +810,7 @@ msgid "New witnesses"
 msgstr ""
 
 #: public/views/authConfirmation.html:22
-#: src/js/controllers/index.js:444
+#: src/js/controllers/index.js:458
 msgid "No"
 msgstr ""
 
@@ -818,7 +818,7 @@ msgstr ""
 msgid "No password given"
 msgstr ""
 
-#: public/views/walletHome.html:545
+#: public/views/walletHome.html:546
 msgid "No transactions yet"
 msgstr "Δεν υπάρχουν συναλλαγές ακόμα"
 
@@ -826,20 +826,20 @@ msgstr "Δεν υπάρχουν συναλλαγές ακόμα"
 #: public/views/modals/destination-address.html:112
 #: public/views/walletHome.html:337
 #: public/views/walletHome.html:373
-#: public/views/walletHome.html:471
+#: public/views/walletHome.html:472
 msgid "Not valid"
 msgstr "Δεν είναι έγκυρη"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:68
 #: public/views/modals/tx-details.html:93
-#: public/views/walletHome.html:406
-#: public/views/walletHome.html:608
+#: public/views/walletHome.html:407
+#: public/views/walletHome.html:609
 msgid "Note"
 msgstr "Σημείωση"
 
 #: public/views/modals/offer-contract.html:33
-#: src/js/services/correspondentListService.js:108
+#: src/js/services/correspondentListService.js:110
 msgid "Offer a contract"
 msgstr ""
 
@@ -876,7 +876,7 @@ msgstr ""
 msgid "Passphrase"
 msgstr ""
 
-#: src/js/services/profileService.js:611
+#: src/js/services/profileService.js:653
 msgid "Password needed"
 msgstr "Κωδικός πρόσβασης απαιτείται"
 
@@ -892,7 +892,7 @@ msgstr ""
 msgid "Pay and offer"
 msgstr ""
 
-#: src/js/services/correspondentListService.js:108
+#: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
 msgstr ""
 
@@ -944,15 +944,15 @@ msgstr ""
 msgid "Port"
 msgstr ""
 
-#: public/views/walletHome.html:461
+#: public/views/walletHome.html:462
 msgid "Post arbitrary key-value pairs of data into Byteball network."
 msgstr ""
 
-#: public/views/walletHome.html:452
+#: public/views/walletHome.html:453
 msgid "Post values into datafeeds manually, be an oracle."
 msgstr ""
 
-#: public/views/walletHome.html:458
+#: public/views/walletHome.html:459
 msgid "Post your profile data, anything you want to say about yourself."
 msgstr ""
 
@@ -969,8 +969,8 @@ msgstr ""
 msgid "Private assets (such as blackbytes) are not recovered."
 msgstr ""
 
-#: src/js/controllers/walletHome.js:1367
-#: src/js/controllers/walletHome.js:1440
+#: src/js/controllers/walletHome.js:1353
+#: src/js/controllers/walletHome.js:1426
 msgid "Private payloads sent"
 msgstr ""
 
@@ -990,11 +990,11 @@ msgstr "Σαρωτής QR"
 msgid "Question:"
 msgstr ""
 
-#: src/js/controllers/index.js:597
+#: src/js/controllers/index.js:610
 msgid "Receive"
 msgstr "Λάβετε"
 
-#: public/views/walletHome.html:576
+#: public/views/walletHome.html:577
 msgid "Received"
 msgstr "Ληφθέντα"
 
@@ -1019,7 +1019,7 @@ msgstr ""
 msgid "Recreating Wallet..."
 msgstr "Αναδημιουργία πορτοφολιού..."
 
-#: src/js/controllers/index.js:194
+#: src/js/controllers/index.js:208
 msgid "Refused"
 msgstr ""
 
@@ -1112,7 +1112,7 @@ msgstr "Η σάρωση έχει τελειώσει με σφάλματα"
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
 msgstr ""
 
-#: src/js/controllers/index.js:1513
+#: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
 msgstr ""
 
@@ -1141,9 +1141,9 @@ msgid "Select your identity"
 msgstr ""
 
 #: public/views/includes/transaction.html:10
-#: public/views/walletHome.html:432
-#: public/views/walletHome.html:506
-#: src/js/controllers/index.js:601
+#: public/views/walletHome.html:433
+#: public/views/walletHome.html:507
+#: src/js/controllers/index.js:614
 msgid "Send"
 msgstr "Αποστολή"
 
@@ -1175,7 +1175,7 @@ msgstr ""
 msgid "Sending..."
 msgstr ""
 
-#: public/views/walletHome.html:578
+#: public/views/walletHome.html:579
 msgid "Sent"
 msgstr "Εξερχόμενα"
 
@@ -1208,7 +1208,7 @@ msgstr "Μοιραστείτε τη διεύθυνση"
 msgid "Share this wallet address to receive payments."
 msgstr ""
 
-#: public/views/walletHome.html:629
+#: public/views/walletHome.html:630
 msgid "Show all"
 msgstr ""
 
@@ -1216,7 +1216,7 @@ msgstr ""
 msgid "Show the Wallet Seed Anyway"
 msgstr ""
 
-#: src/js/controllers/index.js:421
+#: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
 msgstr ""
 
@@ -1230,7 +1230,7 @@ msgstr ""
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
 msgstr ""
 
-#: src/js/services/profileService.js:275
+#: src/js/services/profileService.js:317
 msgid "Small Expenses Wallet"
 msgstr ""
 
@@ -1250,11 +1250,11 @@ msgstr ""
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
-#: src/js/controllers/index.js:231
-#: src/js/controllers/index.js:259
+#: src/js/controllers/index.js:245
+#: src/js/controllers/index.js:273
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:1367
-#: src/js/controllers/walletHome.js:1440
+#: src/js/controllers/walletHome.js:1353
+#: src/js/controllers/walletHome.js:1426
 msgid "Success"
 msgstr "Επιτυχία"
 
@@ -1279,7 +1279,7 @@ msgid "TOR"
 msgstr ""
 
 #: public/views/walletHome.html:103
-#: public/views/walletHome.html:543
+#: public/views/walletHome.html:544
 #: public/views/walletHome.html:98
 msgid "Tap to retry"
 msgstr "Πατήστε για να προσπαθήσετε ξανά"
@@ -1364,7 +1364,7 @@ msgstr ""
 #: public/views/modals/tx-details.html:30
 #: public/views/modals/tx-details.html:58
 #: public/views/walletHome.html:332
-#: public/views/walletHome.html:610
+#: public/views/walletHome.html:611
 msgid "To"
 msgstr "Προς"
 
@@ -1372,7 +1372,7 @@ msgstr "Προς"
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
 msgstr ""
 
-#: public/views/walletHome.html:517
+#: public/views/walletHome.html:518
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
 msgstr ""
 
@@ -1396,7 +1396,7 @@ msgstr ""
 msgid "Transaction"
 msgstr "Συναλλαγή"
 
-#: public/views/walletHome.html:567
+#: public/views/walletHome.html:568
 msgid "Transactions<br> Downloaded"
 msgstr ""
 
@@ -1408,12 +1408,12 @@ msgstr "Λεπτομέρειες Μετάφρασης"
 msgid "Translators"
 msgstr "Μεταφραστές"
 
-#: src/js/controllers/walletHome.js:649
+#: src/js/controllers/walletHome.js:650
 msgid "Unable to send transaction proposal"
 msgstr "Δεν είναι δυνατή η αποστολή πρότασης συναλλαγής"
 
 #: public/views/modals/tx-details.html:105
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:599
 msgid "Unconfirmed"
 msgstr "Ανεπιβεβαίωτες"
 
@@ -1437,7 +1437,11 @@ msgstr "Ενημέρωση πορτοφολιού..."
 msgid "Upgrade to {{version}}"
 msgstr ""
 
-#: public/views/walletHome.html:481
+#: public/views/includes/upgrading_db.html:8
+msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
+msgstr ""
+
+#: public/views/walletHome.html:482
 msgid "Values"
 msgstr ""
 
@@ -1499,7 +1503,7 @@ msgstr ""
 msgid "Wallet Name (at creation)"
 msgstr ""
 
-#: src/js/services/profileService.js:393
+#: src/js/services/profileService.js:435
 msgid "Wallet already in Byteball:"
 msgstr ""
 
@@ -1527,8 +1531,8 @@ msgstr ""
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
 #: public/views/modals/vote.html:28
-#: public/views/walletHome.html:421
-#: public/views/walletHome.html:498
+#: public/views/walletHome.html:422
+#: public/views/walletHome.html:499
 msgid "Who signs:"
 msgstr ""
 
@@ -1544,13 +1548,13 @@ msgstr ""
 msgid "Write it down and keep it somewhere safe."
 msgstr ""
 
-#: src/js/services/profileService.js:621
+#: src/js/services/profileService.js:663
 msgid "Wrong password"
 msgstr "Λάθος κωδικός πρόσβασης"
 
 #: public/views/authConfirmation.html:17
 #: public/views/modals/confirmation.html:6
-#: src/js/controllers/index.js:443
+#: src/js/controllers/index.js:457
 msgid "Yes"
 msgstr "Ναι"
 
@@ -1667,8 +1671,8 @@ msgstr "κλειδωμένο από εκκρεμούσες πληρωμές"
 msgid "on feed name"
 msgstr ""
 
-#: public/views/walletHome.html:396
-#: public/views/walletHome.html:407
+#: public/views/walletHome.html:397
+#: public/views/walletHome.html:408
 msgid "optional"
 msgstr "προαιρετικό"
 
@@ -1696,13 +1700,13 @@ msgstr ""
 msgid "re-send private payloads to cosigners"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:690
-#: src/js/controllers/walletHome.js:696
-#: src/js/controllers/walletHome.js:792
-#: src/js/controllers/walletHome.js:829
-#: src/js/controllers/walletHome.js:946
-#: src/js/controllers/walletHome.js:975
-#: src/js/controllers/walletHome.js:985
+#: src/js/controllers/walletHome.js:694
+#: src/js/controllers/walletHome.js:700
+#: src/js/controllers/walletHome.js:796
+#: src/js/controllers/walletHome.js:832
+#: src/js/controllers/walletHome.js:951
+#: src/js/controllers/walletHome.js:980
+#: src/js/controllers/walletHome.js:987
 msgid "sending"
 msgstr ""
 
@@ -1710,8 +1714,8 @@ msgstr ""
 msgid "to"
 msgstr ""
 
-#: public/views/walletHome.html:397
-#: public/views/walletHome.html:408
+#: public/views/walletHome.html:398
+#: public/views/walletHome.html:409
 msgid "too long!"
 msgstr "πάρα πολύ μεγάλο μέγεθος!"
 
@@ -1731,7 +1735,7 @@ msgstr ""
 msgid "{{address}} can be spent if:"
 msgstr ""
 
-#: public/views/modals/customized-amount.html:75
+#: public/views/modals/customized-amount.html:76
 msgid "{{buttonLabel}}"
 msgstr ""
 
@@ -1739,7 +1743,7 @@ msgstr ""
 msgid "{{cancel_label || 'Cancel'}}"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:1482
+#: src/js/controllers/walletHome.js:1468
 msgid "{{fee}} will be deducted for bitcoin networking fees"
 msgstr "{{fee}}, θα προεξοφληθεί ώς τέλος του δικτύου bitcoin"
 
