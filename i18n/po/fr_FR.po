@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2017-11-11 01:40-0500\n"
+"PO-Revision-Date: 2017-11-14 00:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -208,7 +208,7 @@ msgstr "Avant de recevoir des fonds, il est fortement recommandé de sauvegarder
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr "Mieux encore, utilisez portefeuilles multisignatures avec redondance,"
+msgstr "Mieux encore, utilisez des portefeuilles multisignatures avec redondance,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
@@ -231,7 +231,7 @@ msgstr "Bot Store"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr "Vous et {{correspondent.name}} a activé l'enregistrement de l'historique du chat local."
+msgstr "Vous et {{correspondent.name}} avez activé l'enregistrement de l'historique du chat local."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
