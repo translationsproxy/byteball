@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-11-18 16:31-0500\n"
+"PO-Revision-Date: 2017-11-18 16:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -441,7 +441,7 @@ msgstr "Daten"
 
 #: public/views/walletHome.html:307
 msgid "Data into datafeed"
-msgstr "Daten in den Datenstrom"
+msgstr "Daten in Datenquelle"
 
 #: public/views/modals/tx-details.html:78
 msgid "Date"
@@ -946,15 +946,15 @@ msgstr "Port"
 
 #: public/views/walletHome.html:462
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Senden von Schlüssel-Wert Paaren in das Byteball Netzwerk."
 
 #: public/views/walletHome.html:453
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Manuelles Senden von Werten in Datenquellen, sei ein Orakel."
 
 #: public/views/walletHome.html:459
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Sende deine Profildaten, alles was du über dich selbst sagen willst."
 
 #: public/views/walletHome.html:157
 #: public/views/walletHome.html:29
@@ -976,7 +976,7 @@ msgstr "Private Transaktionen gesendet"
 
 #: public/views/walletHome.html:309
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
