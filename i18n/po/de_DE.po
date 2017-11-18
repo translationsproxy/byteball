@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-11-18 16:41-0500\n"
+"PO-Revision-Date: 2017-11-18 16:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -441,7 +441,7 @@ msgstr "Daten"
 
 #: public/views/walletHome.html:307
 msgid "Data into datafeed"
-msgstr "Daten in Datenquelle"
+msgstr "Daten als Datenquelle"
 
 #: public/views/modals/tx-details.html:78
 msgid "Date"
@@ -950,7 +950,7 @@ msgstr "Senden von Schlüssel-Wert Paaren in das Byteball Netzwerk."
 
 #: public/views/walletHome.html:453
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr "Manuelles Senden von Werten in Datenquellen, sei ein Orakel."
+msgstr "Manuelles Senden von Werten als Datenquelle, sei ein Orakel."
 
 #: public/views/walletHome.html:459
 msgid "Post your profile data, anything you want to say about yourself."
@@ -1223,12 +1223,12 @@ msgstr "Transaktion über dieses Wallets signieren?"
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Wallet mit Einzeladdresse"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "Wallets mit Einzeladdressen werden keine neue Addressen für jede Transaktion erzeugen, Wechselbeträge werden immer zu dieser alleinigen Addresse gesendet."
 
 #: src/js/services/profileService.js:317
 msgid "Small Expenses Wallet"
@@ -1352,7 +1352,7 @@ msgstr "Diese Transaktion ist ungültig; dies kann durch eine versuchte Doppelza
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "Dieses Wallet kann nicht zu einer Einzeladdresse konvertiert werden, da es schon mehrere Addressen enthält oder ein Multigerät ist"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
@@ -1374,7 +1374,7 @@ msgstr "Um später alles wiederherstellen zu können, erstelle bitte ein komplet
 
 #: public/views/walletHome.html:518
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "Um beliebige Daten in das Byteball Netzwerk zu senden, schalten Sie dieses Wallet auf Einzeladdresse um oder erstellen eins mit Einzeladdresse."
 
 #: public/views/walletHome.html:360
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1439,11 +1439,11 @@ msgstr "Aktualisieren Sie auf Version {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "Update die Datenbank, bitte warten. Manchmal dauert es mehrere Minuten."
 
 #: public/views/walletHome.html:482
 msgid "Values"
-msgstr ""
+msgstr "Werte"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1526,7 +1526,7 @@ msgstr "Warnung!"
 
 #: public/views/walletHome.html:303
 msgid "What to send"
-msgstr ""
+msgstr "Was soll gesendet werden"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
