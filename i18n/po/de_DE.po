@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-11-18 16:51-0500\n"
+"PO-Revision-Date: 2017-11-18 17:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1560,7 +1560,7 @@ msgstr "Ja"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "Sie können Ihre Transaktion nicht erstellen so dass Sie Geld zurücknimmt, da Sie ein Wallet mit Einzeladdresse nutzen. Verwenden Sie ein Standard Wallet und senden dann das Geld an dieses Wallet."
 
 #: public/views/walletHome.html:24
 msgid "You do not have a wallet"
