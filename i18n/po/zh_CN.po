@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-11-20 00:50-0500\n"
+"PO-Revision-Date: 2017-11-20 01:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -19,7 +19,7 @@ msgstr "(站点看不到你的余额，也没有花费)"
 
 #: public/views/walletHome.html:588
 msgid "(possible double spend)"
-msgstr "（重复支付）"
+msgstr "(潜在双重花费)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
@@ -34,7 +34,7 @@ msgstr "关于ByteBall"
 #: src/js/controllers/walletHome.js:118
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr "同意"
+msgstr "接受"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
@@ -59,7 +59,7 @@ msgstr "添加新设备"
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr "添加新条目"
+msgstr "添加一个新条目"
 
 #: public/views/walletHome.html:492
 msgid "Add fields"
@@ -81,7 +81,7 @@ msgstr "地址"
 
 #: public/views/walletHome.html:467
 msgid "Address to attest"
-msgstr "地址证明"
+msgstr "需要证明的地址"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -114,11 +114,11 @@ msgstr "已付款"
 
 #: public/views/walletHome.html:132
 msgid "Also"
-msgstr "还有"
+msgstr "此外"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr "此外在设置菜单中，你可以找到安全选项例如设置密码"
+msgstr "此外在设置菜单中，你可以找到安全选项，例如密码设定。"
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -131,11 +131,11 @@ msgstr "此外，不要忘记删除你的口令私钥"
 #: public/views/paymentUri.html:16
 #: public/views/walletHome.html:381
 msgid "Amount"
-msgstr "金额"
+msgstr "数额"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr "答案"
+msgstr "答案："
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
@@ -218,7 +218,7 @@ msgstr "绑定支付"
 #: public/views/walletHome.html:356
 #: public/views/walletHome.html:363
 msgid "Bind the payment to a condition"
-msgstr "绑定支付条件"
+msgstr "绑定支付到一个条款"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -1632,11 +1632,11 @@ msgstr "天"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "例如，二分之一的钱包, 其中一把钥匙在这个设备上, 另一把钥匙在你的笔记本电脑上。"
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "例如，二分之一的钱包, 其中一把钥匙在这个设备上, 另一把钥匙在你的智能手机上。"
 
 #: public/views/modals/bind.html:72
 msgid "either way"
@@ -1670,7 +1670,7 @@ msgstr "待付锁定"
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "提要名称"
 
 #: public/views/walletHome.html:397
 #: public/views/walletHome.html:408
@@ -1695,11 +1695,11 @@ msgstr "已发布"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
-msgstr ""
+msgstr "重新发送私人有效载荷"
 
 #: public/views/modals/tx-details.html:118
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "向联合签署人重新发送私人有效载荷"
 
 #: src/js/controllers/walletHome.js:694
 #: src/js/controllers/walletHome.js:700
@@ -1726,15 +1726,15 @@ msgstr "与、和"
 
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
-msgstr ""
+msgstr "具有预期值"
 
 #: public/views/modals/bind.html:58
 msgid "with expected value of"
-msgstr ""
+msgstr "具有预期价值为"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
-msgstr ""
+msgstr "{{address}} 能够花费如果满足:"
 
 #: public/views/modals/customized-amount.html:76
 msgid "{{buttonLabel}}"
