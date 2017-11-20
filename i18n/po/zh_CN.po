@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-11-20 01:10-0500\n"
+"PO-Revision-Date: 2017-11-20 01:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -854,7 +854,7 @@ msgstr "只有单签钱包能恢复。"
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr "打开聊天"
+msgstr "启用聊天"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -891,7 +891,7 @@ msgstr "将您的纸钱包私钥粘贴至此处"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr "买与卖"
+msgstr "买卖"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
@@ -960,7 +960,7 @@ msgstr "发布您的个人数据，任何要说的话。"
 #: public/views/walletHome.html:157
 #: public/views/walletHome.html:29
 msgid "Preferences"
-msgstr "偏好设定"
+msgstr "首选项"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
@@ -997,7 +997,7 @@ msgstr "接收"
 
 #: public/views/walletHome.html:577
 msgid "Received"
-msgstr "收到"
+msgstr "已接收"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:45
@@ -1022,7 +1022,7 @@ msgstr "重新创建钱包中…"
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
-msgstr "拒绝"
+msgstr "已拒绝"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
