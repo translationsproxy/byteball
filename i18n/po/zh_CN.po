@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-11-20 01:00-0500\n"
+"PO-Revision-Date: 2017-11-20 01:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -317,7 +317,7 @@ msgstr "提交哈希值"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
-msgstr "是否压缩文件？（较慢）"
+msgstr "是否压缩文件? (较慢)"
 
 #: src/js/controllers/copayers.js:10
 #: src/js/controllers/index.js:459
@@ -417,11 +417,11 @@ msgstr "一起创建新钱包？"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr "创建共{{totalCosigners}}人签署, 其中 {{requiredCosigners}} 人签署即通过的钱包"
+msgstr "在{{totalCosigners}} 个签署人中 {{requiredCosigners}} 个人人创建钱包"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr "创建于:"
+msgstr "创建:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
@@ -433,7 +433,7 @@ msgstr "创建钱包…"
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr "删除文档"
+msgstr "删除单词"
 
 #: public/views/walletHome.html:310
 msgid "Data"
@@ -492,15 +492,15 @@ msgstr "设备地址"
 #: public/views/preferencesDeviceName.html:12
 #: public/views/preferencesGlobal.html:17
 msgid "Device name"
-msgstr "设备名"
+msgstr "设备名称"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr "与您通信的其他设备可以看到设备名称。"
+msgstr "与您通信的其他设备可以看到此设备名称。"
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr "不要复制钱包，不要在原始钱包上使用这个口令"
+msgstr "不要复制钱包，停止在原始钱包上使用这个口令。"
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
@@ -664,11 +664,11 @@ msgstr "我确定我已经读过，理解并且同意这些条款。"
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr "我支付:"
+msgstr "我支付"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr "我收到另一笔款项："
+msgstr "我收到另一笔款项其数额为"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
