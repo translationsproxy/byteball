@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-11-20 01:20-0500\n"
+"PO-Revision-Date: 2017-11-24 23:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -517,7 +517,7 @@ msgstr "完成"
 
 #: public/views/walletHome.html:638
 msgid "Download CSV file"
-msgstr "下载CSV的文件"
+msgstr "下载CSV文件"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
