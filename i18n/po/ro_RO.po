@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-06 18:21-0500\n"
+"PO-Revision-Date: 2017-12-06 18:33-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -384,11 +384,11 @@ msgstr ""
 #: src/js/services/profileService.js:516
 #: src/js/services/profileService.js:538
 msgid "Could not import"
-msgstr ""
+msgstr "Nu s-a putut importa"
 
 #: src/js/services/profileService.js:466
 msgid "Could not import. Check input file and password"
-msgstr ""
+msgstr "Nu s-a putut importa. Verificaţi fişierul şi parola"
 
 #: src/js/controllers/walletHome.js:49
 msgid "Could not recognize a valid Byteball QR Code"
@@ -457,7 +457,7 @@ msgstr ""
 
 #: public/views/walletHome.html:161
 msgid "Definition"
-msgstr ""
+msgstr "Definiție"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -1145,15 +1145,15 @@ msgstr ""
 #: public/views/walletHome.html:507
 #: src/js/controllers/index.js:614
 msgid "Send"
-msgstr ""
+msgstr "Trimite"
 
 #: public/views/walletHome.html:294
 msgid "Send All"
-msgstr ""
+msgstr "Trimite tot"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr ""
+msgstr "Trimite plata"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
@@ -1161,11 +1161,11 @@ msgstr ""
 
 #: public/views/walletHome.html:382
 msgid "Send all"
-msgstr ""
+msgstr "Trimite tot"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
-msgstr ""
+msgstr "Trimite prin email"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
