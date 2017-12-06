@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-06 18:33-0500\n"
+"PO-Revision-Date: 2017-12-06 18:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1177,7 +1177,7 @@ msgstr ""
 
 #: public/views/walletHome.html:579
 msgid "Sent"
-msgstr ""
+msgstr "Trimis"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
