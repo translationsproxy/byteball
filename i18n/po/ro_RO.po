@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-07 17:00-0500\n"
+"PO-Revision-Date: 2017-12-07 17:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1455,7 +1455,7 @@ msgstr "AVERTISMENT:"
 
 #: public/views/walletHome.html:204
 msgid "WARNING: Backup needed"
-msgstr ""
+msgstr "AVERTISMENT: Copie de rezervă necesară"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
@@ -1464,23 +1464,23 @@ msgstr ""
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
 msgid "WARNINGS:"
-msgstr ""
+msgstr "AVERTISMENT:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO BYTEBALL"
-msgstr ""
+msgstr "BINE ATI VENIT LA BYTEBALL"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
-msgstr ""
+msgstr "Aşteptare pentru co-semnatarii"
 
 #: public/views/copayers.html:33
 msgid "Waiting..."
-msgstr ""
+msgstr "În așteptare..."
 
 #: public/views/preferencesDeleteWallet.html:12
 msgid "Wallet"
-msgstr ""
+msgstr "Portofel"
 
 #: public/views/preferences.html:20
 msgid "Wallet Alias"
@@ -1492,24 +1492,24 @@ msgstr ""
 
 #: public/views/preferencesInformation.html:20
 msgid "Wallet Id"
-msgstr ""
+msgstr "Id Portofel"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
 msgid "Wallet Information"
-msgstr ""
+msgstr "Informații Portofel"
 
 #: public/views/preferencesInformation.html:12
 msgid "Wallet Name (at creation)"
-msgstr ""
+msgstr "Numele portofelului (la creare)"
 
 #: src/js/services/profileService.js:435
 msgid "Wallet already in Byteball:"
-msgstr ""
+msgstr "Portofel deja în Byteball:"
 
 #: public/views/create.html:48
 msgid "Wallet name"
-msgstr ""
+msgstr "Numele portofelului"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
@@ -1518,15 +1518,15 @@ msgstr ""
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Wallets"
-msgstr ""
+msgstr "Portofele"
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
-msgstr ""
+msgstr "Avertisment!"
 
 #: public/views/walletHome.html:303
 msgid "What to send"
-msgstr ""
+msgstr "Ce să se trimită"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
@@ -1534,19 +1534,19 @@ msgstr ""
 #: public/views/walletHome.html:422
 #: public/views/walletHome.html:499
 msgid "Who signs:"
-msgstr ""
+msgstr "Cine semnează:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
-msgstr ""
+msgstr "Adresă Witness"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Witnesses"
-msgstr ""
+msgstr "Witnesses"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
-msgstr ""
+msgstr "Notează și ține în siguranță."
 
 #: src/js/services/profileService.js:663
 msgid "Wrong password"
