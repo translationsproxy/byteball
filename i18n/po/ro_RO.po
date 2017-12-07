@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-07 16:50-0500\n"
+"PO-Revision-Date: 2017-12-07 17:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -938,7 +938,7 @@ msgstr "Vă rugăm să completați toate câmpurile obligatorii"
 
 #: public/views/splash.html:82
 msgid "Please name this device"
-msgstr ""
+msgstr "Vă rugăm să îi dați un nume acestui aparat"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -946,7 +946,7 @@ msgstr ""
 
 #: public/views/walletHome.html:462
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Publică perechi arbitrare cheie-valoare de date în reţeaua Byteball."
 
 #: public/views/walletHome.html:453
 msgid "Post values into datafeeds manually, be an oracle."
@@ -954,20 +954,20 @@ msgstr ""
 
 #: public/views/walletHome.html:459
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Publică datele tale de profil, orice ce vrei să spui despre tine."
 
 #: public/views/walletHome.html:157
 #: public/views/walletHome.html:29
 msgid "Preferences"
-msgstr ""
+msgstr "Preferinţe"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "Apăsaţi din nou pentru a ieşi"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "Bunuri private (cum ar fi blackbytes) nu sunt recuperate."
 
 #: src/js/controllers/walletHome.js:1353
 #: src/js/controllers/walletHome.js:1426
@@ -976,40 +976,40 @@ msgstr ""
 
 #: public/views/walletHome.html:309
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
-msgstr ""
+msgstr "Codul QR"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr ""
+msgstr "QR Scaner"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Întrebare:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
-msgstr ""
+msgstr "Primește"
 
 #: public/views/walletHome.html:577
 msgid "Received"
-msgstr ""
+msgstr "Primit"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:45
 msgid "Recipients"
-msgstr ""
+msgstr "Destinatari"
 
 #: public/views/walletHome.html:42
 msgid "Reconnecting to Wallet Service..."
-msgstr ""
+msgstr "Reconectarea la serviciul portofelului..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr ""
+msgstr "Recuperare"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
@@ -1017,11 +1017,11 @@ msgstr ""
 
 #: public/views/walletHome.html:62
 msgid "Recreating Wallet..."
-msgstr ""
+msgstr "Recreare portofel..."
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
-msgstr ""
+msgstr "Refuzat"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
@@ -1029,45 +1029,45 @@ msgstr ""
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
-msgstr ""
+msgstr "Elimină"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Înlătură un aparat"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
-msgstr ""
+msgstr "Redenumiţi:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr ""
+msgstr "Repetați parola"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "Repetați parola"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "Înlocuire"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr ""
+msgstr "Solicitare parolă"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:278
 msgid "Request a specific amount"
-msgstr ""
+msgstr "Solicita o valoare specifică"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr ""
+msgstr "Solicită plată"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
-msgstr ""
+msgstr "Numărul necesar de semnături"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
@@ -1075,11 +1075,11 @@ msgstr ""
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr ""
+msgstr "Se reîncearcă..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
-msgstr ""
+msgstr "SET"
 
 #: public/views/editCorrespondentDevice.html:41
 #: public/views/modals/destination-address.html:132
@@ -1090,7 +1090,7 @@ msgstr ""
 #: public/views/preferencesHub.html:18
 #: public/views/preferencesTor.html:19
 msgid "Save"
-msgstr ""
+msgstr "Salvați"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
@@ -1443,15 +1443,15 @@ msgstr ""
 
 #: public/views/walletHome.html:482
 msgid "Values"
-msgstr ""
+msgstr "Valori"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
-msgstr ""
+msgstr "Versiune"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "AVERTISMENT:"
 
 #: public/views/walletHome.html:204
 msgid "WARNING: Backup needed"
