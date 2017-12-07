@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-11-24 23:10-0500\n"
+"PO-Revision-Date: 2017-12-07 00:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -776,7 +776,7 @@ msgstr "消息"
 
 #: public/views/walletHome.html:580
 msgid "Moved"
-msgstr "移动"
+msgstr "已移动"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
