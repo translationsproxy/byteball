@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-07 14:11-0500\n"
+"PO-Revision-Date: 2017-12-07 14:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1682,7 +1682,7 @@ msgstr "sau"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "sau faceți o copie de rezervă la toate datele Byteball la"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
@@ -1690,7 +1690,7 @@ msgstr ""
 
 #: public/views/modals/bind.html:60
 msgid "posted"
-msgstr ""
+msgstr "publicat"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
