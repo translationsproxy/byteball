@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-07 16:00-0500\n"
+"PO-Revision-Date: 2017-12-07 16:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1550,13 +1550,13 @@ msgstr ""
 
 #: src/js/services/profileService.js:663
 msgid "Wrong password"
-msgstr ""
+msgstr "Parolă greşită"
 
 #: public/views/authConfirmation.html:17
 #: public/views/modals/confirmation.html:6
 #: src/js/controllers/index.js:457
 msgid "Yes"
-msgstr ""
+msgstr "Da"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1564,7 +1564,7 @@ msgstr ""
 
 #: public/views/walletHome.html:24
 msgid "You do not have a wallet"
-msgstr ""
+msgstr "Nu aveţi un portofel"
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -1573,33 +1573,33 @@ msgstr ""
 
 #: public/views/export.html:33
 msgid "Your export password"
-msgstr ""
+msgstr "Parola de export"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
-msgstr ""
+msgstr "Parola dumneavoastră"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr ""
+msgstr "Fişierul portofelului:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr ""
+msgstr "Cheia portofelului va fi criptată. Parola nu poate fi recuperată. Asiguraţi-vă că ați facut o copie și că știți parola"
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "Portofel va fi creat pe acest aparat, păstraţi-l în condiţii de siguranţă.  A se vedea opţiunile de salvare a unei copii de rezervă, din meniul Setări."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[Adăugă un nou co-semnatar pentru aparat]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
 msgid "amount"
-msgstr ""
+msgstr "valoare"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
@@ -1712,28 +1712,28 @@ msgstr "se trimite"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
-msgstr ""
+msgstr "către"
 
 #: public/views/walletHome.html:398
 #: public/views/walletHome.html:409
 msgid "too long!"
-msgstr ""
+msgstr "prea lung!"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "cu"
 
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
-msgstr ""
+msgstr "cu valuare așteptată"
 
 #: public/views/modals/bind.html:58
 msgid "with expected value of"
-msgstr ""
+msgstr "cu valuare așteptată de"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
-msgstr ""
+msgstr "{{address}}} pote fi consumantă dacă:"
 
 #: public/views/modals/customized-amount.html:76
 msgid "{{buttonLabel}}"
@@ -1741,26 +1741,26 @@ msgstr ""
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
-msgstr ""
+msgstr "{cancel_label || 'Cancel'}"
 
 #: src/js/controllers/walletHome.js:1468
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr ""
+msgstr "{{fee}} vor fi deduse pentru bitcoin taxe de reţea"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "{{hrd.destinationAddress}} poate fi consumată dacă:"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
 msgid "{{index.m}}-of-{{index.n}}"
-msgstr ""
+msgstr "{{index.m}}-de-{{index.n}}"
 
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr ""
+msgstr "{{item.m}}-de-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'On':'Off'}}"
 
