@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-07 14:21-0500\n"
+"PO-Revision-Date: 2017-12-07 16:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1708,7 +1708,7 @@ msgstr ""
 #: src/js/controllers/walletHome.js:980
 #: src/js/controllers/walletHome.js:987
 msgid "sending"
-msgstr ""
+msgstr "se trimite"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
