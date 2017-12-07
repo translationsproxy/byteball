@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-12-07 00:00-0500\n"
+"PO-Revision-Date: 2017-12-07 01:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1292,7 +1292,7 @@ msgstr "使用条款"
 
 #: public/views/correspondentDevice.html:341
 msgid "Text message to"
-msgstr "发送短信"
+msgstr "发送短信至"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1644,7 +1644,7 @@ msgstr "无论哪种方式"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
-msgstr "明确的"
+msgstr "明确地"
 
 #: public/views/modals/bind.html:79
 #: public/views/modals/offer-contract.html:69
@@ -1675,7 +1675,7 @@ msgstr "提要名称"
 #: public/views/walletHome.html:397
 #: public/views/walletHome.html:408
 msgid "optional"
-msgstr "任意"
+msgstr "可选"
 
 #: public/views/modals/offer-contract.html:99
 msgid "or"
@@ -1709,7 +1709,7 @@ msgstr "向联合签署人重新发送私人有效载荷"
 #: src/js/controllers/walletHome.js:980
 #: src/js/controllers/walletHome.js:987
 msgid "sending"
-msgstr "正在发送"
+msgstr "发送中"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
