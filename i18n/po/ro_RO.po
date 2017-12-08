@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-07 17:10-0500\n"
+"PO-Revision-Date: 2017-12-08 16:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -156,7 +156,7 @@ msgstr ""
 
 #: public/views/walletHome.html:456
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Atestă datele de profil legate la orice adresă de Byteball."
 
 #: public/views/walletHome.html:308
 msgid "Attestation"
@@ -164,15 +164,15 @@ msgstr "Atestare"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "Auto-actualizare a listei witness de la hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "Auto-actualizare a listei witness de la acest hub"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr ""
+msgstr "Sold Disponibil"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -200,15 +200,15 @@ msgstr ""
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "Soldul de adresă"
 
 #: public/views/walletHome.html:208
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "Înainte de a primi fonduri, este foarte recomandat să vă faceți o copie de rezervă a cheilor portofelului dumneavoastră."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Mai bine, folosesc portofele multisig cu redundanţă,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
