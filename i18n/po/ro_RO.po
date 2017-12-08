@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-08 17:20-0500\n"
+"PO-Revision-Date: 2017-12-08 17:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -218,11 +218,11 @@ msgstr "Obligați de plată"
 #: public/views/walletHome.html:356
 #: public/views/walletHome.html:363
 msgid "Bind the payment to a condition"
-msgstr ""
+msgstr "Obligații de plată cu o condiție"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr ""
+msgstr "Bitcoin URI nu este valid!"
 
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:38
@@ -235,20 +235,20 @@ msgstr ""
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr ""
+msgstr "Browser nesuportat"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Adresa de Byteball"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr ""
+msgstr "ANULARE"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr ""
+msgstr "CONTINUĂ"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:430
@@ -257,7 +257,7 @@ msgstr ""
 #: src/js/controllers/walletHome.js:119
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
-msgstr ""
+msgstr "Anulare"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
