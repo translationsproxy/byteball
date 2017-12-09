@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-09 08:50-0500\n"
+"PO-Revision-Date: 2017-12-09 09:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -473,55 +473,55 @@ msgstr "Ştergeţi portofel"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete wallet"
-msgstr ""
+msgstr "Ştergeţi portofel"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
-msgstr ""
+msgstr "Strategia de derivare"
 
 #: public/views/modals/customized-amount.html:29
 #: public/views/modals/multi-payment.html:17
 #: public/views/modals/tx-details.html:25
 msgid "Details"
-msgstr ""
+msgstr "Detalii"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Device address"
-msgstr ""
+msgstr "Adresa aparatului"
 
 #: public/views/preferencesDeviceName.html:12
 #: public/views/preferencesGlobal.html:17
 msgid "Device name"
-msgstr ""
+msgstr "Nume aparat"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr ""
+msgstr "Numele aparatului este vizibil pentru alte aparate cu care comunicați."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Nu clonați porotfele, încetați să utilizați protofelul original cu acest seed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Nu-l utilizaţi pentru a clona portofelul."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr ""
+msgstr "Nu vă vedeți limba dumneavoastră pe Crowdin? Contactați proprietarul de pe Crowdin! Ne-ar plăcea să avem și limba dumneavoastră pe aplicația noastră."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr ""
+msgstr "Terminat"
 
 #: public/views/walletHome.html:638
 msgid "Download CSV file"
-msgstr ""
+msgstr "Descarcă fișier CSV"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Descarcă întreaga bază de date Byteball"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
