@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2017-12-05 17:31-0500\n"
+"PO-Revision-Date: 2017-12-09 10:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,7 +23,7 @@ msgstr "(olası çift harcama)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "--Ortak imzacı seç--"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -42,28 +42,28 @@ msgstr "Daveti kabul et"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr ""
+msgstr "Diğer cihazdan gelen davetiyeyi kabul edin"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
-msgstr ""
+msgstr "Hesap"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Bot ekle"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
-msgstr ""
+msgstr "Yeni bir cihaz ekle"
 
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr ""
+msgstr "Yeni giriş ekle"
 
 #: public/views/walletHome.html:492
 msgid "Add fields"
-msgstr ""
+msgstr "Alanlar ekle"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -71,7 +71,7 @@ msgstr "Cüzdan ekle"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "Katma"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
@@ -81,12 +81,12 @@ msgstr "Adres"
 
 #: public/views/walletHome.html:467
 msgid "Address to attest"
-msgstr ""
+msgstr "Adresi ziyaret edin"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
 msgid "Addressbook"
-msgstr ""
+msgstr "Adres defteri"
 
 #: public/views/preferences.html:56
 msgid "Advanced"
@@ -102,27 +102,27 @@ msgstr "<i>{{index.walletName}}</i> için takma ad"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr ""
+msgstr "Tüm Cüzdan Adresleri"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr ""
+msgstr "Byteball'ın çevirisine yapılan tüm katkılar açıktır. Crowdin.com adresine kaydolun ve şu adresteki Byteball projesine katılın"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
-msgstr ""
+msgstr "Zaten ödendi"
 
 #: public/views/walletHome.html:132
 msgid "Also"
-msgstr ""
+msgstr "Ayrıca"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "Ayrıca Ayarlar menüsünde, bir şifre belirleme gibi güvenlik seçeneklerini bulacaksınız."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Ayrıca, çekirdeğini silmeyi unutma"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -135,11 +135,11 @@ msgstr "Tutar"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "Cevap:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr ""
+msgstr "Cüzdan oluşturma işlemini diğer cihazlarda onaylayın"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
@@ -152,11 +152,11 @@ msgstr "Bu cüzdanı silmek istediğinizden emin misiniz?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr ""
+msgstr "Varlık"
 
 #: public/views/walletHome.html:456
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Herhangi bir Byteball adresine bağlı profil verisine itiraz edin."
 
 #: public/views/walletHome.html:308
 msgid "Attestation"
