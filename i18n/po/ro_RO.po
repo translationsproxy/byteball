@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-09 08:00-0500\n"
+"PO-Revision-Date: 2017-12-09 08:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -277,7 +277,7 @@ msgstr "Selectează fișierul"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr ""
+msgstr "Alege dispozitivul pentru a trimite"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
