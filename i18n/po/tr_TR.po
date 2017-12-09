@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2017-12-09 10:11-0500\n"
+"PO-Revision-Date: 2017-12-09 10:12-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -160,7 +160,7 @@ msgstr "Herhangi bir Byteball adresine bağlı profil verisine itiraz edin."
 
 #: public/views/walletHome.html:308
 msgid "Attestation"
-msgstr ""
+msgstr "Tasdik"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
