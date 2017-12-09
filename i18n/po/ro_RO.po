@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-08 17:40-0500\n"
+"PO-Revision-Date: 2017-12-09 08:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -19,7 +19,7 @@ msgstr "(Site-ul nu va vedea soldul dumneavoastră şi nici un ban va fi cheltui
 
 #: public/views/walletHome.html:588
 msgid "(possible double spend)"
-msgstr ""
+msgstr "(posibilă dublă cheltuire)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
@@ -122,7 +122,7 @@ msgstr "De asemenea, în meniul de setări, veţi găsi opţiunile de securitate
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "De asemenea, nu uitaţi să va ştergeţi seed-ul dumneavoastră"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -152,7 +152,7 @@ msgstr "Ești sigur că vrei să ștergi acest portofel?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr ""
+msgstr "Resursă"
 
 #: public/views/walletHome.html:456
 msgid "Attest profile data linked to any Byteball address."
@@ -192,11 +192,11 @@ msgstr "Fă o copie acum"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "Copia de siguranță a seed-ului portofelului"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr ""
+msgstr "Cuvinte de siguranță șterse"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -227,11 +227,11 @@ msgstr "Bitcoin URI nu este valid!"
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:38
 msgid "Bot Store"
-msgstr ""
+msgstr "Magazin de bot"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Atât tu, cât şi {{correspondent.name}} ați activat înregistrarea istoriei locală a chat-ului."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -261,19 +261,19 @@ msgstr "Anulare"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr ""
+msgstr "Schimbă hub:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr ""
+msgstr "Schimbarea aliasului afectează numai numele local al portofelului."
 
 #: src/js/controllers/index.js:622
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "Selectează fișierul"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
