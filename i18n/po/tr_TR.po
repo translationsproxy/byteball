@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2017-12-09 10:23-0500\n"
+"PO-Revision-Date: 2017-12-09 10:33-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -942,19 +942,19 @@ msgstr "Lütfen bu cihazı adlandırın"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr ""
+msgstr "Liman"
 
 #: public/views/walletHome.html:462
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Keyfi değer çiftlerini Byteball ağına yerleştirin."
 
 #: public/views/walletHome.html:453
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Değerleri elle veri kaynağına yerleştirin, torpilli olun."
 
 #: public/views/walletHome.html:459
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Profil verilerinizi gönderin, kendiniz hakkında söylemek istediğiniz her şeyi yapın."
 
 #: public/views/walletHome.html:157
 #: public/views/walletHome.html:29
@@ -963,20 +963,20 @@ msgstr "Tercihler"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "Çıkmak için tekrar basın"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "Özel varlıklar (blackbytes gibi) kurtarılamadı."
 
 #: src/js/controllers/walletHome.js:1353
 #: src/js/controllers/walletHome.js:1426
 msgid "Private payloads sent"
-msgstr ""
+msgstr "Özel yükler gönderildi"
 
 #: public/views/walletHome.html:309
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -988,7 +988,7 @@ msgstr "QR-Tarayıcı"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Soru:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
@@ -1009,11 +1009,11 @@ msgstr "Cüzdan servisine bağlanıyor..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr ""
+msgstr "Kurtarmak"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr ""
+msgstr "Tohumdan geri kazanım"
 
 #: public/views/walletHome.html:62
 msgid "Recreating Wallet..."
@@ -1021,7 +1021,7 @@ msgstr "Cüzdan yeniden oluşturuluyor..."
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
-msgstr ""
+msgstr "Reddedildi"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
@@ -1029,15 +1029,15 @@ msgstr "Sürüm Bilgileri"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
-msgstr ""
+msgstr "Kaldır"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Bir aygıtı kaldır"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
-msgstr ""
+msgstr "Adını değiştirmek:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
@@ -1046,15 +1046,15 @@ msgstr "Şifreyi tekrarla"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "Şifreyi tekrarla"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "Değiştirmek"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr ""
+msgstr "Şifre İste"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:278
@@ -1063,7 +1063,7 @@ msgstr "Belirli bir miktar iste"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr ""
+msgstr "Ödeme iste"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
@@ -1071,7 +1071,7 @@ msgstr "Gerekli imza sayısı"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr ""
+msgstr "Tam yedeklemeden geri yükle"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
@@ -1098,11 +1098,11 @@ msgstr "Tercihler kaydediliyor..."
 
 #: public/views/preferences.html:66
 msgid "Scan Fingerprint"
-msgstr ""
+msgstr "Parmak izi tara"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr ""
+msgstr "Cüzdan Fonlarını Tara"
 
 #: public/views/walletHome.html:102
 msgid "Scan status finished with error"
@@ -1110,11 +1110,11 @@ msgstr "Tarama işlemi hatalı bitti"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr ""
+msgstr "Yukarıdaki QR kodunu diğer cihazı kullanarak tarayın veya bu eşleştirme kodunu diğer cihaza gönderin:"
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
-msgstr ""
+msgstr "Parmak izinizi tarayın lütfen"
 
 #: public/views/walletHome.html:61
 msgid "Scanning Wallet funds..."
@@ -1122,11 +1122,11 @@ msgstr "Cüzdan para miktarı taranıyor..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr ""
+msgstr "Adres taranıyor..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
-msgstr ""
+msgstr "Cüzdan fonlarını taranıyor..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1134,11 +1134,11 @@ msgstr "Bir cüzdan seçin"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr ""
+msgstr "Alt cüzdanı seçin"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "Kimliğinizi seçin"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:433
@@ -1153,15 +1153,15 @@ msgstr "Tümünü Gönder"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr ""
+msgstr "Ödemeyi Gönder"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr ""
+msgstr "Adresleri E-Posta ile gönder"
 
 #: public/views/walletHome.html:382
 msgid "Send all"
-msgstr ""
+msgstr "Hepsini gönder"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
@@ -1169,11 +1169,11 @@ msgstr "E-posta ile gönder"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr ""
+msgstr "Para gönderiliyor..."
 
 #: public/views/walletHome.html:66
 msgid "Sending..."
-msgstr ""
+msgstr "Gönderiliyor..."
 
 #: public/views/walletHome.html:579
 msgid "Sent"
@@ -1185,7 +1185,7 @@ msgstr "Oturum günlüğü"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "Şifreyi ayarla"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
@@ -1197,7 +1197,7 @@ msgstr "E-posta bildirimleri ayarlamak gizliliğinizi zayıflatabilir. Cüzdan s
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "Ayarlar"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:257
@@ -1206,11 +1206,11 @@ msgstr "Adresi paylaş"
 
 #: public/views/walletHome.html:262
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "Ödeme almak için bu cüzdan adresini paylaşın."
 
 #: public/views/walletHome.html:630
 msgid "Show all"
-msgstr ""
+msgstr "Hepsini Göster"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
