@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-09 09:11-0500\n"
+"PO-Revision-Date: 2017-12-09 09:42-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -354,7 +354,7 @@ msgstr "Copiat în clipboard"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr ""
+msgstr "Corespondenţii nu sunt restabiliți."
 
 #: src/js/controllers/walletHome.js:602
 msgid "Could not create payment proposal"
@@ -526,7 +526,7 @@ msgstr "Descarcă întreaga bază de date Byteball"
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
-msgstr ""
+msgstr "Editează"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
@@ -725,53 +725,53 @@ msgstr ""
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Doar seed-ul portofelului nu este de suficient. Doar cu seed, nu veți putea restabili portofele multisig și resursele private, cum ar fi blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Păstraţi numai date relevante pentru dumneavoastră"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
-msgstr ""
+msgstr "Etichetă"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
-msgstr ""
+msgstr "Limbă"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr ""
+msgstr "Mai târziu"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr ""
+msgstr "Se încarcă..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr ""
+msgstr "Efectuați o plată către"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr ""
+msgstr "Poate mai târziu"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:116
 #: public/views/preferencesInformation.html:76
 msgid "Me"
-msgstr ""
+msgstr "Eu"
 
 #: public/views/modals/tx-details.html:97
 msgid "Merchant message"
-msgstr ""
+msgstr "Mesaj de comerciant"
 
 #: public/views/walletHome.html:396
 msgid "Merkle proof"
-msgstr ""
+msgstr "Dovadă de Merkel"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
-msgstr ""
+msgstr "Mesaje"
 
 #: public/views/walletHome.html:580
 msgid "Moved"
