@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2017-12-09 10:33-0500\n"
+"PO-Revision-Date: 2017-12-09 10:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1214,34 +1214,34 @@ msgstr "Hepsini Göster"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "Cüzdan deposunu Göster"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
-msgstr ""
+msgstr "İşlem harcamalarını cüzdandan imzala?"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Tek adresli cüzdan"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "Tek adres cüzdanları, her işlem için yeni adresler atmaz, değişim her zaman, cüzdan içerisindeki tek bir adrese gider."
 
 #: src/js/services/profileService.js:317
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "Küçük Masraflar Cüzdan"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr ""
+msgstr "Çekirdek Belirle..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
 msgid "Spending Restrictions"
-msgstr ""
+msgstr "Harcama Kısıtlamaları"
 
 #: public/views/preferencesGlobal.html:96
 msgid "Still not done"
@@ -1260,11 +1260,11 @@ msgstr "Başarılı"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr ""
+msgstr "Cüzdan Temizleme"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr ""
+msgstr "Cüzdan kağıtlarını temizleme"
 
 #: public/views/walletHome.html:65
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
@@ -1320,7 +1320,7 @@ msgstr ""
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
-msgstr ""
+msgstr "Onların kayıt tercihi"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
@@ -1332,7 +1332,7 @@ msgstr ""
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
-msgstr ""
+msgstr "Bu seçim daha sonra değiştirilemez"
 
 #: public/views/walletHome.html:325
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
@@ -1344,7 +1344,7 @@ msgstr ""
 
 #: public/views/walletHome.html:357
 msgid "This payment is bound to a condition"
-msgstr ""
+msgstr "Bu ödeme şarta bağlı"
 
 #: public/views/modals/tx-details.html:73
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
@@ -1390,7 +1390,7 @@ msgstr "Toplam Kilitli Bakiye"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr ""
+msgstr "Toplam imzacı sayısı"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
