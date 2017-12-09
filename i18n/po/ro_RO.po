@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-09 10:34-0500\n"
+"PO-Revision-Date: 2017-12-09 10:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -705,7 +705,8 @@ msgstr "Se include confirmarea în curs"
 #: public/views/walletHome.html:562
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr ""
+msgstr "Sincronizarea istoricului tranzacțiilor inițiale pentru portofelele cu multe tranzacții, poate dura mai multe minute.<br>\n"
+"          Vă rugăm așteptați."
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
