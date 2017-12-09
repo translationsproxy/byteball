@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-09 08:42-0500\n"
+"PO-Revision-Date: 2017-12-09 08:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -362,23 +362,23 @@ msgstr "Nu s-a putut crea propunerea de plată"
 
 #: src/js/services/profileService.js:264
 msgid "Could not create using the specified extended private key"
-msgstr ""
+msgstr "Nu s-a putut crea utilizând cheia privată extinsă specificată"
 
 #: src/js/services/profileService.js:274
 msgid "Could not create using the specified extended public key"
-msgstr ""
+msgstr "Nu s-a putut crea utilizând cheia publică extinsă specificată"
 
 #: src/js/services/profileService.js:257
 msgid "Could not create: Invalid wallet seed"
-msgstr ""
+msgstr "Nu s-a putut crea: Seed al portofelului invalid"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr ""
+msgstr "Nu s-a putut decripta"
 
 #: public/views/walletHome.html:543
 msgid "Could not fetch transaction history"
-msgstr ""
+msgstr "Nu s-a putut prelua istoricul tranzacţiilor"
 
 #: src/js/services/profileService.js:489
 #: src/js/services/profileService.js:516
@@ -392,68 +392,68 @@ msgstr "Nu s-a putut importa. Verificaţi fişierul şi parola"
 
 #: src/js/controllers/walletHome.js:49
 msgid "Could not recognize a valid Byteball QR Code"
-msgstr ""
+msgstr "Nu a putut recunoaşte un cod valid QR Byteball"
 
 #: src/js/controllers/walletHome.js:602
 msgid "Could not send payment"
-msgstr ""
+msgstr "Nu s-a putut trimite plata"
 
 #: public/views/walletHome.html:26
 msgid "Create"
-msgstr ""
+msgstr "Creează"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
-msgstr ""
+msgstr "Creează un portofel nou"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
 msgid "Create new wallet"
-msgstr ""
+msgstr "Creează portofel nou"
 
 #: src/js/controllers/index.js:286
 msgid "Create new wallet  together with  ?"
-msgstr ""
+msgstr "Creează un portofel nou împreună cu ?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr ""
+msgstr "Creează {{requiredCosigners}}-din-{{totalCosigners}} portofel"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr ""
+msgstr "Creat:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr ""
+msgstr "Creare profil..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr ""
+msgstr "Crearea portofel..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr ""
+msgstr "ŞTERGEŢI CUVINTE"
 
 #: public/views/walletHome.html:310
 msgid "Data"
-msgstr ""
+msgstr "Date"
 
 #: public/views/walletHome.html:307
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Date în fluxul de date"
 
 #: public/views/modals/tx-details.html:78
 msgid "Date"
-msgstr ""
+msgstr "Dată"
 
 #: src/js/controllers/index.js:256
 msgid "Declined"
-msgstr ""
+msgstr "Respins"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr ""
+msgstr "Decriptarea unui portofel de hârtie pe acest aparat ar pute dura 5 minute. vă rugăm aveți răbdare și păstrați aplicația deschisă."
 
 #: public/views/walletHome.html:161
 msgid "Definition"
@@ -461,15 +461,15 @@ msgstr "Definiție"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
-msgstr ""
+msgstr "Definiţie a unei adrese smart"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
-msgstr ""
+msgstr "Definiţii ale adreselor"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
-msgstr ""
+msgstr "Ştergeţi portofel"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete wallet"
