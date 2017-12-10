@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2017-12-10 14:30-0500\n"
+"PO-Revision-Date: 2017-12-10 14:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1304,11 +1304,11 @@ msgstr ""
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "Eş, eğer bu ödemeyi alırsa"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "Oylama, finanse edilen tüm adresler tarafından imzalanacak"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
@@ -1420,11 +1420,11 @@ msgstr "Onaylanmamış"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr ""
+msgstr "Blackbytes birimi"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr ""
+msgstr "Bayt için birim"
 
 #: public/views/walletHome.html:179
 msgid "Unsent transactions"
@@ -1436,15 +1436,15 @@ msgstr "Cüzdan güncelleniyor..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
-msgstr ""
+msgstr "{{version}} sürümüne geçin"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "Veritabanının güncellenmesi, lütfen bekleyin. Bazen birkaç dakika sürer."
 
 #: public/views/walletHome.html:482
 msgid "Values"
-msgstr ""
+msgstr "Değerler"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1535,7 +1535,7 @@ msgstr "Ne gönderilecek"
 #: public/views/walletHome.html:422
 #: public/views/walletHome.html:499
 msgid "Who signs:"
-msgstr ""
+msgstr "Kim işaret eder:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
@@ -1570,7 +1570,7 @@ msgstr "Cüzdanınız yok"
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr ""
+msgstr "Cüzdan Çekirdekleriniz:"
 
 #: public/views/export.html:33
 msgid "Your export password"
@@ -1582,7 +1582,7 @@ msgstr "Parolanız"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr ""
+msgstr "Cüzdan dosyanız:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
@@ -1600,7 +1600,7 @@ msgstr ""
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
 msgid "amount"
-msgstr ""
+msgstr "miktar"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
@@ -1608,7 +1608,7 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr ""
+msgstr "sözleşmenin kilidini açabilir"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
@@ -1620,15 +1620,15 @@ msgstr ""
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
-msgstr ""
+msgstr "sohbet geçmişini temizle"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "oluşturulma"
 
 #: public/views/modals/offer-contract.html:108
 msgid "days"
-msgstr ""
+msgstr "günler"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
