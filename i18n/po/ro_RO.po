@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-10 09:10-0500\n"
+"PO-Revision-Date: 2017-12-10 09:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1215,34 +1215,34 @@ msgstr "Arată tot"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "Arată seed-ul portofelului oricum"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
-msgstr ""
+msgstr "Semnați cheltuielile de tranzacție din portofel?"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Portofel cu adresă unică"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "Portofelele cu adresă unică nu vor da naștere la noi adrese pentru fiecare tranzacție, schimbarea va merge la singura adresă a portofelului."
 
 #: src/js/services/profileService.js:317
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "Portofel de cheltuieli mici"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr ""
+msgstr "Specificaţi seed..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
 msgid "Spending Restrictions"
-msgstr ""
+msgstr "Restricţii de cheltuieli"
 
 #: public/views/preferencesGlobal.html:96
 msgid "Still not done"
@@ -1269,11 +1269,11 @@ msgstr ""
 
 #: public/views/walletHome.html:65
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr ""
+msgstr "Se sincronizează... {{index.count_unhandled_private_payments}} plăți private rămase"
 
 #: public/views/walletHome.html:64
 msgid "Syncing... {{index.syncProgress}}"
-msgstr ""
+msgstr "Se sincronizează... {{index.syncProgress}}"
 
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
