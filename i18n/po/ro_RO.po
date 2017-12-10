@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-10 12:30-0500\n"
+"PO-Revision-Date: 2017-12-10 12:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1460,7 +1460,7 @@ msgstr "AVERTISMENT: Copie de rezervă necesară"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr ""
+msgstr "AVERTISMENT: Aceast seed a fost creat cu o frază de acces. Pentru a recupera acest portofel sunt necesare atât mnemonic, cât și fraza de acces."
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
@@ -1485,11 +1485,11 @@ msgstr "Portofel"
 
 #: public/views/preferences.html:20
 msgid "Wallet Alias"
-msgstr ""
+msgstr "Aliasurile Portofelului"
 
 #: public/views/preferencesInformation.html:27
 msgid "Wallet Configuration (m-n)"
-msgstr ""
+msgstr "Configurarea portofelului (m-n)"
 
 #: public/views/preferencesInformation.html:20
 msgid "Wallet Id"
@@ -1514,7 +1514,7 @@ msgstr "Numele portofelului"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
-msgstr ""
+msgstr "Seed-ul portofelului nu este disponibil."
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
@@ -1561,7 +1561,7 @@ msgstr "Da"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "Nu puteți să inversați plata din tranzacție deoarce sunteți într-un portofel cu adresă unică. Utilizați un portofel cu adresă non-unică și apoi transferați banii în acest portofel."
 
 #: public/views/walletHome.html:24
 msgid "You do not have a wallet"
@@ -1570,7 +1570,7 @@ msgstr "Nu aveţi un portofel"
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr ""
+msgstr "Seed-ul portofelului dumneavoastră:"
 
 #: public/views/export.html:33
 msgid "Your export password"
