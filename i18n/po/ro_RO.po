@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-10 12:55-0500\n"
+"PO-Revision-Date: 2017-12-10 13:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -951,7 +951,7 @@ msgstr "Publică perechi arbitrare cheie-valoare de date în reţeaua Byteball."
 
 #: public/views/walletHome.html:453
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Postează manual valori în noutațiile de date, fi un oracol."
 
 #: public/views/walletHome.html:459
 msgid "Post your profile data, anything you want to say about yourself."
@@ -973,7 +973,7 @@ msgstr "Bunuri private (cum ar fi blackbytes) nu sunt recuperate."
 #: src/js/controllers/walletHome.js:1353
 #: src/js/controllers/walletHome.js:1426
 msgid "Private payloads sent"
-msgstr ""
+msgstr "Plăți private trimise"
 
 #: public/views/walletHome.html:309
 msgid "Profile"
@@ -1341,7 +1341,7 @@ msgstr "Aceasta este o resursă privată, trimiteți-o numai apăsând pe link-u
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "Această opțiune este mai bună pentru confidențialitate dar ar putea ocupa câțiva GB iar sincronizarea inițială va dura câteva zile. În timpul sincronizării, încărcarea procesorului va fi ridicată."
 
 #: public/views/walletHome.html:357
 msgid "This payment is bound to a condition"
@@ -1387,11 +1387,11 @@ msgstr "Pentru a proteja confidenţialitatea datelor dumneavoastră, noi adrese 
 
 #: public/views/walletHome.html:186
 msgid "Total Locked Balance"
-msgstr ""
+msgstr "Sold total blocat"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr ""
+msgstr "Numărul total de co-semnatarii"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
