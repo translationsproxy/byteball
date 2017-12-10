@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-10 08:50-0500\n"
+"PO-Revision-Date: 2017-12-10 09:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -776,52 +776,52 @@ msgstr "Mesaje"
 
 #: public/views/walletHome.html:580
 msgid "Moved"
-msgstr ""
+msgstr "Mutat"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr ""
+msgstr "Portofel multi-aparat"
 
 #: public/views/walletHome.html:222
 msgid "My Byteball address"
-msgstr ""
+msgstr "Adresa mea Byteball"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
-msgstr ""
+msgstr "Preferinţa mea de înregistrare"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "Numele persoanei de contact"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
-msgstr ""
+msgstr "Reţea"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr ""
+msgstr "O nouă seed aleatoare"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
-msgstr ""
+msgstr "O nouă versiune este disponibilă!"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
-msgstr ""
+msgstr "Noi witnesses"
 
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:458
 msgid "No"
-msgstr ""
+msgstr "Nu"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "Nici o parolă dată"
 
 #: public/views/walletHome.html:546
 msgid "No transactions yet"
-msgstr ""
+msgstr "Nici o tranzacție încă"
 
 #: public/views/modals/customized-amount.html:51
 #: public/views/modals/destination-address.html:112
@@ -829,7 +829,7 @@ msgstr ""
 #: public/views/walletHome.html:373
 #: public/views/walletHome.html:472
 msgid "Not valid"
-msgstr ""
+msgstr "Nu este valabil"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:68
@@ -837,12 +837,12 @@ msgstr ""
 #: public/views/walletHome.html:407
 #: public/views/walletHome.html:609
 msgid "Note"
-msgstr ""
+msgstr "Notă"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
 msgid "Offer a contract"
-msgstr ""
+msgstr "Oferă un contract"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
