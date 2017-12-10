@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-10 09:20-0500\n"
+"PO-Revision-Date: 2017-12-10 09:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1292,48 +1292,48 @@ msgstr "Termenii de Folosire"
 
 #: public/views/correspondentDevice.html:341
 msgid "Text message to"
-msgstr ""
+msgstr "Mesaj text către"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr ""
+msgstr "Hub pentru primirea mesajelor de la alte aparate."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr ""
+msgstr "Hub-ul sugerează înlocuirea următorilor witnesses:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "Peer-ul primeşte această plată dacă"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "Votul va fi semnat de toate adresele finanţate de dumneavoastră"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The wallet \"{{walletName}}\" was deleted"
-msgstr ""
+msgstr "Portofelul \"{{walletName}}\" a fost şters"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "Furnizororul portofelului va putea să vadă unele dinte soldurile și tranzacțiile dumneavoastră, dar puteți să utilizați portofelul imediat, acesta fiind complet funcțional."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
-msgstr ""
+msgstr "Preferinţa lor de înregistrare"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
-msgstr ""
+msgstr "Nu sunt portofele să efectueze această plată"
 
 #: public/views/walletHome.html:261
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr ""
+msgstr "Această adresă este partajată cu {{index.shared_address_cosigners}}."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
-msgstr ""
+msgstr "Această opţiune nu poate fi schimbată mai târziu"
 
 #: public/views/walletHome.html:325
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
