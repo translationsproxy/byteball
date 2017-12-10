@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-09 10:40-0500\n"
+"PO-Revision-Date: 2017-12-10 08:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -710,19 +710,19 @@ msgstr "Sincronizarea istoricului tranzacțiilor inițiale pentru portofelele cu
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "Introduce adresa mea"
 
 #: public/views/walletHome.html:581
 msgid "Invalid"
-msgstr ""
+msgstr "Incorect"
 
 #: src/js/controllers/index.js:1533
 msgid "Invalid Touch ID"
-msgstr ""
+msgstr "ID Touch Incorect"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr ""
+msgstr "Invită celălalt aparat"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
