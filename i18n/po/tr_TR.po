@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2017-12-10 14:11-0500\n"
+"PO-Revision-Date: 2017-12-10 14:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -521,16 +521,16 @@ msgstr "CSV dosyasını indir"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Tüm Byteball veritabanını indirin"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
-msgstr ""
+msgstr "Düzenle"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr ""
+msgstr "Sizin veya {{correspondent.name}} sohbet geçmişi kaydı devre dışı bırakıldı. Tarih artık kimseye kaydedilmedi."
 
 #: public/views/preferencesEmail.html:33
 msgid "Email for wallet notifications"
@@ -538,11 +538,11 @@ msgstr "E-posta ile cüzdan bildirimleri"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr ""
+msgstr "Anlık bildirimlerini etkinleştir"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr ""
+msgstr "Diğer cihazdan alınan eşleştirme kodunu girin veya diğer cihazlardaki görüntülenen QR kodunu taramak için kamera (sağ üst köşedeki simgeyi) kullanın."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
@@ -555,16 +555,16 @@ msgstr "Cüzdan oluşturma hatası"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "Dışa Aktar"
 
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
 msgid "Export completed successfully"
-msgstr ""
+msgstr "Dışa aktarma başarıyla tamamlandı"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "Dışa aktarılıyor..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
@@ -580,27 +580,27 @@ msgstr "Ücret"
 
 #: public/views/modals/tx-details.html:103
 msgid "Finality"
-msgstr ""
+msgstr "Sonlandır"
 
 #: public/views/modals/tx-details.html:53
 msgid "From"
-msgstr ""
+msgstr "Kimden"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
-msgstr ""
+msgstr "Tam adres:"
 
 #: public/views/preferencesGlobal.html:118
 msgid "Full backup"
-msgstr ""
+msgstr "Tam yedekleme"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
-msgstr ""
+msgstr "Bulunan fonlar"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr ""
+msgstr "Fon transfer edebileceği"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
@@ -608,7 +608,7 @@ msgstr "Başlarken"
 
 #: src/js/controllers/walletHome.js:421
 msgid "Generate QR Code"
-msgstr ""
+msgstr "QR Kodu Yarat"
 
 #: public/views/walletHome.html:270
 msgid "Generate new address"
@@ -624,7 +624,7 @@ msgstr "{{selectedWalletName}} için cüzdan adresi alınıyor..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "Genel tercihler"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
@@ -636,7 +636,7 @@ msgstr "Donanım cüzdanı"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr ""
+msgstr "Cüzdan Çekirdeğini Gizle"
 
 #: src/js/controllers/index.js:618
 msgid "History"
@@ -648,15 +648,15 @@ msgstr "Ana sayfa"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr ""
+msgstr "Sunucu"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr ""
+msgstr "Merkez"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr ""
+msgstr "Merkez URL'si"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
@@ -664,19 +664,19 @@ msgstr "Bu koşulları okuduğumu, anladığımı ve kabul ettiğimi onaylıyoru
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "Ben ödeme"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Başka bir ödeme aldım"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "Durum karşılanmazsa, bu parayı geri alabilirim"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Eş ödemezse paramı geri alabilirim"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
