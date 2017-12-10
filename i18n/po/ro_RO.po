@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-10 13:00-0500\n"
+"PO-Revision-Date: 2017-12-10 13:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1261,11 +1261,11 @@ msgstr "Succes"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr ""
+msgstr "Sweep Portofelul"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr ""
+msgstr "Sweep portofelul de hârtie"
 
 #: public/views/walletHome.html:65
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
@@ -1349,16 +1349,16 @@ msgstr "Această plată este legată de o condiţie"
 
 #: public/views/modals/tx-details.html:73
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr ""
+msgstr "Această tranzacţie a devenit nedisponibilă; posibil datorită unei încercări duble de cheltuilă."
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "Acest portofel nu poate fi convertit la un portofel cu adresă unică deoarce are deja mai multe adrese sau este un multi-aparat"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
-msgstr ""
+msgstr "Aceasta va şterge definitiv toate portofele existente ale dumneavoastră!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1670,7 +1670,7 @@ msgstr "blocat de plăți în așteptare"
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "noutații nume"
 
 #: public/views/walletHome.html:397
 #: public/views/walletHome.html:408
