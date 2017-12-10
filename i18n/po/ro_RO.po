@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-10 09:50-0500\n"
+"PO-Revision-Date: 2017-12-10 12:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1440,7 +1440,7 @@ msgstr "Actualizare la {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "Vă rugăm așteptați, se actualizează baza de date. Uneori durează câteva minute."
 
 #: public/views/walletHome.html:482
 msgid "Values"
