@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2017-12-09 10:40-0500\n"
+"PO-Revision-Date: 2017-12-10 14:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -421,7 +421,7 @@ msgstr ""
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr ""
+msgstr "Oluşturuldu:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
@@ -437,11 +437,11 @@ msgstr "KELİMELERİ SİL"
 
 #: public/views/walletHome.html:310
 msgid "Data"
-msgstr ""
+msgstr "Veri"
 
 #: public/views/walletHome.html:307
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Veri besleme kaynağı"
 
 #: public/views/modals/tx-details.html:78
 msgid "Date"
@@ -449,23 +449,23 @@ msgstr "Tarih"
 
 #: src/js/controllers/index.js:256
 msgid "Declined"
-msgstr ""
+msgstr "Reddedildi"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr ""
+msgstr "Bir kağıt cüzdanının şifresini çözmek, bu cihazda yaklaşık 5 dakika sürebilir. lütfen sabırlı olun ve uygulamayı açık tutun."
 
 #: public/views/walletHome.html:161
 msgid "Definition"
-msgstr ""
+msgstr "Tanım"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
-msgstr ""
+msgstr "Akıllı adresin tanımı"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
-msgstr ""
+msgstr "Adres tanımları"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
@@ -487,24 +487,24 @@ msgstr "Ayrıntılar"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Device address"
-msgstr ""
+msgstr "Cihaz adresi"
 
 #: public/views/preferencesDeviceName.html:12
 #: public/views/preferencesGlobal.html:17
 msgid "Device name"
-msgstr ""
+msgstr "Cihaz adı"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr ""
+msgstr "Cihaz adı, iletişim kurduğunuz diğer cihazlar tarafından görülebilir."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Cüzdanların orijinalerini kopyalamayın, klonlu cüzdan kullanmayı bırakın."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "M-cüzdan'ı klonlamak için kullanmayın."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -513,7 +513,7 @@ msgstr "Kendi dilinizi görmüyor musunuz? Crowdin kurucusu ile irtibata geçin!
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr ""
+msgstr "Tamamla"
 
 #: public/views/walletHome.html:638
 msgid "Download CSV file"
