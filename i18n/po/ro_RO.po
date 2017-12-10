@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-10 09:01-0500\n"
+"PO-Revision-Date: 2017-12-10 09:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -846,40 +846,40 @@ msgstr "Oferă un contract"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr ""
+msgstr "Odată ce v-ați scris seed-ul portofelului, este recomandat să îl ştergeţi din acest aparat."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr ""
+msgstr "Pot fi recuperate doar portofele single-sig."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Deschideţi Chat"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr ""
+msgstr "Asociază"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr ""
+msgstr "Aparate asociate"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Cod de asociere"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr ""
+msgstr "Cheiea privată a portofelului de hârtie"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr ""
+msgstr "Frază de acces"
 
 #: src/js/services/profileService.js:653
 msgid "Password needed"
-msgstr ""
+msgstr "Cuvânt de acces necesar"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
@@ -887,7 +887,7 @@ msgstr "Parolele nu se potrivesc"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr ""
+msgstr "Lipiţi cheia privată a portofelului de hârtie aici"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
@@ -919,7 +919,7 @@ msgstr "Plată trimisă"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "Peer:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -943,7 +943,7 @@ msgstr "Vă rugăm să îi dați un nume acestui aparat"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #: public/views/walletHome.html:462
 msgid "Post arbitrary key-value pairs of data into Byteball network."
@@ -1014,7 +1014,7 @@ msgstr "Recuperare"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr ""
+msgstr "Recuperează din seed"
 
 #: public/views/walletHome.html:62
 msgid "Recreating Wallet..."
@@ -1026,7 +1026,7 @@ msgstr "Refuzat"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr ""
+msgstr "Informații despre lansare"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
@@ -1072,7 +1072,7 @@ msgstr "Numărul necesar de semnături"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr ""
+msgstr "Restabilește din copia completă de siguranță"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
