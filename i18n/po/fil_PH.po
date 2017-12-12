@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-12 06:01-0500\n"
+"PO-Revision-Date: 2017-12-12 06:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -384,11 +384,11 @@ msgstr ""
 #: src/js/services/profileService.js:516
 #: src/js/services/profileService.js:538
 msgid "Could not import"
-msgstr ""
+msgstr "Hindi maaring maimport"
 
 #: src/js/services/profileService.js:466
 msgid "Could not import. Check input file and password"
-msgstr ""
+msgstr "Hindi maaring mainport. Suriin ang input file at password"
 
 #: src/js/controllers/walletHome.js:49
 msgid "Could not recognize a valid Byteball QR Code"
@@ -404,16 +404,16 @@ msgstr ""
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
-msgstr ""
+msgstr "Lumikha ng bagong pitaka"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
 msgid "Create new wallet"
-msgstr ""
+msgstr "Lumikha ng bagong pitaka"
 
 #: src/js/controllers/index.js:286
 msgid "Create new wallet  together with  ?"
-msgstr ""
+msgstr "Lumikha ng bagong pitaka kasama ng?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
