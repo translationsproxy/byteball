@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-12 05:41-0500\n"
+"PO-Revision-Date: 2017-12-12 05:53-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -34,95 +34,95 @@ msgstr "Tungkol sa Byteball"
 #: src/js/controllers/walletHome.js:118
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr ""
+msgstr "Tanggapin"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
-msgstr ""
+msgstr "Tanggapin ang imbitasyon"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr ""
+msgstr "Tanggapin ang imbitasiyon mula sa kabilang device"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
-msgstr ""
+msgstr "Account"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Magdagdag ng Bot"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
-msgstr ""
+msgstr "Magdagdag ng bagong device"
 
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr ""
+msgstr "Magdagdag ng bagong entry"
 
 #: public/views/walletHome.html:492
 msgid "Add fields"
-msgstr ""
+msgstr "Magdagdag ng mga patlang"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
-msgstr ""
+msgstr "Magdagdag ng pitaka"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "Idinagdag"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
 #: public/views/paymentUri.html:15
 msgid "Address"
-msgstr ""
+msgstr "Address"
 
 #: public/views/walletHome.html:467
 msgid "Address to attest"
-msgstr ""
+msgstr "Mensahe upang maipagtunay"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
 msgid "Addressbook"
-msgstr ""
+msgstr "Addressbook"
 
 #: public/views/preferences.html:56
 msgid "Advanced"
-msgstr ""
+msgstr "Advanced"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
-msgstr ""
+msgstr "Sumasang-ayon"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
-msgstr ""
+msgstr "Alyas para sa <i>{{index.walletName}}</i>"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr ""
+msgstr "Lahat ng mga address ng wallet"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr ""
+msgstr "Lahat ng kontribusyon para sa pagsasalin ni Byteball ay malugod na tinatanggap. Mag-sign up sa crowdin.com at sumali sa Byteball project sa"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
-msgstr ""
+msgstr "Nakapagbayad na"
 
 #: public/views/walletHome.html:132
 msgid "Also"
-msgstr ""
+msgstr "At saka"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "At saka sa settings menu, makikita ninyo ang mga opsiyon ng seguridad tulad ng pagtatakda ng isang password."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Pati, wag kalimutan na burahin ang inyong seed"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -131,11 +131,11 @@ msgstr ""
 #: public/views/paymentUri.html:16
 #: public/views/walletHome.html:381
 msgid "Amount"
-msgstr ""
+msgstr "Halaga"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "Sagot:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
