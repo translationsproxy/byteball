@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-13 04:10-0500\n"
+"PO-Revision-Date: 2017-12-13 04:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -156,7 +156,7 @@ msgstr "Asset"
 
 #: public/views/walletHome.html:456
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "I-Attest ang profile data na naka-link sa anumang Byteball address."
 
 #: public/views/walletHome.html:308
 msgid "Attestation"
@@ -265,19 +265,19 @@ msgstr "Magpalit ng hub:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr ""
+msgstr "Ang lokal na pitaka lamang ang naapektohan kapag binago ang palayaw ng pinataka."
 
 #: src/js/controllers/index.js:622
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "Pumili ng File"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr ""
+msgstr "Pumili ng device na papadalhan"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -293,31 +293,31 @@ msgstr ""
 #: public/views/modals/select-subwallet.html:4
 #: public/views/modals/vote.html:4
 msgid "Close"
-msgstr ""
+msgstr "Isara"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
-msgstr ""
+msgstr "Co-signer {{$index + 1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr ""
+msgstr "Co-signers"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr ""
+msgstr "Co-signers para sa multisig"
 
 #: public/views/preferences.html:29
 msgid "Color"
-msgstr ""
+msgstr "Kulay"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr ""
+msgstr "I-Commit ang hash"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
-msgstr ""
+msgstr "I-Compress ang file? (Mas mabagal)"
 
 #: src/js/controllers/copayers.js:10
 #: src/js/controllers/index.js:459
@@ -325,56 +325,56 @@ msgstr ""
 #: src/js/controllers/walletHome.js:120
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
-msgstr ""
+msgstr "Kumpirmahin"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr ""
+msgstr "Kumpirmahin ang boto"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
-msgstr ""
+msgstr "Kumpirmahin ang pagbayad"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "Kumpirmahin ang boto"
 
 #: public/views/modals/tx-details.html:108
 msgid "Confirmed"
-msgstr ""
+msgstr "Nakumpirma"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr ""
+msgstr "Mga Kontakt"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:393
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "Kinopya sa clipboard"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr ""
+msgstr "Wala naibalik ang mga Correspondents."
 
 #: src/js/controllers/walletHome.js:602
 msgid "Could not create payment proposal"
-msgstr ""
+msgstr "Hindi malikha ang panukala ng Pagbabayad"
 
 #: src/js/services/profileService.js:264
 msgid "Could not create using the specified extended private key"
-msgstr ""
+msgstr "Hindi makalikha gamit ang tinukoy na mahabang pribadong susi"
 
 #: src/js/services/profileService.js:274
 msgid "Could not create using the specified extended public key"
-msgstr ""
+msgstr "Hindi makalikha gamit ang tinukoy na mahabang pampublikong susi"
 
 #: src/js/services/profileService.js:257
 msgid "Could not create: Invalid wallet seed"
-msgstr ""
+msgstr "Hindi mailikha: Imbalido ang seed ng pitaka"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr ""
+msgstr "Hindi ma i-decrypt"
 
 #: public/views/walletHome.html:543
 msgid "Could not fetch transaction history"
