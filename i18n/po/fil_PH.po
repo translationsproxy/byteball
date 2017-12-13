@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-13 04:03-0500\n"
+"PO-Revision-Date: 2017-12-13 04:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -164,11 +164,11 @@ msgstr "Patotoo"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "Awtomatikong i-update ang mga listahan ng saksi mula sa hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "Awtomatikong i-update ang mga listahan ng saksi mula sa hub"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -192,37 +192,37 @@ msgstr "Mag-backup ngayon"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "I-Backup ang wallet seed"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr ""
+msgstr "I-backup ang mga salitang tinanggal"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "I-Balanse base sa Address"
 
 #: public/views/walletHome.html:208
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "Bago ang pagtanggap ng mga podo, inirerekomenda na i-backup ang iyong mga susi sa wallet."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Mas mabuti pa, gamitin ang multisig wallets na may kalabisan,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr ""
+msgstr "Bind payment"
 
 #: public/views/walletHome.html:356
 #: public/views/walletHome.html:363
 msgid "Bind the payment to a condition"
-msgstr ""
+msgstr "I-bind ang pagbayad sa isang kondisyon"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr ""
+msgstr "Ang Bitcoin URI ay hindi balido!"
 
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:38
@@ -231,24 +231,24 @@ msgstr "Bot Store"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Ikaw at ang {{correspondent.name}} ay ipinagana ang lokal chat history recording."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr ""
+msgstr "Hindi supportadong browser"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Byteball address"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr ""
+msgstr "KANSELAHIN"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr ""
+msgstr "MAGPATULOY"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:430
@@ -257,11 +257,11 @@ msgstr ""
 #: src/js/controllers/walletHome.js:119
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselahin"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr ""
+msgstr "Magpalit ng hub:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
