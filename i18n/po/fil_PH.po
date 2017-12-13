@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-12 06:11-0500\n"
+"PO-Revision-Date: 2017-12-13 04:03-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -172,7 +172,7 @@ msgstr ""
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr ""
+msgstr "Available na balanse"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -184,11 +184,11 @@ msgstr ""
 #: public/views/modals/destination-address.html:9
 #: public/views/modals/tx-details.html:5
 msgid "Back"
-msgstr ""
+msgstr "Bumalik"
 
 #: public/views/walletHome.html:214
 msgid "Backup now"
-msgstr ""
+msgstr "Mag-backup ngayon"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
@@ -227,7 +227,7 @@ msgstr ""
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:38
 msgid "Bot Store"
-msgstr ""
+msgstr "Bot Store"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
