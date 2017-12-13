@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2017-12-13 02:20-0500\n"
+"PO-Revision-Date: 2017-12-13 02:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -122,7 +122,7 @@ msgstr "Onder instellingen kun je opties vinden zoals het instellen van een wach
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Vergeet ook niet de stam te verwijderen"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -156,11 +156,11 @@ msgstr "Bezitting"
 
 #: public/views/walletHome.html:456
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Bevestig de profiel gegevens die aan het Byteball adres zijn gekoppeld."
 
 #: public/views/walletHome.html:308
 msgid "Attestation"
-msgstr ""
+msgstr "Bevestiging"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -204,7 +204,7 @@ msgstr "Saldo per adres"
 
 #: public/views/walletHome.html:208
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "Voor het ontvangen van het geld is het uiterst aanbevolen om uw portemonaie keys te kopieren."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -227,11 +227,11 @@ msgstr "Bitcoin URI is NIET geldig!"
 #: public/views/bot.html:23
 #: public/views/correspondentDevices.html:38
 msgid "Bot Store"
-msgstr ""
+msgstr "Bot winkel"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Zowel jij als {{correspondent.name}} hebben lokale chat geschiedenis opnemen ingeschakeld."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -239,7 +239,7 @@ msgstr "Deze browser is niet ondersteund"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Byteball adres"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -273,7 +273,7 @@ msgstr "Chat"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "Bestand kiezen"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -329,7 +329,7 @@ msgstr "Bevestig"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr ""
+msgstr "Stem bevestigen"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -337,7 +337,7 @@ msgstr "Betaling bevestigen"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "Stem bevestigen"
 
 #: public/views/modals/tx-details.html:108
 msgid "Confirmed"
@@ -345,7 +345,7 @@ msgstr "Bevestigd"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr ""
+msgstr "Contacten"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:393
@@ -437,11 +437,11 @@ msgstr "VERWIJDER WOORDEN"
 
 #: public/views/walletHome.html:310
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: public/views/walletHome.html:307
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Gegevens in datafeed"
 
 #: public/views/modals/tx-details.html:78
 msgid "Date"
@@ -504,7 +504,7 @@ msgstr ""
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Gebruik het niet om de portemonaie te kopieren."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -521,7 +521,7 @@ msgstr "Download CSV bestand"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Byteball-database downloaden"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -530,7 +530,7 @@ msgstr "Wijzig"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr ""
+msgstr "U of {{correspondent.name}} hebben chat geschiedenis opnemen uitgeschakeld. Geschiedenis is nu voor niemand opgeslagen."
 
 #: public/views/preferencesEmail.html:33
 msgid "Email for wallet notifications"
@@ -608,7 +608,7 @@ msgstr "START"
 
 #: src/js/controllers/walletHome.js:421
 msgid "Generate QR Code"
-msgstr ""
+msgstr "QR code genereren"
 
 #: public/views/walletHome.html:270
 msgid "Generate new address"
@@ -664,11 +664,11 @@ msgstr "Ik bevestig dat ik deze voorwaarden gelezen en begrepen en ga hiermee ak
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "Ik betaal"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Ik ontvang een andere betaling van"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
@@ -788,11 +788,11 @@ msgstr "Mijn Byteball adres"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
-msgstr ""
+msgstr "Mijn opname voorkeur"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "Naam van de contactpersoon"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
@@ -817,7 +817,7 @@ msgstr "Neen"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "Geen wachtwoord gegeven"
 
 #: public/views/walletHome.html:546
 msgid "No transactions yet"
@@ -854,7 +854,7 @@ msgstr "Alleen portefeuilles met 1 enkele ondertekenaar kunnen gerecupereerd wor
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Chat openen"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -866,7 +866,7 @@ msgstr "Gekoppelde toestellen"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Koppelingscode"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
@@ -895,7 +895,7 @@ msgstr "Betaal en bied aan"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
-msgstr ""
+msgstr "Betaal aan dit adres"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
@@ -977,7 +977,7 @@ msgstr "Private payloads zijn verzonden"
 
 #: public/views/walletHome.html:309
 msgid "Profile"
-msgstr ""
+msgstr "Profiel"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -989,7 +989,7 @@ msgstr "QR-Scanner"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Vraag:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
