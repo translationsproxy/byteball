@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-12-12 20:31-0500\n"
+"PO-Revision-Date: 2017-12-14 03:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -192,7 +192,7 @@ msgstr "立即备份"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "备份钱包口令"
+msgstr "备份钱包口令私匙"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -1746,7 +1746,7 @@ msgstr "{{cancel_label || 'Cancel'}}"
 
 #: src/js/controllers/walletHome.js:1468
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr "{{fee}} 将扣除比特币网络费用"
+msgstr "扣除比特币网络费 {{fee}}"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
