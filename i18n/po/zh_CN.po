@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-12-14 04:01-0500\n"
+"PO-Revision-Date: 2017-12-14 04:32-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -648,7 +648,7 @@ msgstr "首页"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr "主机"
+msgstr "服务器地址："
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
@@ -943,11 +943,11 @@ msgstr "请为此设备命名"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr "端口号"
+msgstr "端口："
 
 #: public/views/walletHome.html:462
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr "将任意键值对数据过帐到 Byteball 网络中。"
+msgstr "将输入的任意数据发送到 Byteball 网络中。"
 
 #: public/views/walletHome.html:453
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1215,7 +1215,7 @@ msgstr "显示所有"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr "无论如何显示钱包种子"
+msgstr "无论如何显示钱包口令私匙"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
