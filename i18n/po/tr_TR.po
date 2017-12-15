@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2017-12-15 03:40-0500\n"
+"PO-Revision-Date: 2017-12-15 03:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1317,7 +1317,7 @@ msgstr "\"{{walletName}}\" cüzdanı silindi"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "Cüzdan sağlayıcısı, bazı, hesaplarınızı bilmek ve hangi işlemlerin sizin olduğunu görmek için uygun fakat cüzdanı kullanmaya hemen başlayabilirsin ve cüzdan tamamiyle işlevseldir."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
