@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2017-12-10 14:40-0500\n"
+"PO-Revision-Date: 2017-12-15 03:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1296,7 +1296,7 @@ msgstr "Adresine yazılı mesaj"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr ""
+msgstr "Başka cihazlardan alınan mesajlar için merkez."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
@@ -1616,7 +1616,7 @@ msgstr ""
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "cüzdan oluşturmaktan vazgeç"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
