@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-18 04:10-0500\n"
+"PO-Revision-Date: 2017-12-18 04:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -102,7 +102,7 @@ msgstr "Alyas para sa <i>{{index.walletName}}</i>"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr "Lahat ng mga address ng wallet"
+msgstr "Lahat ng mga address ng pitaka"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
@@ -139,7 +139,7 @@ msgstr "Sagot:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr "Aprubahan ang paglikha ng wallet sa iba pang devices"
+msgstr "Aprubahan ang paglikha ng pitaka sa iba pang devices"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
@@ -192,7 +192,7 @@ msgstr "Mag-backup ngayon"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "I-Backup ang wallet seed"
+msgstr "I-Backup ang seed ng pitaka"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -204,11 +204,11 @@ msgstr "I-Balanse base sa Address"
 
 #: public/views/walletHome.html:208
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "Bago ang pagtanggap ng mga podo, inirerekomenda na i-backup ang iyong mga susi sa wallet."
+msgstr "Bago ang pagtanggap ng mga podo, inirerekomenda na i-backup ang iyong mga susi sa pitaka."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr "Mas mabuti pa, gamitin ang multisig wallets na may kalabisan,"
+msgstr "Mas mabuti pa, gamitin ang multisig na mga pitaka na may kalabisan,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
@@ -906,27 +906,27 @@ msgstr "Lumikha ng mga panukala ng pagbabayad"
 
 #: public/views/walletHome.html:178
 msgid "Payment Proposals"
-msgstr ""
+msgstr "Mga panukala ng pagbabayad"
 
 #: public/views/modals/tx-status.html:38
 msgid "Payment Rejected"
-msgstr ""
+msgstr "Tinanggi ang Bayad"
 
 #: public/views/modals/tx-status.html:5
 msgid "Payment Sent"
-msgstr ""
+msgstr "Ipinadala ang Bayad"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "Kasamahan:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
-msgstr ""
+msgstr "Permanente nang naitanggal ang pitaka. ANG AKSYON NA ITO AY HINDI MAIBABALIGTAD"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
-msgstr ""
+msgstr "Simpleng Pitaka"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
