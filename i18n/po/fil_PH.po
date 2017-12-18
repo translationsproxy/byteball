@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-13 04:20-0500\n"
+"PO-Revision-Date: 2017-12-18 03:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -378,7 +378,7 @@ msgstr "Hindi ma i-decrypt"
 
 #: public/views/walletHome.html:543
 msgid "Could not fetch transaction history"
-msgstr ""
+msgstr "Hindi nakuha ang kasaysayan na transaksyon"
 
 #: src/js/services/profileService.js:489
 #: src/js/services/profileService.js:516
@@ -392,15 +392,15 @@ msgstr "Hindi maaring mainport. Suriin ang input file at password"
 
 #: src/js/controllers/walletHome.js:49
 msgid "Could not recognize a valid Byteball QR Code"
-msgstr ""
+msgstr "Hindi nakilala ang isang balidong Byteball QR Code"
 
 #: src/js/controllers/walletHome.js:602
 msgid "Could not send payment"
-msgstr ""
+msgstr "Hindi maipadala ang bayad"
 
 #: public/views/walletHome.html:26
 msgid "Create"
-msgstr ""
+msgstr "Lumikha"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
@@ -417,39 +417,39 @@ msgstr "Lumikha ng bagong pitaka kasama ng?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr ""
+msgstr "Lumikha ng {{requiredCosigners}} ng mga {{totalCosigners}} na pitaka"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr ""
+msgstr "Nilikha:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr ""
+msgstr "Lumilikha ng Profile..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr ""
+msgstr "Lumilikha ng Pitaka..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr ""
+msgstr "MAGTANGGAL NG MGA SALITA"
 
 #: public/views/walletHome.html:310
 msgid "Data"
-msgstr ""
+msgstr "Datos"
 
 #: public/views/walletHome.html:307
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Datos sa datafeed"
 
 #: public/views/modals/tx-details.html:78
 msgid "Date"
-msgstr ""
+msgstr "Petsa"
 
 #: src/js/controllers/index.js:256
 msgid "Declined"
-msgstr ""
+msgstr "Tinanggihan"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
