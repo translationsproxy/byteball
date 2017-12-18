@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-18 04:00-0500\n"
+"PO-Revision-Date: 2017-12-18 04:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -551,60 +551,60 @@ msgstr "Ipasok ang iyong password"
 #: src/js/services/profileService.js:322
 #: src/js/services/profileService.js:373
 msgid "Error creating wallet"
-msgstr ""
+msgstr "Error sa paglikha ng pitaka"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "I-export"
 
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
 msgid "Export completed successfully"
-msgstr ""
+msgstr "Matagumpay na nakompleto ang pag-export"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "Exporting..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr ""
+msgstr "Ipinaabot ng pampublikong susi"
 
 #: public/views/export.html:25
 msgid "Failed to export"
-msgstr ""
+msgstr "Nabigo ang pag-export"
 
 #: public/views/modals/tx-details.html:85
 msgid "Fee"
-msgstr ""
+msgstr "Bayarin"
 
 #: public/views/modals/tx-details.html:103
 msgid "Finality"
-msgstr ""
+msgstr "Finality"
 
 #: public/views/modals/tx-details.html:53
 msgid "From"
-msgstr ""
+msgstr "Mula sa"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
-msgstr ""
+msgstr "Buong tirahan:"
 
 #: public/views/preferencesGlobal.html:118
 msgid "Full backup"
-msgstr ""
+msgstr "Puno na pag backup"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
-msgstr ""
+msgstr "Natagpuan na pondo"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr ""
+msgstr "Ang pondo ay inilipat sa"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
-msgstr ""
+msgstr "MAKAPAGSIMULA"
 
 #: src/js/controllers/walletHome.js:421
 msgid "Generate QR Code"
@@ -807,20 +807,20 @@ msgstr ""
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
-msgstr ""
+msgstr "Bagong saksi"
 
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:458
 msgid "No"
-msgstr ""
+msgstr "Hindi"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "Walang password na ibinigay"
 
 #: public/views/walletHome.html:546
 msgid "No transactions yet"
-msgstr ""
+msgstr "Wala pang mga transaksyon"
 
 #: public/views/modals/customized-amount.html:51
 #: public/views/modals/destination-address.html:112
@@ -828,7 +828,7 @@ msgstr ""
 #: public/views/walletHome.html:373
 #: public/views/walletHome.html:472
 msgid "Not valid"
-msgstr ""
+msgstr "Hindi balido"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:68
@@ -836,73 +836,73 @@ msgstr ""
 #: public/views/walletHome.html:407
 #: public/views/walletHome.html:609
 msgid "Note"
-msgstr ""
+msgstr "Tala"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
 msgid "Offer a contract"
-msgstr ""
+msgstr "Mag-alok ng isang kontrata"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr ""
+msgstr "Oras na maisulat mo na ang iyong seed sa pitaka. Inirerekomenda ang pag bura nito mula sa device na ito."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr ""
+msgstr "Single-sig na pitaka lamang ang mababawi."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Bukas na chat"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr ""
+msgstr "Pares"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr ""
+msgstr "Nakapares na device"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Kowd na pagpares"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr ""
+msgstr "Pribadong susi ng papel na pitaka"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr ""
+msgstr "Passphrase"
 
 #: src/js/services/profileService.js:653
 msgid "Password needed"
-msgstr ""
+msgstr "Kailangan ng password"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Hindi tugma ang mga passwords"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr ""
+msgstr "Ilagay dito ang pribadong susi ng papel na pitaka mo"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr ""
+msgstr "Bayaran at mag-alok"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
-msgstr ""
+msgstr "Bayaran itong address"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr ""
+msgstr "Tinanggap na ang Bayad"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
-msgstr ""
+msgstr "Lumikha ng mga panukala ng pagbabayad"
 
 #: public/views/walletHome.html:178
 msgid "Payment Proposals"
