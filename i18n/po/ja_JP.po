@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-11-11 21:00-0500\n"
+"PO-Revision-Date: 2017-12-19 04:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -164,11 +164,11 @@ msgstr "個人認証"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr "ハブから証人リストの自動アップデート"
+msgstr "ハブからwitnessリストの自動アップデート"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr "このハブから証人リストの自動アップデート"
+msgstr "このハブからwitnessリストの自動アップデート"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -808,7 +808,7 @@ msgstr "新しいバージョンがあります！"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
-msgstr "新しい証人"
+msgstr "新しいwitness"
 
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:458
@@ -1300,7 +1300,7 @@ msgstr "他のデバイスからメッセージを受信するためのハブ"
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr "ハブは次の証人の入れ替えを提案しています :"
+msgstr "ハブは次のwitnessの入れ替えを提案しています:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
@@ -1539,11 +1539,11 @@ msgstr "署名者:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
-msgstr "証人アドレス"
+msgstr "witnessアドレス"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Witnesses"
-msgstr "証人"
+msgstr "Witness"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
