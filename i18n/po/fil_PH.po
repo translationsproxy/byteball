@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-18 04:50-0500\n"
+"PO-Revision-Date: 2017-12-19 04:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -542,7 +542,7 @@ msgstr "I-enable ang push notifications"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr ""
+msgstr "Ipasok ang code na pagpares na natanggap mula sa kabilang device, o gamitin ang iyong camera (ang icon ay nasa kanang itaas na sulok) para i-scan ang QR code na pinapakita sa kabilang device."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
@@ -608,55 +608,55 @@ msgstr "MAKAPAGSIMULA"
 
 #: src/js/controllers/walletHome.js:421
 msgid "Generate QR Code"
-msgstr ""
+msgstr "Bumuo ng QR Code"
 
 #: public/views/walletHome.html:270
 msgid "Generate new address"
-msgstr ""
+msgstr "Bumuo ng bagong address"
 
 #: public/views/walletHome.html:63
 msgid "Generating .csv file..."
-msgstr ""
+msgstr "Bumubuo ng .csv file..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
-msgstr ""
+msgstr "Kinukuha ang address ng pitakang {{selectedWalletName}}..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "Mga preperensiya sa pandaigdigang"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
-msgstr ""
+msgstr "Bumalik"
 
 #: public/views/preferences.html:48
 msgid "Hardware wallet"
-msgstr ""
+msgstr "Hardware na pitaka"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr ""
+msgstr "Itago ang seed ng pitaka"
 
 #: src/js/controllers/index.js:618
 msgid "History"
-msgstr ""
+msgstr "Kasysayan"
 
 #: src/js/controllers/index.js:606
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr ""
+msgstr "Host"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr ""
+msgstr "Hub"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr ""
+msgstr "URL ng Hub"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
