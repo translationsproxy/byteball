@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-23 22:00-0500\n"
+"PO-Revision-Date: 2017-12-23 22:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1652,24 +1652,24 @@ msgstr "oras"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
-msgstr ""
+msgstr "kung ang isang pangyayari ay nai-post sa pamamagitan ng oracle"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
-msgstr ""
+msgstr "sa puno ng merkle"
 
 #: public/views/walletHome.html:135
 msgid "in smart wallets"
-msgstr ""
+msgstr "sa mga smart wallets"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
-msgstr ""
+msgstr "naka-lock ng Nakabinbin sa Pagbabayad"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "sa pangalan ng feed"
 
 #: public/views/walletHome.html:397
 #: public/views/walletHome.html:408
