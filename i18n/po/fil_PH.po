@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-23 20:00-0500\n"
+"PO-Revision-Date: 2017-12-23 20:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -749,61 +749,61 @@ msgstr "Nagloload..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr ""
+msgstr "Gumawa ng isang pagbabayad sa"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr ""
+msgstr "Mamaya siguro"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:116
 #: public/views/preferencesInformation.html:76
 msgid "Me"
-msgstr ""
+msgstr "Akin"
 
 #: public/views/modals/tx-details.html:97
 msgid "Merchant message"
-msgstr ""
+msgstr "Mensahe ng nagtitinda"
 
 #: public/views/walletHome.html:396
 msgid "Merkle proof"
-msgstr ""
+msgstr "Merkle proof"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
-msgstr ""
+msgstr "Mensahe"
 
 #: public/views/walletHome.html:580
 msgid "Moved"
-msgstr ""
+msgstr "Lumipat"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr ""
+msgstr "Multidevice na pitaka"
 
 #: public/views/walletHome.html:222
 msgid "My Byteball address"
-msgstr ""
+msgstr "Aking Byteball address"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
-msgstr ""
+msgstr "Aking mga recording preference"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "Pangalan ng kontrata"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
-msgstr ""
+msgstr "Network"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr ""
+msgstr "Bagong Random na Seed"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
-msgstr ""
+msgstr "May bagong bersyon na magagamit!"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
@@ -946,7 +946,7 @@ msgstr "Port"
 
 #: public/views/walletHome.html:462
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Mag-post ng mga pares ng makatwirang halaga ng susi ng mga datos sa Byteball newtork."
 
 #: public/views/walletHome.html:453
 msgid "Post values into datafeeds manually, be an oracle."
