@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-23 21:30-0500\n"
+"PO-Revision-Date: 2017-12-23 21:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1193,50 +1193,50 @@ msgstr "Mag-set up ng password"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr ""
+msgstr "Ang pag-set up ng mga pabatid sa email ay maaaring ma-pahina ang iyong pagkapribado, kung mapapasok ang tagapagbigay ng serbisyo ng pitaka. Ang impormasyon na makukuha sa attacker ay ang iyong address ng pitaka at balanse nito, ngunit wala ng iba pa."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:257
 msgid "Share address"
-msgstr ""
+msgstr "Ibahagi ang address"
 
 #: public/views/walletHome.html:262
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "Ibahagi ang wallet address upang makatanggap ng mga pagbabayad."
 
 #: public/views/walletHome.html:630
 msgid "Show all"
-msgstr ""
+msgstr "Ipakita lahat"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "Ipakita ang seed ng pitaka"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
-msgstr ""
+msgstr "Lumagda ang mga transaksyon na paggastos mula sa pitaka?"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Nag iisang address na pitaka"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "Mga pitaka na nag iisang address ay hindi gagawa ng mga bagong address para sa bawat transaksyon, Ang change ay laging pupunta sa isa at naglalaman lamang na address ng pitaka."
 
 #: src/js/services/profileService.js:317
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "Maliit na gastusin na pitaka"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr ""
+msgstr "Mag specify ng seed..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
@@ -1686,19 +1686,19 @@ msgstr "o i-backup lahat ng mga datos ng Byteball sa"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr ""
+msgstr "ang peer ang magbabayad"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
-msgstr ""
+msgstr "nai-post"
 
 #: public/views/modals/tx-details.html:115
 msgid "re-send private payloads"
-msgstr ""
+msgstr "muling ipadala ang pribadong payloads"
 
 #: public/views/modals/tx-details.html:118
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "muling ipadala ang payloads ng mga cosigners"
 
 #: src/js/controllers/walletHome.js:694
 #: src/js/controllers/walletHome.js:700
@@ -1708,20 +1708,20 @@ msgstr ""
 #: src/js/controllers/walletHome.js:980
 #: src/js/controllers/walletHome.js:987
 msgid "sending"
-msgstr ""
+msgstr "ipinapadala"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
-msgstr ""
+msgstr "upang"
 
 #: public/views/walletHome.html:398
 #: public/views/walletHome.html:409
 msgid "too long!"
-msgstr ""
+msgstr "masyadong matagal!"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "kasama"
 
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
