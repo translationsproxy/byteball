@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-23 19:40-0500\n"
+"PO-Revision-Date: 2017-12-23 20:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -705,47 +705,47 @@ msgstr "Kabilang ang mga nakabinbin na kumpirmasyon"
 #: public/views/walletHome.html:562
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr ""
+msgstr "Singkronisasyon ng kasaysayan ng unang transaksyon ay maaaring tumagal ng ilang minuto para sa pitaka na may maraming transaksyon. <br> Please stand by."
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "Ilagay ang aking address"
 
 #: public/views/walletHome.html:581
 msgid "Invalid"
-msgstr ""
+msgstr "Imbalido"
 
 #: src/js/controllers/index.js:1533
 msgid "Invalid Touch ID"
-msgstr ""
+msgstr "Imbalidong Touch ID"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr ""
+msgstr "Anyayahan ang ibang device"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Hindi sapat ang seed ng pitaka lamang. Gamit ang seed lamang, Hindi mo magagawang ibalik ang mga multisig na pitaka at pribadong ari-arian tulad ng blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Panatalihin lamang ang mga datos na may kaugnayan sa iyo"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
-msgstr ""
+msgstr "Label"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
-msgstr ""
+msgstr "Wika"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr ""
+msgstr "Mamaya"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr ""
+msgstr "Nagloload..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
