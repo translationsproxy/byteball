@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-23 20:10-0500\n"
+"PO-Revision-Date: 2017-12-23 20:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -950,70 +950,70 @@ msgstr "Mag-post ng mga pares ng makatwirang halaga ng susi ng mga datos sa Byte
 
 #: public/views/walletHome.html:453
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Manu-mano i-post ang mga values sa datafeed, maging tagapagsalita."
 
 #: public/views/walletHome.html:459
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "I-post ang iyong profile data, anumang bagay na nais mong sabihin tungkol sa iyong sarili."
 
 #: public/views/walletHome.html:157
 #: public/views/walletHome.html:29
 msgid "Preferences"
-msgstr ""
+msgstr "Mga preference"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "Pindutin muli upang mag exit"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "Pribadong ari-arian (tulad ng blackbytes) ay hindi mababawi."
 
 #: src/js/controllers/walletHome.js:1353
 #: src/js/controllers/walletHome.js:1426
 msgid "Private payloads sent"
-msgstr ""
+msgstr "Naipadala ang mga pribadong payload"
 
 #: public/views/walletHome.html:309
 msgid "Profile"
-msgstr ""
+msgstr "Profile"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
-msgstr ""
+msgstr "QR Code"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr ""
+msgstr "QR-Scanner"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Tanong:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
-msgstr ""
+msgstr "Tumanggap"
 
 #: public/views/walletHome.html:577
 msgid "Received"
-msgstr ""
+msgstr "Natanggap"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:45
 msgid "Recipients"
-msgstr ""
+msgstr "Mga tatanggap"
 
 #: public/views/walletHome.html:42
 msgid "Reconnecting to Wallet Service..."
-msgstr ""
+msgstr "Kumukonek muli sa serbisyo ng pitaka..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr ""
+msgstr "Bawiin"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr ""
+msgstr "Pagbawi mula sa seed"
 
 #: public/views/walletHome.html:62
 msgid "Recreating Wallet..."
