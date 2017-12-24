@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-23 21:10-0500\n"
+"PO-Revision-Date: 2017-12-23 21:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1025,61 +1025,61 @@ msgstr "Tinanggihan"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr ""
+msgstr "Ilabas ang impormasyon"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
-msgstr ""
+msgstr "Tanggalin"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Tanggalin ang device"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
-msgstr ""
+msgstr "Palitan ang pangalan:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr ""
+msgstr "Muling ilagay ang password"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "Muling ilagay ang password"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "Palitan"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr ""
+msgstr "Humiling ng Password"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:278
 msgid "Request a specific amount"
-msgstr ""
+msgstr "Humiling ng tiyak na halaga"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr ""
+msgstr "Humiling ng pagbabayad"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
-msgstr ""
+msgstr "Kinakailangang bilang ng mga lagda"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr ""
+msgstr "Ibalik mula sa full backup"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr ""
+msgstr "Inuulit..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
-msgstr ""
+msgstr "SET"
 
 #: public/views/editCorrespondentDevice.html:41
 #: public/views/modals/destination-address.html:132
@@ -1090,7 +1090,7 @@ msgstr ""
 #: public/views/preferencesHub.html:18
 #: public/views/preferencesTor.html:19
 msgid "Save"
-msgstr ""
+msgstr "I-save"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
@@ -1382,80 +1382,80 @@ msgstr "Upang ma-bind ang pagbabayad sa isang kondisyon, paki-click ang peer add
 
 #: public/views/walletHome.html:263
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr ""
+msgstr "Upang protektahan ang iyong pagkaprobido, Bagong mga address ay awtomatikong binubuo misan na gamitin mo."
 
 #: public/views/walletHome.html:186
 msgid "Total Locked Balance"
-msgstr ""
+msgstr "Kabuuang naka-lock na balanse"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr ""
+msgstr "Kabuuang bilang ng mga lumalagda"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
-msgstr ""
+msgstr "Transaksyon"
 
 #: public/views/walletHome.html:568
 msgid "Transactions<br> Downloaded"
-msgstr ""
+msgstr "Transaksyon <br>na na-download"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
-msgstr ""
+msgstr "Mga kredito ng pagsasalin"
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
-msgstr ""
+msgstr "Mga tagsalin"
 
 #: src/js/controllers/walletHome.js:650
 msgid "Unable to send transaction proposal"
-msgstr ""
+msgstr "Hindi maipadala ang panukala ng transaksyon"
 
 #: public/views/modals/tx-details.html:105
 #: public/views/walletHome.html:599
 msgid "Unconfirmed"
-msgstr ""
+msgstr "Hindi nakumpirma"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr ""
+msgstr "Yunit para sa blackbytes"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr ""
+msgstr "Yunit para sa bytes"
 
 #: public/views/walletHome.html:179
 msgid "Unsent transactions"
-msgstr ""
+msgstr "Unsent na mga transaksyon"
 
 #: public/views/walletHome.html:55
 msgid "Updating Wallet..."
-msgstr ""
+msgstr "Inuupdate ang Pitaka..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
-msgstr ""
+msgstr "Mag-upgrade sa {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "Nagtataas ng uri ng database, maghintay lamang.  Paminsan ito ay tumatagal ng ilang minuto."
 
 #: public/views/walletHome.html:482
 msgid "Values"
-msgstr ""
+msgstr "Values"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
-msgstr ""
+msgstr "Bersyon"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "BABALA:"
 
 #: public/views/walletHome.html:204
 msgid "WARNING: Backup needed"
-msgstr ""
+msgstr "Babala: Kailangan ng backup"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
@@ -1674,15 +1674,15 @@ msgstr ""
 #: public/views/walletHome.html:397
 #: public/views/walletHome.html:408
 msgid "optional"
-msgstr ""
+msgstr "opsiyonal"
 
 #: public/views/modals/offer-contract.html:99
 msgid "or"
-msgstr ""
+msgstr "o"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "o i-backup lahat ng mga datos ng Byteball sa"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
