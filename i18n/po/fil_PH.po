@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-23 20:20-0500\n"
+"PO-Revision-Date: 2017-12-23 20:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1017,11 +1017,11 @@ msgstr "Pagbawi mula sa seed"
 
 #: public/views/walletHome.html:62
 msgid "Recreating Wallet..."
-msgstr ""
+msgstr "Ginagawa muli ang pitaka..."
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
-msgstr ""
+msgstr "Tinanggihan"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
@@ -1241,11 +1241,11 @@ msgstr ""
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
 msgid "Spending Restrictions"
-msgstr ""
+msgstr "Mga restriksyon sa paggastos"
 
 #: public/views/preferencesGlobal.html:96
 msgid "Still not done"
-msgstr ""
+msgstr "Hindi pa tapos"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:135
@@ -1256,15 +1256,15 @@ msgstr ""
 #: src/js/controllers/walletHome.js:1353
 #: src/js/controllers/walletHome.js:1426
 msgid "Success"
-msgstr ""
+msgstr "Tagumpay"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr ""
+msgstr "I-sweep ang pitaka"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr ""
+msgstr "I-sweep ang papel na pitaka"
 
 #: public/views/walletHome.html:65
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
