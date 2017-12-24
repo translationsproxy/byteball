@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-23 21:20-0500\n"
+"PO-Revision-Date: 2017-12-23 21:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1094,102 +1094,102 @@ msgstr "I-save"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
-msgstr ""
+msgstr "Saving preferences..."
 
 #: public/views/preferences.html:66
 msgid "Scan Fingerprint"
-msgstr ""
+msgstr "I-scan ang Fingerprint"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr ""
+msgstr "I-scan ang pondo ng pitaka"
 
 #: public/views/walletHome.html:102
 msgid "Scan status finished with error"
-msgstr ""
+msgstr "Magsuri ng katayuan na natapos pero may mali"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr ""
+msgstr "I-scan ang QR code sa itaas gamit ang ibang device, o ipadala itong pagpares na code sa ibang device:"
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
-msgstr ""
+msgstr "Pakiusap na i-scan ang iyong fingerprint"
 
 #: public/views/walletHome.html:61
 msgid "Scanning Wallet funds..."
-msgstr ""
+msgstr "Pag-scan ng mga pondo sa Pitaka..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr ""
+msgstr "Pag-scan ng mga address..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
-msgstr ""
+msgstr "Pag-scan ng mga pondo sa pitaka..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
-msgstr ""
+msgstr "Pumili ng pitaka"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr ""
+msgstr "Pumili ng subwallet"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "Piliin ang iyong pagkakakilanlan"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:433
 #: public/views/walletHome.html:507
 #: src/js/controllers/index.js:614
 msgid "Send"
-msgstr ""
+msgstr "Ipadala"
 
 #: public/views/walletHome.html:294
 msgid "Send All"
-msgstr ""
+msgstr "Ipadala lahat"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr ""
+msgstr "Ipadala ang pagbabayad"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr ""
+msgstr "Ipadala ang address sa pamamagitan ng email"
 
 #: public/views/walletHome.html:382
 msgid "Send all"
-msgstr ""
+msgstr "Ipadala lahat"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
-msgstr ""
+msgstr "Ipadala gamit ang email"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr ""
+msgstr "Nagpapadala ng mga pondo..."
 
 #: public/views/walletHome.html:66
 msgid "Sending..."
-msgstr ""
+msgstr "Nagpapadala..."
 
 #: public/views/walletHome.html:579
 msgid "Sent"
-msgstr ""
+msgstr "Naipadala"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr ""
+msgstr "Log ng sesyon"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "Mag-set up ng Password"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr ""
+msgstr "Mag-set up ng password"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
