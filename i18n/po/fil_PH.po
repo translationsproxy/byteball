@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-23 20:30-0500\n"
+"PO-Revision-Date: 2017-12-23 20:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1268,51 +1268,51 @@ msgstr "I-sweep ang papel na pitaka"
 
 #: public/views/walletHome.html:65
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr ""
+msgstr "Isini-sync ang mga... {{index.count_unhandled_private_payments}} na naiwang pribadong pagbabayad"
 
 #: public/views/walletHome.html:64
 msgid "Syncing... {{index.syncProgress}}"
-msgstr ""
+msgstr "Isini-sync ang mga... {{index.syncProgress}}"
 
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
-msgstr ""
+msgstr "TOR"
 
 #: public/views/walletHome.html:103
 #: public/views/walletHome.html:544
 #: public/views/walletHome.html:98
 msgid "Tap to retry"
-msgstr ""
+msgstr "I-tap upang ulitin"
 
 #: public/views/disclaimer.html:12
 #: public/views/preferencesAbout.html:30
 msgid "Terms of Use"
-msgstr ""
+msgstr "Terms of Use"
 
 #: public/views/correspondentDevice.html:341
 msgid "Text message to"
-msgstr ""
+msgstr "Text message to"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr ""
+msgstr "Ang hub para sa pagtanggap ng mga mensahe mula sa ibang devices."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr ""
+msgstr "Iminumungkahi ng hub na palitan ang sumusunod na mga saksi:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "Ang peer ang tumanggap ng pagbabayad na ito kung"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "Ang paboto ay lalagdaan ng lahat ng iyong mga pinondohan na address"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The wallet \"{{walletName}}\" was deleted"
-msgstr ""
+msgstr "Binura ang pitaka \"{{walletName}}\""
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
