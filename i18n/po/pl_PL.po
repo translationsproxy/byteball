@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-12-26 09:41-0500\n"
+"PO-Revision-Date: 2017-12-26 09:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -300,7 +300,7 @@ msgstr "Kliknij przycisk, aby <span ng-if=\"isResend\"> ponownie</span> wysłać
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr "Kliknij ten przycisk, aby utworzyć płatność i udostępnić ją za pośrednictwem prywatnej wiadomości w aplikacjach do czatu"
+msgstr "Kliknij ten przycisk, aby utworzyć płatność i wysłać ją za pośrednictwem prywatnej wiadomości w aplikacjach do czatu"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -1245,7 +1245,7 @@ msgstr "Udostępnij ten adres portfela, aby otrzymywać płatności."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr "Wyślij jako wiadomość"
+msgstr "Wyślij przez wiadomość"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
