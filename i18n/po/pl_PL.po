@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-12-26 09:20-0500\n"
+"PO-Revision-Date: 2017-12-26 09:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1334,7 +1334,7 @@ msgstr "Wiadomość tekstowa do"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1424,15 +1424,15 @@ msgstr "Aby powiązać płatność z warunkiem, kliknij adres partnera w czacie"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "Na adres byteball"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "Na adres byteball lub e-mail"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "Na e-mail"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1580,7 +1580,7 @@ msgstr "Ostrzeżenie!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "Zostało odebrane?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
@@ -1677,7 +1677,7 @@ msgstr "anuluj tworzenie portfela"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "odebrane przez {{btx.claimedByMe?'me':'receiver'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1685,7 +1685,7 @@ msgstr "wyczyść historię czatu"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "skopiuj poniższy tekst i wyślij go do adresata za pośrednictwem dowolnej aplikacji do obsługi wiadomości lub wydrukuj na papierze"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1734,7 +1734,7 @@ msgstr "zablokowane przez oczekujące płatności"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "nie odebrane"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -1772,7 +1772,7 @@ msgstr "ponownie wyślij prywatne płatności do współsygnatariuszy"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "wyślij e-mail"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1787,7 +1787,7 @@ msgstr "wysyłanie"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "udostępnij ponownie"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
