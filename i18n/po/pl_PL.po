@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-12-25 11:31-0500\n"
+"PO-Revision-Date: 2017-12-26 09:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "-- Wybierz współsygnatariusza --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 wyrazów oddzielonych myślnikami"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -284,23 +284,23 @@ msgstr "Wybierz urządzenie, na które wysłać"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "Odbierz środki"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Odbierz środki przez textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Odbierz środki przy użyciu textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "Kliknij przycisk, aby <span ng-if=\"isResend\"> ponownie</span> wysłać e-mail"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "Kliknij ten przycisk, aby utworzyć płatność i udostępnić ją za pośrednictwem prywatnej wiadomości w aplikacjach do czatu"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -884,7 +884,7 @@ msgstr "Otwórz czat"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "Lub"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1232,7 +1232,7 @@ msgstr "Ustawienia"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Udostępnij"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
