@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-12-26 02:41-0500\n"
+"PO-Revision-Date: 2017-12-26 02:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1677,7 +1677,7 @@ msgstr "batalkan pembuatan dompet"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "diklaim oleh {{btx.claimedByMe?'me':'receiver'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1685,7 +1685,7 @@ msgstr "hapus riwayat obrolan"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "salin teks di bawah ini dan kirimkan ke penerima melalui aplikasi pesan, atau cetak ke kertas"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1734,7 +1734,7 @@ msgstr "terkunci oleh pembayaran tertunda"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "tidak diklaim"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -1772,7 +1772,7 @@ msgstr "mengirim ulang muatan pribadi ke cosigners"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "kirim surel"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1787,7 +1787,7 @@ msgstr "mengirim"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "berbagi lagi"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
