@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-12-25 11:32-0500\n"
+"PO-Revision-Date: 2017-12-26 02:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "-- Pilih co-signer --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 kata-kata yang dipisahkan oleh tanda hubung"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -284,23 +284,23 @@ msgstr "Pilih perangkat untuk mengirim ke"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "Klaim dana"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Klaim dana dari textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Klaim dana menggunakan textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "Klik tombol untuk <span ng-if=\"isResend\">mengirim</span>kembali surel"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "Klik tombol ini untuk membuat pembayaran dan berbagi melalui pesan pribadi di aplikasi obrolan"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -884,7 +884,7 @@ msgstr "Buka obrolan"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "Atau"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1232,7 +1232,7 @@ msgstr "Pengaturan"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Berbagi"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1245,7 +1245,7 @@ msgstr "Berbagi alamat dompet ini untuk menerima pembayaran."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Berbagi melalui pesan"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
@@ -1334,7 +1334,7 @@ msgstr "Kirim pesan ke"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1424,15 +1424,15 @@ msgstr "Untuk mengikat pembayaran ke kondisi, klik alamat rekanan di obrolan"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "Ke alamat byteball"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "Ke alamat byteball atau surel"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "Ke surel"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1580,7 +1580,7 @@ msgstr "Peringatan!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "Telah diklaim?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
