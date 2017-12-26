@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-12-26 14:11-0500\n"
+"PO-Revision-Date: 2017-12-26 14:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -296,11 +296,11 @@ msgstr "Gelder durch Textcoin beanspruchen"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "Den Button drücken um Email <span ng-if=\"isResend\">nochmal </span> zu senden"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "Diesen Button drücken um eine Zahlung zu erstellen und sie via privater Nachricht in Chats zu teilen"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -883,7 +883,7 @@ msgstr "Öffne Chat"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "Oder"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1231,7 +1231,7 @@ msgstr "Einstellungen"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Teilen"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1244,7 +1244,7 @@ msgstr "Nutzen Sie diese Adresse um Zahlungen zu erhalten."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Teilen via Nachricht"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
@@ -1333,7 +1333,7 @@ msgstr "Textnachricht an"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1423,15 +1423,15 @@ msgstr "Um die Zahlung an eine Bedingung zu knüpfen, klicken Sie auf die Teilne
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "Zu Byteball Addresse"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "Zu Byteball Addresse oder Email"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "Zu Email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1579,7 +1579,7 @@ msgstr "Warnung!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "Wurde beansprucht?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
@@ -1676,7 +1676,7 @@ msgstr "breche Wallet Erstellung ab"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "beansprucht durch {{btx.claimedByMe?'mich':'Empfänger'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1684,7 +1684,7 @@ msgstr "Chatverlauf löschen"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "kopieren Sie den Text unterhalb und senden sie ihn dem Empfänger mittels einer Textnachricht oder drucken ihn aus"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1733,7 +1733,7 @@ msgstr "durch ausstehende Zahlungen gesperrt"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "nicht beansprucht"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -1771,7 +1771,7 @@ msgstr "Private Transaktionen zu Mitunterzeichner erneut senden"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "email senden"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1786,7 +1786,7 @@ msgstr "Sende"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "nochmals teilen"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
