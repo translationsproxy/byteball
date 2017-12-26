@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2017-12-26 02:50-0500\n"
+"PO-Revision-Date: 2017-12-26 03:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1685,7 +1685,7 @@ msgstr "hapus riwayat obrolan"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr "salin teks di bawah ini dan kirimkan ke penerima melalui aplikasi pesan, atau cetak ke kertas"
+msgstr "salin teks di bawah ini dan kirimkan ke penerima melalui aplikasi pesan, atau cetak di kertas"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1734,7 +1734,7 @@ msgstr "terkunci oleh pembayaran tertunda"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr "tidak diklaim"
+msgstr "belum diklaim"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
