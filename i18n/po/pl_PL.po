@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-12-26 09:30-0500\n"
+"PO-Revision-Date: 2017-12-26 09:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1245,7 +1245,7 @@ msgstr "Udostępnij ten adres portfela, aby otrzymywać płatności."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Wyślij jako wiadomość"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
