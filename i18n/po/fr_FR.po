@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2017-12-25 11:32-0500\n"
+"PO-Revision-Date: 2017-12-27 09:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "-- Sélectionnez cosignataire --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 mots séparés par des tirets"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -1734,7 +1734,7 @@ msgstr "verrouillés par les paiements en attente"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "non réclamés"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -1772,7 +1772,7 @@ msgstr "ré-envoyer les charges privées aux cosignataires"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "envoyer un mail"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1787,7 +1787,7 @@ msgstr "envoyer"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "partager à nouveau"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
