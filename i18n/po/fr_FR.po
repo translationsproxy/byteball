@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2017-12-27 09:21-0500\n"
+"PO-Revision-Date: 2017-12-27 09:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -284,23 +284,23 @@ msgstr "Choisissez l'appareil sur lequel envoyer"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "Demande de fonds"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Demande d’un fonds textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Demande de fonds à l’aide de textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "Cliquez sur le bouton pour <span ng-if=\"isResend\"> ré</span>envoyer un mail"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "Cliquez sur ce bouton pour créer le paiement et le partager via message privé dans l'app de chat"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -884,7 +884,7 @@ msgstr "Tchat ouvert"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "Ou"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1232,7 +1232,7 @@ msgstr "Paramètres"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Partager"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1245,7 +1245,7 @@ msgstr "Partagez cette adresse de portefeuille pour recevoir des paiements."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Partager via message"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
@@ -1334,7 +1334,7 @@ msgstr "Message texte à"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1424,15 +1424,15 @@ msgstr "Pour lier le paiement à une condition, merci de cliquer sur adresse du 
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "À l’adresse byteball"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "À l’adresse byteball ou par mail"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "Par mail"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1580,7 +1580,7 @@ msgstr "Attention !"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "A été réclamé ?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
@@ -1677,7 +1677,7 @@ msgstr "annuler la création du portefeuille"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "réclamé par {{btx.claimedByMe?'me':'receiver'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1685,7 +1685,7 @@ msgstr "effacer l’historique du chat"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "copiez le texte ci-dessous et l’envoyer au destinataire par l’intermédiaire de n’importe quelle application de messagerie ou imprimer sur papier"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
