@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-25 11:32-0500\n"
+"PO-Revision-Date: 2017-12-26 22:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "-- Pumili ng co-singer --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 na salita na pinaghihiwalay ng mga gitling"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -284,23 +284,23 @@ msgstr "Pumili ng device na papadalhan"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "Angkinin ang pondo"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Angkinin ang pondo gamit ang textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Angkinin ang pondo gamit ang textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "I-click ang button para <span ng-if=\"isResend\">re</span> ipadala ang email"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "I-click ang button upang makalikha ng pagbayad at ibahagi ito sa pamamagitan ng pribadong mensahe sa mga chat apps"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -883,7 +883,7 @@ msgstr "Bukas na chat"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "O"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1231,7 +1231,7 @@ msgstr "Settings"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Ibahagi"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1244,7 +1244,7 @@ msgstr "Ibahagi ang wallet address upang makatanggap ng mga pagbabayad."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Ibahagi sa pamamagitan ng mensahe"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
@@ -1333,7 +1333,7 @@ msgstr "Text message to"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
