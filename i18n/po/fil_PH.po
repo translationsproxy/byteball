@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2017-12-26 22:41-0500\n"
+"PO-Revision-Date: 2017-12-26 22:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1423,15 +1423,15 @@ msgstr "Upang ma-bind ang pagbabayad sa isang kondisyon, paki-click ang peer add
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "Patungo sa byteball address"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "Patungo sa byteball address o email"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "Patungo sa email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1579,7 +1579,7 @@ msgstr "Babala!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "Inangkin na?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
@@ -1676,7 +1676,7 @@ msgstr "kanselahin ang paglikha ng pitaka"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "inaangkin ni {{btx.claimedByMe?' akin ': 'receiver' | isalin}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1684,7 +1684,7 @@ msgstr "burahin ang kasaysayan ng chat"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "kopyahin ang teksto sa ibaba at ipadala sa papadalhan sa pamamagitan ng anumang messagin app, o i-print ito sa papel"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1733,7 +1733,7 @@ msgstr "naka-lock ng Nakabinbin sa Pagbabayad"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "hindi naangkin"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -1771,7 +1771,7 @@ msgstr "muling ipadala ang payloads ng mga cosigners"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "ipadala ang email"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1786,7 +1786,7 @@ msgstr "ipinapadala"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "ibahagi ulit"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
