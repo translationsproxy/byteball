@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-12-28 13:00-0500\n"
+"PO-Revision-Date: 2017-12-28 13:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1580,7 +1580,7 @@ msgstr "注意！"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "請求しましたか？"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
@@ -1677,7 +1677,7 @@ msgstr "ウォレット作成をキャンセルする"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "{{btx.claimedByMe?'me':'receiver'|translate}}に請求されました"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1685,7 +1685,7 @@ msgstr "チャット履歴の削除"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "以下のテキストをコピーし、メッセージアプリで受取人に送るか、紙に印刷してください"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1734,7 +1734,7 @@ msgstr "保留中の支払いによりロック中"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "未請求"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -1772,7 +1772,7 @@ msgstr "連署者にプライベートペイロードを再送信"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "メールを送信"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1787,7 +1787,7 @@ msgstr "送信中"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "もう一度シェア"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
