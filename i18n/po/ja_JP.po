@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2017-12-28 12:52-0500\n"
+"PO-Revision-Date: 2017-12-28 13:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -284,23 +284,23 @@ msgstr "送付先デバイスの選択"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "お金を請求する"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "textcoinでお金を請求する"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "textcoinを用いてお金を請求する"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "ボタンをクリックしてメールを<span ng-if=\"isResend\">再</span>送信します"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "このボタンをクリックして支払いを作成し、チャットアプリのプライベートメッセージでシェアします。"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -884,7 +884,7 @@ msgstr "チャットを開く"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "または"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1232,7 +1232,7 @@ msgstr "設定"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "シェア"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1245,7 +1245,7 @@ msgstr "送金を受けるためにはこのウォレットアドレスを共有
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "メッセージでシェア"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
@@ -1334,7 +1334,7 @@ msgstr "テキストメッセージ :"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1424,15 +1424,15 @@ msgstr "支払いに条件を付けるには、チャット内のピアのアド
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "宛先Byteballアドレス"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "宛先byteballアドレスまたはメール"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "宛先メールアドレス"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
