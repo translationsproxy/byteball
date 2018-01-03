@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-01-03 14:11-0500\n"
+"PO-Revision-Date: 2018-01-03 14:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -846,7 +846,7 @@ msgstr "No se indicó contraseña"
 
 #: public/views/walletHome.html:586
 msgid "No transactions yet"
-msgstr "Sin transacciones todavía"
+msgstr "Sin transacciones aún"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
@@ -872,7 +872,7 @@ msgstr "Ofrecer contrato"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr "Se recomienda borrar de este dispositivo la semilla, una vez recordada o transcrita."
+msgstr "Una vez recordada o transcrita, se recomienda borrar la semilla de este dispositivo."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
@@ -880,7 +880,7 @@ msgstr "Sólo se pueden recuperar monederos de firma única."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr "Chat abierto"
+msgstr "Abrir chat"
 
 #: public/views/modals/share.html:23
 msgid "Or"
@@ -888,7 +888,7 @@ msgstr "O"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr "Par"
+msgstr "Emparejar"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
@@ -917,7 +917,7 @@ msgstr "Las contraseñas no coinciden"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr "Pegar la clave privada del monedero aquí"
+msgstr "Pegar aquí la clave privada del monedero"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
@@ -941,7 +941,7 @@ msgstr "Propuestas de Pago"
 
 #: public/views/modals/tx-status.html:38
 msgid "Payment Rejected"
-msgstr "Pago Rechazado"
+msgstr "Pago rechazado"
 
 #: public/views/modals/tx-status.html:5
 msgid "Payment Sent"
@@ -953,11 +953,11 @@ msgstr "Par:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
-msgstr "Borrar permanentemente este monedero. ESTA ACCIÓN NO PUEDE SER REVERTIDA"
+msgstr "Borrar permanentemente este monedero. ESTA ACCIÓN NO SE PUEDE REVERTIR"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
-msgstr "Cartera simple"
+msgstr "Monedero simple"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
