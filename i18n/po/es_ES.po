@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-01-03 07:51-0500\n"
+"PO-Revision-Date: 2018-01-03 08:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -71,7 +71,7 @@ msgstr "Añadir campos"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
-msgstr "Agregar monedero"
+msgstr "Añadir monedero"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
@@ -114,7 +114,7 @@ msgstr "Todas las contribuciones a la traducción de Byteball son bienvenidas. R
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
-msgstr "Ya Pagado"
+msgstr "Ya pagado"
 
 #: public/views/walletHome.html:150
 msgid "Also"
@@ -152,7 +152,7 @@ msgstr "¿Está seguro que quiere eliminar las palabras de la copia de seguridad
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr "¿Estas seguro de borrar este monedero?"
+msgstr "¿Está seguro de borrar este monedero?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
@@ -1752,15 +1752,15 @@ msgstr "o"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "o realiza copia de seguridad completa en"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr ""
+msgstr "corresponsal paga"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
-msgstr ""
+msgstr "publicado"
 
 #: public/views/modals/tx-details.html:142
 msgid "re-send private payloads"
@@ -1772,7 +1772,7 @@ msgstr "reenviar datos privados a co-firmantes"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "enviar correo electrónico"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1787,7 +1787,7 @@ msgstr "enviando"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "compartir otra vez"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
@@ -1804,11 +1804,11 @@ msgstr "con"
 
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
-msgstr ""
+msgstr "con el valor esperado"
 
 #: public/views/modals/bind.html:58
 msgid "with expected value of"
-msgstr ""
+msgstr "con el valor esperado de"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
