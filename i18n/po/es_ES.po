@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-01-03 07:40-0500\n"
+"PO-Revision-Date: 2018-01-03 07:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1493,11 +1493,11 @@ msgstr "Actualizar a {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "Por favor, espere, actualizando base de datos. Puede durar varios minutos."
 
 #: public/views/walletHome.html:522
 msgid "Values"
-msgstr ""
+msgstr "Valores"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1505,7 +1505,7 @@ msgstr "Versión"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "AVISO:"
 
 #: public/views/walletHome.html:222
 msgid "WARNING: Backup needed"
@@ -1580,11 +1580,11 @@ msgstr "¡Aviso!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "¿Reclamado?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
-msgstr ""
+msgstr "Qué enviar"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
@@ -1618,7 +1618,7 @@ msgstr "Sí"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "No puede enlazar su transacción a otro pago ya que su monedero es de dirección única. Cambie a otro monedero multidirección y transfiera allí sus fondos."
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
@@ -1647,7 +1647,7 @@ msgstr "La clave del monedero se cifrará. La contraseña no puede ser recuperad
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "Se creará el monedero en este dispositivo. En el menú de configuración hay varias opciones de copia de seguridad."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
@@ -1657,19 +1657,19 @@ msgstr "[ Añadir nuevo co-signatario ]"
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
 msgid "amount"
-msgstr ""
+msgstr "cantidad"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "un oráculo publica un evento"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr ""
+msgstr "puede desbloquear el contrato"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "puede desbloquear el contrato cuando expire tras"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -1677,7 +1677,7 @@ msgstr "cancelar creación de cartera"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "reclamado por {{btx.claimedByMe?' me': 'receptor' | translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1685,7 +1685,7 @@ msgstr "limpiar historial de chat"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "copie el siguiente texto y envíelo al destinatario mediante una aplicación de mensajería o imprímalo"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1697,11 +1697,11 @@ msgstr "días"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "por ejemplo, monedero 1-2, con una de las claves en este dispositivo y la otra en su portátil."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "por ejemplo, monedero 1-2, con una de las claves en este dispositivo y la otra en su teléfono móvil."
 
 #: public/views/modals/bind.html:72
 msgid "either way"
@@ -1718,7 +1718,7 @@ msgstr "horas"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
-msgstr ""
+msgstr "si un oráculo publica un evento"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
@@ -1734,12 +1734,12 @@ msgstr "bloqueado por pagos pendientes"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "no reclamado"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "en el nombre de la fuente"
 
 #: public/views/walletHome.html:431
 #: public/views/walletHome.html:442
@@ -1748,7 +1748,7 @@ msgstr "opcional"
 
 #: public/views/modals/offer-contract.html:99
 msgid "or"
-msgstr ""
+msgstr "o"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
