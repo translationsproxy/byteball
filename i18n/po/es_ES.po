@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-01-03 07:20-0500\n"
+"PO-Revision-Date: 2018-01-03 07:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -617,7 +617,7 @@ msgstr "Dirección completa:"
 
 #: public/views/preferencesGlobal.html:118
 msgid "Full backup"
-msgstr "Copia de seguridad completa"
+msgstr "Copia de Seg. completa"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
@@ -657,7 +657,7 @@ msgstr "Volver"
 
 #: public/views/preferences.html:48
 msgid "Hardware wallet"
-msgstr "Monedero de Hardware"
+msgstr "Monedero Hardware"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -1036,7 +1036,7 @@ msgstr "Destinatarios"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
-msgstr "Reconectando a Wallet Service..."
+msgstr "Reconectando servicio de monedero..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
@@ -1048,7 +1048,7 @@ msgstr "Recuperación desde semilla"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr "Recreando Monedero..."
+msgstr "Reconstruyendo monedero..."
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
@@ -1056,7 +1056,7 @@ msgstr "Rechazado"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr "Información de la versión"
+msgstr "Información de versión"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
@@ -1073,7 +1073,7 @@ msgstr "Renombrar:"
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr "Escriba nuevamente la contraseña"
+msgstr "Repita la contraseña"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
@@ -1188,7 +1188,7 @@ msgstr "Enviar pago"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr "Enviar las direcciones por email"
+msgstr "Enviar direcciones por email"
 
 #: public/views/walletHome.html:368
 msgid "Send all"
@@ -1200,7 +1200,7 @@ msgstr "Enviar por correo electrónico"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr "Enviando los fondos..."
+msgstr "Enviando fondos..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
@@ -1432,11 +1432,11 @@ msgstr "A dirección Byteball o correo electrónico"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "A correo electrónico"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr "Para mayor privacidad se generan nuevas direcciones según se van usando."
+msgstr "Para mayor privacidad, se generan nuevas direcciones según se van usando."
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
@@ -1485,7 +1485,7 @@ msgstr "Transacciones no enviadas"
 
 #: public/views/walletHome.html:73
 msgid "Updating Wallet..."
-msgstr "Actualizando Monedero..."
+msgstr "Actualizando monedero..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
@@ -1509,11 +1509,11 @@ msgstr ""
 
 #: public/views/walletHome.html:222
 msgid "WARNING: Backup needed"
-msgstr "ADVERTENCIA: Se requiere hacer copia de seguridad"
+msgstr "ADVERTENCIA: Se requiere copia de seguridad"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr "ADVERTENCIA: Esta semilla fue creada con una contraseña. Para recuperar este monedero necesita las palabras y la contraseña."
+msgstr "ADVERTENCIA: Esta semilla fue creada con contraseña. Para recuperar el monedero necesita ambas."
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
@@ -1639,7 +1639,7 @@ msgstr "Su contraseña"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr "Su fichero de monedero:"
+msgstr "Fichero de su monedero:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
