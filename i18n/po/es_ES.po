@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-01-03 14:01-0500\n"
+"PO-Revision-Date: 2018-01-03 14:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -789,7 +789,7 @@ msgstr "Yo"
 
 #: public/views/modals/tx-details.html:104
 msgid "Merchant message"
-msgstr "Mensaje del negocio"
+msgstr "Mensaje de vendedor"
 
 #: public/views/walletHome.html:430
 msgid "Merkle proof"
@@ -1224,7 +1224,7 @@ msgstr "Establecer contraseña"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr "Configurar notificaciones por correo electrónico podría afectar a su privacidad, si el proveedor de Wallet Service se ve comprometido. La información disponible para un atacante incluiría las direcciones de su monedero y su balance, pero nada más."
+msgstr "Configurar notificaciones por correo electrónico podría afectar a su privacidad. Sus direcciones de monedero y su balance podrían quedar disponibles para un hipotético atacante, pero nada más."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
@@ -1253,7 +1253,7 @@ msgstr "Mostrar todo"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr "Mostrar la semilla de todos modos"
+msgstr "Mostrar semilla de todos modos"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
@@ -1275,16 +1275,16 @@ msgstr "Monedero de pequeños gastos"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr "Especificar la Semilla..."
+msgstr "Especificar semilla..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
 msgid "Spending Restrictions"
-msgstr "Restricciones de Gastos"
+msgstr "Restricciones de gastos"
 
 #: public/views/preferencesGlobal.html:96
 msgid "Still not done"
-msgstr "Aún no esta listo"
+msgstr "Aún no está listo"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:135
@@ -1299,7 +1299,7 @@ msgstr "Listo"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr "Importar Monedero"
+msgstr "Importar monedero"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
