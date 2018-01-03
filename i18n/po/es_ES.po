@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2017-12-25 11:31-0500\n"
+"PO-Revision-Date: 2018-01-03 06:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "-- Seleccione co-firmante --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 palabras separadas por guiones"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -67,7 +67,7 @@ msgstr "Agregar nueva entrada"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
-msgstr ""
+msgstr "Añadir campos"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
