@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-01-03 06:50-0500\n"
+"PO-Revision-Date: 2018-01-03 07:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -705,11 +705,11 @@ msgstr "Si la otra parte no paga, los fondos retornarán tras"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Si esta copia de seguridad proviene de otro dispositivo, deje de usarlo inmediatamente tras crear dicha copia.  Nunca clone carteras.  Si necesitas acceder desde varios dispositivos, utilice multifirma."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Si prevé restaurar este monedero en otro dispositivo, deje de usarlo inmediatamente tras crear la copia de seguridad.  Nunca clone carteras.  Si necesitas acceder desde varios dispositivos, utilice multifirma."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -751,11 +751,11 @@ msgstr "Invitar a otro dispositivo"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "No basta con la semilla. Si vd. sólo tiene la semilla, no podrá restaurar monederos multifirma ni activos privados como los blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Conserve sólo datos relevantes para vd"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
@@ -884,7 +884,7 @@ msgstr "Chat abierto"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "O"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -961,7 +961,7 @@ msgstr "Cartera simple"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr ""
+msgstr "Elija cuántos datos se almacenarán en su monedero"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
@@ -977,15 +977,15 @@ msgstr "Puerto"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Publicar pares arbitrarios clave-valor en la red Byteball."
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Publicar valores manualmente, convertirse en \"oráculo\"."
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Publicar sus datos de perfil, cualquier información personal."
 
 #: public/views/walletHome.html:175
 #: public/views/walletHome.html:47
@@ -1007,7 +1007,7 @@ msgstr "Datos privados enviados"
 
 #: public/views/walletHome.html:334
 msgid "Profile"
-msgstr ""
+msgstr "Perfil"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1019,7 +1019,7 @@ msgstr "Lector QR"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Pregunta:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
@@ -1232,7 +1232,7 @@ msgstr "Opciones"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Compartir"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1245,7 +1245,7 @@ msgstr "Compartir esta dirección de monedero para recibir pagos."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Compartir vía mensaje"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
