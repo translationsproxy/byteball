@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-01-03 14:30-0500\n"
+"PO-Revision-Date: 2018-01-03 15:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -196,7 +196,7 @@ msgstr "Realizar copia de seguridad ahora"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "Respaldar semilla del monedero"
+msgstr "Guardar semilla del monedero"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -234,7 +234,7 @@ msgstr "Tienda de bots"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr "Tanto tú como {{correspondent.name}} habilitan la grabación del historial de chat."
+msgstr "Tanto Vd. como {{correspondent.name}} habilitan la grabación del historial de chat."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -1825,7 +1825,7 @@ msgstr "{cancel_label || 'Cancelar'}"
 
 #: src/js/controllers/walletHome.js:1662
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr "{{fee}} se descontará por comisión de la red bitcoin"
+msgstr "se descontarán {{fee}} por comisión de la red bitcoin"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
@@ -1842,5 +1842,5 @@ msgstr "{{item.m}}-de-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr "{{prefGlobal.torEnabled?'On':'Off'}}"
+msgstr "{{prefGlobal.torEnabled?'Sí':'No'}}"
 
