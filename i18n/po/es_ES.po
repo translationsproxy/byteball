@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-01-03 08:00-0500\n"
+"PO-Revision-Date: 2018-01-03 14:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -383,11 +383,11 @@ msgstr "No se reestablecen corresponsales."
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not create payment proposal"
-msgstr "No se ha podido crear la propuesta de pago"
+msgstr "No se pudo crear propuesta de pago"
 
 #: src/js/services/profileService.js:265
 msgid "Could not create using the specified extended private key"
-msgstr "No se pudo crear el monedero usando la clave privada ingresada"
+msgstr "No se pudo crear monedero usando clave privada ingresada"
 
 #: src/js/services/profileService.js:275
 msgid "Could not create using the specified extended public key"
@@ -438,7 +438,7 @@ msgstr "Crear nuevo monedero"
 
 #: src/js/controllers/index.js:286
 msgid "Create new wallet  together with  ?"
-msgstr "Crear nuevo monedero junto  con ?"
+msgstr "¿Crear nuevo monedero junto con  ?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
@@ -474,7 +474,7 @@ msgstr "Fecha"
 
 #: src/js/controllers/index.js:256
 msgid "Declined"
-msgstr "No aceptada"
+msgstr "No aceptado"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
@@ -517,7 +517,7 @@ msgstr "Direción del dispositivo"
 #: public/views/preferencesDeviceName.html:12
 #: public/views/preferencesGlobal.html:17
 msgid "Device name"
-msgstr "Nombre dispositivo"
+msgstr "Nombre de dispositivo"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
@@ -533,7 +533,7 @@ msgstr "No lo utilice para clonar el monedero."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr "¿No ve su idioma en Crowdin? Contáctese con el encargado del proyecto! Nos encantaría dar soporte a su idioma."
+msgstr "¿No ve su idioma en Crowdin? ¡Contacte con el encargado del proyecto! Nos encantaría dar soporte a su idioma."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
@@ -555,7 +555,7 @@ msgstr "Editar"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr "O bien tú o {{correspondent.name}} tiene deshabilitada la grabación del historial de chat. El historial no se ha grabado para ninguno."
+msgstr "O bien tú o {{correspondent.name}} tienen deshabilitada la grabación del historial de chat. El historial no se ha grabado para nadie."
 
 #: public/views/preferencesEmail.html:33
 msgid "Email for wallet notifications"
@@ -1220,7 +1220,7 @@ msgstr "Establecer contraseña"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr "Configurar una contraseña"
+msgstr "Establecer contraseña"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
