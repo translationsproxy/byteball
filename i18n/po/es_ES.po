@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-01-03 07:10-0500\n"
+"PO-Revision-Date: 2018-01-03 07:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -31,7 +31,7 @@ msgstr "12 palabras separadas por guiones"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
-msgstr "Acerca de Byteball"
+msgstr "Sobre Byteball"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
@@ -63,7 +63,7 @@ msgstr "Añadir nuevo dispositivo"
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr "Agregar nueva entrada"
+msgstr "Añadir entrada nueva"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
@@ -90,7 +90,7 @@ msgstr "Dirección a verificar"
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
 msgid "Addressbook"
-msgstr "Libro de direcciones"
+msgstr "Libreta de direcciones"
 
 #: public/views/preferences.html:56
 msgid "Advanced"
@@ -168,11 +168,11 @@ msgstr "Verificación"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr "Actualizar lista de testigos desde el hub"
+msgstr "Autoactualizar lista de testigos desde el hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr "Actualizar lista de testigos desde este hub"
+msgstr "Autoactualizar lista de testigos desde este hub"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -280,7 +280,7 @@ msgstr "Elija archivo"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr "Elija dispositivo a emparejar"
+msgstr "Elegir dispositivo al que enviar"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
@@ -450,11 +450,11 @@ msgstr "Creado:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr "Creando el Perfil..."
+msgstr "Creando perfil..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr "Creando el Monedero..."
+msgstr "Creando monedero..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
@@ -1395,7 +1395,7 @@ msgstr "Esta transacción se ha invalidado; posiblemente debido a un intento de 
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "Este monedero no se puede convertir a monodirección, ya que es multidirección o multidispositivo"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
@@ -1412,11 +1412,11 @@ msgstr "A"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "Para poder restaurar todo es necesario crear una copia de seguridad completa (Seleccionar backup completo en el menú)"
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "Para poder enviar datos arbitrarios a la red Byteball se requiere un monedero de una sola dirección."
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1424,11 +1424,11 @@ msgstr "Para asociar el pago a una condición, pulse en la dirección del par de
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "A dirección Byteball"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "A dirección Byteball o correo electrónico"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
