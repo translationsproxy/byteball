@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2017-12-25 11:31-0500\n"
+"PO-Revision-Date: 2018-01-04 21:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -284,7 +284,7 @@ msgstr "选择要发送到的设备"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "索回资金"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
@@ -1772,7 +1772,7 @@ msgstr "向联合签署人重新发送私人有效载荷"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "发送邮件"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1787,7 +1787,7 @@ msgstr "发送中"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "再次分享"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
