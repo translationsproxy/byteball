@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-01-04 21:10-0500\n"
+"PO-Revision-Date: 2018-01-04 21:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -284,23 +284,23 @@ msgstr "选择要发送到的设备"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr "索回资金"
+msgstr "取回资金"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "通过文本币取回资金"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "使用文本币取回资金"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "单击按钮 <span ng-if=\"isResend\"> 重新 </span> 发送电子邮件"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "单击此按钮以创建付款并通过聊天应用程序中的私人消息共享它"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -884,7 +884,7 @@ msgstr "启用聊天"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "或"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1232,7 +1232,7 @@ msgstr "设置"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "分享"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1245,7 +1245,7 @@ msgstr "分享这个钱包地址来接收付款。"
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "通过消息分享"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
@@ -1334,7 +1334,7 @@ msgstr "发送短信至"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "文本币"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1424,15 +1424,15 @@ msgstr "要将付款绑定到条件，请点击聊天窗口中对方的地址"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "发送到byteball地址"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "发送到byteball地址或email"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "发送至email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1580,7 +1580,7 @@ msgstr "注意！"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "被认领？"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
