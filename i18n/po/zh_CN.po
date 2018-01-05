@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-01-04 22:00-0500\n"
+"PO-Revision-Date: 2018-01-04 22:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1787,7 +1787,7 @@ msgstr "发送中"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr "再次分享"
+msgstr "重新分享"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
