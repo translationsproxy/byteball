@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-01-07 12:00-0500\n"
+"PO-Revision-Date: 2018-01-07 12:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1767,11 +1767,11 @@ msgstr "Private Transaktionen erneut senden"
 
 #: public/views/modals/tx-details.html:145
 msgid "re-send private payloads to cosigners"
-msgstr "Private Transaktionen zu Mitunterzeichner erneut senden"
+msgstr "private Transaktionsdaten erneut zu Mitunterzeichner senden"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr "email senden"
+msgstr "sende E-Mail"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
