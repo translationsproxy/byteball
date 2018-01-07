@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2017-12-26 14:20-0500\n"
+"PO-Revision-Date: 2018-01-07 10:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -521,7 +521,7 @@ msgstr "Gerätename"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr "Der Gerätename ist während der Kommunikation mit anderen sichtbar."
+msgstr "Der Gerätename ist während der Kommunikation mit anderen Geräten sichtbar."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
