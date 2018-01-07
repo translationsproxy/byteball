@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2017-12-25 11:32-0500\n"
+"PO-Revision-Date: 2018-01-07 17:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "--Selecteer een mede-ondertekenaar--"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 woorden, gescheiden door streepjes"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -212,7 +212,7 @@ msgstr "Voor het ontvangen van het geld is het uiterst aanbevolen om uw portemon
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Of nog beter, gebruik multisig wallets met redundantie,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
