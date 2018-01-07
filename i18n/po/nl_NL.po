@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-07 17:40-0500\n"
+"PO-Revision-Date: 2018-01-07 17:52-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -284,23 +284,25 @@ msgstr "Kies het toestel waarnaar je wil sturen"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "Eis een bedrag op"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Eis een bedrag op door middel van textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Eis een bedrag op door middel van textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "Klik om <span ng-if=\"isResend\">nogmaals</span>email te verzenden\n"
+" \n"
+"Context | Request Context"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "Klik hier om een betaling te creëren en te delen via private message in chat apps"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -525,7 +527,7 @@ msgstr "De naam van het toestel is zichtbaar voor de andere toestellen waarmee u
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Clone nooit een wallet maar stop met het gebruiken van de originele wallet met deze seed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
@@ -697,15 +699,15 @@ msgstr "Ik ontvang een andere betaling van"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "Als de voorwaarde niet vervult wordt, kan ik deze betaling daarna terugvorderen"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Als de peer niet betaalt, kan ik de betaling daarna terugvorderen"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Als u deze backup hebt verplaatst vanaf een ander apparaat, stop dan onmiddelijk met het gebruik van het origineel na het creëren van de backup. Clone nooit een wallet. Als u toegang nodig heeft vanaf meerdere apparaten, gebruik dan multisig."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
