@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-01-07 11:51-0500\n"
+"PO-Revision-Date: 2018-01-07 12:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr "(Diese Seite sieht weder ihr Guthaben noch wird etwas gespendet)"
+msgstr "(Diese Seite sieht nicht dein Guthaben und kein Geld wird überwiesen.)"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
@@ -268,7 +268,7 @@ msgstr "Hub ändern:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr "Eine Änderung des Wallet Alias wirkt sich nur auf den lokalen Wallet Name aus."
+msgstr "Eine Änderung des Alias der Brieftasche betrifft nur den lokalen Namen der Brieftasche."
 
 #: src/js/controllers/index.js:622
 msgid "Chat"
@@ -812,7 +812,7 @@ msgstr "Meine Byteball Adresse"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
-msgstr "Meine Voreinstellung für Aufnahmen"
+msgstr "Meine bevorzugten Aufzeichnungseinstellungen"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
@@ -1063,7 +1063,7 @@ msgstr "Entfernen"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr "Geräte entfernen"
+msgstr "Entferne ein Gerät"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
