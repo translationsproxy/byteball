@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 16:40-0500\n"
+"PO-Revision-Date: 2018-01-08 16:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1226,8 +1226,7 @@ msgstr "Maak een wachtwoord aan"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more.\n"
-"Het activeren van e-mail notificatie kan uw privacy verzwakken, wanneer de portefeuille service provider is compromised.  De informatie welke beschikbaar wordt voor de attacker zou uw portefeuille adressen en bijhorende saldos bevatten, maar verder niets."
+msgstr "Het activeren van e-mailnotificaties kan uw privacy verminderen, wanneer de portefeuille service provider zou zijn gecompromitteerd. De informatie welke beschikbaar zou worden voor de aanvaller zouden uw portefeuille adressen en bijhorende saldo's bevatten, maar verder niets."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
@@ -1240,11 +1239,11 @@ msgstr "Delen"
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
 msgid "Share address"
-msgstr "Adres (mede)delen"
+msgstr "Adres delen"
 
 #: public/views/walletHome.html:280
 msgid "Share this wallet address to receive payments."
-msgstr "Deel dit portemonnee-adres om betalingen te ontvangen."
+msgstr "Deel het adres van deze portefeuille om betalingen te ontvangen."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
@@ -1256,11 +1255,11 @@ msgstr "Toon alles"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr "Toon hoe dan ook de sleutel van de portefeuille"
+msgstr "Toon alsnog de seed van deze portefeuille"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
-msgstr "Onderteken transactie uitgaven van de portefeuille ? "
+msgstr "Onderteken uitgaande transacties van de portefeuille ?"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
@@ -1278,7 +1277,7 @@ msgstr "Portefeuille voor kleine uitgaven"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr "Specificeer sleutel..."
+msgstr "Specificeer seed..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
@@ -1287,7 +1286,7 @@ msgstr "Uitgavenbeperkingen"
 
 #: public/views/preferencesGlobal.html:96
 msgid "Still not done"
-msgstr "Nog niet voltooid"
+msgstr "Nog bezig"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:135
@@ -1302,15 +1301,15 @@ msgstr "Succes"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr "Verplaats portefeuille"
+msgstr "Portefeuille importeren"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr "Wissen van de (papier)-portefeuille"
+msgstr "Papieren portefeuille importeren"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr "Synchroniseren... {{index.count_unhandled_private_payments}} particuliere betalingen over"
+msgstr "Bezig met synchroniseren... {{index.count_unhandled_private_payments}} privé betalingen over"
 
 #: public/views/walletHome.html:82
 msgid "Syncing... {{index.syncProgress}}"
@@ -1324,7 +1323,7 @@ msgstr "TOR"
 #: public/views/walletHome.html:121
 #: public/views/walletHome.html:584
 msgid "Tap to retry"
-msgstr "(Tap) om te herbeginnen"
+msgstr "Tik op om opnieuw te proberen"
 
 #: public/views/disclaimer.html:12
 #: public/views/preferencesAbout.html:30
@@ -1341,7 +1340,7 @@ msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr "De hub om boodschappen te ontvangen van andere toestellen."
+msgstr "De hub om boodschappen te ontvangen van andere apparaten."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
@@ -1382,7 +1381,7 @@ msgstr "Deze keuze kan later niet ongedaan gemaakt worden"
 
 #: public/views/walletHome.html:350
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
-msgstr "Dit is een private bezitting, zend deze alleen door het klikken van links in de chat of zend ze naar uw andere portefeuilles."
+msgstr "Dit is een private asset, zend deze alleen door het klikken van links in de chat of zend ze naar uw andere portefeuilles."
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
@@ -1390,7 +1389,7 @@ msgstr "Deze opties is beter voor privacy maar zal enkele gigabytes aan storage 
 
 #: public/views/walletHome.html:417
 msgid "This payment is bound to a condition"
-msgstr "Deze betaling is gekoppeld aan een conditie"
+msgstr "Deze betaling is gekoppeld aan een voorwaarde"
 
 #: public/views/modals/tx-details.html:80
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
