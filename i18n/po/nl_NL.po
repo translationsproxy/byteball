@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 16:21-0500\n"
+"PO-Revision-Date: 2018-01-08 16:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -807,7 +807,7 @@ msgstr "Verplaatst"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr "Portefeuille over meerdere toestellen"
+msgstr "Multi-device portefeuille"
 
 #: public/views/walletHome.html:240
 msgid "My Byteball address"
@@ -827,7 +827,7 @@ msgstr "Netwerk"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr "Nieuwe gegenereerde sleutel"
+msgstr "Nieuwe random seed"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
@@ -840,15 +840,15 @@ msgstr "Nieuwe getuigen"
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:458
 msgid "No"
-msgstr "Neen"
+msgstr "Nee"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr "Geen wachtwoord gegeven"
+msgstr "Geen wachtwoord opgegeven"
 
 #: public/views/walletHome.html:586
 msgid "No transactions yet"
-msgstr "Nog geen transacties ontvangen"
+msgstr "Nog geen transacties"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
@@ -865,7 +865,7 @@ msgstr "Ongeldig"
 #: public/views/walletHome.html:441
 #: public/views/walletHome.html:649
 msgid "Note"
-msgstr "Vermelding"
+msgstr "Notitie"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
@@ -874,7 +874,7 @@ msgstr "Een contract aanbieden"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr "Wanneer u de sleutel van uw portefeuille hebt genoteerd, is het aanbevolen om hem van dit toestel te verwijderen."
+msgstr "Wanneer u de seed van uw portefeuille hebt genoteerd, is het aanbevolen om hem van dit apparaat te verwijderen."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
@@ -890,11 +890,11 @@ msgstr "Of"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr "Koppel"
+msgstr "Koppelen"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr "Gekoppelde toestellen"
+msgstr "Gekoppelde apparaten"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
@@ -902,7 +902,7 @@ msgstr "Koppelingscode"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr "Papier Portefeuille Persoonlijke Sleutel"
+msgstr "Persoonlijke sleutel van papieren portefeuille"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
@@ -911,7 +911,7 @@ msgstr "Wachtwoord"
 
 #: src/js/services/profileService.js:654
 msgid "Password needed"
-msgstr "Paswoord is nodig"
+msgstr "Wachtwoord benodigd"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
@@ -919,7 +919,7 @@ msgstr "Wachtwoorden komen niet overeen"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr "Voer hier uw papier portemonnee privé sleutel in"
+msgstr "Voer hier de privésleutel van uw papieren portefeuille in"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
@@ -931,11 +931,11 @@ msgstr "Betaal aan dit adres"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr "De betaling is aanvaard"
+msgstr "Betaling aanvaard"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
-msgstr "Het betalingsvoorstel is aangemaakt"
+msgstr "Betalingsvoorstel aangemaakt"
 
 #: public/views/walletHome.html:196
 msgid "Payment Proposals"
@@ -943,7 +943,7 @@ msgstr "Betalingsvoorstellen"
 
 #: public/views/modals/tx-status.html:38
 msgid "Payment Rejected"
-msgstr "De betaling is verworpen"
+msgstr "Betaling verworpen"
 
 #: public/views/modals/tx-status.html:5
 msgid "Payment Sent"
@@ -951,7 +951,7 @@ msgstr "Betaling Verzonden"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr "De andere:"
+msgstr "Wederpartij:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -971,7 +971,7 @@ msgstr "Vul de verplichte velden in"
 
 #: public/views/splash.html:82
 msgid "Please name this device"
-msgstr "Geef de naam voor dit toestel"
+msgstr "Geef een naam op voor dit apparaat"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -983,7 +983,7 @@ msgstr "Post willekeurige sleutelwaarde-paren van gegevens in het Byteball netwe
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr "Post handmatig waarden in datafeeds, wodt een orakel."
+msgstr "Post handmatig waarden in datafeeds, wordt een orakel."
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
@@ -996,16 +996,16 @@ msgstr "Voorkeuren"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr "Druk opnieuw om te beeindigen"
+msgstr "Druk nogmaals om te beëindigen"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr "De private bezittingen (zoals blackbytes) zijn niet hersteld."
+msgstr "Private assets (zoals blackbytes) zijn niet hersteld."
 
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
 msgid "Private payloads sent"
-msgstr "Private payloads zijn verzonden"
+msgstr "Private transacties zijn verzonden"
 
 #: public/views/walletHome.html:334
 msgid "Profile"
