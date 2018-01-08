@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 15:11-0500\n"
+"PO-Revision-Date: 2018-01-08 15:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1362,7 +1362,7 @@ msgstr "De portefeuille \"{{walletName}}\" is verwijderd"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "De leverancier van de wallet zal sommige van uw saldo's kunnen zien en kunnen zien welke transacties van u zijn, maar u kunt de wallet onmiddelijk gaan gebruiken en de wallet is volledig functioneel."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
@@ -1386,7 +1386,7 @@ msgstr "Dit is een private bezitting, zend deze alleen door het klikken van link
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "Deze opties is beter voor privacy maar zal enkele gigabytes aan storage gebruiken, en de initiële synchronisatie zal enkele dagen duren. CPU-load zal tijdens synchronisatie hoog zijn."
 
 #: public/views/walletHome.html:417
 msgid "This payment is bound to a condition"
@@ -1398,7 +1398,7 @@ msgstr "Deze transactie is ongeldig geworden;  vermoedelijk door een poging van 
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "Deze wallet kan niet worden geconverteerd naar een één adres wallet, aangezien deze al uit meerdere adressen bestaat of een multidevice wallet is"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
@@ -1415,31 +1415,31 @@ msgstr "Naar"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "Om alles te kunnen herstellen dient u een volledige backup te maken (zie de optie in het menu)"
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "Om willekeurge data in het Byteball netwerk te kunnen verzenden, dient u te wisselen naar een één adres wallet, of er een te creëren."
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr ""
+msgstr "Om betalingen aan een voorwaarde te verbinden klikt u op het adres van de wederpartij in de chat"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "Naar Byteball adres"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "Naar Byteball adres of e-mailadres"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "Naar e-mailadres"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr ""
+msgstr "Om uw privacy te beschermen worden er nieuwe adressen gegenereerd op het moment dat u een adres gebruikt."
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
