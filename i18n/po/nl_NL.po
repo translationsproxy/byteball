@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 16:12-0500\n"
+"PO-Revision-Date: 2018-01-08 16:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -643,7 +643,7 @@ msgstr "Nieuw adres aanmaken"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
-msgstr "Bezig met aanmaken van .csv bestand…"
+msgstr "Bezig met aanmaken van .CSV-bestand..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
@@ -659,11 +659,11 @@ msgstr "Ga terug"
 
 #: public/views/preferences.html:48
 msgid "Hardware wallet"
-msgstr "Hardware wallet"
+msgstr "Hardware portefeuille"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr "Verberg de sleutel van de portefeuille"
+msgstr "Verberg de seed van de portefeuille"
 
 #: src/js/controllers/index.js:618
 msgid "History"
@@ -687,7 +687,7 @@ msgstr "Hub URL"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
-msgstr "Ik bevestig dat ik deze voorwaarden gelezen en begrepen en ga hiermee akkoord."
+msgstr "Ik bevestig dat ik deze voorwaarden heb gelezen en begrepen en ga hiermee akkoord."
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
@@ -695,15 +695,15 @@ msgstr "Ik betaal"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr "Ik ontvang een andere betaling van"
+msgstr "Ik ontvang een volgende betaling van"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr "Als de voorwaarde niet vervult wordt, kan ik deze betaling daarna terugvorderen"
+msgstr "Als de voorwaarde niet vervuld wordt, kan ik deze betaling terugvorderen na"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr "Als de peer niet betaalt, kan ik de betaling daarna terugvorderen"
+msgstr "Als de wederpartij niet betaalt, kan ik de betaling terugvorderen na"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -723,17 +723,17 @@ msgstr "Importeer portefeuille"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr "Portefeuille wordt geimporteerd..."
+msgstr "Portefeuille wordt geïmporteerd..."
 
 #: public/views/walletHome.html:133
 msgid "Including pending confirmation"
-msgstr "Samen met pending confirmatie"
+msgstr "Inclusief verwachte bevestigingen"
 
 #: public/views/walletHome.html:602
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr "De synchronisatie van de initiele transactiehistoriek kan enkele minuten duren voor portefeuilles met veel transacties. <br>\n"
-"\tBlijf geduldig wachten."
+msgstr "De synchronisatie van de initiële transactiegeshciedenis kan enkele minuten duren voor portefeuilles met veel transacties. <br>\n"
+"\tHeeft u even geduld."
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
@@ -745,23 +745,23 @@ msgstr "Ongeldig"
 
 #: src/js/controllers/index.js:1533
 msgid "Invalid Touch ID"
-msgstr "Ongeldig Touch ID"
+msgstr "Ongeldige Touch-ID"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr "Nodig het andere toestel uit"
+msgstr "Nodig het andere apparaat uit"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr "Alleen de stam van de portefeuille is niet genoeg.  Met de stam alleen, kunt u geen multisig portefeuilles en privé-vermogen zoals blackbytes terugzetten/herstellen."
+msgstr "Alleen de seed van de portefeuille is niet genoeg.  Met de seed alleen kunt u geen multisig portefeuilles en privé-assets zoals blackbytes herstellen."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr "Houd alleen gegevens die relevant zijn voor jou"
+msgstr "Bewaar alleen voor u relevante gegevens"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
-msgstr "Etiket"
+msgstr "Naam"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
@@ -777,7 +777,7 @@ msgstr "Bezig met laden…"
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr "Aanmaken van een betaling voor"
+msgstr "Betalen aan"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
@@ -795,7 +795,7 @@ msgstr "Boodschap van verkoper"
 
 #: public/views/walletHome.html:430
 msgid "Merkle proof"
-msgstr "Merkle proef"
+msgstr "Merkle bewijs"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
