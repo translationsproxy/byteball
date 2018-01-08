@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-08 10:01-0500\n"
+"PO-Revision-Date: 2018-01-08 10:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -242,7 +242,7 @@ msgstr "Browser non supportato"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Indirizzo Byteball"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -251,7 +251,7 @@ msgstr "Annulla"
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr ""
+msgstr "CONTINUA"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:464
@@ -264,7 +264,7 @@ msgstr "Annulla"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr ""
+msgstr "Cambiare hub:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
@@ -466,7 +466,7 @@ msgstr "Data"
 
 #: public/views/walletHome.html:332
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Dati nel datafeed"
 
 #: public/views/modals/tx-details.html:85
 msgid "Date"
@@ -486,11 +486,11 @@ msgstr "Definizione"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
-msgstr ""
+msgstr "Definizione di uno smart address"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
-msgstr ""
+msgstr "Definizioni di indirizzi"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
@@ -521,15 +521,15 @@ msgstr "Nome del dispositivo"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr ""
+msgstr "Il nome del dispositivo è visibile agli altri dispositivi con cui comunichi."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Non clonare i portafogli, smetti di usare il portafoglio originale con questo seed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Non usarlo per clonare il portafoglio."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -841,7 +841,7 @@ msgstr ""
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "Nessuna password inserita"
 
 #: public/views/walletHome.html:586
 msgid "No transactions yet"
@@ -867,7 +867,7 @@ msgstr "Nota"
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
 msgid "Offer a contract"
-msgstr ""
+msgstr "Offri un contratto"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
