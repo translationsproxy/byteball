@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 14:40-0500\n"
+"PO-Revision-Date: 2018-01-08 15:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -711,7 +711,7 @@ msgstr "Als u deze backup hebt verplaatst vanaf een ander apparaat, stop dan onm
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Als u deze backup wilt gebruiken op een ander apparaat, stop dan onmiddelijk met het gebruik van het origineel na het creëren van de backup. Clone nooit een wallet. Als u toegang nodig heeft vanaf meerdere apparaten, gebruik dan multisig."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -886,7 +886,7 @@ msgstr "Chat openen"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "Of"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -979,15 +979,15 @@ msgstr "Poort"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Post willekeurige sleutelwaarde-paren van gegevens in het Byteball netwerk."
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Post handmatig waarden in datafeeds, wodt een orakel."
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Post uw profielgegevens, alles wat u wilt zeggen over uzelf."
 
 #: public/views/walletHome.html:175
 #: public/views/walletHome.html:47
@@ -1235,7 +1235,7 @@ msgstr "Instellingen"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Delen"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1248,7 +1248,7 @@ msgstr "Deel dit portemonnee-adres om betalingen te ontvangen."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Delen via bericht"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
@@ -1265,12 +1265,12 @@ msgstr "Onderteken transactie uitgaven van de portefeuille ? "
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Wallet met één adres"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "Wallets met één adres zullen niet voor elke transactie nieuwe adressen aanmaken, wisselgeld zal altijd terug gaan naar het enige adres dat de wallet heeft."
 
 #: src/js/services/profileService.js:318
 msgid "Small Expenses Wallet"
@@ -1310,7 +1310,7 @@ msgstr "Wissen van de (papier)-portefeuille"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr ""
+msgstr "Synchroniseren... {{index.count_unhandled_private_payments}} particuliere betalingen over"
 
 #: public/views/walletHome.html:82
 msgid "Syncing... {{index.syncProgress}}"
@@ -1337,7 +1337,7 @@ msgstr "Sms-bericht aan"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1349,11 +1349,11 @@ msgstr "De hub stelt voor om de volgende getuigen te vervangen:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "De wederpartij ontvangt deze betaling als"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "De stemming zal worden ondertekend door al uw adressen die fondsen bevatten"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
