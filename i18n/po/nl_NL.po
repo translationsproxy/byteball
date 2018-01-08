@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-07 17:52-0500\n"
+"PO-Revision-Date: 2018-01-08 14:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr "(De site kan uw saldo niet zien en er zal geen geld kunnen uitgegeven worden)"
+msgstr "(De site kan uw saldo niet zien en er zal geen geld uitgegeven kunnen worden)"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
