@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 17:00-0500\n"
+"PO-Revision-Date: 2018-01-08 17:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1724,7 +1724,7 @@ msgstr "als een gebeurtenis door een orakel gepost wordt"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
-msgstr "in merkte tree"
+msgstr "in de merkte tree"
 
 #: public/views/walletHome.html:153
 msgid "in smart wallets"
@@ -1762,7 +1762,7 @@ msgstr "wederpartij betaalt"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
-msgstr "geplaatst"
+msgstr "gepost"
 
 #: public/views/modals/tx-details.html:142
 msgid "re-send private payloads"
@@ -1785,7 +1785,7 @@ msgstr "verstuur e-mail"
 #: src/js/controllers/walletHome.js:942
 #: src/js/controllers/walletHome.js:981
 msgid "sending"
-msgstr "verzenden"
+msgstr "bezig met versturen"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
@@ -1793,7 +1793,7 @@ msgstr "opnieuw delen"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
-msgstr "naar"
+msgstr "aan"
 
 #: public/views/walletHome.html:432
 #: public/views/walletHome.html:443
@@ -1827,7 +1827,7 @@ msgstr "{{cancel_label || 'Annuleer'}}"
 
 #: src/js/controllers/walletHome.js:1662
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr "{{fee}} zullen worden afgehouden als kosten voor het bitcoin netwerk"
+msgstr "{{fee}} zullen worden ingehouden als kosten voor het bitcoin netwerk"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
