@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 15:31-0500\n"
+"PO-Revision-Date: 2018-01-08 15:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,7 +23,7 @@ msgstr "(mogelijk dubbel besteed)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr "--Selecteer een mede-ondertekenaar--"
+msgstr "--Selecteer een medeondertekenaar--"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
@@ -38,7 +38,7 @@ msgstr "Over Byteball"
 #: src/js/controllers/walletHome.js:121
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr "Accepteer"
+msgstr "Accepteren"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
@@ -46,7 +46,7 @@ msgstr "Uitnodiging accepteren"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr "Aanvaard de uitnodiging van het andere toestel"
+msgstr "Accepteer de uitnodiging van het andere toestel"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
@@ -63,11 +63,11 @@ msgstr "Nieuw apparaat toevoegen"
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr "Voeg een nieuw entry toe"
+msgstr "Nieuwe entry toevoegen"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
-msgstr "Veld toevoegen"
+msgstr "Velden toevoegen"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -126,7 +126,7 @@ msgstr "Onder instellingen kun je opties vinden zoals het instellen van een wach
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr "Vergeet ook niet de stam te verwijderen"
+msgstr "Vergeet ook niet de seed te verwijderen"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -147,12 +147,12 @@ msgstr "Bevestig de aanmaak van de portefeuille op de andere toestellen"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr "Wil u de backup-woorden verwijderen?"
+msgstr "Weet u zeker dat u de backup-woorden wilt verwijderen?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr "Wil u deze portefeuille verwijderen?"
+msgstr "Weet u zeker dat u deze portefeuille wilt verwijderen?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
@@ -1759,7 +1759,7 @@ msgstr "of backup alle Byteball data op"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr ""
+msgstr "wederpartij betaalt"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
@@ -1767,15 +1767,15 @@ msgstr "geplaatst"
 
 #: public/views/modals/tx-details.html:142
 msgid "re-send private payloads"
-msgstr ""
+msgstr "private transacties opnieuw verzenden"
 
 #: public/views/modals/tx-details.html:145
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "private transacties opnieuw verzenden naar medeondertekenaars"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "verstuur e-mail"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1790,7 +1790,7 @@ msgstr "verzenden"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "opnieuw delen"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
@@ -1824,7 +1824,7 @@ msgstr ""
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
-msgstr ""
+msgstr "{{cancel_label || 'Annuleer'}}"
 
 #: src/js/controllers/walletHome.js:1662
 msgid "{{fee}} will be deducted for bitcoin networking fees"
@@ -1832,18 +1832,18 @@ msgstr "{{fee}} zullen worden afgehouden als kosten voor het bitcoin netwerk"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "{{hrd.destinationAddress}} kan uitgegeven worden als:"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
 msgid "{{index.m}}-of-{{index.n}}"
-msgstr ""
+msgstr "{{index.m}}-van-{{index.n}}"
 
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr ""
+msgstr "{{item.m}}-van-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'Aan':'Uit'}}"
 
