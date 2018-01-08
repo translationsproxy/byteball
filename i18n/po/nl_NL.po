@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 16:31-0500\n"
+"PO-Revision-Date: 2018-01-08 16:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1013,11 +1013,11 @@ msgstr "Profiel"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
-msgstr "QR Code"
+msgstr "QR-code"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr "QR-Scanner"
+msgstr "QR-scanner"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
@@ -1038,7 +1038,7 @@ msgstr "Ontvangers"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
-msgstr "Opnieuw verbinden met portemonnee Service..."
+msgstr "Opnieuw verbinden met portefeuille service..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
@@ -1046,7 +1046,7 @@ msgstr "Herstellen"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr "Herstellen met sleutel"
+msgstr "Herstellen met seed"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1075,11 +1075,11 @@ msgstr "Naam wijzigen:"
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr "Herhaal paswoord"
+msgstr "Herhaal wachtwoord"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr "Herhaal het paswoord"
+msgstr "Herhaal het wachtwoord"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
@@ -1087,7 +1087,7 @@ msgstr "Vervang"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr "Paswoord opvragen"
+msgstr "Wachtwoord opvragen"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:297
@@ -1096,7 +1096,7 @@ msgstr "Opvragen van een bepaald bedrag"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr "Betaling opvragen"
+msgstr "Betaling verzoeken"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
@@ -1108,7 +1108,7 @@ msgstr "Terugplaatsen vanaf volledige backup"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr "Opnieuw…"
+msgstr "Opnieuw proberen..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1123,11 +1123,11 @@ msgstr "INSTELLEN"
 #: public/views/preferencesHub.html:18
 #: public/views/preferencesTor.html:19
 msgid "Save"
-msgstr "Bewaar"
+msgstr "Opslaan"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
-msgstr "Voorkeuren opslaan..."
+msgstr "Voorkeuren aan het opslaan..."
 
 #: public/views/preferences.html:66
 msgid "Scan Fingerprint"
@@ -1135,15 +1135,15 @@ msgstr "Scan vingerafdruk"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr "Scan portefeuillebedragen"
+msgstr "Scan saldo van portefeuille"
 
 #: public/views/walletHome.html:120
 msgid "Scan status finished with error"
-msgstr "Scan beeïndigd met fout"
+msgstr "Scan beëïndigd met fout"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr "Scan de bovenstaande QR code met het andere toestel, of stuur deze koppelcode naar het andere toestel:"
+msgstr "Scan de bovenstaande QR-code met het andere appara of stuur deze koppelingscode naar het andere toestel:"
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
@@ -1151,7 +1151,7 @@ msgstr "Scan uw vingerafdruk a.u.b."
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
-msgstr "Portemonnee inhoud scannen..."
+msgstr "Bezig met het scannen van het saldo van de portefeuille..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
@@ -1159,7 +1159,7 @@ msgstr "Bezig met het scannen van de adressen..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
-msgstr "Saldo scannen..."
+msgstr "Bezig met het scannen van het saldo van de portefeuille..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1190,7 +1190,7 @@ msgstr "Verstuur betaling"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr "Verstuur adressen met e-mail"
+msgstr "Verstuur adressen per e-mail"
 
 #: public/views/walletHome.html:368
 msgid "Send all"
@@ -1198,7 +1198,7 @@ msgstr "Alles verzenden"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
-msgstr "Verstuur met e-mail"
+msgstr "Verstuur per e-mail"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
@@ -1206,11 +1206,11 @@ msgstr "Bezig met het versturen van bedragen..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
-msgstr "Verzenden..."
+msgstr "Bezig met verzenden..."
 
 #: public/views/walletHome.html:619
 msgid "Sent"
-msgstr "Verstuur"
+msgstr "Verstuurd"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
@@ -1222,7 +1222,7 @@ msgstr "Maak een wachtwoord aan"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr "Maak een paswoord aan"
+msgstr "Maak een wachtwoord aan"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
