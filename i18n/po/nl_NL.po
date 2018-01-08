@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 16:00-0500\n"
+"PO-Revision-Date: 2018-01-08 16:12-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -444,7 +444,7 @@ msgstr "Maak een nieuwe portefeuille samen met ?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr "Maak een {{requiredCosigners}}-uit-{{totalCosigners}} portefeuille"
+msgstr "Maak een {{requiredCosigners}}-van-{{totalCosigners}} portefeuille"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -452,7 +452,7 @@ msgstr "Aangemaakt:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr "Profile wordt aangemaakt…"
+msgstr "Profiel wordt aangemaakt..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
@@ -464,7 +464,7 @@ msgstr "VERWIJDER WOORDEN"
 
 #: public/views/walletHome.html:335
 msgid "Data"
-msgstr "Data"
+msgstr "Gegevens"
 
 #: public/views/walletHome.html:332
 msgid "Data into datafeed"
@@ -480,7 +480,7 @@ msgstr "Afgewezen"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr "Het ontcijferen van de (papier) portefeuille zal op dit toestel ongeveer 5 minuten duren.  Wees geduldig en laat de toepassing open."
+msgstr "Het ontcijferen van de papieren portefeuille zal op dit apparaat ongeveer 5 minuten duren. Heeft u even geduld en laat de toepassing open."
 
 #: public/views/walletHome.html:179
 msgid "Definition"
@@ -488,7 +488,7 @@ msgstr "Definitie"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
-msgstr "Definitie van een slim adres"
+msgstr "Definitie van een smart adres"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
@@ -514,41 +514,41 @@ msgstr "Details"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Device address"
-msgstr "Adres van het toestel"
+msgstr "Adres van het apparaat"
 
 #: public/views/preferencesDeviceName.html:12
 #: public/views/preferencesGlobal.html:17
 msgid "Device name"
-msgstr "Naam van het toestel"
+msgstr "Naam van het apparaat"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr "De naam van het toestel is zichtbaar voor de andere toestellen waarmee u communiceert."
+msgstr "De naam van het apparaatl is zichtbaar voor de andere apparaten waarmee u communiceert."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr "Clone nooit een wallet maar stop met het gebruiken van de originele wallet met deze seed."
+msgstr "Clone nooit een wallet. Stop met het gebruiken van deze seed in de originele portefeuille."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr "Gebruik het niet om de portemonaie te kopieren."
+msgstr "Gebruik het niet om de portefeuille te kopiëren."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr "Is uw taal niet zichtbaar op Crowdin?  Neem contact op met de eigenaar van Crowdin!  Wij willen graag uw taal toevoegen."
+msgstr "Is uw taal niet zichtbaar op Crowdin? Neem contact op met de eigenaar van Crowdin! Wij willen graag uw taal toevoegen."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr "Beeindigd"
+msgstr "Klaar"
 
 #: public/views/walletHome.html:678
 msgid "Download CSV file"
-msgstr "Download CSV bestand"
+msgstr "Download CSV-bestand"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr "Byteball-database downloaden"
+msgstr "Gehele Byteball-database downloaden"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -565,15 +565,15 @@ msgstr "E-mail voor portefeuille-meldingen"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr "Exporteren is succesvol beeindigd"
+msgstr "Push-notificaties inschakelen"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr "Geef de ontvangen koppelcode van het andere toestel in, of gebruik uw camera (icoon  boven in rechter hoek) om de QR code die op het andere toestel getoond wordt, te scannen."
+msgstr "Geef de ontvangen koppelingscode van het andere apparaat in, of gebruik uw camera (icoon bovenin rechter hoek) om de QR-code die op het andere apparaat getoond wordt te scannen."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr "Vul paswoord in"
+msgstr "Vul wachtwoord in"
 
 #: src/js/services/profileService.js:323
 #: src/js/services/profileService.js:374
@@ -587,7 +587,7 @@ msgstr "Exporteren"
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
 msgid "Export completed successfully"
-msgstr "Het exporteren is succesvol beeindigd"
+msgstr "Het exporteren is succesvol voltooid"
 
 #: public/views/export.html:19
 msgid "Exporting..."
@@ -603,7 +603,7 @@ msgstr "Exporteren is mislukt"
 
 #: public/views/modals/tx-details.html:92
 msgid "Fee"
-msgstr "Kost"
+msgstr "Transactiekosten"
 
 #: public/views/modals/tx-details.html:110
 msgid "Finality"
@@ -627,7 +627,7 @@ msgstr "Gevonden bedragen"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr "De fondsen zullen overgemaakt worden aan"
+msgstr "De bedragen zullen overgemaakt worden aan"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
@@ -635,11 +635,11 @@ msgstr "START"
 
 #: src/js/controllers/walletHome.js:418
 msgid "Generate QR Code"
-msgstr "QR code genereren"
+msgstr "QR-code aanmaken"
 
 #: public/views/walletHome.html:288
 msgid "Generate new address"
-msgstr "Genereer een nieuw adres"
+msgstr "Nieuw adres aanmaken"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
