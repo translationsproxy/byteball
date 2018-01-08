@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2017-12-25 11:32-0500\n"
+"PO-Revision-Date: 2018-01-08 09:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,11 +23,11 @@ msgstr "(possibile doppia spesa)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- Seleziona co-firmatario --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 parole separate da trattini"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -54,7 +54,7 @@ msgstr "Account"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Aggiungi Bot"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
@@ -67,7 +67,7 @@ msgstr "Aggiungi una nuova voce"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
-msgstr ""
+msgstr "Aggiungi campi"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -75,7 +75,7 @@ msgstr "Aggiungi un portafoglio"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "Aggiunto"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
@@ -85,7 +85,7 @@ msgstr "Indirizzo"
 
 #: public/views/walletHome.html:507
 msgid "Address to attest"
-msgstr ""
+msgstr "Indirizzo da attestare"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -122,11 +122,11 @@ msgstr "Anche"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "Inoltre nel menu impostazioni, troverete le opzioni di sicurezza tra cui l'impostazione di una password."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Inoltre, non dimenticare di cancellare il tuo \"seed\""
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -139,7 +139,7 @@ msgstr "Importo"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "Risposte:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
