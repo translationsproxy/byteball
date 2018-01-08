@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 15:41-0500\n"
+"PO-Revision-Date: 2018-01-08 15:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -94,7 +94,7 @@ msgstr "Adresboek"
 
 #: public/views/preferences.html:56
 msgid "Advanced"
-msgstr "Gevorderd"
+msgstr "Geavanceerd"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -110,7 +110,7 @@ msgstr "Alle portefeuille adressen"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr "Alle bijdrages aan de vertaling van Byteball zijn welkom. Meld u aan bij crowdin.com en sluit u aan bij het Byteball project"
+msgstr "Alle bijdrages aan de vertaling van Byteball zijn welkom. Meldt u aan bij crowdin.com en sluit u aan bij het Byteball project"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -122,7 +122,7 @@ msgstr "Ook"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr "Onder instellingen kun je opties vinden zoals het instellen van een wachtwoord."
+msgstr "Verder kunt u in het intellingen menu opties vinden zoals het instellen van een wachtwoord."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -156,7 +156,7 @@ msgstr "Weet u zeker dat u deze portefeuille wilt verwijderen?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr "Bezitting"
+msgstr "Asset"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
@@ -164,7 +164,7 @@ msgstr "Bevestig de profiel gegevens die aan het Byteball adres zijn gekoppeld."
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
-msgstr "Bevestiging"
+msgstr "Attest"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -196,7 +196,7 @@ msgstr "Maak een backup"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "Sleutel van portefeuille voor backup"
+msgstr "Maak een backup van de seed van de portefeuille"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -208,7 +208,7 @@ msgstr "Saldo per adres"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "Voor het ontvangen van het geld is het uiterst aanbevolen om uw portemonaie keys te kopieren."
+msgstr "Voordat u geld ontvangt, wordt dringend aangeraden om een backup te maken van de sleutels van uw portefeuille."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -222,7 +222,7 @@ msgstr "Koppel betaling"
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
 msgid "Bind the payment to a condition"
-msgstr "Koppel de betaling aan een conditie"
+msgstr "Koppel de betaling aan een voorwaarde"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -230,7 +230,7 @@ msgstr "Bitcoin URI is NIET geldig!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr "Bot winkel"
+msgstr "Bot store"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -280,7 +280,7 @@ msgstr "Bestand kiezen"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr "Kies het toestel waarnaar je wil sturen"
+msgstr "Kies het toestel waarnaar u wilt sturen"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
@@ -296,13 +296,13 @@ msgstr "Eis een bedrag op door middel van textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr "Klik om <span ng-if=\"isResend\">nogmaals</span>email te verzenden\n"
+msgstr "Klik om <span ng-if=\"isResend\">nogmaals</span>e-mail te verzenden\n"
 " \n"
 "Context | Request Context"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr "Klik hier om een betaling te creëren en te delen via private message in chat apps"
+msgstr "Klik hier om een betaling te creëren en te delen via private message in chat-apps"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -324,7 +324,7 @@ msgstr "Afsluiten"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
-msgstr "Mede-ondertekenaar"
+msgstr "Medeondertekenaar {{$index+1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
