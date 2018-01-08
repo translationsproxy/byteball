@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 15:51-0500\n"
+"PO-Revision-Date: 2018-01-08 16:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -328,11 +328,11 @@ msgstr "Medeondertekenaar {{$index+1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr "Mede-ondertekenaars"
+msgstr "Medeondertekenaars"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr "Mede-ondertekenaars voor multisig"
+msgstr "Medeondertekenaars voor multisig"
 
 #: public/views/preferences.html:29
 msgid "Color"
@@ -340,11 +340,11 @@ msgstr "Kleur"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr "Hash toevoegen"
+msgstr "Hash van de commit"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
-msgstr "Het bestand verkleinen? (trager)"
+msgstr "Het bestand comprimeren? (langzamer)"
 
 #: src/js/controllers/copayers.js:10
 #: src/js/controllers/index.js:459
@@ -352,7 +352,7 @@ msgstr "Het bestand verkleinen? (trager)"
 #: src/js/controllers/walletHome.js:123
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
-msgstr "Bevestig"
+msgstr "Bevestigen"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
@@ -377,11 +377,11 @@ msgstr "Contacten"
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:389
 msgid "Copied to clipboard"
-msgstr "Gekopieerd naar klipbord"
+msgstr "Gekopieerd naar klembord"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr "Correspondenten zijn niet teruggeplaatst."
+msgstr "Chatdeelnemers zijn niet teruggeplaatst."
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not create payment proposal"
@@ -389,15 +389,15 @@ msgstr "Betalingsvoorstel werd niet gecreeerd"
 
 #: src/js/services/profileService.js:265
 msgid "Could not create using the specified extended private key"
-msgstr "Aanmaken is niet mogelijk met deze uitgebreide private sleutel"
+msgstr "Aanmaken met de gespecificeerde uitgebreide private sleutel is niet mogelijk"
 
 #: src/js/services/profileService.js:275
 msgid "Could not create using the specified extended public key"
-msgstr "Aanmaken is niet mogelijk met deze uitgebreide publieke sleutel"
+msgstr "Aanmaken met de gespecificeerde uitgebreide publieke sleutel is niet mogelijk"
 
 #: src/js/services/profileService.js:258
 msgid "Could not create: Invalid wallet seed"
-msgstr "Creatie mislukt: Ongeldig portefeuille seed"
+msgstr "Creatie mislukt: ongeldige seed"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
@@ -405,7 +405,7 @@ msgstr "Ontcijferen is mislukt"
 
 #: public/views/walletHome.html:583
 msgid "Could not fetch transaction history"
-msgstr "De transactiehistoriek kon niet opgehaald worden"
+msgstr "De transactiegeschiedenis kon niet opgehaald worden"
 
 #: src/js/services/profileService.js:490
 #: src/js/services/profileService.js:517
@@ -415,7 +415,7 @@ msgstr "Importeren is mislukt"
 
 #: src/js/services/profileService.js:467
 msgid "Could not import. Check input file and password"
-msgstr "Importeren is mislukt. Controleer het input bestand en het paswoord"
+msgstr "Importeren is mislukt. Controleer het input bestand en het wachtwoord"
 
 #: src/js/controllers/walletHome.js:51
 msgid "Could not recognize a valid Byteball QR Code"
