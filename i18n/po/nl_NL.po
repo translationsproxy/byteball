@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 15:21-0500\n"
+"PO-Revision-Date: 2018-01-08 15:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1496,7 +1496,7 @@ msgstr "Upgrade naar {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "Databases aan het upgraden, heeft u even geduld. Dit kan soms enkele minuten duren."
 
 #: public/views/walletHome.html:522
 msgid "Values"
@@ -1583,7 +1583,7 @@ msgstr "Waarschuwing!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "Reeds geclaimd?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
@@ -1621,7 +1621,7 @@ msgstr "Ja"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "U kunt uw transactie niet verbinden aan een terugbetaling, aangezien u een één adres wallet gebruik. Gebruik een wallet met meerdere adressen en zet uw fondsen over naar deze wallet."
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
@@ -1646,7 +1646,7 @@ msgstr "Uw bestand van de portefeuille"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr ""
+msgstr "Die sleutel van uw wallet zal worden versleuteld. Het wachtwoord kan niet hersteld worden, dus zorg dat u het ergens noteert"
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
@@ -1664,7 +1664,7 @@ msgstr "bedrag"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "een gebeurtenis wordt door een orakel gepost"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1680,7 +1680,7 @@ msgstr "Portefeuille maken annuleren"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "geclaimd door {{btx.claimedByMe?'me':'receiver'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1688,7 +1688,7 @@ msgstr "chatgeschiedenis verwijderen"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "kopieer de tekst hieronder en verstuur dat naar de ontvanger via een willekeurige messaging app, of print het op papier"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1700,11 +1700,11 @@ msgstr "dagen"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "bijvorbeeld 1-van-2-wallet met één sleutel op dit appraat en een andere sleutel op uw laptop."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "bijvoorbeeld 1-van-2-wallet met één sleutel op dit apparaat en een andere sleutel op uw smartphone."
 
 #: public/views/modals/bind.html:72
 msgid "either way"
@@ -1721,7 +1721,7 @@ msgstr "uren"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
-msgstr ""
+msgstr "als een gebeurtenis door een orakel gepost wordt"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
@@ -1737,12 +1737,12 @@ msgstr "Geblokkeerd door betalingen in uitvoering"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "niet geclaimd"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "op de feed met de naam"
 
 #: public/views/walletHome.html:431
 #: public/views/walletHome.html:442
@@ -1755,7 +1755,7 @@ msgstr "of"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "of backup alle Byteball data op"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
