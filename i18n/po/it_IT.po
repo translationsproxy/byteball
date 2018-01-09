@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-09 06:01-0500\n"
+"PO-Revision-Date: 2018-01-09 06:14-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -905,7 +905,7 @@ msgstr "Chiave privata del Paper Wallet"
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr ""
+msgstr "Frase segreta"
 
 #: src/js/services/profileService.js:654
 msgid "Password needed"
@@ -917,7 +917,7 @@ msgstr "Le passwords non corrispondono"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr ""
+msgstr "Incolla la chiave privata del tuo Paper Wallet qui"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
@@ -1133,7 +1133,7 @@ msgstr ""
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr ""
+msgstr "Scansione dei fondi del portafoglio"
 
 #: public/views/walletHome.html:120
 msgid "Scan status finished with error"
@@ -1157,7 +1157,7 @@ msgstr ""
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
-msgstr ""
+msgstr "Scansione dei fondi del portafoglio..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1303,7 +1303,7 @@ msgstr "Spazza il Portafoglio"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr ""
+msgstr "Spazza il Paper Wallet"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
@@ -1685,7 +1685,7 @@ msgstr ""
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "copia il testo qui sotto e invialo al destinatario tramite qualsiasi app di messaggistica o stampalo su carta"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
