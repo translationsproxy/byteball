@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-09 17:20-0500\n"
+"PO-Revision-Date: 2018-01-09 17:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -525,83 +525,83 @@ msgstr "Enheds-navn kan ses af andre enheder, du kommunikerer med."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Klon ikke wallets, stop med at bruge den oprindelige wallet med dette seed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Brug det ikke til at klone wallet."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr ""
+msgstr "Findes dit sprog ikke på Crowin? Kontakt ejeren på Crowdin! Vi vil hjertens gerne også understøtte dit sprog."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr ""
+msgstr "Udført"
 
 #: public/views/walletHome.html:678
 msgid "Download CSV file"
-msgstr ""
+msgstr "Download CSV-fil"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Download hele Byteball-databasen"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
-msgstr ""
+msgstr "Redigér"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr ""
+msgstr "Enten du eller {{correspondent.name}} har slået optagelse af chat-historik fra. Historik gemmes derfor ikke af nogen af parterne nu."
 
 #: public/views/preferencesEmail.html:33
 msgid "Email for wallet notifications"
-msgstr ""
+msgstr "Email til wallet-notifikationer"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr ""
+msgstr "Tillad push-notifikationer"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr ""
+msgstr "Angiv parringskode, modtaget fra den anden enhed eller brug dit kamera (ikonet øverst til højre) til at scanne QR-koden, fra den anden enhed."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr ""
+msgstr "Angiv adgangskode"
 
 #: src/js/services/profileService.js:323
 #: src/js/services/profileService.js:374
 msgid "Error creating wallet"
-msgstr ""
+msgstr "Fejl under oprettelse af wallet"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "Eksportér"
 
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
 msgid "Export completed successfully"
-msgstr ""
+msgstr "Eksport udført"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "Eksporterer..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr ""
+msgstr "Udvidede offentlige nøgler"
 
 #: public/views/export.html:25
 msgid "Failed to export"
-msgstr ""
+msgstr "Eksport mislykkedes"
 
 #: public/views/modals/tx-details.html:92
 msgid "Fee"
-msgstr ""
+msgstr "Gebyr"
 
 #: public/views/modals/tx-details.html:110
 msgid "Finality"
