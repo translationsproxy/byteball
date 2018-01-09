@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2017-12-25 11:31-0500\n"
+"PO-Revision-Date: 2018-01-09 14:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "-- Выберите совладельца --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 слов, разделённых пробелами"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -284,23 +284,23 @@ msgstr "Выберите устройство куда отправить"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "Запросить деньги"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Запросить деньги через textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Запросить деньги через textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "Нажмите для <span ng-if=\"isResend\">re</span>отправки email"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "Нажмите для создания платежа и передачи его через приватное сообщения в мессенджерах"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -883,7 +883,7 @@ msgstr "Открыть чат"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "Или"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1231,7 +1231,7 @@ msgstr "Настройки"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Отправить"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1244,7 +1244,7 @@ msgstr "Используйте этот адрес кошелька для по�
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Отправить через сообщение"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
@@ -1333,7 +1333,7 @@ msgstr "Текстовое сообщение"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1423,15 +1423,15 @@ msgstr "Чтобы привязать платеж к условию, клика
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "На адрес Byteball"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "На адрес Byteball или email"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "На email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1579,7 +1579,7 @@ msgstr "Внимание!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "Уже было запрошено?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
@@ -1676,7 +1676,7 @@ msgstr "отменить создание кошелька"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "запрошено через {{btx.claimedByMe?'me':'receiver'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1684,7 +1684,7 @@ msgstr "очистить историю чата"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "скопируйте текст ниже и отправьте его получателю через мессенджер или распечатайте"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
