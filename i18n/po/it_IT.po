@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-08 10:11-0500\n"
+"PO-Revision-Date: 2018-01-09 05:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -580,24 +580,24 @@ msgstr "Errore creazione portafoglio"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "Esporta"
 
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
 msgid "Export completed successfully"
-msgstr ""
+msgstr "Esportazione completata con successo"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "Esportazione in corso..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr ""
+msgstr "Chiave pubblica estesa"
 
 #: public/views/export.html:25
 msgid "Failed to export"
-msgstr ""
+msgstr "Esportazione non riuscita"
 
 #: public/views/modals/tx-details.html:92
 msgid "Fee"
@@ -605,7 +605,7 @@ msgstr "Tassa"
 
 #: public/views/modals/tx-details.html:110
 msgid "Finality"
-msgstr ""
+msgstr "Finalità"
 
 #: public/views/modals/tx-details.html:60
 msgid "From"
@@ -613,7 +613,7 @@ msgstr "Da"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
-msgstr ""
+msgstr "Indirizzo completo:"
 
 #: public/views/preferencesGlobal.html:118
 msgid "Full backup"
@@ -621,11 +621,11 @@ msgstr "Backup completo"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
-msgstr ""
+msgstr "Fondi trovati"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr ""
+msgstr "I fondi saranno trasferiti a"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
@@ -633,7 +633,7 @@ msgstr "INIZIA"
 
 #: src/js/controllers/walletHome.js:418
 msgid "Generate QR Code"
-msgstr ""
+msgstr "Genera un codice QR"
 
 #: public/views/walletHome.html:288
 msgid "Generate new address"
@@ -649,7 +649,7 @@ msgstr "Ottengo l'indirizzo per il portafoglio {{selectedWalletName}}..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "Preferenze globali"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
@@ -657,11 +657,11 @@ msgstr "Indietro"
 
 #: public/views/preferences.html:48
 msgid "Hardware wallet"
-msgstr ""
+msgstr "Portafoglio hardware"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr ""
+msgstr "Nascondi il seed del portafoglio"
 
 #: src/js/controllers/index.js:618
 msgid "History"
@@ -681,7 +681,7 @@ msgstr "Hub"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr ""
+msgstr "URL dell'Hub"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
@@ -689,19 +689,19 @@ msgstr "Affermo di aver letto, compreso e accettato questi termini."
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "Pago"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Ricevo un altro pagamento di"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "Se la condizione non è soddisfatta, posso riprendere questi soldi"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Se il peer non paga, posso riprendere i miei soldi"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
