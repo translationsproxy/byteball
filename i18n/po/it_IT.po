@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-09 05:40-0500\n"
+"PO-Revision-Date: 2018-01-09 05:52-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1726,7 +1726,7 @@ msgstr "nel merkle tree"
 
 #: public/views/walletHome.html:153
 msgid "in smart wallets"
-msgstr ""
+msgstr "negli smart wallet"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -1739,7 +1739,7 @@ msgstr "non rivendicato"
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "sul nome del feed"
 
 #: public/views/walletHome.html:431
 #: public/views/walletHome.html:442
