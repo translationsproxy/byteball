@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-09 17:30-0500\n"
+"PO-Revision-Date: 2018-01-09 17:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -605,71 +605,71 @@ msgstr "Gebyr"
 
 #: public/views/modals/tx-details.html:110
 msgid "Finality"
-msgstr ""
+msgstr "Afslutning"
 
 #: public/views/modals/tx-details.html:60
 msgid "From"
-msgstr ""
+msgstr "Fra"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
-msgstr ""
+msgstr "Fuld adresse:"
 
 #: public/views/preferencesGlobal.html:118
 msgid "Full backup"
-msgstr ""
+msgstr "Fuld sikkerhedskopi"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
-msgstr ""
+msgstr "Beløb fundet"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr ""
+msgstr "Beløb overføres til"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
-msgstr ""
+msgstr "KOM I GANG"
 
 #: src/js/controllers/walletHome.js:418
 msgid "Generate QR Code"
-msgstr ""
+msgstr "Generér QR-kode"
 
 #: public/views/walletHome.html:288
 msgid "Generate new address"
-msgstr ""
+msgstr "Generér ny adresse"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
-msgstr ""
+msgstr "Genererer .csv-fil..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
-msgstr ""
+msgstr "Henter adresse for wallet {{selectedWalletName}} ..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "Generelle indstillinger"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
-msgstr ""
+msgstr "Gå tilbage"
 
 #: public/views/preferences.html:48
 msgid "Hardware wallet"
-msgstr ""
+msgstr "Hardware wallet"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr ""
+msgstr "Skjul wallet-seed"
 
 #: src/js/controllers/index.js:618
 msgid "History"
-msgstr ""
+msgstr "Historik"
 
 #: src/js/controllers/index.js:606
 msgid "Home"
-msgstr ""
+msgstr "Hjem"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
@@ -887,48 +887,48 @@ msgstr ""
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr ""
+msgstr "Par"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr ""
+msgstr "Parrede enheder"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Parringskode"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr ""
+msgstr "Papir-wallet privat nøgle"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr ""
+msgstr "Adgangskode"
 
 #: src/js/services/profileService.js:654
 msgid "Password needed"
-msgstr ""
+msgstr "Adgangskode påkrævet"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Adgangskoderne er forskellige"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr ""
+msgstr "Indsæt din papir-wallets private nøgle her"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr ""
+msgstr "Betal og tilbyd"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
-msgstr ""
+msgstr "Betal til denne adresse"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr ""
+msgstr "Betaling accepteret"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
