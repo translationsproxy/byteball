@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-09 05:52-0500\n"
+"PO-Revision-Date: 2018-01-09 06:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -478,7 +478,7 @@ msgstr "Rifiutato"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr "Decodificare un portafoglio cartaceo potrebbe richiedere circa 5 minuti su questo dispositivo. Attendi pazientemente e tieni l'applicazione aperta."
+msgstr "Decodificare un Paper Wallet potrebbe richiedere circa 5 minuti su questo dispositivo. Attendi pazientemente e tieni l'applicazione aperta."
 
 #: public/views/walletHome.html:179
 msgid "Definition"
@@ -880,7 +880,7 @@ msgstr ""
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Apri chat"
 
 #: public/views/modals/share.html:23
 msgid "Or"
@@ -892,15 +892,15 @@ msgstr ""
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr ""
+msgstr "Dispositivi abbinati"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Codice di abbinamento"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr ""
+msgstr "Chiave privata del Paper Wallet"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
@@ -1299,7 +1299,7 @@ msgstr "Completato"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr ""
+msgstr "Spazza il Portafoglio"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
