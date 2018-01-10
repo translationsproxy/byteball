@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-09 19:50-0500\n"
+"PO-Revision-Date: 2018-01-09 20:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -143,7 +143,7 @@ msgstr "Odpověď:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr ""
+msgstr "Schválit vytvoření peněženky v jiných zařízeních"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
