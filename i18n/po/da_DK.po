@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-10 17:40-0500\n"
+"PO-Revision-Date: 2018-01-10 18:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -705,27 +705,27 @@ msgstr "Hvis modparten ikke betaler, kan jeg tage mine penge tilbage efter"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Hvis du har hentet denne sikkerhedskopi fra en anden enhed, skal du stoppe med at bruge den på den oprindelige enhed med det samme du har lavet sikkerhedskopien. Du må aldrig klone wallets. Hvis du har behov for adgang fra flere enheder, skal du bruge en multisignatur-wallet."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Hvis du vil gendanne din wallet på en anden enhed, skal du stoppe med at bruge den på den nuværende enhed med det samme, du har oprettet sikkerhedskopien. Du må aldrig klone wallets. Hvis du har behov for adgang fra flere enheder, skal du bruge en multisignatur-wallet."
 
 #: public/views/import.html:40
 msgid "Import"
-msgstr ""
+msgstr "Importér"
 
 #: public/views/add.html:22
 msgid "Import wallet"
-msgstr ""
+msgstr "Importér wallet"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr ""
+msgstr "Importerer wallet..."
 
 #: public/views/walletHome.html:133
 msgid "Including pending confirmation"
-msgstr ""
+msgstr "Inklusiv afventende bekræftelse"
 
 #: public/views/walletHome.html:602
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
