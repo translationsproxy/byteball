@@ -11,15 +11,15 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-09 18:10-0500\n"
+"PO-Revision-Date: 2018-01-09 19:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr ""
+msgstr "(Na síti nebude vidět zůstatek a žádné peníze nebudou utraceny)"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
-msgstr ""
+msgstr "(pravděpodobně dvojitá platba)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
