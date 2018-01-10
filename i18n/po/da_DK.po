@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-10 17:30-0500\n"
+"PO-Revision-Date: 2018-01-10 17:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -156,7 +156,7 @@ msgstr "Er du sikker på du vil slette denne wallet?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr "Aktiv"
+msgstr "Møntfod"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
@@ -192,11 +192,11 @@ msgstr "Tilbage"
 
 #: public/views/walletHome.html:232
 msgid "Backup now"
-msgstr "Sikkerhedskopier nu"
+msgstr "Sikkerhedskopiér nu"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "Sikkerhedskopier wallet-seed"
+msgstr "Sikkerhedskopiér wallet-seed"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -226,7 +226,7 @@ msgstr "Beting betaling af begivenhed"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr "Bitcoin URI er ikke gyldig!"
+msgstr "Bitcoin URI er ugyldig!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
@@ -234,7 +234,7 @@ msgstr "Bot store"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr "Både du og {{correspondent.name}} slog lokal optagelse af chat-historie til."
+msgstr "Både du og {{correspondent.name}} slog lokal optagelse af chat-historik til."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -673,35 +673,35 @@ msgstr "Hjem"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr ""
+msgstr "Host"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr ""
+msgstr "Hub"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr ""
+msgstr "Hub URL"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
-msgstr ""
+msgstr "Jeg bekræfter at jeg har læst og er indforstået med disse betingelser."
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "Jeg betaler"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Jeg modtager en anden betaling af"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "Hvis betingelsen ikke er opfyldt, kan jeg kræve pengene tilbage efter"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Hvis modparten ikke betaler, kan jeg tage mine penge tilbage efter"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
