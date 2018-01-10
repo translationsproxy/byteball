@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-10 15:30-0500\n"
+"PO-Revision-Date: 2018-01-10 15:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -438,7 +438,7 @@ msgstr "Vytvořit novou peněženku"
 
 #: src/js/controllers/index.js:286
 msgid "Create new wallet  together with  ?"
-msgstr ""
+msgstr "Vytvořit novou peněženku spolu s?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
@@ -446,23 +446,23 @@ msgstr ""
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr ""
+msgstr "Vytvořeno:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr ""
+msgstr "Vytváření profilu..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr ""
+msgstr "Vytváření peněženky..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr ""
+msgstr "ODSTRANĚNÍ SLOV"
 
 #: public/views/walletHome.html:335
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: public/views/walletHome.html:332
 msgid "Data into datafeed"
@@ -470,11 +470,11 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:85
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: src/js/controllers/index.js:256
 msgid "Declined"
-msgstr ""
+msgstr "Odmítnuto"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
