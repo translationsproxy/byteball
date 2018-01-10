@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-10 16:50-0500\n"
+"PO-Revision-Date: 2018-01-10 17:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1455,93 +1455,93 @@ msgstr "Transaktioner<br>Hentet"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
-msgstr ""
+msgstr "Oversættelse"
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
-msgstr ""
+msgstr "Oversættere"
 
 #: src/js/controllers/walletHome.js:774
 msgid "Unable to send transaction proposal"
-msgstr ""
+msgstr "Kunne ikke sende transaktions-anmodning"
 
 #: public/views/modals/tx-details.html:112
 #: public/views/walletHome.html:639
 msgid "Unconfirmed"
-msgstr ""
+msgstr "Ubekræftet"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr ""
+msgstr "Enhed for blackbytes"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr ""
+msgstr "Enhed for bytes"
 
 #: public/views/walletHome.html:197
 msgid "Unsent transactions"
-msgstr ""
+msgstr "Usendte transaktioner"
 
 #: public/views/walletHome.html:73
 msgid "Updating Wallet..."
-msgstr ""
+msgstr "Opdaterer wallet..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
-msgstr ""
+msgstr "Opgrader til {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "Opgraderer databasen, vent venligst. Det kan tage flere minutter."
 
 #: public/views/walletHome.html:522
 msgid "Values"
-msgstr ""
+msgstr "Værdier"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "ADVARSEL:"
 
 #: public/views/walletHome.html:222
 msgid "WARNING: Backup needed"
-msgstr ""
+msgstr "ADVARSEL: Sikkerhedskopiering nødvendig"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr ""
+msgstr "ADVARSEL: Dette seed blev oprettet med en adgangskode. For at gendanne denne wallet, skal både huskeregel og adgangskode bruges."
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
 msgid "WARNINGS:"
-msgstr ""
+msgstr "ADVARSLER:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO BYTEBALL"
-msgstr ""
+msgstr "VELKOMMEN TIL BYTEBALL"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
-msgstr ""
+msgstr "Afventer medunderskrivere"
 
 #: public/views/copayers.html:33
 msgid "Waiting..."
-msgstr ""
+msgstr "Venter..."
 
 #: public/views/preferencesDeleteWallet.html:12
 msgid "Wallet"
-msgstr ""
+msgstr "Wallet"
 
 #: public/views/preferences.html:20
 msgid "Wallet Alias"
-msgstr ""
+msgstr "Wallet-alias"
 
 #: public/views/preferencesInformation.html:27
 msgid "Wallet Configuration (m-n)"
-msgstr ""
+msgstr "Wallet-konfiguration (m-n)"
 
 #: public/views/preferencesInformation.html:20
 msgid "Wallet Id"
