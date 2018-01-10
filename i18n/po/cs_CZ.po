@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-09 20:20-0500\n"
+"PO-Revision-Date: 2018-01-09 20:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -147,36 +147,36 @@ msgstr "Schválit vytvoření peněženky v jiných zařízeních"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr ""
+msgstr "Opravdu si přejete odstranit zálohu zdrojových slov?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr ""
+msgstr "Opravdu si přejete odstranit tuto peněženku?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr ""
+msgstr "Majetek"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Potvrzení profilu dat propojených s libovolnou adresou Byteball."
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
-msgstr ""
+msgstr "Potvrzení"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "Automatická aktualizace seznamu svědků z hubu"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "Automatická aktualizace seznamu svědků z hubu"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr ""
+msgstr "Dostupný zůstatek"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -188,11 +188,11 @@ msgstr ""
 #: public/views/modals/destination-address.html:9
 #: public/views/modals/tx-details.html:5
 msgid "Back"
-msgstr ""
+msgstr "Zpět"
 
 #: public/views/walletHome.html:232
 msgid "Backup now"
-msgstr ""
+msgstr "Vytvořit zálohu"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
