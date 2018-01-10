@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-01-10 18:30-0500\n"
+"PO-Revision-Date: 2018-01-10 18:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -230,7 +230,7 @@ msgstr "Bitcoin URI não é válido!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr ""
+msgstr "Loja de bot"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -284,7 +284,7 @@ msgstr "Escolher dispositivo para envio"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "Coletar fundos"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
@@ -354,7 +354,7 @@ msgstr "Confirmar"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr ""
+msgstr "Confirmar voto"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -370,7 +370,7 @@ msgstr "Confirmado"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr ""
+msgstr "Contatos"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:389
@@ -462,7 +462,7 @@ msgstr "APAGAR PALAVRAS"
 
 #: public/views/walletHome.html:335
 msgid "Data"
-msgstr ""
+msgstr "Dados"
 
 #: public/views/walletHome.html:332
 msgid "Data into datafeed"
@@ -677,7 +677,7 @@ msgstr "Anfitrião"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr ""
+msgstr "Plataforma"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
@@ -689,11 +689,11 @@ msgstr "Afirmo que li, compreendi e concordo comos termos."
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "Eu pago"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Recebo outro pagamento de"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
@@ -921,11 +921,11 @@ msgstr "Cole a sua chave privada de carteira impressa aqui"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr ""
+msgstr "Pagamento e oferta"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
-msgstr ""
+msgstr "Pagar para este endereço"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
@@ -973,7 +973,7 @@ msgstr "Nomeie este dispositivo"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr ""
+msgstr "Porto"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
