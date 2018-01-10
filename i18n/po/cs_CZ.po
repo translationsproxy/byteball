@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-09 20:50-0500\n"
+"PO-Revision-Date: 2018-01-10 15:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -296,11 +296,11 @@ msgstr "Vybrat prostředky pomocí textcoinu"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr "Klepněte na tlačítko <span ng-if=\"isResend\"> znovu</span> odeslat e-mail"
+msgstr "Klikněte na tlačítko <span ng-if=\"isResend\"> znovu</span> odeslat e-mail"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "Kliknutím na toto tlačítko vytvoříte platbu a sdílíte ji přes soukromou zprávu v chatu aplikace"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -318,7 +318,7 @@ msgstr ""
 #: public/views/modals/share.html:4
 #: public/views/modals/vote.html:4
 msgid "Close"
-msgstr ""
+msgstr "Zavřit"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
