@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-10 18:20-0500\n"
+"PO-Revision-Date: 2018-01-10 18:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -876,15 +876,15 @@ msgstr "Når du har skrevet dit wallet-seed ned, anbefales det at du sletter det
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr ""
+msgstr "Kun enkeltsignatur-wallets kan gendannes."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Åbn chat"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "Eller"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1647,33 +1647,33 @@ msgstr "Din wallet-nøgle bliver krypteret. Adgangskoden kan ikke gendannes, så
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "Din wallet vil blive oprettet på denne enhed, så sørg for at passe på den. Se muligheder for sikkerhedskopiering i menuen Indstillinger."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[ Tilføj ny medunderskriver-enhed ]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
 msgid "amount"
-msgstr ""
+msgstr "beløb"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "en begivenhed er postet af et orakel"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr ""
+msgstr "kan låse kontrakten op"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "kan låse kontrakten op efter den udløber om"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "annuller oprettelse af wallet"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
