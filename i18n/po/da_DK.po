@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-10 18:00-0500\n"
+"PO-Revision-Date: 2018-01-10 18:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -730,77 +730,78 @@ msgstr "Inklusiv afventende bekræftelse"
 #: public/views/walletHome.html:602
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr ""
+msgstr "Første synkronisering af transaktionshistorik kan tage nogle minutter, hvis der er mange transaktioner<br>\n"
+"Vent venligst."
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "Indsæt min adresse"
 
 #: public/views/walletHome.html:621
 msgid "Invalid"
-msgstr ""
+msgstr "Ugyldig"
 
 #: src/js/controllers/index.js:1533
 msgid "Invalid Touch ID"
-msgstr ""
+msgstr "Ugyldigt touch-ID"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr ""
+msgstr "Inviter anden enhed"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Wallet-seed alene er ikke nok. Med seed'et alene kan du ikke gendanne multisignatur-wallets og private aktiver såsom blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Behold kun data, der er relevant for dig"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
-msgstr ""
+msgstr "Beskrivelse"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
-msgstr ""
+msgstr "Sprog"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr ""
+msgstr "Senere"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr ""
+msgstr "Loader..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr ""
+msgstr "Betal til"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr ""
+msgstr "Måske senere"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:116
 #: public/views/preferencesInformation.html:76
 msgid "Me"
-msgstr ""
+msgstr "Mig"
 
 #: public/views/modals/tx-details.html:104
 msgid "Merchant message"
-msgstr ""
+msgstr "Besked til handlende"
 
 #: public/views/walletHome.html:430
 msgid "Merkle proof"
-msgstr ""
+msgstr "Merkle proof"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
-msgstr ""
+msgstr "Besked"
 
 #: public/views/walletHome.html:620
 msgid "Moved"
-msgstr ""
+msgstr "Flyttet"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
