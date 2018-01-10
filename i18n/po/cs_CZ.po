@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-09 20:30-0500\n"
+"PO-Revision-Date: 2018-01-09 20:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -126,7 +126,7 @@ msgstr "V nabídce nastavení také najdete možnosti zabezpečení, například
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr "Nezapomeňte také odstranit Váš seed"
+msgstr "Nezapomeňte také odstranit seed"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -196,19 +196,19 @@ msgstr "Vytvořit zálohu"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "Zálohování seed peněženky"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr ""
+msgstr "Zálohovaná slova vymazána"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "Bilance podle adresy"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "Před přijetím prostředků, velmi doporučujeme zálohovat peněženka klíče vaší peněženky."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
