@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-10 17:30-0500\n"
+"PO-Revision-Date: 2018-01-10 17:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -567,25 +567,25 @@ msgstr "Povolit alarm oznámení"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr ""
+msgstr "Zadejte párovací kód přijatý od jiných zařízení nebo použijte fotoaparát (ikona v pravém horním rohu) ke skenování QR kódu zobrazeného na jiném zařízení."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr ""
+msgstr "Zadejte své heslo"
 
 #: src/js/services/profileService.js:323
 #: src/js/services/profileService.js:374
 msgid "Error creating wallet"
-msgstr ""
+msgstr "Chyba při vytváření peněženky"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "Export"
 
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
 msgid "Export completed successfully"
-msgstr ""
+msgstr "Export byl úspěšně dokončen"
 
 #: public/views/export.html:19
 msgid "Exporting..."
@@ -593,15 +593,15 @@ msgstr ""
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr ""
+msgstr "Rozšířený veřejný klíč"
 
 #: public/views/export.html:25
 msgid "Failed to export"
-msgstr ""
+msgstr "Chyba exportu"
 
 #: public/views/modals/tx-details.html:92
 msgid "Fee"
-msgstr ""
+msgstr "Poplatek"
 
 #: public/views/modals/tx-details.html:110
 msgid "Finality"
