@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-10 16:30-0500\n"
+"PO-Revision-Date: 2018-01-10 16:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1109,7 +1109,7 @@ msgstr "Prøver igen..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
-msgstr ""
+msgstr "INDSTIL"
 
 #: public/views/editCorrespondentDevice.html:41
 #: public/views/modals/destination-address.html:132
@@ -1120,98 +1120,98 @@ msgstr ""
 #: public/views/preferencesHub.html:18
 #: public/views/preferencesTor.html:19
 msgid "Save"
-msgstr ""
+msgstr "Gem"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
-msgstr ""
+msgstr "Gemmer indstillinger..."
 
 #: public/views/preferences.html:66
 msgid "Scan Fingerprint"
-msgstr ""
+msgstr "Scan fingeraftryk"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr ""
+msgstr "Scan beløb fra wallet"
 
 #: public/views/walletHome.html:120
 msgid "Scan status finished with error"
-msgstr ""
+msgstr "Scanning mislykkedes"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr ""
+msgstr "Scan QR-koden herunder med den anden enhed eller send parringsnøglen til den anden enhed:"
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
-msgstr ""
+msgstr "Scan venligst fingeraftryk"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
-msgstr ""
+msgstr "Beløb scannes fra wallet..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr ""
+msgstr "Scanner adresser..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
-msgstr ""
+msgstr "Beløb scannes fra wallet..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
-msgstr ""
+msgstr "Vælg wallet"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr ""
+msgstr "Vælg under-wallet"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "Vælg identitet"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:467
 #: public/views/walletHome.html:547
 #: src/js/controllers/index.js:614
 msgid "Send"
-msgstr ""
+msgstr "Send"
 
 #: public/views/walletHome.html:319
 msgid "Send All"
-msgstr ""
+msgstr "Send alle"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr ""
+msgstr "Send betaling"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr ""
+msgstr "Send adresser som email"
 
 #: public/views/walletHome.html:368
 msgid "Send all"
-msgstr ""
+msgstr "Send alle"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
-msgstr ""
+msgstr "Send som email"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr ""
+msgstr "Sender beløb..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
-msgstr ""
+msgstr "Sender..."
 
 #: public/views/walletHome.html:619
 msgid "Sent"
-msgstr ""
+msgstr "Sendt"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr ""
+msgstr "Sessions-log"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
@@ -1435,19 +1435,19 @@ msgstr ""
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr ""
+msgstr "For at beskytte dit privatliv genereres nye adresser hver gang de er brugt."
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
-msgstr ""
+msgstr "Total låst balance"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr ""
+msgstr "Totalt antal medunderskrivere"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
-msgstr ""
+msgstr "Transaktion"
 
 #: public/views/walletHome.html:608
 msgid "Transactions<br> Downloaded"
