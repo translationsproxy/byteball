@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-10 16:20-0500\n"
+"PO-Revision-Date: 2018-01-10 16:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1002,110 +1002,110 @@ msgstr "Private aktiver (såsom blackbytes) er ikke genskabt."
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
 msgid "Private payloads sent"
-msgstr ""
+msgstr "Private payloads sendt"
 
 #: public/views/walletHome.html:334
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
-msgstr ""
+msgstr "QR-kode"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr ""
+msgstr "QR-scanner"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Spørgsmål:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
-msgstr ""
+msgstr "Modtag"
 
 #: public/views/walletHome.html:617
 msgid "Received"
-msgstr ""
+msgstr "Modtaget"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:52
 msgid "Recipients"
-msgstr ""
+msgstr "Modtagere"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
-msgstr ""
+msgstr "Genopretter forbindelse til Wallet-tjenesten..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr ""
+msgstr "Gendan"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr ""
+msgstr "Gendan fra seed"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr ""
+msgstr "Genopretter wallet..."
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
-msgstr ""
+msgstr "Afvist"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr ""
+msgstr "Release-information"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
-msgstr ""
+msgstr "Fjern"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Fjern en enhed"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
-msgstr ""
+msgstr "Omdøb:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr ""
+msgstr "Gentag adgangskode"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "Gentag adgangskoden"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "Erstat"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr ""
+msgstr "Anmod om password"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:297
 msgid "Request a specific amount"
-msgstr ""
+msgstr "Anmod om specifikt beløb"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr ""
+msgstr "Anmod om betaling"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
-msgstr ""
+msgstr "Nødvendigt antal signaturer"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr ""
+msgstr "Gendan fra fuld sikkerhedskopi"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr ""
+msgstr "Prøver igen..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
