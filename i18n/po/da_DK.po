@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-10 17:20-0500\n"
+"PO-Revision-Date: 2018-01-10 17:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -46,7 +46,7 @@ msgstr "Acceptér invitation"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr "Acceptér invitation fra den anden enhed"
+msgstr "Acceptér invitation fra anden enhed"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
@@ -63,7 +63,7 @@ msgstr "Tilføj ny enhed"
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr "Tilføj ny post"
+msgstr "Tilføj ny"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
@@ -1617,32 +1617,32 @@ msgstr "Ja"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "Du kan ikke binde din transaktion til tilbageføring af betaling, da du er på en wallet med én adresse. Brug en wallet med flere adresser og overfør derpå pengene til den."
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
-msgstr ""
+msgstr "Du har ikke en wallet"
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr ""
+msgstr "Dit wallet-seed:"
 
 #: public/views/export.html:33
 msgid "Your export password"
-msgstr ""
+msgstr "Din adgangskode til eksport"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
-msgstr ""
+msgstr "Din adgangskode"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr ""
+msgstr "Din wallet-fil:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr ""
+msgstr "Din wallet-nøgle bliver krypteret. Adgangskoden kan ikke gendannes, så sørg for at skrive den ned"
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
