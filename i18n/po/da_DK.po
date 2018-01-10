@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-09 18:00-0500\n"
+"PO-Revision-Date: 2018-01-10 16:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -238,20 +238,20 @@ msgstr "Både du og {{correspondent.name}} slog lokal optagelse af chat-historie
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr ""
+msgstr "Browser understøttes ikke"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Byteball-adresse"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr ""
+msgstr "ANNULLER"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr ""
+msgstr "FORTSÆT"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:464
@@ -260,43 +260,43 @@ msgstr ""
 #: src/js/controllers/walletHome.js:122
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
-msgstr ""
+msgstr "Annuller"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr ""
+msgstr "Skift hub:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr ""
+msgstr "Ændring af wallet-alias gælder kun det lokale wallet-navn."
 
 #: src/js/controllers/index.js:622
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "Vælg fil"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr ""
+msgstr "Vælg enhed du vil sende til"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "Anmod om beløb"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Anmod om beløb per textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Anmod om beløb via textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "Klik for at <span ng-if=\"isResend\">gen</span>sende email"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
