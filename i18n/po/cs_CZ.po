@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-11 04:11-0500\n"
+"PO-Revision-Date: 2018-01-11 04:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -705,7 +705,7 @@ msgstr "Pokud druhá strana neplní, potom si vezmu svoje peníze zpět"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Pokud jste přesunuli tuto zálohu z jiného zařízení, přestaňte používat původní zařízení ihned po vytvoření zálohy.  Nikdy neklonujte peněženku. Pokud potřebujete přístup z několika zařízení, použijte více podpisů (multisig)."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
