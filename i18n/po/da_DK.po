@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-11 03:20-0500\n"
+"PO-Revision-Date: 2018-01-11 06:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1359,11 +1359,11 @@ msgstr "Wallet med navnet \"{{walletName}}\" blev slettet"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "Leverandøren af din wallet vil kunne se nogle af balancerne og kan se, hvilke transaktioner, der er dine. Du kan dog starte med at bruge din fuldt funktionelle wallet med det samme."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
-msgstr ""
+msgstr "Deres foretrukne optagelsesindstilling"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
