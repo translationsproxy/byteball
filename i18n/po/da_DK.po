@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-11 02:50-0500\n"
+"PO-Revision-Date: 2018-01-11 03:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1224,63 +1224,63 @@ msgstr "Opret adgangskode"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr ""
+msgstr "Opsætning af email-notifikationer kan reducere sikkerheden. Hvis leverandøren af din email-tjeneste bliver kompromitteret, kan en hacker potentielt se oplysninger om din wallet-adresse og balancen."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "Indstillinger"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Del"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
 msgid "Share address"
-msgstr ""
+msgstr "Del adresse"
 
 #: public/views/walletHome.html:280
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "Del denne wallet for at modtage betalinger."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Del via besked"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
-msgstr ""
+msgstr "Vis alle"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "Vis wallet-seed alligevel"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
-msgstr ""
+msgstr "Signér betalings-transaktioner fra wallet?"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Enkelt-adresse wallet"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "En enkelt-adresse-wallet opretter ikke nye adresser til hver transaktion. Byttepenge vil altid blive returneret til den adresse, denne wallet har."
 
 #: src/js/services/profileService.js:318
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "Wallet til mikrobetalinger"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr ""
+msgstr "Angiv seed..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
 msgid "Spending Restrictions"
-msgstr ""
+msgstr "Restriktioner for udbetalinger"
 
 #: public/views/preferencesGlobal.html:96
 msgid "Still not done"
