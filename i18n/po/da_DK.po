@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-11 07:11-0500\n"
+"PO-Revision-Date: 2018-01-11 07:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1796,23 +1796,23 @@ msgstr "til"
 #: public/views/walletHome.html:432
 #: public/views/walletHome.html:443
 msgid "too long!"
-msgstr ""
+msgstr "for langt!"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "med"
 
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
-msgstr ""
+msgstr "med forventet værdi"
 
 #: public/views/modals/bind.html:58
 msgid "with expected value of"
-msgstr ""
+msgstr "med forventet værdi på"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
-msgstr ""
+msgstr "{{address}} kan bruges hvis:"
 
 #: public/views/modals/claim-textcoin.html:36
 #: public/views/modals/customized-amount.html:76
@@ -1821,26 +1821,26 @@ msgstr ""
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
-msgstr ""
+msgstr "{{cancel_label || 'Fortryd'}}"
 
 #: src/js/controllers/walletHome.js:1662
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr ""
+msgstr "{{fee}} vil blive fratrukket til transaktionsgebyr på bitcoin-netværket"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "{{hrd.destinationAddress}} kan bruges hvis:"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
 msgid "{{index.m}}-of-{{index.n}}"
-msgstr ""
+msgstr "{{index.m}}-af-{{index.n}}"
 
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr ""
+msgstr "{{item.m}}-af-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'Til':'Fra'}}"
 
