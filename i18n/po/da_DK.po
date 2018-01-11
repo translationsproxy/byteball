@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-11 06:51-0500\n"
+"PO-Revision-Date: 2018-01-11 07:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1367,40 +1367,40 @@ msgstr "Deres foretrukne optagelsesindstilling"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
-msgstr ""
+msgstr "Der er ingen wallets denne betaling kan udføres fra"
 
 #: public/views/walletHome.html:279
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr ""
+msgstr "Adressen er delt med {{index.shared_address_cosigners}}."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
-msgstr ""
+msgstr "Indstillingen kan ikke ændres igen"
 
 #: public/views/walletHome.html:350
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
-msgstr ""
+msgstr "Dette aktiv er privat. Send det ved at klikke på links i en chat eller send det til dine andre wallets."
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "Denne indstilling giver bedre sikkerhed, men kræver adskillige gigabyte lagerplads. Indledende synkronisering kan tage flere dage og CPU-load vil være højt under hele synkroniseringen."
 
 #: public/views/walletHome.html:417
 msgid "This payment is bound to a condition"
-msgstr ""
+msgstr "Denne betaling er betinget af en begivenhed"
 
 #: public/views/modals/tx-details.html:80
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr ""
+msgstr "Denne transaktion er blevet ugyldig - muligvis pga. forsøg på at bruge de samme midler flere gange."
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "Denne wallet kan ikke ændres til en enkelt-adresse-wallet, da den allerede består af flere adresser eller er sat op på flere enheder"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
-msgstr ""
+msgstr "Dette vil slette alle dine eksisterende wallets permanent!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1408,23 +1408,23 @@ msgstr ""
 #: public/views/modals/tx-details.html:65
 #: public/views/walletHome.html:651
 msgid "To"
-msgstr ""
+msgstr "Til"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "For at kunne gendanne alt, skal du etablere en sikkerhedskopi (muligheden findes i menuen)"
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "For at sende vilkårligt data til Byteball-netværket, skal du skifte til en enklet-adresse-wallet eller oprette en."
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr ""
+msgstr "Klik på modpartens adresse i en chat for at betinge betaling af en begivenhed"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "Til Byteball-adresse"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
