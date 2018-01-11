@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-11 13:40-0500\n"
+"PO-Revision-Date: 2018-01-11 13:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -751,73 +751,73 @@ msgstr "Pozvat jiné zařízení"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Jen seed peněženky nestačí.  Pouze se seed nebude schopen obnovit vícepodpisové (multisig) peněženky a soukromá aktiva, jako jsou blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Uschovávejte pouze údaje, které jsou pro Vás relevantní"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
-msgstr ""
+msgstr "Popis"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
-msgstr ""
+msgstr "Jazyk"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr ""
+msgstr "Později"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr ""
+msgstr "Nahrávám..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr ""
+msgstr "Vytvořit platbu pro"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr ""
+msgstr "Možná později"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:116
 #: public/views/preferencesInformation.html:76
 msgid "Me"
-msgstr ""
+msgstr "Mě"
 
 #: public/views/modals/tx-details.html:104
 msgid "Merchant message"
-msgstr ""
+msgstr "Zpráva obchodníka"
 
 #: public/views/walletHome.html:430
 msgid "Merkle proof"
-msgstr ""
+msgstr "Merkle důkaz"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
-msgstr ""
+msgstr "Zpráva"
 
 #: public/views/walletHome.html:620
 msgid "Moved"
-msgstr ""
+msgstr "Přesunuto"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr ""
+msgstr "Multi peněženka"
 
 #: public/views/walletHome.html:240
 msgid "My Byteball address"
-msgstr ""
+msgstr "Moje Byteball adresa"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
-msgstr ""
+msgstr "Moje preference nahrávání"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "Jméno kontaktu"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
