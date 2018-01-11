@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-11 14:40-0500\n"
+"PO-Revision-Date: 2018-01-11 14:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -872,64 +872,64 @@ msgstr "Nabídnout smlouvu"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr ""
+msgstr "Pokud máte zkopírován seed peněženky, doporučujeme Vám abyste si jej ze zařízení smazali."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr ""
+msgstr "Jedině peněženku s jedním podpisem je možné obnovit."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Otevřít chat"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "Nebo"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr ""
+msgstr "Párovat"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr ""
+msgstr "Spárovaná zařízení"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Párovací kód"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr ""
+msgstr "Soukromý klíč papírové peněženky"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr ""
+msgstr "Přístupová fráze"
 
 #: src/js/services/profileService.js:654
 msgid "Password needed"
-msgstr ""
+msgstr "Je vyžadováno heslo"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Hesla se neshodují"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr ""
+msgstr "Soukromý klíč papírové peněženky zkopírujte sem"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr ""
+msgstr "Platit a nabídnout"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
-msgstr ""
+msgstr "Platit na tuto adresu"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr ""
+msgstr "Platba přijata"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
