@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-10 19:30-0500\n"
+"PO-Revision-Date: 2018-01-11 04:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -442,7 +442,7 @@ msgstr "Vytvořit novou peněženku spolu s?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr ""
+msgstr "Vytvořit peněženku {{requiredCosigners}}{{totalCosigners}}"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
