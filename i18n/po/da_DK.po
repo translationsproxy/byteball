@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-11 03:00-0500\n"
+"PO-Revision-Date: 2018-01-11 03:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1284,7 +1284,7 @@ msgstr "Restriktioner for udbetalinger"
 
 #: public/views/preferencesGlobal.html:96
 msgid "Still not done"
-msgstr ""
+msgstr "Endnu ikke færdig"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:135
@@ -1295,58 +1295,58 @@ msgstr ""
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
 msgid "Success"
-msgstr ""
+msgstr "Succes"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr ""
+msgstr "Ryd wallet"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr ""
+msgstr "Ryd papir-wallet"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr ""
+msgstr "Synkroniserer...{{index.count_unhandled_private_payments}} private betalinger tilbage"
 
 #: public/views/walletHome.html:82
 msgid "Syncing... {{index.syncProgress}}"
-msgstr ""
+msgstr "Synkroniserer...{{index.syncProgress}}"
 
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
-msgstr ""
+msgstr "TOR"
 
 #: public/views/walletHome.html:116
 #: public/views/walletHome.html:121
 #: public/views/walletHome.html:584
 msgid "Tap to retry"
-msgstr ""
+msgstr "Tryk for at prøve igen"
 
 #: public/views/disclaimer.html:12
 #: public/views/preferencesAbout.html:30
 msgid "Terms of Use"
-msgstr ""
+msgstr "Vilkår for brug"
 
 #: public/views/correspondentDevice.html:341
 msgid "Text message to"
-msgstr ""
+msgstr "Tekstbesked til"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr ""
+msgstr "Den hub, der modtager beskeder fra andre enheder."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr ""
+msgstr "Hub'en anbefaler at følgende vidner udskiftes:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "Modparten modtager betalingen hvis"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
