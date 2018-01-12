@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-12 04:10-0500\n"
+"PO-Revision-Date: 2018-01-12 04:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1141,107 +1141,107 @@ msgstr "Stav vyhledávání byl ukončený chybou"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr ""
+msgstr "Načti QR kód pomocí jiného zařízení nebo mu pošli párovací kód:"
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
-msgstr ""
+msgstr "Naskenujte prosím svůj otisk"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
-msgstr ""
+msgstr "Kontroluji zůstatek peněženky..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr ""
+msgstr "Vyhledávám adresy..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
-msgstr ""
+msgstr "Kontroluji zůstatek peněženky..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
-msgstr ""
+msgstr "Vybrat peněženku"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr ""
+msgstr "Vybrat peněženku"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "Vyberte si identitu"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:467
 #: public/views/walletHome.html:547
 #: src/js/controllers/index.js:614
 msgid "Send"
-msgstr ""
+msgstr "Odeslat"
 
 #: public/views/walletHome.html:319
 msgid "Send All"
-msgstr ""
+msgstr "Odeslat vše"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr ""
+msgstr "Odeslat platbu"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr ""
+msgstr "Odeslat adresy emailem"
 
 #: public/views/walletHome.html:368
 msgid "Send all"
-msgstr ""
+msgstr "Odeslat vše"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
-msgstr ""
+msgstr "Poslat e-mailem"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr ""
+msgstr "Odesílání částky..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
-msgstr ""
+msgstr "Odesílám..."
 
 #: public/views/walletHome.html:619
 msgid "Sent"
-msgstr ""
+msgstr "Odesláno"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr ""
+msgstr "Protokol relace"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "Nastavení hesla"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr ""
+msgstr "Nastavení hesla"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr ""
+msgstr "Nastavení emailových notifikací může snížit vaše soukromí, pokud je poskytovatel emailu napaden. Útočník by mohl získat vaše adresy peněženek a zůstatek, ale žádné další údaje."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "Nastavení"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Sdílet"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
 msgid "Share address"
-msgstr ""
+msgstr "Sdílet adresu"
 
 #: public/views/walletHome.html:280
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "Sdílejte tuto peněženku adresu pro příjem plateb."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
