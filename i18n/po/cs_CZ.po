@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-12 04:21-0500\n"
+"PO-Revision-Date: 2018-01-12 10:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1245,24 +1245,24 @@ msgstr "Sdílejte tuto peněženku adresu pro příjem plateb."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Sdílet zprávu"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
-msgstr ""
+msgstr "Zobrazit vše"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "Skutečně zobrazit seed peněženky"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
-msgstr ""
+msgstr "Podepsat transakci výdaj z peněženky?"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Peněženka s jedinou adresou"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
