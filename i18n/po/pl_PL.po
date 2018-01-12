@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2017-12-26 09:51-0500\n"
+"PO-Revision-Date: 2018-01-11 23:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -217,7 +217,7 @@ msgstr "Lepiej jednak, używaj redundantnych portfeli z multipodpisem,"
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr "Powiązana płatność"
+msgstr "Powiąż płatność"
 
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
