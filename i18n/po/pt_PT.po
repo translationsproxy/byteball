@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-01-10 18:40-0500\n"
+"PO-Revision-Date: 2018-01-12 09:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr ""
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 palavras separadas por hífens"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -85,7 +85,7 @@ msgstr "Endereço"
 
 #: public/views/walletHome.html:507
 msgid "Address to attest"
-msgstr ""
+msgstr "Endereço para atestar"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -212,7 +212,7 @@ msgstr "Antes de receber fundos, é altamente recomendável que você faça back
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Melhor ainda, use multisig carteiras com redundância,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
@@ -242,7 +242,7 @@ msgstr "Navegador não suportado"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Endereço Byteball"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -362,7 +362,7 @@ msgstr "Confirmar pagamento"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "Confirmar voto"
 
 #: public/views/modals/tx-details.html:115
 msgid "Confirmed"
