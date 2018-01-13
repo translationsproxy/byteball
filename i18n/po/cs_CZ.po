@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-12 23:00-0500\n"
+"PO-Revision-Date: 2018-01-12 23:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1416,7 +1416,7 @@ msgstr "Chcete-li mít možnost vše obnovit, vytvořte si prosím úplnou zálo
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "Chcete-li mít možnost přenos libovolných dat do Byteball sítě, přepněte si peněženku do stavu s jedinou adresou nebo si takovou vytvořte."
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
