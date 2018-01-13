@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-12 22:50-0500\n"
+"PO-Revision-Date: 2018-01-12 23:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1391,16 +1391,16 @@ msgstr "Tato platba je vázán na podmínku"
 
 #: public/views/modals/tx-details.html:80
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr ""
+msgstr "Transakce je neplatná, zřejmě kvůli pokusu o dvojí platbu."
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "Tuto peněženku nelze převést na peněženku s jedinou adresou, protože již obsahuje více adres nebo je na více zařízeních"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
-msgstr ""
+msgstr "Touto akcí trvale odstraníte všechny existující peněženky!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1408,11 +1408,11 @@ msgstr ""
 #: public/views/modals/tx-details.html:65
 #: public/views/walletHome.html:651
 msgid "To"
-msgstr ""
+msgstr "Pro"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "Chcete-li mít možnost vše obnovit, vytvořte si prosím úplnou zálohu (tuto možnost najdete v menu)"
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
