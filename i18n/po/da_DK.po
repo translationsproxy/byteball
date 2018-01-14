@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-14 14:30-0500\n"
+"PO-Revision-Date: 2018-01-14 14:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -805,7 +805,7 @@ msgstr "Flyttet"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr "Flerenheds-wallet"
+msgstr "Multienheds-wallet"
 
 #: public/views/walletHome.html:240
 msgid "My Byteball address"
