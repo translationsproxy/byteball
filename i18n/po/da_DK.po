@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-14 14:40-0500\n"
+"PO-Revision-Date: 2018-01-14 15:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -85,7 +85,7 @@ msgstr "Adresse"
 
 #: public/views/walletHome.html:507
 msgid "Address to attest"
-msgstr "Adresse der skal bekræftes"
+msgstr "Adresse der skal bevidnes"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -122,7 +122,7 @@ msgstr "Yderligere"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr "Herudover kan du i Settings-menuen, også finde sikkerhedsindstillinger og sætte dit password."
+msgstr "Herudover kan du under Indstillinger også finde sikkerhedsindstillinger og sætte dit password."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -160,7 +160,7 @@ msgstr "Aktiv"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
-msgstr "Bekræft profildata linket til en Byteball-adresse."
+msgstr "Bevidn profildata linket til en Byteball-adresse."
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
