@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-14 15:00-0500\n"
+"PO-Revision-Date: 2018-01-14 15:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -164,7 +164,7 @@ msgstr "Bevidn profildata linket til en Byteball-adresse."
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
-msgstr "Bekræftelse"
+msgstr "Bevidnelse"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -551,7 +551,7 @@ msgstr "Download hele Byteball-databasen"
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
-msgstr "Redigér"
+msgstr "Rediger"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
@@ -567,7 +567,7 @@ msgstr "Tillad push-notifikationer"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr "Angiv parringskode modtaget fra den anden enhed, eller brug dit kamera (ikonet øverst til højre) til at scanne QR-koden, fra den anden enhed."
+msgstr "Angiv parringskode modtaget fra den anden enhed, eller brug dit kamera (ikonet øverst til højre) til at scanne QR-koden fra den anden enhed."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
@@ -605,7 +605,7 @@ msgstr "Gebyr"
 
 #: public/views/modals/tx-details.html:110
 msgid "Finality"
-msgstr "Afslutning"
+msgstr "Endeligt resultat"
 
 #: public/views/modals/tx-details.html:60
 msgid "From"
@@ -617,7 +617,7 @@ msgstr "Fuld adresse:"
 
 #: public/views/preferencesGlobal.html:118
 msgid "Full backup"
-msgstr "Fuld sikkerhedskopi"
+msgstr "Fuld backup"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
