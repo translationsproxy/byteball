@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-13 19:10-0500\n"
+"PO-Revision-Date: 2018-01-14 14:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -288,7 +288,7 @@ msgstr "Anmod om beløb"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr "Anmod om beløb per textcoin"
+msgstr "Anmod om beløb via textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
@@ -296,11 +296,11 @@ msgstr "Anmod om beløb via textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr "Klik for at <span ng-if=\"isResend\">gen</span>sende email"
+msgstr "Tryk for at <span ng-if=\"isResend\">gen</span>sende email"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr "Klik her for at oprette betaling og dele den via privat besked i chat apps"
+msgstr "Tryk her for at oprette betaling og dele den via privat besked i chat apps"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -375,7 +375,7 @@ msgstr "Kontakter"
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:389
 msgid "Copied to clipboard"
-msgstr "Kopieret til clipboard"
+msgstr "Kopieret til udklipsholder"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
@@ -533,7 +533,7 @@ msgstr "Brug det ikke til at klone wallet."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr "Findes dit sprog ikke på Crowin? Kontakt ejeren på Crowdin! Vi vil hjertens gerne også understøtte dit sprog."
+msgstr "Findes dit sprog ikke på Crowdin? Kontakt ejeren på Crowdin! Vi vil hjertens gerne også understøtte dit sprog."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
@@ -567,7 +567,7 @@ msgstr "Tillad push-notifikationer"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr "Angiv parringskode, modtaget fra den anden enhed eller brug dit kamera (ikonet øverst til højre) til at scanne QR-koden, fra den anden enhed."
+msgstr "Angiv parringskode modtaget fra den anden enhed, eller brug dit kamera (ikonet øverst til højre) til at scanne QR-koden, fra den anden enhed."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
