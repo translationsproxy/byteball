@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-11 07:30-0500\n"
+"PO-Revision-Date: 2018-01-13 19:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -63,7 +63,7 @@ msgstr "Tilføj ny enhed"
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr "Tilføj ny"
+msgstr "Tilføj ny post"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
@@ -156,7 +156,7 @@ msgstr "Er du sikker på du vil slette denne wallet?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr "Møntfod"
+msgstr "Aktiv"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
