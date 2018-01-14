@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-14 15:20-0500\n"
+"PO-Revision-Date: 2018-01-14 15:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1141,7 +1141,7 @@ msgstr "Scanning mislykkedes"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr "Scan QR-koden herunder med den anden enhed eller send parringsnøglen til den anden enhed:"
+msgstr "Scan QR-koden herunder med den anden enhed eller send parringskode til den anden enhed:"
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
@@ -1153,7 +1153,7 @@ msgstr "Beløb scannes fra wallet..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr "Scanner adresser..."
+msgstr "Scanner efter adresser..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
