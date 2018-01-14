@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-09 06:14-0500\n"
+"PO-Revision-Date: 2018-01-14 13:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -230,11 +230,11 @@ msgstr "Il Bitcoin URI NON è valido!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr ""
+msgstr "Bot Store"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Sia tu che {{correspondent.name}} avete abilitato la registrazione dello storico della chat locale."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -379,7 +379,7 @@ msgstr "Copiato negli appunti"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr ""
+msgstr "I corrispondenti non vengono ripristinati."
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not create payment proposal"
@@ -391,11 +391,11 @@ msgstr "Non posso crearlo utilizzando la chiave privata estesa specificata"
 
 #: src/js/services/profileService.js:275
 msgid "Could not create using the specified extended public key"
-msgstr ""
+msgstr "Non è possibile crearlo usando questa chiave pubblica estesa"
 
 #: src/js/services/profileService.js:258
 msgid "Could not create: Invalid wallet seed"
-msgstr ""
+msgstr "Non è possibile crearlo: il seed del wallet non é valido"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
@@ -555,19 +555,19 @@ msgstr "Modifica"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr ""
+msgstr "E' possibile che tu o {{correspondent.name}} abbiate la registrazione dello storico della chat disabilitata. Lo storico non è dunque salvato per nessuno al momento."
 
 #: public/views/preferencesEmail.html:33
 msgid "Email for wallet notifications"
-msgstr ""
+msgstr "Email per le notifiche del wallet"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr ""
+msgstr "Attiva le notifiche push"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr ""
+msgstr "Immetti il codice di associazione ricevuto dall'altro dispositivo, o utilizza la fotocamera (icona in alto a destra) per la scansione del codice QR visualizzato su un altro dispositivo."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
@@ -725,7 +725,7 @@ msgstr "Importando il portafoglio..."
 
 #: public/views/walletHome.html:133
 msgid "Including pending confirmation"
-msgstr ""
+msgstr "Inclusa la conferma in attesa"
 
 #: public/views/walletHome.html:602
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
@@ -751,11 +751,11 @@ msgstr "Invita l'altro dispositivo"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Il seed del wallet da solo non è sufficiente. Usando solo il seed, non sarà possibile ripristinare il wallet multisif e asset privati come i blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Tieni solo i dati che siano per te rilevanti"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
@@ -872,7 +872,7 @@ msgstr "Offri un contratto"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr ""
+msgstr "Una volte che hai scritto il tuo seed del wallet, è raccomandabile cancellarlo da questo device."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
