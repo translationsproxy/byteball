@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-14 15:10-0500\n"
+"PO-Revision-Date: 2018-01-14 15:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -985,7 +985,7 @@ msgstr "Post manuelle værdier i datastrømme, vær et orakel."
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr "Post dine profildata eller hvadsomhelst du har lyst til at sige om dig selv."
+msgstr "Post dine profildata eller hvad som helst du har lyst til at sige om dig selv."
 
 #: public/views/walletHome.html:175
 #: public/views/walletHome.html:47
