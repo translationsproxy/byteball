@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-01-15 02:20-0500\n"
+"PO-Revision-Date: 2018-01-15 02:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "-- 选择多重签名账户 --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr "用破折号隔开的12个单词"
+msgstr "用连接号(-)隔开的12个单词"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -284,11 +284,11 @@ msgstr "选择要发送到的设备"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr "取回资金"
+msgstr "取回存款"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr "通过文本币取回资金"
+msgstr "通过文本币取回存款"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
@@ -300,7 +300,7 @@ msgstr "单击按钮 <span ng-if=\"isResend\"> 重新 </span> 发送电子邮件
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr "单击此按钮以创建付款并通过聊天应用程序中的私人消息共享它"
+msgstr "单击此按钮以创建付款并通过聊天工具发送给好友"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -1232,7 +1232,7 @@ msgstr "设置"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr "分享"
+msgstr "发送给好友"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1580,7 +1580,7 @@ msgstr "注意！"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr "被领取？"
+msgstr "已领取？"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
