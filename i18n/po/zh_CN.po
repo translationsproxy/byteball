@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-01-04 22:10-0500\n"
+"PO-Revision-Date: 2018-01-15 02:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1685,7 +1685,7 @@ msgstr "清除聊天记录"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr "复制下面的文本, 可以通过任何聊天app发送给收件人, 或打印在纸上"
+msgstr "复制下列文本并通过任意聊天工具发送给收件人, 或打印在纸上"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1734,7 +1734,7 @@ msgstr "待付锁定"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr "未被领取"
+msgstr "未领取"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
