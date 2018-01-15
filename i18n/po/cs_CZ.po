@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-13 05:40-0500\n"
+"PO-Revision-Date: 2018-01-15 16:23-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -110,7 +110,7 @@ msgstr "Všechny adresy peněženky"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr "Všichni zájemci o překlad Byteball jsou vítání. Přihlašte se prosím na crowdin.com a přidejte se k projektu Byteball"
+msgstr "Všechny příspevky k překladu na Byteball jsou vítání. Přihlašte se prosím na crowdin.com a přidejte se k projektu Byteball"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
