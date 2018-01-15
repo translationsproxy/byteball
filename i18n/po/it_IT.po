@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-15 03:10-0500\n"
+"PO-Revision-Date: 2018-01-15 14:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1452,7 +1452,7 @@ msgstr "Transazione"
 
 #: public/views/walletHome.html:608
 msgid "Transactions<br> Downloaded"
-msgstr ""
+msgstr "Transazioni<br> Scaricate"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
