@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-15 14:10-0500\n"
+"PO-Revision-Date: 2018-01-15 15:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1003,7 +1003,7 @@ msgstr ""
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
 msgid "Private payloads sent"
-msgstr ""
+msgstr "I Payload privati sono stati inviati"
 
 #: public/views/walletHome.html:334
 msgid "Profile"
