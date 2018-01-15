@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-14 15:30-0500\n"
+"PO-Revision-Date: 2018-01-15 08:52-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -387,11 +387,11 @@ msgstr "Kunne ikke oprette betalingsanmodning"
 
 #: src/js/services/profileService.js:265
 msgid "Could not create using the specified extended private key"
-msgstr "Kunne ikke oprette med brug af den angivne udvidede private nøgle"
+msgstr "Kunne ikke oprette med den angivne udvidede private nøgle"
 
 #: src/js/services/profileService.js:275
 msgid "Could not create using the specified extended public key"
-msgstr "Kunne ikke oprette med brug af den angivne udvidede offentlige nøgle"
+msgstr "Kunne ikke oprette med den angivne udvidede offentlige nøgle"
 
 #: src/js/services/profileService.js:258
 msgid "Could not create: Invalid wallet seed"
@@ -403,7 +403,7 @@ msgstr "Dekryptering mislykkedes"
 
 #: public/views/walletHome.html:583
 msgid "Could not fetch transaction history"
-msgstr "Kunne ikke hente transaktions-historik"
+msgstr "Kunne ikke hente transaktionshistorik"
 
 #: src/js/services/profileService.js:490
 #: src/js/services/profileService.js:517
