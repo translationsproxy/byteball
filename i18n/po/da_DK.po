@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-15 10:41-0500\n"
+"PO-Revision-Date: 2018-01-15 17:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -725,7 +725,7 @@ msgstr "Importerer wallet..."
 
 #: public/views/walletHome.html:133
 msgid "Including pending confirmation"
-msgstr "Inklusiv afventende bekræftelse"
+msgstr "Heraf afventende bekræftelse af"
 
 #: public/views/walletHome.html:602
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
