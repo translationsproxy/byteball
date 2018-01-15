@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-15 10:10-0500\n"
+"PO-Revision-Date: 2018-01-15 10:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -905,7 +905,7 @@ msgstr "Papir-wallet privat nøgle"
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr "Adgangskode"
+msgstr "Huskeregel"
 
 #: src/js/services/profileService.js:654
 msgid "Password needed"
