@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-01-15 16:23-0500\n"
+"PO-Revision-Date: 2018-01-15 16:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -160,7 +160,7 @@ msgstr "Majetek"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
-msgstr "Potvrzení profilu dat propojených s libovolnou adresou Byteball."
+msgstr "Potvďte profilová data propojená s jakoukoliv adresou Byteball."
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
