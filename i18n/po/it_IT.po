@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-14 13:50-0500\n"
+"PO-Revision-Date: 2018-01-15 03:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -284,7 +284,7 @@ msgstr "Seleziona il dispositivo a cui inviare"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr "Reclama fondi"
+msgstr "Riscuoti fondi"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
@@ -1432,11 +1432,11 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "Alla email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr ""
+msgstr "Per proteggere la tua privacy, i nuovi indirizzi sono generati automaticamente appena li usi."
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
