@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-15 16:11-0500\n"
+"PO-Revision-Date: 2018-01-15 16:23-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -98,7 +98,7 @@ msgstr "Avanzato"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
-msgstr "Acconsento"
+msgstr "Accetto"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
@@ -110,7 +110,7 @@ msgstr "Tutti gli indirizzi del portafoglio"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr "Tutti i contributi di traduzione di Byteball sono i benvenuti. Iscriviti a crowdin.com e unisciti al progetto Byteball presso"
+msgstr "Tutti i contributi all traduzione di Byteball sono benvenuti. Iscriviti a crowdin.com e unisciti al progetto Byteball su"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -126,7 +126,7 @@ msgstr "Inoltre nel menu impostazioni, troverete le opzioni di sicurezza tra cui
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr "Inoltre, non dimenticare di cancellare il tuo \"seed\""
+msgstr "Inoltre, non dimenticare di cancellare il tuo seed"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -969,7 +969,7 @@ msgstr "Per favore completa i campi richiesti"
 
 #: public/views/splash.html:82
 msgid "Please name this device"
-msgstr ""
+msgstr "Dai un nome a questo dispositivo"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1015,11 +1015,11 @@ msgstr "Codice QR"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr ""
+msgstr "Scanner QR Code"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Domanda:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
@@ -1040,7 +1040,7 @@ msgstr "Riconnessione al Servizio Portafoglio..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr ""
+msgstr "Ripristina"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
@@ -1052,7 +1052,7 @@ msgstr "Ricreando Portafoglio..."
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
-msgstr ""
+msgstr "Rifiutato"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
@@ -1060,7 +1060,7 @@ msgstr "Informazioni Release"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
@@ -1098,11 +1098,11 @@ msgstr "Richiedi il Pagamento"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
-msgstr ""
+msgstr "Numero richiesto di firme"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr ""
+msgstr "Ripristina da backup completo"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
@@ -1129,7 +1129,7 @@ msgstr "Sto salvando le preferenze..."
 
 #: public/views/preferences.html:66
 msgid "Scan Fingerprint"
-msgstr ""
+msgstr "Scansione Impronte"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
@@ -1169,7 +1169,7 @@ msgstr ""
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "Seleziona la tua identità"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:467
@@ -1275,7 +1275,7 @@ msgstr ""
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr ""
+msgstr "Specifica il Seed..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
@@ -1473,11 +1473,11 @@ msgstr "Non confermato"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr ""
+msgstr "Unità per i blackbytes"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr ""
+msgstr "Unità per i bytes"
 
 #: public/views/walletHome.html:197
 msgid "Unsent transactions"
@@ -1489,15 +1489,15 @@ msgstr "Aggiornamento portafoglio..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
-msgstr ""
+msgstr "Aggiorna alla {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "Aggiornamento del database in corso, si prega di attendere. Talvolta sono richiesti diversi minuti."
 
 #: public/views/walletHome.html:522
 msgid "Values"
-msgstr ""
+msgstr "Valori"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
