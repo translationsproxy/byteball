@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-15 03:00-0500\n"
+"PO-Revision-Date: 2018-01-15 03:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -542,7 +542,7 @@ msgstr "Fatto"
 
 #: public/views/walletHome.html:678
 msgid "Download CSV file"
-msgstr "Scarica in formato CSV"
+msgstr "Scarica il file in formato CSV"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
@@ -641,7 +641,7 @@ msgstr "Genera un nuovo indirizzo"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
-msgstr "Genera un file .csv..."
+msgstr "Generazione del file CSV..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
@@ -1627,11 +1627,11 @@ msgstr "Non hai un portafoglio"
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr ""
+msgstr "Il seed del tuo portafoglio:"
 
 #: public/views/export.html:33
 msgid "Your export password"
-msgstr ""
+msgstr "La tua password per l'esportazione"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
@@ -1643,7 +1643,7 @@ msgstr "Il file del tuo wallet:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr ""
+msgstr "La chiave del tuo portafoglio sarà criptata. Le password non possono essere recuperate. Assicurati di annotarle al sicuro"
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
