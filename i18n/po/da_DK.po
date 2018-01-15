@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-15 09:44-0500\n"
+"PO-Revision-Date: 2018-01-15 09:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1647,7 +1647,7 @@ msgstr "Din wallet-nøgle bliver krypteret. Adgangskoden kan ikke gendannes, så
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr "Din wallet vil blive oprettet på denne enhed, så sørg for at passe på den. Se muligheder for sikkerhedskopiering i menuen Indstillinger."
+msgstr "Din wallet vil blive oprettet på denne enhed, så sørg for at passe på den. Se muligheder for sikkerhedskopiering under Indstillinger."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
@@ -1677,7 +1677,7 @@ msgstr "annuller oprettelse af wallet"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr "krævet af {{btx.claimedByMe?'me':'receiver'|translate}}"
+msgstr "krævet af {{btx.claimedByMe?'mig':'modtager'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
