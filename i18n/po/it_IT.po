@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-15 16:01-0500\n"
+"PO-Revision-Date: 2018-01-15 16:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -888,7 +888,7 @@ msgstr "O"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr ""
+msgstr "Accoppia"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
@@ -925,7 +925,7 @@ msgstr ""
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
-msgstr ""
+msgstr "Paga a questo indirizzo"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
@@ -957,11 +957,11 @@ msgstr "Elimina definitivamente questo portafoglio. QUESTA AZIONE NON PUO' ESSER
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
-msgstr ""
+msgstr "Portafoglio Semplice"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr ""
+msgstr "Si prega di scegliere la quantità di dati da memorizzare nel vostro portafoglio"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
@@ -973,11 +973,11 @@ msgstr ""
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr ""
+msgstr "Porta"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Invia coppie arbitrarie di dati chiave-valore nella rete Byteball."
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1375,11 +1375,11 @@ msgstr ""
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
-msgstr ""
+msgstr "Questa scelta non può più essere cambiata"
 
 #: public/views/walletHome.html:350
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
-msgstr ""
+msgstr "Questo è un bene privato, si prega di inviarlo solo facendo clic sui link nella chat o di inviarlo ad altri portafogli in tuo possesso."
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
@@ -1416,7 +1416,7 @@ msgstr ""
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "Per essere in grado di inviare dati arbitrari nella rete Byteball, si prega di passare prima da un portafoglio ad indirizzo singolo oppure puoi crearne uno."
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1424,11 +1424,11 @@ msgstr ""
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "All'indirizzo byteball"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "All'indirizzo byteball o e-mail"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
@@ -1752,7 +1752,7 @@ msgstr "o"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "oppure effettua un backup di tutti i dati Byteball in"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
