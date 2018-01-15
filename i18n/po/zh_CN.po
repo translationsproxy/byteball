@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-01-15 02:30-0500\n"
+"PO-Revision-Date: 2018-01-15 02:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1677,7 +1677,7 @@ msgstr "取消创建钱包"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr "被我领取"
+msgstr "被 {{btx.claimedByMe?'me':'receiver'|translate}} 领取"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
