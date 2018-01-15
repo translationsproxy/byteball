@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-15 09:50-0500\n"
+"PO-Revision-Date: 2018-01-15 10:02-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1379,7 +1379,7 @@ msgstr "Indstillingen kan ikke ændres igen"
 
 #: public/views/walletHome.html:350
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
-msgstr "Dette aktiv er privat. Send det ved at klikke på links i en chat eller send det til dine andre wallets."
+msgstr "Dette aktiv er privat. Send det kun ved at klikke på links i en chat eller til dine andre wallets."
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
@@ -1387,7 +1387,7 @@ msgstr "Denne indstilling giver bedre sikkerhed, men kræver adskillige gigabyte
 
 #: public/views/walletHome.html:417
 msgid "This payment is bound to a condition"
-msgstr "Denne betaling er betinget af en begivenhed"
+msgstr "Denne betaling er betinget"
 
 #: public/views/modals/tx-details.html:80
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
@@ -1416,11 +1416,11 @@ msgstr "For at kunne gendanne alt, skal du etablere en sikkerhedskopi (mulighede
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr "For at sende vilkårligt data til Byteball-netværket, skal du skifte til en enklet-adresse-wallet eller oprette en."
+msgstr "For at sende vilkårligt data til Byteball-netværket, skal du skifte til en enkelt-adresse-wallet eller oprette en."
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr "Klik på modpartens adresse i en chat for at betinge betaling af en begivenhed"
+msgstr "Klik på modpartens adresse i en chat for at betinge betalingen"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
@@ -1436,7 +1436,7 @@ msgstr "Til email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr "For at beskytte dit privatliv genereres nye adresser hver gang de er brugt."
+msgstr "For at beskytte dit privatliv genereres nye adresser, hver gang de er brugt."
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
