@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-01-15 02:40-0500\n"
+"PO-Revision-Date: 2018-01-16 17:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "-- 选择多重签名账户 --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr "用连接号(-)隔开的12个单词"
+msgstr "用破折号隔开的12个单词"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -1232,7 +1232,7 @@ msgstr "设置"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr "发送给好友"
+msgstr "分享"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1245,7 +1245,7 @@ msgstr "分享这个钱包地址来接收付款。"
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr "分享"
+msgstr "通过消息分享"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
