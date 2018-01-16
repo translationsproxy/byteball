@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-01-16 04:00-0500\n"
+"PO-Revision-Date: 2018-01-16 04:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -246,7 +246,7 @@ msgstr "Indirizzo Byteball"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr "Annulla"
+msgstr "ANNULLA"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
@@ -288,7 +288,7 @@ msgstr "Riscuoti fondi"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr "Reclama fondi tramite textcoin"
+msgstr "Riscuoti fondi tramite textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
@@ -994,7 +994,7 @@ msgstr "Preferenze"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "Premi ancora per uscire"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
@@ -1580,7 +1580,7 @@ msgstr "Attenzione!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr "È stato reclamato?"
+msgstr "È stato riscosso?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
@@ -1673,15 +1673,15 @@ msgstr ""
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "annulla creazione portafoglio"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "riscosso da {{btx.claimedByMe?'me':'receiver'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
-msgstr ""
+msgstr "cancella lo storico della chat"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
@@ -1734,7 +1734,7 @@ msgstr "bloccati da pagamenti in sospeso"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr "non rivendicato"
+msgstr "non riscosso"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -1764,11 +1764,11 @@ msgstr "postato"
 
 #: public/views/modals/tx-details.html:142
 msgid "re-send private payloads"
-msgstr ""
+msgstr "ri-invia i payload privati"
 
 #: public/views/modals/tx-details.html:145
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "ri-invia i payload privati ai co-firmatari"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
@@ -1821,7 +1821,7 @@ msgstr ""
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
-msgstr ""
+msgstr "{{cancel_label || 'Annulla'}}"
 
 #: src/js/controllers/walletHome.js:1662
 msgid "{{fee}} will be deducted for bitcoin networking fees"
@@ -1829,7 +1829,7 @@ msgstr "{{fee}} verranno detratti come commissione del network"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "{{hrd.destinationAddress}} può essere speso se:"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
@@ -1842,5 +1842,5 @@ msgstr "{{item.m}}-di-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'Access':'Spento'}}"
 
