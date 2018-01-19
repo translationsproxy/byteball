@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-01-19 15:31-0500\n"
+"PO-Revision-Date: 2018-01-19 15:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -896,7 +896,7 @@ msgstr "Dispositivos emparelhados"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Código de emparelhamento"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
@@ -985,7 +985,7 @@ msgstr ""
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Poste seus dados de perfil, qualquer coisa que queira dizer sobre você mesmo."
 
 #: public/views/walletHome.html:175
 #: public/views/walletHome.html:47
@@ -1241,7 +1241,7 @@ msgstr "Compartilhar endereço"
 
 #: public/views/walletHome.html:280
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "Compartilhe este endereço de carteira para receber pagamentos."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
@@ -1307,7 +1307,7 @@ msgstr "Sweep carteira de papel"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr ""
+msgstr "Sincronizando... {{index.count_unhandled_private_payments}} pagamentos privados restantes"
 
 #: public/views/walletHome.html:82
 msgid "Syncing... {{index.syncProgress}}"
@@ -1689,11 +1689,11 @@ msgstr ""
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "criado"
 
 #: public/views/modals/offer-contract.html:108
 msgid "days"
-msgstr ""
+msgstr "dias"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
@@ -1734,7 +1734,7 @@ msgstr "bloqueado por pagamentos pendentes"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "não reinvidicados"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -1748,11 +1748,11 @@ msgstr "opcional"
 
 #: public/views/modals/offer-contract.html:99
 msgid "or"
-msgstr ""
+msgstr "ou"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "ou faça o backup de todos os dados do Byteball em"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
@@ -1760,7 +1760,7 @@ msgstr ""
 
 #: public/views/modals/bind.html:60
 msgid "posted"
-msgstr ""
+msgstr "submetido"
 
 #: public/views/modals/tx-details.html:142
 msgid "re-send private payloads"
@@ -1772,7 +1772,7 @@ msgstr ""
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "enviar e-mail"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1783,11 +1783,11 @@ msgstr ""
 #: src/js/controllers/walletHome.js:942
 #: src/js/controllers/walletHome.js:981
 msgid "sending"
-msgstr ""
+msgstr "enviando"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "compartilhar novamente"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
