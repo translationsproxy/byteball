@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-01-19 08:50-0500\n"
+"PO-Revision-Date: 2018-01-19 09:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -19,7 +19,7 @@ msgstr "(O site não verá o seu saldo e nenhum dinheiro será gasto)"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
-msgstr "(gasto duplo possível)"
+msgstr "(Possível gasto duplo)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
