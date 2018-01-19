@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-01-19 16:01-0500\n"
+"PO-Revision-Date: 2018-01-19 16:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1267,7 +1267,7 @@ msgstr "Carteira de endereço único"
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "Carteiras de endereço único não vão gerar novos endereços para cada transação. A mudança sempre irá para o único endereço que a carteira contém."
 
 #: src/js/services/profileService.js:318
 msgid "Small Expenses Wallet"
@@ -1651,7 +1651,7 @@ msgstr "Sua carteira será criada neste dispositivo, mantenha-a segura! Veja sua
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[ Adicionar novo dispositivo co-signatário ]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
