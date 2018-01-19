@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-01-19 15:41-0500\n"
+"PO-Revision-Date: 2018-01-19 15:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1359,7 +1359,7 @@ msgstr "A carteira “{{walletName}}” foi removida"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "O fornecedor da carteira será capaz de conhecer alguns de seus saldos e também será capaz de ver quais transações são suas, mas você pode começar usando a carteira imediatamente e ela será totalmente funcional."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
@@ -1371,7 +1371,7 @@ msgstr "Não existem carteiras para realizar este pagamento"
 
 #: public/views/walletHome.html:279
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr ""
+msgstr "Este endereço é compartilhado com {{index.shared_address_cosigners}}."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
@@ -1383,7 +1383,7 @@ msgstr "Este é um ativo privado, por favor envie apenas clicando em links no ch
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "Esta opção é melhor para a privacidade, mas serão necessários vários gigabytes de armazenamento e a sincronização inicial levará vários dias. A carga de CPU será alta durante a sincronização."
 
 #: public/views/walletHome.html:417
 msgid "This payment is bound to a condition"
@@ -1395,7 +1395,7 @@ msgstr "Esta transação tornou-se inválida; possivelmente devido a uma tentati
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "Esta carteira não pode ser convertida em uma carteira de endereço único, pois ou ela já consiste de vários endereços ou é multidevice"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
@@ -1412,11 +1412,11 @@ msgstr "Para"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "Para ser capaz de restaurar tudo, por favor crie um backup completo (encontre a opção no menu)"
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "Para ser capaz de enviar dados arbitrários na rede Byteball, por favor alterne para uma carteira de endereço único primeiro ou crie uma."
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
