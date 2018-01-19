@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-01-19 09:41-0500\n"
+"PO-Revision-Date: 2018-01-19 15:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -164,15 +164,15 @@ msgstr ""
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
-msgstr ""
+msgstr "Atestado"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "Atualizar automaticamente a lista de testemunhas a partir do hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "Atualizar automaticamente a lista de testemunhas a partir do hub"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -234,7 +234,7 @@ msgstr "Loja de bot"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Tanto você quanto {{correspondent.name}} habilitaram a gravação local do histórico do chat."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
