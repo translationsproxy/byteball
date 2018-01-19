@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-01-19 15:50-0500\n"
+"PO-Revision-Date: 2018-01-19 16:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1436,7 +1436,7 @@ msgstr "Para o email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr ""
+msgstr "Para proteger sua privacidade, novos endereços são gerados automaticamente, assim você os utiliza uma unica vez."
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
@@ -1584,7 +1584,7 @@ msgstr ""
 
 #: public/views/walletHome.html:328
 msgid "What to send"
-msgstr ""
+msgstr "O que enviar"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
@@ -1647,7 +1647,7 @@ msgstr "A sua chave de carteira será encriptada. A senha não pode ser recupera
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "Sua carteira será criada neste dispositivo, mantenha-a segura! Veja suas opções de backup no menu Configurações."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
@@ -1685,7 +1685,7 @@ msgstr "limpar histórico do bate-papo"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "copie o texto abaixo e envie-o para o destinatário através de qualquer aplicativo de mensagens, ou imprima-o em um papel"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
