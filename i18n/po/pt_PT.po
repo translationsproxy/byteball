@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-01-12 09:30-0500\n"
+"PO-Revision-Date: 2018-01-18 19:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1262,7 +1262,7 @@ msgstr "Assinar transação de despesa a partir da carteira?"
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Carteira de endereço único"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
@@ -1315,7 +1315,7 @@ msgstr "Sincronizando... {{index.syncProgress}}"
 
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
-msgstr ""
+msgstr "TOR"
 
 #: public/views/walletHome.html:116
 #: public/views/walletHome.html:121
@@ -1363,7 +1363,7 @@ msgstr ""
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
-msgstr ""
+msgstr "A preferência de gravação deles"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
@@ -1432,7 +1432,7 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "Para o email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
