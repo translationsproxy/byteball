@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-01-19 15:11-0500\n"
+"PO-Revision-Date: 2018-01-19 15:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -264,7 +264,7 @@ msgstr "Cancelar"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr ""
+msgstr "Alteração de hub:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
@@ -296,11 +296,11 @@ msgstr ""
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "Clique no botão para <span ng-if=\"isResend\">re</span>enviar o e-mail"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "Clique neste botão para criar o pagamento e compartilhá-lo via mensagem privada em aplicativos de bate-papo"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -466,7 +466,7 @@ msgstr "Dados"
 
 #: public/views/walletHome.html:332
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Dados no feed de dados"
 
 #: public/views/modals/tx-details.html:85
 msgid "Date"
@@ -525,11 +525,11 @@ msgstr "Nome do dispositivo é visível a outros dispositivos com que comunica. 
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Não clone carteiras, pare de usar a carteira original com este seed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Não use isso para clonar a carteira."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -546,7 +546,7 @@ msgstr "Descarregar ficheiro CSV"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Faça o download de toda a base de dados Byteball"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -555,7 +555,7 @@ msgstr "Editar"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr ""
+msgstr "Ou você ou {{correspondent.name}} possui(em) a gravação local do histórico do chat desativada. Portanto o histórico não será salvo pra ninguém."
 
 #: public/views/preferencesEmail.html:33
 msgid "Email for wallet notifications"
@@ -633,7 +633,7 @@ msgstr "COMEÇAR"
 
 #: src/js/controllers/walletHome.js:418
 msgid "Generate QR Code"
-msgstr ""
+msgstr "Gerar QR Code"
 
 #: public/views/walletHome.html:288
 msgid "Generate new address"
