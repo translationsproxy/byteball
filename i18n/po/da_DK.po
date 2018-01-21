@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-21 17:11-0500\n"
+"PO-Revision-Date: 2018-01-21 17:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1825,7 +1825,7 @@ msgstr "{{cancel_label || 'Fortryd'}}"
 
 #: src/js/controllers/walletHome.js:1662
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr "{{fee}} vil blive fratrukket til transaktionsgebyr på bitcoin-netværket"
+msgstr "{{fee}} vil blive fratrukket til transaktionsgebyr til bitcoin-netværket"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
