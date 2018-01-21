@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-15 17:21-0500\n"
+"PO-Revision-Date: 2018-01-21 17:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -338,7 +338,7 @@ msgstr "Farve"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr "Sendt hash"
+msgstr "Commit hash"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
@@ -789,7 +789,7 @@ msgstr "Mig"
 
 #: public/views/modals/tx-details.html:104
 msgid "Merchant message"
-msgstr "Besked til handlende"
+msgstr "Besked fra butik"
 
 #: public/views/walletHome.html:430
 msgid "Merkle proof"
