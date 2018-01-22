@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-22 16:50-0500\n"
+"PO-Revision-Date: 2018-01-22 17:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -192,11 +192,11 @@ msgstr "Tilbage"
 
 #: public/views/walletHome.html:232
 msgid "Backup now"
-msgstr "Sikkerhedskopiér nu"
+msgstr "Lav sikkerhedskopi"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "Sikkerhedskopiér wallet-seed"
+msgstr "Lav sikkerhedskopi af wallet-seed"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -204,11 +204,11 @@ msgstr "Backup-ord slettet"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr "Balance per adresse"
+msgstr "Saldo per adresse"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "Før du begynder at modtage beløb, anbefales det, at du foretager backup af dine wallet-nøgler."
+msgstr "Før du begynder at modtage beløb, anbefales det, at du laver backup af dine wallet-nøgler."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -417,7 +417,7 @@ msgstr "Import mislykkedes. Tjek input-fil og adgangskode"
 
 #: src/js/controllers/walletHome.js:51
 msgid "Could not recognize a valid Byteball QR Code"
-msgstr "Gyldig Byteball QR-kode kunne ikke findes"
+msgstr "Gyldig Byteball QR-kode blev ikke fundet"
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not send payment"
@@ -605,7 +605,7 @@ msgstr "Gebyr"
 
 #: public/views/modals/tx-details.html:110
 msgid "Finality"
-msgstr "Endeligt resultat"
+msgstr "Resultat"
 
 #: public/views/modals/tx-details.html:60
 msgid "From"
