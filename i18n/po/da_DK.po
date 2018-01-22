@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-01-22 17:01-0500\n"
+"PO-Revision-Date: 2018-01-22 17:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -653,7 +653,7 @@ msgstr "Generelle indstillinger"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
-msgstr "Gå tilbage"
+msgstr "Tilbage"
 
 #: public/views/preferences.html:48
 msgid "Hardware wallet"
@@ -693,7 +693,7 @@ msgstr "Jeg betaler"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr "Jeg modtager en anden betaling af"
+msgstr "Jeg modtager en anden betaling på"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
@@ -725,7 +725,7 @@ msgstr "Importerer wallet..."
 
 #: public/views/walletHome.html:133
 msgid "Including pending confirmation"
-msgstr "Heraf afventende bekræftelse af"
+msgstr "Heraf afventer bekræftelse"
 
 #: public/views/walletHome.html:602
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
