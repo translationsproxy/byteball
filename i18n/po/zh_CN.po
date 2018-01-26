@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-01-17 12:50-0500\n"
+"PO-Revision-Date: 2018-01-26 00:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr "(站点看不到你的余额，因此不能花费)"
+msgstr "(站点不会看到你的钱包金额，也无需花费任何费用)"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
@@ -1456,7 +1456,7 @@ msgstr "交易历史<br>下载完毕"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
-msgstr "翻译积分"
+msgstr "翻译人员"
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
