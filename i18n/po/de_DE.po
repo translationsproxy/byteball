@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-01-29 14:50-0500\n"
+"PO-Revision-Date: 2018-01-29 15:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1394,12 +1394,12 @@ msgstr "Diese Transaktion ist ungültig; dies kann durch eine versuchte Doppelza
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr "Dieses Wallet kann nicht zu einer Einzeladdresse konvertiert werden, da es schon mehrere Addressen enthält oder ein Multigerät ist"
+msgstr "Dieses Wallet kann nicht zu einer Einzeladdresse konvertiert werden, da es schon mehrere Addressen enthält oder ein Multigeräte-Wallet ist"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
-msgstr "Hiermit werden sofort all Ihre existierenden Brieftaschen gelöscht!"
+msgstr "Hiermit werden sofort alle bestehenden Wallets gelöscht!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
