@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-01-29 14:10-0500\n"
+"PO-Revision-Date: 2018-01-29 14:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1148,7 +1148,7 @@ msgstr "Scanne bitte deinen Fingerabdruck"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
-msgstr "Prüfe Wallet-Beträge..."
+msgstr "Prüfe Wallet auf neue Beträge..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
@@ -1358,7 +1358,7 @@ msgstr "Wallet \"{{walletName}}\" wurde gelöscht"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr "Der Wallet Anbieter ist in der Lage Ihren Kontostand zu sehen und welche Transaktionen Ihnen zuzuordnen sind, aber sie können die vollfunktionsfähige Wallet sofort zu nutzen."
+msgstr "Der Wallet-Anbieter wird in der Lage sein einige Ihrer Guthaben zu identifizieren und Ihre Transaktionen zuordnen, aber Sie können die Wallet sofort nutzen und sie ist voll funktionsfähig."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
