@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-01-30 03:00-0500\n"
+"PO-Revision-Date: 2018-01-30 03:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -234,7 +234,7 @@ msgstr "Bot Marktplatz"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr "Sie und {{correspondent.name}} verwenden die Chat Historisierung."
+msgstr "Sie und {{correspondent.name}} haben die lokale Chat Aufzeichnung aktiviert."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -1717,7 +1717,7 @@ msgstr "Stunden"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
-msgstr "wenn ein Orakel ein Ereignis meldet"
+msgstr "wenn ein Orakel ein Ereignis bekannt gibt"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
@@ -1743,7 +1743,7 @@ msgstr "auf Feed Namen"
 #: public/views/walletHome.html:431
 #: public/views/walletHome.html:442
 msgid "optional"
-msgstr "zusätzlich"
+msgstr "optional"
 
 #: public/views/modals/offer-contract.html:99
 msgid "or"
