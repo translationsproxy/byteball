@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-01-30 02:50-0500\n"
+"PO-Revision-Date: 2018-01-30 03:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1717,7 +1717,7 @@ msgstr "Stunden"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
-msgstr "wenn ein Orakel ein Event postet"
+msgstr "wenn ein Orakel ein Ereignis meldet"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
