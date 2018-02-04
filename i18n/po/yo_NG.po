@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-02-04 12:00-0500\n"
+"PO-Revision-Date: 2018-02-04 12:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -208,16 +208,16 @@ msgstr "Afeyinti Nipa Adiresi"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "Saaju gbigba owo, a ni iseduro niyanju lati se afeyinti awon botini apamowo re."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Dara sibe, lo awon apamowo multisigi pelu apoju,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr ""
+msgstr "Fowo owo sisan"
 
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
