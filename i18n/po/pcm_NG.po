@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-04 03:00-0500\n"
+"PO-Revision-Date: 2018-02-04 03:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -649,7 +649,7 @@ msgstr "Getting address for wallet {{selectedWalletName}} ..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "Global preferences"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
