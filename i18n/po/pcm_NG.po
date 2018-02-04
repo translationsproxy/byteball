@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-04 00:30-0500\n"
+"PO-Revision-Date: 2018-02-04 00:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -50,67 +50,67 @@ msgstr "Accept invitation from de oda device"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
-msgstr ""
+msgstr "Account"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Add Bot"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
-msgstr ""
+msgstr "Join new device"
 
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr ""
+msgstr "Add new entry"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
-msgstr ""
+msgstr "Add fields"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
-msgstr ""
+msgstr "Add wallet"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "Added"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
 #: public/views/paymentUri.html:15
 msgid "Address"
-msgstr ""
+msgstr "Address"
 
 #: public/views/walletHome.html:507
 msgid "Address to attest"
-msgstr ""
+msgstr "Address to attest"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
 msgid "Addressbook"
-msgstr ""
+msgstr "Addressbook"
 
 #: public/views/preferences.html:56
 msgid "Advanced"
-msgstr ""
+msgstr "Advanced"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
-msgstr ""
+msgstr "Agree"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
-msgstr ""
+msgstr "Alias for <i>{{index.walletName}}</i>"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr ""
+msgstr "All Wallet Addresses"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr ""
+msgstr "Dem welcome all contributions to Byteball translation. Signup for crowdin.com and join de Byteball project for"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
