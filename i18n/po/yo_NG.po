@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-02-04 11:51-0500\n"
+"PO-Revision-Date: 2018-02-04 12:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -160,23 +160,23 @@ msgstr "Dukia"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Wiwa data profaili ti a sopo si eyikeyi adiresi Byteballu."
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
-msgstr ""
+msgstr "Ifarahan"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "Imudara aifowoyi ni akojo eri lati ibudo"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "Imudara aifowoyi ni akojo eri lati ibudo"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr ""
+msgstr "Atunwo to wa"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -188,23 +188,23 @@ msgstr ""
 #: public/views/modals/destination-address.html:9
 #: public/views/modals/tx-details.html:5
 msgid "Back"
-msgstr ""
+msgstr "Pada"
 
 #: public/views/walletHome.html:232
 msgid "Backup now"
-msgstr ""
+msgstr "Afeyinti bayi"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "Apamowo apo-afeyinti"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr ""
+msgstr "Awon oro afeyinti paare"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "Afeyinti Nipa Adiresi"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
