@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-02-04 12:20-0500\n"
+"PO-Revision-Date: 2018-02-04 12:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -222,19 +222,19 @@ msgstr "Fowo owo sisan"
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
 msgid "Bind the payment to a condition"
-msgstr ""
+msgstr "Fi owo si owo ipo kan"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr ""
+msgstr "URL ti Bitcoinu ko ni wulo!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr ""
+msgstr "Itaja Botu"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Eyanmejeji ati iwo {{oniyorin.oruko}} jeki gbigbasile igbasile itan itanran agbegbe."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
