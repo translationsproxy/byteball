@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-05 14:01-0500\n"
+"PO-Revision-Date: 2018-02-05 14:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,7 +23,7 @@ msgstr "(Possível gasto duplo)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- Selecionar o fiador --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
@@ -701,7 +701,7 @@ msgstr "Se a condição não for atingida, posso reaver este dinheiro depois de"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Se o correspondente não pagar, eu posso ter o meu dinheiro de volta depois"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -751,7 +751,7 @@ msgstr "Convidar o outro dispositivo"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Só a seed da carteira não é suficiente. Com só a seed, não vais conseguir restaurar as carteiras de multisig e bens privados, como blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -949,7 +949,7 @@ msgstr "Pagamento Enviado"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "Correspondente:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -1580,7 +1580,7 @@ msgstr "Atenção!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "Foi reivindicado?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
@@ -1718,7 +1718,7 @@ msgstr "horas"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
-msgstr ""
+msgstr "se um evento é postado por um oráculo"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
@@ -1756,7 +1756,7 @@ msgstr "ou faça o backup de todos os dados do Byteball em"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr ""
+msgstr "pagamentos dos correspondentes"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
@@ -1764,11 +1764,11 @@ msgstr "submetido"
 
 #: public/views/modals/tx-details.html:142
 msgid "re-send private payloads"
-msgstr ""
+msgstr "re-enviar cargas privadas"
 
 #: public/views/modals/tx-details.html:145
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "re-enviar cargas privadas para fiadores"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
