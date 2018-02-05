@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-05 13:31-0500\n"
+"PO-Revision-Date: 2018-02-05 13:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -633,7 +633,7 @@ msgstr "COMEÇAR"
 
 #: src/js/controllers/walletHome.js:418
 msgid "Generate QR Code"
-msgstr "Gerar QR Code"
+msgstr "Gerar código QR"
 
 #: public/views/walletHome.html:288
 msgid "Generate new address"
@@ -888,7 +888,7 @@ msgstr "Ou"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr "Par"
+msgstr "Emparelhar"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
@@ -973,7 +973,7 @@ msgstr "Nomeie este dispositivo"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr "Porto"
+msgstr "Porta"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
@@ -1044,7 +1044,7 @@ msgstr "Recuperar"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr "Recuperação a partir de seed"
+msgstr "Recuperação a partir da seed"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
