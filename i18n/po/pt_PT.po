@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-05 13:40-0500\n"
+"PO-Revision-Date: 2018-02-05 14:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -288,11 +288,11 @@ msgstr "Coletar fundos"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Reivindicar fundos por textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Reivindicação de fundos usando textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
@@ -1661,7 +1661,7 @@ msgstr "quantidade"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "um evento é postado por um oráculo"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1697,11 +1697,11 @@ msgstr "dias"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "por exemplo, carteira de 1-de-2 com uma chave neste dispositivo e outra chave no seu computador portátil."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "por exemplo, carteira de 1-de-2 com uma chave neste dispositivo e outra chave no seu smartphone."
 
 #: public/views/modals/bind.html:72
 msgid "either way"
