@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-05 14:11-0500\n"
+"PO-Revision-Date: 2018-02-05 14:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -977,11 +977,11 @@ msgstr "Porta"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Poste valores chave arbitrários dos dados na rede Byteball."
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Poste valores em datafeeds manualmente, seja um oráculo."
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
@@ -1350,7 +1350,7 @@ msgstr "O correspondente recebe este pagamento se"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "O voto vai ser subscrito por todos os seus endereços com fundos"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
@@ -1618,7 +1618,7 @@ msgstr "Sim"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "Você não pode vincular sua transação para reverter o pagamento porque está em carteira com um único endereço.  Use uma carteira não-simples e depois transfira o dinheiro para esta carteira."
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
