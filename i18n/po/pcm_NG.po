@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-04 03:10-0500\n"
+"PO-Revision-Date: 2018-02-05 00:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -354,40 +354,40 @@ msgstr "Confam"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr ""
+msgstr "Confam Vote"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
-msgstr ""
+msgstr "Confam payment"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "Confam vote"
 
 #: public/views/modals/tx-details.html:115
 msgid "Confirmed"
-msgstr ""
+msgstr "E don confam"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:389
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "E don copy to clipboard"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr ""
+msgstr "Correspondents nor restored."
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not create payment proposal"
-msgstr ""
+msgstr "E nor fit create payment proposal"
 
 #: src/js/services/profileService.js:265
 msgid "Could not create using the specified extended private key"
-msgstr ""
+msgstr "E nor fit create using extended private key"
 
 #: src/js/services/profileService.js:275
 msgid "Could not create using the specified extended public key"
