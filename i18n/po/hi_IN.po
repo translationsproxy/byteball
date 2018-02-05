@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2017-12-25 11:32-0500\n"
+"PO-Revision-Date: 2018-02-05 18:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -454,7 +454,7 @@ msgstr "प्रोफ़ाइल बन रहा है..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr "वॉलेट  बन रहा है..."
+msgstr "वॉलेट बनाना..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
