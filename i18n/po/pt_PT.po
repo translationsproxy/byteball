@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-05 14:21-0500\n"
+"PO-Revision-Date: 2018-02-05 14:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1420,7 +1420,7 @@ msgstr "Para ser capaz de enviar dados arbitrários na rede Byteball, por favor 
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr ""
+msgstr "Para vincular o pagamento a uma condição, por favor clique no endereço do correspondente no chat"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
@@ -1739,7 +1739,7 @@ msgstr "não reinvidicados"
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "em nome do feed"
 
 #: public/views/walletHome.html:431
 #: public/views/walletHome.html:442
