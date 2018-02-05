@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-01-19 16:11-0500\n"
+"PO-Revision-Date: 2018-02-05 13:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -135,7 +135,7 @@ msgstr "Além disso, não se esqueça de apagar a sua seed"
 #: public/views/paymentUri.html:16
 #: public/views/walletHome.html:367
 msgid "Amount"
-msgstr "﻿Valor"
+msgstr "Quantia"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -204,7 +204,7 @@ msgstr "Palavras de backup eliminadas"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr "Balanço por endereço"
+msgstr "Saldo por endereço"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
@@ -217,7 +217,7 @@ msgstr "Melhor ainda, use multisig carteiras com redundância,"
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr "Vincular pagamento"
+msgstr "Enviar Pagamento"
 
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
