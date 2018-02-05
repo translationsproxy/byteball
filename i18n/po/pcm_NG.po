@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-05 13:00-0500\n"
+"PO-Revision-Date: 2018-02-05 13:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -529,24 +529,24 @@ msgstr "Nor clone wallets, stop to dey use original wallets with dis seed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Nor use am take clone de wallet."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr ""
+msgstr "You nor see your language for Crowdin? Contact de owner for Crowdin! We go love to support your language."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr ""
+msgstr "Done"
 
 #: public/views/walletHome.html:678
 msgid "Download CSV file"
-msgstr ""
+msgstr "Download CSV file"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Download de total Byteball database"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
