@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-05 01:40-0500\n"
+"PO-Revision-Date: 2018-02-05 12:52-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -478,7 +478,7 @@ msgstr "Declined"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr ""
+msgstr "To decrypt a paper wallet fit take 5 minutes for dis device. abeg dey patient and keep de app dey open."
 
 #: public/views/walletHome.html:179
 msgid "Definition"
