@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-05 00:40-0500\n"
+"PO-Revision-Date: 2018-02-05 01:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -391,29 +391,29 @@ msgstr "E nor fit create using extended private key"
 
 #: src/js/services/profileService.js:275
 msgid "Could not create using the specified extended public key"
-msgstr ""
+msgstr "E nor fit create using de extended private key"
 
 #: src/js/services/profileService.js:258
 msgid "Could not create: Invalid wallet seed"
-msgstr ""
+msgstr "E nor fit create: de wallet seed dey invalid"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr ""
+msgstr "E nor fit decrypt am"
 
 #: public/views/walletHome.html:583
 msgid "Could not fetch transaction history"
-msgstr ""
+msgstr "E nor fit bring de transaction history"
 
 #: src/js/services/profileService.js:490
 #: src/js/services/profileService.js:517
 #: src/js/services/profileService.js:539
 msgid "Could not import"
-msgstr ""
+msgstr "E nor fit import am"
 
 #: src/js/services/profileService.js:467
 msgid "Could not import. Check input file and password"
-msgstr ""
+msgstr "E nor fit import. Check de input file and password"
 
 #: src/js/controllers/walletHome.js:51
 msgid "Could not recognize a valid Byteball QR Code"
