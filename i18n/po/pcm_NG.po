@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-06 13:30-0500\n"
+"PO-Revision-Date: 2018-02-06 14:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1052,7 +1052,7 @@ msgstr "E dey recreate wallet..."
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
-msgstr ""
+msgstr "Refused"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
