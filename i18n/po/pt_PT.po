@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-06 11:00-0500\n"
+"PO-Revision-Date: 2018-02-06 11:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -681,7 +681,7 @@ msgstr "Plataforma"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr "URL do Hub"
+msgstr "URL da plataforma"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
