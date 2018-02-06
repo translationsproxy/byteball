@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-02-06 12:20-0500\n"
+"PO-Revision-Date: 2018-02-06 14:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -288,7 +288,7 @@ msgstr "Revendică fonduri"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Revendică fonduri prin textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
@@ -1734,7 +1734,7 @@ msgstr "blocat de plăți în așteptare"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "nu a fost revendicat"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -1772,7 +1772,7 @@ msgstr "re-trimite plăâile private pentru co-semnatari"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "trimite email"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
