@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-02-05 18:40-0500\n"
+"PO-Revision-Date: 2018-02-06 03:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr ""
+msgstr "(ये site आपका शेष नहीं देखेगा और कोई भी अफपका रुपया ख़र्च नहीं करेगा)"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
@@ -27,7 +27,7 @@ msgstr "--सह-हस्ताक्षरकर्ता चुने--"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "डैश से अलग किए गए १२ शब्द"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -46,7 +46,7 @@ msgstr "निमंत्रण स्वीकारें"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr ""
+msgstr "अंय डिवाइस से आमंत्रण स्वीकार करें"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
@@ -63,11 +63,11 @@ msgstr "नया डिवाइस जोड़ें"
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr ""
+msgstr "नया उपयोगकर्ता जोड़ें"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
-msgstr ""
+msgstr "नया क्षेत्र जोड़े"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
