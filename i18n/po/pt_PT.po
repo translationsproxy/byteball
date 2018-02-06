@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-06 11:30-0500\n"
+"PO-Revision-Date: 2018-02-06 11:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1275,7 +1275,7 @@ msgstr "Carteira de Pequenas Despesas"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr "Especifique Seed..."
+msgstr "Especifique a Seed..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
@@ -1342,7 +1342,7 @@ msgstr "O hub para receber mensagens de outros dispositivos."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr "O hub sugere substituir as seguintes testemunhos:"
+msgstr "O hub sugere substituir os seguintes testemunhos:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
@@ -1681,7 +1681,7 @@ msgstr "reinvidicado por {{btx.claimedByMe?'me':'receiver'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
-msgstr "limpar histórico do bate-papo"
+msgstr "limpar histórico do chat"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
@@ -1734,7 +1734,7 @@ msgstr "bloqueado por pagamentos pendentes"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr "não reinvidicados"
+msgstr "não reinvidicado"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -1825,7 +1825,7 @@ msgstr "{cancel_label || 'Cancelar'}"
 
 #: src/js/controllers/walletHome.js:1662
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr "{{fee}} será deduzido para despesas da rede bitcoin"
+msgstr "{{fee}} será deduzido para taxas da rede bitcoin"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
