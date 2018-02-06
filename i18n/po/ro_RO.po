@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2017-12-25 11:31-0500\n"
+"PO-Revision-Date: 2018-02-06 11:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "--Selectați co-semnatar--"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 cuvinte separate prin cratime"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
