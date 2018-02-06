@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-06 11:10-0500\n"
+"PO-Revision-Date: 2018-02-06 11:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -685,7 +685,7 @@ msgstr "URL da plataforma"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
-msgstr "Afirmo que li, compreendi e concordo comos termos."
+msgstr "Afirmo que li, compreendi e concordo com os termos."
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
@@ -697,7 +697,7 @@ msgstr "Recebo outro pagamento de"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr "Se a condição não for atingida, posso reaver este dinheiro depois de"
+msgstr "Se a condição não for atingida, posso reaver este dinheiro depois"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
