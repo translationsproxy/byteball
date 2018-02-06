@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-02-06 14:30-0500\n"
+"PO-Revision-Date: 2018-02-06 16:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -292,7 +292,7 @@ msgstr "Revendică fonduri prin textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Revedincă fonduri folosind textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
@@ -884,7 +884,7 @@ msgstr "Deschideţi Chat"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "Sau"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1232,7 +1232,7 @@ msgstr "Setări"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Distribuie"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1245,7 +1245,7 @@ msgstr "Partajaţi acestă adresă a portofelului pentru a primi plăţi."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Distribuie prin mesaj"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
@@ -1334,7 +1334,7 @@ msgstr "Mesaj text către"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
