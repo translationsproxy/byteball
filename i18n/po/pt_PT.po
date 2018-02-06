@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-06 10:50-0500\n"
+"PO-Revision-Date: 2018-02-06 11:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -379,7 +379,7 @@ msgstr "Copiado para a área de transferencia"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr "Correspondentes não restaurados"
+msgstr "Correspondentes não são restaurados."
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not create payment proposal"
@@ -805,7 +805,7 @@ msgstr "Movido"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr "Carteira Multidispositivo"
+msgstr "Carteira Multidispositivos"
 
 #: public/views/walletHome.html:240
 msgid "My Byteball address"
@@ -1098,7 +1098,7 @@ msgstr "Requisitar pagamento"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
-msgstr "Número de assinaturas requerido"
+msgstr "Número de assinaturas requeridas"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
@@ -1133,7 +1133,7 @@ msgstr "Digitalizar impressão digital"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr "Digitalizar Fundos de Carteira"
+msgstr "Verificar Fundos de Carteira"
 
 #: public/views/walletHome.html:120
 msgid "Scan status finished with error"
