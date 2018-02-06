@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-05 14:30-0500\n"
+"PO-Revision-Date: 2018-02-06 10:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -284,7 +284,7 @@ msgstr "Escolher dispositivo para envio"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr "Coletar fundos"
+msgstr "Reivindicar fundos"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
@@ -413,7 +413,7 @@ msgstr "Não foi possível importar"
 
 #: src/js/services/profileService.js:467
 msgid "Could not import. Check input file and password"
-msgstr "Não foi possível importar. Verifique o arquivo de entrada e senha"
+msgstr "Não foi possível importar. Verifique o arquivo de entrada e a senha"
 
 #: src/js/controllers/walletHome.js:51
 msgid "Could not recognize a valid Byteball QR Code"
