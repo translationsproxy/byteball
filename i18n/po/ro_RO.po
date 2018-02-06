@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-02-06 11:00-0500\n"
+"PO-Revision-Date: 2018-02-06 12:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -284,7 +284,7 @@ msgstr "Alege dispozitivul pentru a trimite"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "Revendică fonduri"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
@@ -1424,15 +1424,15 @@ msgstr "Pentru a lega plata la o condiţie, apăsați pe adresa peer-ului în ch
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "Către adresa de byteball"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "Către adresa de byteball sau email"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "Către email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1580,7 +1580,7 @@ msgstr "Avertisment!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "A fost revendicat?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
@@ -1787,7 +1787,7 @@ msgstr "se trimite"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "distribuie din nou"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
