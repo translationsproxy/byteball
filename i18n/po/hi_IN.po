@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-02-06 03:00-0500\n"
+"PO-Revision-Date: 2018-02-06 03:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -75,7 +75,7 @@ msgstr "वॉलेट जोड़ें"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "जोड़ा गया"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
