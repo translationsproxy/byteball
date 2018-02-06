@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-06 11:40-0500\n"
+"PO-Revision-Date: 2018-02-06 12:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -322,7 +322,7 @@ msgstr "Fechar"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
-msgstr "Consignatário"
+msgstr "Consignatário {{$index+1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
@@ -330,7 +330,7 @@ msgstr "Consignatários"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr "Consignatários  "
+msgstr "Consignatários para o multisig"
 
 #: public/views/preferences.html:29
 msgid "Color"
