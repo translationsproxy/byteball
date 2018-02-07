@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-07 04:00-0500\n"
+"PO-Revision-Date: 2018-02-07 04:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1469,31 +1469,31 @@ msgstr "E nor fit dey able to send transaction proposal"
 #: public/views/modals/tx-details.html:112
 #: public/views/walletHome.html:639
 msgid "Unconfirmed"
-msgstr ""
+msgstr "E never confam"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr ""
+msgstr "Unit for blackbytes"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr ""
+msgstr "Unit for bytes"
 
 #: public/views/walletHome.html:197
 msgid "Unsent transactions"
-msgstr ""
+msgstr "Transactions wey never send"
 
 #: public/views/walletHome.html:73
 msgid "Updating Wallet..."
-msgstr ""
+msgstr "Wallet dey update..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
-msgstr ""
+msgstr "Upgrade am to {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "De database dey upgrade, abeg wait. Sometimes e fit take several minutes."
 
 #: public/views/walletHome.html:522
 msgid "Values"
