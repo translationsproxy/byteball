@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-07 04:30-0500\n"
+"PO-Revision-Date: 2018-02-07 04:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1825,22 +1825,22 @@ msgstr "{{cancel_label || 'Cancel'}}"
 
 #: src/js/controllers/walletHome.js:1662
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr ""
+msgstr "{{fee}} go comot for bitcoin networking fees"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "{{hrd.destinationAddress}} dem fit spend am if:"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
 msgid "{{index.m}}-of-{{index.n}}"
-msgstr ""
+msgstr "{{index.m}}-of-{{index.n}}"
 
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr ""
+msgstr "{{item.m}}-of-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'On':'Off'}}"
 
