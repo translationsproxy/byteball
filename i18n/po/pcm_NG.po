@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-07 02:30-0500\n"
+"PO-Revision-Date: 2018-02-07 02:35-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1271,11 +1271,11 @@ msgstr "Single address wallet nor go release new addresses for every transaction
 
 #: src/js/services/profileService.js:318
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "Small Expenses Wallet"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr ""
+msgstr "Specify Seed..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
@@ -1497,19 +1497,19 @@ msgstr ""
 
 #: public/views/walletHome.html:522
 msgid "Values"
-msgstr ""
+msgstr "Values"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "WARNING:"
 
 #: public/views/walletHome.html:222
 msgid "WARNING: Backup needed"
-msgstr ""
+msgstr "WARNING: Dem need backup"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
