@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-07 03:41-0500\n"
+"PO-Revision-Date: 2018-02-07 03:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1424,31 +1424,31 @@ msgstr "To fit bind de payment to a condition, abeg click de peer's address for 
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "To byteball address"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "To byteball address or email"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "To email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr ""
+msgstr "To fit protect your privacy, dem dey generate new address automatically once you use dem."
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
-msgstr ""
+msgstr "Total Balance wey dey Locked"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr ""
+msgstr "Total number of co-signers"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
-msgstr ""
+msgstr "Transaction"
 
 #: public/views/walletHome.html:608
 msgid "Transactions<br> Downloaded"
