@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-07 03:31-0500\n"
+"PO-Revision-Date: 2018-02-07 03:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1391,16 +1391,16 @@ msgstr "Dem bind dis payment put for a condition"
 
 #: public/views/modals/tx-details.html:80
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr ""
+msgstr "Dis transaction don become invalid, maybe na cos of double spend attempt."
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "Dem nor go fit conver dis wallet to a single address wallet since e already consists of multiple addresses or na multidevice"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
-msgstr ""
+msgstr "Dis go delete all your wallets wey dey exist kpata-kpata!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1408,19 +1408,19 @@ msgstr ""
 #: public/views/modals/tx-details.html:65
 #: public/views/walletHome.html:651
 msgid "To"
-msgstr ""
+msgstr "To"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "To fit be able to restore everytin, abeg create a full backup (find de option for de menu)"
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "To fit be able to send arbitrary data into Byteball network, abeg switch to a single-address wallet first or create one."
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr ""
+msgstr "To fit bind de payment to a condition, abeg click de peer's address for chat"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
