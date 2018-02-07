@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-06 14:40-0500\n"
+"PO-Revision-Date: 2018-02-07 02:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1064,53 +1064,53 @@ msgstr "Remove am"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Remove a device"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
-msgstr ""
+msgstr "Rename am:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr ""
+msgstr "Repeat password"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "Repeat de password"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "Replace am"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr ""
+msgstr "Request Password"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:297
 msgid "Request a specific amount"
-msgstr ""
+msgstr "Request a specific amount"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr ""
+msgstr "Request payment"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
-msgstr ""
+msgstr "Number of signatures wey dem required"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr ""
+msgstr "Restore am from full backup"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr ""
+msgstr "E dey retry..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
-msgstr ""
+msgstr "SET"
 
 #: public/views/editCorrespondentDevice.html:41
 #: public/views/modals/destination-address.html:132
@@ -1121,98 +1121,98 @@ msgstr ""
 #: public/views/preferencesHub.html:18
 #: public/views/preferencesTor.html:19
 msgid "Save"
-msgstr ""
+msgstr "Save am"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
-msgstr ""
+msgstr "E dey save preferences..."
 
 #: public/views/preferences.html:66
 msgid "Scan Fingerprint"
-msgstr ""
+msgstr "Scan Fingerprint"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr ""
+msgstr "Scan Wallet Funds"
 
 #: public/views/walletHome.html:120
 msgid "Scan status finished with error"
-msgstr ""
+msgstr "Scan status don finish with error"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr ""
+msgstr "Scab de QR code wey dey up using de oda device, or send dis pairing code give de oda device:"
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
-msgstr ""
+msgstr "Scan your fingerprint abeg"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
-msgstr ""
+msgstr "E dey scan Wallet funds..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr ""
+msgstr "E dey scan for addresses..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
-msgstr ""
+msgstr "E dey scan wallet funds..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
-msgstr ""
+msgstr "Select a wallet"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr ""
+msgstr "Select subwallet"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "Select your identity"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:467
 #: public/views/walletHome.html:547
 #: src/js/controllers/index.js:614
 msgid "Send"
-msgstr ""
+msgstr "Send am"
 
 #: public/views/walletHome.html:319
 msgid "Send All"
-msgstr ""
+msgstr "Send All"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr ""
+msgstr "Send Payment"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr ""
+msgstr "Send address by email"
 
 #: public/views/walletHome.html:368
 msgid "Send all"
-msgstr ""
+msgstr "Send all"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
-msgstr ""
+msgstr "Send am by email"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr ""
+msgstr "E dey send funds..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
-msgstr ""
+msgstr "E dey send..."
 
 #: public/views/walletHome.html:619
 msgid "Sent"
-msgstr ""
+msgstr "E don send"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr ""
+msgstr "Session log"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
