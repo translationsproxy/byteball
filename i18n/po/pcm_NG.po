@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-07 03:01-0500\n"
+"PO-Revision-Date: 2018-02-07 03:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1299,54 +1299,54 @@ msgstr "Success"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr ""
+msgstr "Sweep Wallet"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr ""
+msgstr "Sweep am for paper wallet"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr ""
+msgstr "E dey sync... {{index.count_unhandled_private_payments}} private payments wey remain"
 
 #: public/views/walletHome.html:82
 msgid "Syncing... {{index.syncProgress}}"
-msgstr ""
+msgstr "E dey sync... {{index.syncProgress}}"
 
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
-msgstr ""
+msgstr "TOR"
 
 #: public/views/walletHome.html:116
 #: public/views/walletHome.html:121
 #: public/views/walletHome.html:584
 msgid "Tap to retry"
-msgstr ""
+msgstr "Tap am to retry"
 
 #: public/views/disclaimer.html:12
 #: public/views/preferencesAbout.html:30
 msgid "Terms of Use"
-msgstr ""
+msgstr "Terms of Use"
 
 #: public/views/correspondentDevice.html:341
 msgid "Text message to"
-msgstr ""
+msgstr "Text message to"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr ""
+msgstr "De hub wey dem for dey receive messages from oda devices."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr ""
+msgstr "De hub suggest say make dem replace de following witnesses:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "De peer go receive dis payment if"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
