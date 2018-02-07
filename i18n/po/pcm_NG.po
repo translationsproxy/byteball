@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Nigerian Pidgin\n"
 "Language: pcm_NG\n"
-"PO-Revision-Date: 2018-02-07 02:20-0500\n"
+"PO-Revision-Date: 2018-02-07 02:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1216,58 +1216,58 @@ msgstr "Session log"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "Set up a Password"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr ""
+msgstr "Set up a password"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr ""
+msgstr "If dem set up email alerts, e fit weak your privacy, if de wallet service provider dey compromised. Information wey go dey available to de attacker go come include your wallet addresses and de balance wey dey, no oda thing again."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Share am"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
 msgid "Share address"
-msgstr ""
+msgstr "Share address"
 
 #: public/views/walletHome.html:280
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "Share dis address to fit take receive payments."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Share am via message"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
-msgstr ""
+msgstr "Show all of dem"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "Still show de Wallet Seed sha"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
-msgstr ""
+msgstr "Sign transaction spending from wallet?"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Single address wallet"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "Single address wallet nor go release new addresses for every transaction, change go always go to de one and only address wey de wallet contains."
 
 #: src/js/services/profileService.js:318
 msgid "Small Expenses Wallet"
