@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-08 11:25-0500\n"
+"PO-Revision-Date: 2018-02-08 11:35-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -338,7 +338,7 @@ msgstr "Cor"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr "Commit de hash"
+msgstr "Criar \"Hash\""
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
@@ -442,7 +442,7 @@ msgstr "Criar nova carteira com  ?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr "Criar carteira {{requiredCosigners}}-of-{{totalCosigners}}"
+msgstr "Criar carteira {{requiredCosigners}}-de-{{totalCosigners}}"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -949,7 +949,7 @@ msgstr "Pagamento Enviado"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr "Correspondente:"
+msgstr "Par:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -1212,7 +1212,7 @@ msgstr "Enviado"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr "Log da sessão"
+msgstr "Registro de Sessão"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
@@ -1299,11 +1299,11 @@ msgstr "Sucesso"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr "Sweep Carteira"
+msgstr "Importar Carteira"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr "Sweep carteira de papel"
+msgstr "Importar carteira em papel"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
@@ -1420,7 +1420,7 @@ msgstr "Para ser capaz de enviar dados arbitrários na rede Byteball, por favor 
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr "Para vincular o pagamento a uma condição, por favor clique no endereço do correspondente no chat"
+msgstr "Para vincular o pagamento a uma condição, por favor clique no endereço do par no chat"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
