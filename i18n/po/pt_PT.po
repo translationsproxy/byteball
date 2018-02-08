@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-06 12:00-0500\n"
+"PO-Revision-Date: 2018-02-08 11:25-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -156,7 +156,7 @@ msgstr "Tem certeza que deseja eliminar esta carteira?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr "Recurso"
+msgstr "Ativo"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
