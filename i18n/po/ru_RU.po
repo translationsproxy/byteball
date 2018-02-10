@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-01-09 14:10-0500\n"
+"PO-Revision-Date: 2018-02-10 15:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1329,7 +1329,7 @@ msgstr "Условия использования"
 
 #: public/views/correspondentDevice.html:341
 msgid "Text message to"
-msgstr "Текстовое сообщение"
+msgstr "Текстовое сообщение для"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
@@ -1700,7 +1700,7 @@ msgstr "например, кошелёк 1-из-2, один ключ на это
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr "например, кошелёк 1-из-2, один ключ на этом устройстве, а другой ключ на смартфоне."
+msgstr "например, кошелёк 1-из-2, один ключ на этом устройстве, а другой ключ на ПК/ноутбуке."
 
 #: public/views/modals/bind.html:72
 msgid "either way"
