@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-02-10 15:10-0500\n"
+"PO-Revision-Date: 2018-02-10 15:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1795,7 +1795,7 @@ msgstr "на"
 #: public/views/walletHome.html:432
 #: public/views/walletHome.html:443
 msgid "too long!"
-msgstr "слишком много!"
+msgstr "Слишком длинно!"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
