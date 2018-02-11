@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2017-12-25 11:32-0500\n"
+"PO-Revision-Date: 2018-02-11 13:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr "(site bakiyesi gorunmuyor ve para harcanamaz)"
+msgstr "(Bu site sizin hesap bakiyenizi görmez ve para harcanmayacaktir)"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
