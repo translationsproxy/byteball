@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2017-12-25 11:31-0500\n"
+"PO-Revision-Date: 2018-02-12 05:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,11 +23,11 @@ msgstr "(möjlig dublett-spendering)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- Select co-signer --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 words separated by dashes"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -54,7 +54,7 @@ msgstr "Konto"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Add Bot"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
@@ -67,7 +67,7 @@ msgstr "Lägg till ny post"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
-msgstr ""
+msgstr "Add fields"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -75,7 +75,7 @@ msgstr "Lägg till plånbok"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "Added"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
@@ -85,7 +85,7 @@ msgstr "Adress"
 
 #: public/views/walletHome.html:507
 msgid "Address to attest"
-msgstr ""
+msgstr "Address to attest"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -114,7 +114,7 @@ msgstr "Alla bidrag till Byteballs översättningar är välkomna. Skriv upp på
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
-msgstr ""
+msgstr "Already Paid"
 
 #: public/views/walletHome.html:150
 msgid "Also"
@@ -122,11 +122,11 @@ msgstr "Även"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "Also in the Settings menu, you will find security options such as setting a password."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Also, don't forget to delete your seed"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -139,7 +139,7 @@ msgstr "Antal"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "Answer:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
@@ -160,19 +160,19 @@ msgstr "Tillgång"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Attest profile data linked to any Byteball address."
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
-msgstr ""
+msgstr "Attestation"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "Auto-update the witness list from the hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "Auto-update the witness list from this hub"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -212,7 +212,7 @@ msgstr "Före mottagande av medel, är det högst rekommenderat att ta en säker
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Better yet, use multisig wallets with redundancy,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
@@ -230,11 +230,11 @@ msgstr "Bitcoin URI är INTE giltigt!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr ""
+msgstr "Bot Store"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Both you and {{correspondent.name}} enabled local chat history recording."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -242,7 +242,7 @@ msgstr "Web-läsare inte understödd"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Byteball address"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -264,7 +264,7 @@ msgstr "Avbryt"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr ""
+msgstr "Change hub:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
@@ -272,11 +272,11 @@ msgstr "Byte av plånbokens alias påverkar endast lokala namnet"
 
 #: src/js/controllers/index.js:622
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "Choose File"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -284,23 +284,23 @@ msgstr "Välj enheten att skicka till"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "Claim funds"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Claim funds by textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Claim funds using textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "Click the button to <span ng-if=\"isResend\">re</span>send email"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "Click this button to create payment and share it via private message in chat apps"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -338,7 +338,7 @@ msgstr "Färg"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr ""
+msgstr "Commit hash"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
@@ -354,7 +354,7 @@ msgstr "Bekräfta"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr ""
+msgstr "Confirm Vote"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -362,7 +362,7 @@ msgstr "Bekräfta betalning"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "Confirm vote"
 
 #: public/views/modals/tx-details.html:115
 msgid "Confirmed"
@@ -370,7 +370,7 @@ msgstr "Bekräftat"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:389
@@ -387,11 +387,11 @@ msgstr "Kunde inte skapa betalnings-förslag"
 
 #: src/js/services/profileService.js:265
 msgid "Could not create using the specified extended private key"
-msgstr ""
+msgstr "Could not create using the specified extended private key"
 
 #: src/js/services/profileService.js:275
 msgid "Could not create using the specified extended public key"
-msgstr ""
+msgstr "Could not create using the specified extended public key"
 
 #: src/js/services/profileService.js:258
 msgid "Could not create: Invalid wallet seed"
@@ -413,7 +413,7 @@ msgstr "Kunde inte importera"
 
 #: src/js/services/profileService.js:467
 msgid "Could not import. Check input file and password"
-msgstr ""
+msgstr "Could not import. Check input file and password"
 
 #: src/js/controllers/walletHome.js:51
 msgid "Could not recognize a valid Byteball QR Code"
@@ -462,11 +462,11 @@ msgstr "TA BORT ORD"
 
 #: public/views/walletHome.html:335
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: public/views/walletHome.html:332
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Data into datafeed"
 
 #: public/views/modals/tx-details.html:85
 msgid "Date"
@@ -482,7 +482,7 @@ msgstr "Dekryptering av pappers-plånbok kan ta ca 5 minuter, ha tålamod och h�
 
 #: public/views/walletHome.html:179
 msgid "Definition"
-msgstr ""
+msgstr "Definition"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -525,7 +525,7 @@ msgstr "Enhetsnamn är synligt för andra enheter som du kommunicerar med."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Do not clone wallets, stop using the original wallet with this seed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
@@ -645,7 +645,7 @@ msgstr "Generarar ny .csv fil..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
-msgstr ""
+msgstr "Getting address for wallet {{selectedWalletName}} ..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
@@ -697,7 +697,7 @@ msgstr ""
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "If the condition is not met, I can take this money back after"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
@@ -705,7 +705,7 @@ msgstr ""
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
