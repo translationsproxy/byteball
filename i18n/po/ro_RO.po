@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-02-08 16:40-0500\n"
+"PO-Revision-Date: 2018-02-16 08:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -54,7 +54,7 @@ msgstr "Cont"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr "Adăugaţi Bot"
+msgstr "Adaugă Bot"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
