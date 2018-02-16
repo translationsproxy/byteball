@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-02-16 08:01-0500\n"
+"PO-Revision-Date: 2018-02-16 08:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -67,7 +67,7 @@ msgstr "Adăugă o nouă intrare"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
-msgstr "Adaugă Câmp"
+msgstr "Adaugă câmpuri"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -106,7 +106,7 @@ msgstr "Pseudonim pentru <i>{{index.walletName}}</i>"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr "Toate adresele din portofel"
+msgstr "Toate adresele portofelului"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
