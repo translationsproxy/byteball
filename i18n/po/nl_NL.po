@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-01-08 17:10-0500\n"
+"PO-Revision-Date: 2018-02-16 16:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -456,7 +456,7 @@ msgstr "Profiel wordt aangemaakt..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr "Portefeuille wordt aangemaakt…"
+msgstr "Portefeuille wordt aangemaakt..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
@@ -591,7 +591,7 @@ msgstr "Het exporteren is succesvol voltooid"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr "Bezig met exporteren…"
+msgstr "Bezig met exporteren..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
