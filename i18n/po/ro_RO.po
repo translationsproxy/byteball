@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-02-16 08:11-0500\n"
+"PO-Revision-Date: 2018-02-16 08:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -122,7 +122,7 @@ msgstr "De asemenea"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr "De asemenea, în meniul de setări, veţi găsi opţiunile de securitate, cum ar fi setarea unei parole."
+msgstr "De asemenea, în setări, veţi găsi opţiunile de securitate, cum ar fi setarea unei parole."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -135,7 +135,7 @@ msgstr "De asemenea, nu uitaţi să va ştergeţi seed-ul dumneavoastră"
 #: public/views/paymentUri.html:16
 #: public/views/walletHome.html:367
 msgid "Amount"
-msgstr "Valoare"
+msgstr "Sumă"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -143,11 +143,11 @@ msgstr "Răspunsuri:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr "Aproba crearea portofelului pe alte aparate"
+msgstr "Aprobă crearea portofelului pe alte aparate"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr "Ești sigur că vrei să ștergi cuvintele copie de siguranță?"
+msgstr "Ești sigur că vrei să ștergi cuvintele din copia de rezervă?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
@@ -160,7 +160,7 @@ msgstr "Resursă"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
-msgstr "Atestă datele de profil legate la orice adresă de Byteball."
+msgstr "Atestă datele de profil legate de orice adresă Byteball."
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
@@ -168,11 +168,11 @@ msgstr "Atestare"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr "Auto-actualizare a listei witness de la hub"
+msgstr "Auto-actualizare a listei martorilor de la hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr "Auto-actualizare a listei witness de la acest hub"
+msgstr "Auto-actualizare a listei martorilor de la acest hub"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -192,7 +192,7 @@ msgstr "Înapoi"
 
 #: public/views/walletHome.html:232
 msgid "Backup now"
-msgstr "Fă o copie acum"
+msgstr "Faceți o copie de rezervă acum"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
