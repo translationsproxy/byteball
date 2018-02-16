@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-02-16 16:30-0500\n"
+"PO-Revision-Date: 2018-02-16 16:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1393,7 +1393,7 @@ msgstr "Deze betaling is gekoppeld aan een voorwaarde"
 
 #: public/views/modals/tx-details.html:80
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr "Deze transactie is ongeldig geworden;  vermoedelijk door een poging van dubbele uitgave."
+msgstr "Deze transactie is ongeldig geworden; vermoedelijk door een poging van dubbele uitgave."
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
@@ -1561,7 +1561,7 @@ msgstr "Naam van portefeuille (bij aanmaken)"
 
 #: src/js/services/profileService.js:436
 msgid "Wallet already in Byteball:"
-msgstr "Portefeuille bestaat reeds in Byteball: "
+msgstr "Portefeuille bestaat reeds in Byteball:"
 
 #: public/views/create.html:48
 msgid "Wallet name"
@@ -1641,7 +1641,7 @@ msgstr "Uw wachtwoord"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr "Uw bestand van de portefeuille"
+msgstr "Uw bestand van de portefeuille:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
@@ -1732,7 +1732,7 @@ msgstr "in slimme portefeuilles"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
-msgstr "Geblokkeerd door betalingen in uitvoering"
+msgstr "geblokkeerd door betalingen in uitvoering"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
@@ -1814,7 +1814,7 @@ msgstr "met verwachte waarde van"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
-msgstr "{{address}}kan worden uitgegeven als:"
+msgstr "{{address}} kan worden uitgegeven als:"
 
 #: public/views/modals/claim-textcoin.html:36
 #: public/views/modals/customized-amount.html:76
