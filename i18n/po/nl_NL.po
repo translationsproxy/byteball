@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-02-16 16:21-0500\n"
+"PO-Revision-Date: 2018-02-16 16:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -773,7 +773,7 @@ msgstr "Later"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr "Bezig met laden…"
+msgstr "Bezig met laden..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
@@ -878,7 +878,7 @@ msgstr "Wanneer u de seed van uw portefeuille hebt genoteerd, is het aanbevolen 
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr "Alleen portefeuilles met 1 enkele ondertekenaar kunnen gerecupereerd worden"
+msgstr "Alleen portefeuilles met 1 enkele ondertekenaar kunnen gerecupereerd worden."
 
 #: public/views/bot.html:35
 msgid "Open chat"
@@ -955,7 +955,7 @@ msgstr "Wederpartij:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
-msgstr "Volledig verwijderen van deze portefeuille.  DEZE AKTIE KAN NIET ONGEDAAN GEMAAKT WORDEN."
+msgstr "Volledig verwijderen van deze portefeuille. DEZE AKTIE KAN NIET ONGEDAAN GEMAAKT WORDEN"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
