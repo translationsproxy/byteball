@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2018-02-08 11:35-0500\n"
+"PO-Revision-Date: 2018-02-17 12:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,7 +27,7 @@ msgstr "-- Selecionar o fiador --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr "12 palavras separadas por hífens"
+msgstr "12 palavras separadas por hífenes"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
