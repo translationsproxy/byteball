@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-02-19 04:21-0500\n"
+"PO-Revision-Date: 2018-02-19 04:42-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -110,7 +110,7 @@ msgstr "Allle Portefeuilles"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr "Alle bijdrages aan de vertaling van Byteball zijn welkom. Meldt u aan bij crowdin.com en sluit u aan bij het Byteball project"
+msgstr "Alle bijdragen aan de vertaling van Byteball zijn welkom. Meldt u aan bij crowdin.com en sluit u aan bij het Byteball project op"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -143,7 +143,7 @@ msgstr "Antwoord:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr "Bevestig de aanmaak van de portefeuille op de andere toestellen"
+msgstr "Bevestig de aanmaak van de portefeuille op andere toestellen"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
@@ -156,15 +156,15 @@ msgstr "Weet u zeker dat u deze portefeuille wilt verwijderen?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr "Asset"
+msgstr "Activa"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
-msgstr "Bevestig de profiel gegevens die aan het Byteball adres zijn gekoppeld."
+msgstr "Bevestig de profiel gegevens die aan een Byteball adres zijn gekoppeld."
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
-msgstr "Attest"
+msgstr "Bevestiging"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -192,7 +192,7 @@ msgstr "Terug"
 
 #: public/views/walletHome.html:232
 msgid "Backup now"
-msgstr "Maak een backup"
+msgstr "Nu een back-up maken"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
