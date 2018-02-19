@@ -11,15 +11,15 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-02-16 16:40-0500\n"
+"PO-Revision-Date: 2018-02-19 04:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr "(De site kan uw saldo niet zien en er zal geen geld uitgegeven kunnen worden)"
+msgstr "(De site kan uw saldo niet zien en er zal geen geld uitgegeven worden)"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
-msgstr "(mogelijk dubbel besteed)"
+msgstr "(mogelijk dubbel uitgegeven)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
@@ -63,7 +63,7 @@ msgstr "Nieuw apparaat toevoegen"
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr "Nieuwe entry toevoegen"
+msgstr "Een nieuwe entry toevoegen"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
