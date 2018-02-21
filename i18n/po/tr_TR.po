@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-21 06:42-0500\n"
+"PO-Revision-Date: 2018-02-21 06:52-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1677,7 +1677,7 @@ msgstr "cüzdan oluşturmaktan vazgeç"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "{{btx.claimedByMe?'ben':'alıcı'|translate}} tarafından alındı"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1685,7 +1685,7 @@ msgstr "sohbet geçmişini temizle"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "aşağıdaki yazıyı kopyalayarak onu alıcıya herhangi bir mesajlaşma uygulaması yoluyla gönderin veya kağıda yazdırın"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1697,11 +1697,11 @@ msgstr "günler"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "örn. 1/2 bir anahtarı bu cihazda, diğer bir anahtarı dizüstü bilgisayarınızda olan bir cüzdan."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "örn. 1/2 bir anahtarı bu cihazda, diğer bir anahtarı akıllı telefonunuzda olan bir cüzdan."
 
 #: public/views/modals/bind.html:72
 msgid "either way"
@@ -1734,7 +1734,7 @@ msgstr "bekleyen ödemeler yüzünden kilitlendi"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "alınmadı"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -1772,7 +1772,7 @@ msgstr "cosigners'a özel yüklerinizi yeniden gönderin"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "e-posta gönder"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1787,7 +1787,7 @@ msgstr "gönderme"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "tekrar paylaş"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
@@ -1821,7 +1821,7 @@ msgstr ""
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
-msgstr ""
+msgstr "{cancel_label || 'İptal Et'}"
 
 #: src/js/controllers/walletHome.js:1662
 msgid "{{fee}} will be deducted for bitcoin networking fees"
@@ -1842,5 +1842,5 @@ msgstr "{{item.n}} te {{item.m}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'Açık':'Kapalı'}}"
 
