@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-21 06:31-0500\n"
+"PO-Revision-Date: 2018-02-21 06:42-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -296,7 +296,7 @@ msgstr ""
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr "Email'i <span ng-if=\"isResend\">yeniden </span>göndermek için butona tıklayınız"
+msgstr "E-posta'yı <span ng-if=\"isResend\">yeniden </span>göndermek için butona tıklayınız"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
@@ -1424,19 +1424,19 @@ msgstr "Ödemeye bir koşula bağlamak isterseniz, lütfen sohbette karşı tara
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "Byteball adresine"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "Byteball adresine veya e-postaya"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "E-postaya"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr ""
+msgstr "Gizliliğinizi korumak için, yeni adresler onları kullandığınız anda otomatik olarak üretilir."
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
@@ -1452,7 +1452,7 @@ msgstr "İşlem"
 
 #: public/views/walletHome.html:608
 msgid "Transactions<br> Downloaded"
-msgstr ""
+msgstr "İşlemler<br> İndirildi"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
@@ -1618,7 +1618,7 @@ msgstr "Evet"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "Tek adres cüzdanda olduğunuz için işleminizi ters ödemeye bağlayamazsınız. Tek adres olmayan bir cüzdan kullandıktan sonra parayı bu cüzdana aktarınız."
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
@@ -1647,11 +1647,11 @@ msgstr "Cüzdan anahtarınız şifrelenecek ve parolanız için bir kurtarma se�
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "Cüzdanınız bu cihazda oluşturulacak, onu güvenli saklayınız. Yedekleme seçeneklerinizi Ayarlar menüsünde görebilirsiniz."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[ Yeni imza ortağı cihaz ekleyin ]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
@@ -1661,7 +1661,7 @@ msgstr "miktar"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "bir kahin tarafından bir etkinlik gönderildi"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
