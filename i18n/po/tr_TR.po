@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-21 06:21-0500\n"
+"PO-Revision-Date: 2018-02-21 06:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -296,11 +296,11 @@ msgstr ""
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "Email'i <span ng-if=\"isResend\">yeniden </span>göndermek için butona tıklayınız"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "Ödeme oluşturmak ve sohbet uygulamalarında özel mesajlar aracılığıyla göndermek için bu butona tıklayınız"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -884,7 +884,7 @@ msgstr "Açık sohbet"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "Ya da"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1232,7 +1232,7 @@ msgstr "Ayarlar"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Paylaş"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1245,7 +1245,7 @@ msgstr "Ödeme almak için bu cüzdan adresini paylaşın."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Mesaj ile paylaş"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
@@ -1307,7 +1307,7 @@ msgstr "Cüzdan kağıtlarını temizleme"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr ""
+msgstr "Senkronize ediliyor... {{index.count_unhandled_private_payments}} özel ödeme kaldı"
 
 #: public/views/walletHome.html:82
 msgid "Syncing... {{index.syncProgress}}"
@@ -1334,7 +1334,7 @@ msgstr "Adresine yazılı mesaj"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1412,15 +1412,15 @@ msgstr "Alıcı"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "Herşeyi eski haline getirebilmek için, lütfen bir tam yedekleme (menüden seçeneği bulabilirsiniz) oluşturunuz"
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "Byteball ağına isteğe bağlı veri gönderebilmek için, lütfen öncelikle bir tek-adres cüzdana geçiş yapın veya yeni bir tane oluşturunuz."
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr ""
+msgstr "Ödemeye bir koşula bağlamak isterseniz, lütfen sohbette karşı tarafın adresine tıklayınız"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
