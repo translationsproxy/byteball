@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-21 07:02-0500\n"
+"PO-Revision-Date: 2018-02-21 14:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1580,7 +1580,7 @@ msgstr "Uyarı!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "Alındı mı?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
@@ -1669,7 +1669,7 @@ msgstr "sözleşmenin kilidini açabilir"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "kontratı şu kadar zaman sonra zaman aşımına uğradığında açabilir:"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -1829,7 +1829,7 @@ msgstr "{{fee}} bitcoin ağ ücreti olarak düşülecektir"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "{{hrd.destinationAddress}} eğer şu koşullar sağlanıyorsa harcanabilir:"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
