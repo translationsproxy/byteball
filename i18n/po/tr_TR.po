@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-21 06:52-0500\n"
+"PO-Revision-Date: 2018-02-21 07:02-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -284,15 +284,15 @@ msgstr "Göndermek istediğiniz cihazı seçin"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "Paraları al"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Paraları textcoin ile al"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Paraları textcoin kullanarak al"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
