@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-23 08:44-0500\n"
+"PO-Revision-Date: 2018-02-23 09:42-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -478,19 +478,19 @@ msgstr "Απορρίφθηκε"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr ""
+msgstr "Η αποκρυπτογράφηση ενός paper wallet μπορεί να πάρει περίπου 5 λεπτά σε αυτή την συσκευή. Κάντε υπομονή και κρατήστε την εφαρμογή ανοικτή."
 
 #: public/views/walletHome.html:179
 msgid "Definition"
-msgstr ""
+msgstr "Ορισμός"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
-msgstr ""
+msgstr "Ορισμός της έξυπνης διεύθυνσης"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
-msgstr ""
+msgstr "Ορισμοί των διευθύνσεων"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
