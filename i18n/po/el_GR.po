@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-23 08:11-0500\n"
+"PO-Revision-Date: 2018-02-23 08:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -234,7 +234,7 @@ msgstr "Κατάστημα bot"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Τόσο εσείς όσο και ο {{correspondent.name}} έχετε ενεργοποιήσει την καταγραφή ιστορικού τοπικών συνομιλιών."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -242,7 +242,7 @@ msgstr "Ο πλοηγός δέν υποστηρίζεται"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Διεύθυνση Byteball"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -251,7 +251,7 @@ msgstr "ΑΚΥΡΟ"
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr ""
+msgstr "ΣΥΝΕΧΕΙΑ"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:464
@@ -264,7 +264,7 @@ msgstr "Άκυρο"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr ""
+msgstr "Αλλαγή hub:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
@@ -272,31 +272,31 @@ msgstr "Αλλάζοντας το ψευδώνυμο του πορτοφολιο
 
 #: src/js/controllers/index.js:622
 msgid "Chat"
-msgstr ""
+msgstr "Συνομιλία"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "Επιλέξτε αρχείο"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr ""
+msgstr "Επιλέξτε τη συσκευή προς αποστολή"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "Αξίωση κεφαλαίου"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Αξιώστε κεφάλαια από textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Αξιώστε κεφάλαια χρησιμοποιώντας textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "Κάντε κλικ στο κουμπί για την <span ng-if=\"isResend\"> εκ νέου</span> αποστολή email"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
