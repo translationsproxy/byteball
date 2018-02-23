@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2017-12-25 11:32-0500\n"
+"PO-Revision-Date: 2018-02-22 21:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,11 +23,11 @@ msgstr "(πιθανό διπλό ξόδεμα)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "--Επιλέξτε συνυπογράφων--"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 λέξεις διαχωρισμένες με παύλες"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
@@ -54,7 +54,7 @@ msgstr "Λογαριασμός"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Προσθήκη Bot"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
@@ -67,7 +67,7 @@ msgstr "Προσθήκη νέας καταχώρησης"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
-msgstr ""
+msgstr "Προσθέστε πεδία"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -75,7 +75,7 @@ msgstr "Προσθήκη Πορτοφολιού"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "Προστέθηκε"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
@@ -85,7 +85,7 @@ msgstr "Διεύθυνση"
 
 #: public/views/walletHome.html:507
 msgid "Address to attest"
-msgstr ""
+msgstr "Διεύθυνση προς πιστοποίηση"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -122,11 +122,11 @@ msgstr "Επίσης"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "Επίσης, στο μενού \"Ρυθμίσεις\" θα βρείτε επιλογές ασφαλείας, όπως τον ορισμό κωδικού πρόσβασης."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Επίσης, μην ξεχάσετε να διαγράψετε το seed σας"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -139,7 +139,7 @@ msgstr "Ποσό"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "Απάντηση:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
