@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-22 21:30-0500\n"
+"PO-Revision-Date: 2018-02-23 08:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -168,11 +168,11 @@ msgstr "Πιστοποίηση"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "Αυτόματη ενημέρωση του καταλόγου μαρτύρων από το hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "Αυτόματη ενημέρωση του καταλόγου μαρτύρων από αυτό το hub"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -196,15 +196,15 @@ msgstr "Πάρτε Αντίγραφο Ασφαλείας τώρα"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "Αντίγραφο ασφαλείας του wallet seed"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr ""
+msgstr "Οι λέξεις αντίγραφου ασφαλείας διαγράφηκαν"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "Υπόλοιπο ανά διεύθυνση"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
@@ -212,17 +212,17 @@ msgstr "Πρίν λάβετε χρήματα, προτέινεται ισχυρ�
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Ακόμα καλύτερα, χρησιμοποιήστε multisig πορτοφόλι με πλεονασμό,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr ""
+msgstr "Δέσμευση πληρωμής"
 
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
 msgid "Bind the payment to a condition"
-msgstr ""
+msgstr "Δεσμεύστε την πληρωμή υπό έναν όρο"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -230,7 +230,7 @@ msgstr "Το σύστημα Bitcoin URI δεν είναι έγκυρο!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr ""
+msgstr "Κατάστημα bot"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
