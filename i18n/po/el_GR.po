@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-23 10:02-0500\n"
+"PO-Revision-Date: 2018-02-23 10:12-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -567,7 +567,7 @@ msgstr "Ενεργοποίηση ειδοποιήσεων push"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr ""
+msgstr "Εισάγετε τον κωδικό ζεύξης που λάβατε από την άλλη συσκευή ή χρησιμοποιήσετε την κάμερα σας (εικονίδιο στην επάνω δεξιά γωνία) για να σαρώσετε τον κωδικό QR που εμφανίζεται στην άλλη συσκευή."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
@@ -585,19 +585,19 @@ msgstr "Εξαγωγή"
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
 msgid "Export completed successfully"
-msgstr ""
+msgstr "Η εξαγωγή ολοκληρώθηκε επιτυχώς"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "Εξαγωγή..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr ""
+msgstr "Εκτεταμένα δημόσια κλειδιά"
 
 #: public/views/export.html:25
 msgid "Failed to export"
-msgstr ""
+msgstr "Αποτυχία εξαγωγής"
 
 #: public/views/modals/tx-details.html:92
 msgid "Fee"
@@ -605,11 +605,11 @@ msgstr "Αμοιβή"
 
 #: public/views/modals/tx-details.html:110
 msgid "Finality"
-msgstr ""
+msgstr "Οριστικότητα"
 
 #: public/views/modals/tx-details.html:60
 msgid "From"
-msgstr ""
+msgstr "Από"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
@@ -633,7 +633,7 @@ msgstr "ΞΕΚΙΝΗΣΤΕ"
 
 #: src/js/controllers/walletHome.js:418
 msgid "Generate QR Code"
-msgstr ""
+msgstr "Δημιουργία κωδικού QR"
 
 #: public/views/walletHome.html:288
 msgid "Generate new address"
@@ -689,15 +689,15 @@ msgstr "Βεβαιώνω ότι έχω διαβάσει, κατανοήσει κ
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "Πληρώνω"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Λαμβάνω άλλη πληρωμή ύψους"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "Αν δεν πληροίται η προϋπόθεση, μπορώ να πάρω αυτά τα χρήματα πίσω μετά από"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
