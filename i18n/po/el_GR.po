@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-23 10:12-0500\n"
+"PO-Revision-Date: 2018-02-23 10:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -701,7 +701,7 @@ msgstr "Αν δεν πληροίται η προϋπόθεση, μπορώ να 
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Αν δεν πληρώσει η άλλη πλευρά, μπορώ να πάρω τα λεφτά μου πίσω μετά από"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
