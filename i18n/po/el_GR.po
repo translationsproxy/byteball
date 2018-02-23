@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-23 09:52-0500\n"
+"PO-Revision-Date: 2018-02-23 10:02-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -521,15 +521,15 @@ msgstr "Όνομα συσκευής"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr ""
+msgstr "Το όνομα της συσκευής είναι ορατό στις άλλες συσκευές με τις οποίες επικοινωνείτε."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Μην κλωνοποιείτε τα wallets, σταματήστε να χρησιμοποιείτε το αρχικό πορτοφόλι με αυτό το seed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Μην το χρησιμοποιείτε για να κλωνοποιήσετε το wallet."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -538,7 +538,7 @@ msgstr "Δεν βλέπετε τη γλώσσα σας στο Crowdin; Επικ�
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr ""
+msgstr "Τέλος"
 
 #: public/views/walletHome.html:678
 msgid "Download CSV file"
@@ -546,16 +546,16 @@ msgstr "Κατεβάστε το αρχείο CSV"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Κατεβάστε ολόκληρη τη βάση δεδομένων Byteball"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
-msgstr ""
+msgstr "Επεξεργασία"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr ""
+msgstr "Είτε εσείς, είτε ο {{correspondent.name}} έχετε απενεργοποιημένη την καταγραφή ιστορικού συνομιλιών. Το ιστορικό δεν αποθηκεύεται για κανέναν τώρα."
 
 #: public/views/preferencesEmail.html:33
 msgid "Email for wallet notifications"
@@ -563,7 +563,7 @@ msgstr "Το ηλεκτρονικό σας ταχυδρομείο για τις 
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr ""
+msgstr "Ενεργοποίηση ειδοποιήσεων push"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
