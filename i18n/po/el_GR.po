@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-24 09:20-0500\n"
+"PO-Revision-Date: 2018-02-24 09:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -208,7 +208,7 @@ msgstr "Υπόλοιπο ανά διεύθυνση"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "Πρίν λάβετε χρήματα, προτέινεται ισχυρά να πάρετε αντίγραφο ασφαλείας των κλειδιών του πορτοφολιού σας."
+msgstr "Πρίν λάβετε χρήματα, συνιστάται να δημιουργήσετε αντίγραφα ασφαλείας για τα κλειδιά του πορτοφολιού σας."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -268,7 +268,7 @@ msgstr "Αλλαγή hub:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr "Αλλάζοντας το ψευδώνυμο του πορτοφολιού επηρεάζει μόνο το τοπικό όνομα πορτοφολιού."
+msgstr "Αλλάζοντας το ψευδώνυμο του πορτοφολιού επηρεάζεται μόνο το τοπικό όνομα πορτοφολιού."
 
 #: src/js/controllers/index.js:622
 msgid "Chat"
@@ -454,7 +454,7 @@ msgstr "Δημιουργία του Προφίλ..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr "Δημιουργία του Πορτοφολιού..."
+msgstr "Δημιουργία Πορτοφολιού..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
@@ -961,7 +961,7 @@ msgstr "Απλό πορτοφόλι"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr ""
+msgstr "Παρακαλώ επιλέξτε πόσα δεδομένα θα αποθηκευτούν στο πορτοφόλι σας"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
@@ -969,11 +969,11 @@ msgstr "Παρακαλώ εισάγετε τα απαιτούμενα πεδία
 
 #: public/views/splash.html:82
 msgid "Please name this device"
-msgstr ""
+msgstr "Παρακαλώ ονομάστε αυτή τη συσκευή"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr ""
+msgstr "Θύρα"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
@@ -985,7 +985,7 @@ msgstr ""
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Καταχωρήσετε τα δεδομένα του προφίλ σας, ό,τι θέλετε να πείτε για τον εαυτό σας."
 
 #: public/views/walletHome.html:175
 #: public/views/walletHome.html:47
@@ -994,11 +994,11 @@ msgstr "Προτιμήσεις"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "Πατήστε ξανά για έξοδο"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "Ιδιωτικά περιουσιακά στοιχεία (όπως blackbytes) δεν ανακτώνται."
 
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
@@ -1224,7 +1224,7 @@ msgstr "Ορίστε έναν κωδικό πρόσβασης"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr "Ενεργοποιώντας τις ενημερώσεις μέσω ηλεκτρονικού ταχυδρομείου μπορεί να μειωθεί η ιδιωτικότητα σας, εάν ο πάροχος του πορτοφολιού παραβιαστεί. Οι πληροφορίες που θα διαθέτει ένας εισβολέας θα περιλαμβάνουν τις διευθύνσεις του πορτοφόλιου σας και το ποσόν των χρημάτων σας, αλλά τίποτα περισσότερο."
+msgstr "Ενεργοποιώντας τις ενημερώσεις μέσω ηλεκτρονικού ταχυδρομείου μπορεί να μειώσετε την ιδιωτικότητα σας, εάν ο πάροχος του πορτοφολιού παραβιαστεί. Οι πληροφορίες που θα διαθέτει ένας εισβολέας θα περιλαμβάνουν τις διευθύνσεις του πορτοφόλιου σας και το ποσό των χρημάτων σας, αλλά τίποτα περισσότερο."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
