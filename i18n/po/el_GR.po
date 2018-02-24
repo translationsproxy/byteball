@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-23 19:51-0500\n"
+"PO-Revision-Date: 2018-02-23 20:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -478,7 +478,7 @@ msgstr "Απορρίφθηκε"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr "Η αποκρυπτογράφηση ενός paper wallet μπορεί να πάρει περίπου 5 λεπτά σε αυτή την συσκευή. Κάντε υπομονή και κρατήστε την εφαρμογή ανοικτή."
+msgstr "Η αποκρυπτογράφηση ενός χάρτινου wallet μπορεί να πάρει περίπου 5 λεπτά σε αυτή την συσκευή. Κάντε υπομονή και κρατήστε την εφαρμογή ανοικτή."
 
 #: public/views/walletHome.html:179
 msgid "Definition"
@@ -872,40 +872,40 @@ msgstr "Προσφέρετε ένα συμβόλαιο"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr ""
+msgstr "Μόλις καταγράψετε το seed του wallet σας, συνιστάται να το διαγράψετε από αυτή τη συσκευή."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr ""
+msgstr "Μόνο single-sig wallets μπορούν να ανακτηθούν."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Άνοιγμα συνομιλίας"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "Ή"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr ""
+msgstr "Σύζευξη"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr ""
+msgstr "Συζευγμένες συσκευές"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Κωδικός σύζευξης"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr ""
+msgstr "Προσωπικό κλειδί χάρτινου wallet"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr ""
+msgstr "Συνθηματικό"
 
 #: src/js/services/profileService.js:654
 msgid "Password needed"
@@ -917,15 +917,15 @@ msgstr "Οι κωδικοί πρόσβασης δεν ταιριάζουν"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr ""
+msgstr "Επικολλήστε το προσωπικό κλειδί του χάρτινου wallet σας εδώ"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr ""
+msgstr "Πληρωμή και προσφορά"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
-msgstr ""
+msgstr "Πληρώστε σε αυτή τη διεύθυνση"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
