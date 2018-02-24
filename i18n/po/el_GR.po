@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-23 20:00-0500\n"
+"PO-Revision-Date: 2018-02-23 20:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -701,7 +701,7 @@ msgstr "Αν δεν πληροίται η προϋπόθεση, μπορώ να 
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr "Αν δεν πληρώσει η άλλη πλευρά, μπορώ να πάρω τα λεφτά μου πίσω μετά από"
+msgstr "Αν δεν πληρώσει ο ομότιμος (peer), μπορώ να πάρω τα λεφτά μου πίσω μετά από"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -949,7 +949,7 @@ msgstr "Πληρωμή Εστάλη"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "Ομότιμος (peer):"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -957,7 +957,7 @@ msgstr "Να διαγράφεί μόνιμα αυτό το πορτοφόλι? �
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
-msgstr ""
+msgstr "Απλό wallet"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
