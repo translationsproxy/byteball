@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-23 20:10-0500\n"
+"PO-Revision-Date: 2018-02-24 09:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -143,7 +143,7 @@ msgstr "Απάντηση:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr "Εγκρίνετε τη δημιουργία wallet σε άλλες συσκευές"
+msgstr "Εγκρίνετε τη δημιουργία πορτοφολιού σε άλλες συσκευές"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
@@ -196,7 +196,7 @@ msgstr "Πάρτε Αντίγραφο Ασφαλείας τώρα"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "Αντίγραφο ασφαλείας του wallet seed"
+msgstr "Αντίγραφο ασφαλείας του seed πορτοφολιού"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -395,7 +395,7 @@ msgstr "Δεν ήταν δυνατή η δημιουργία χρησιμοπο�
 
 #: src/js/services/profileService.js:258
 msgid "Could not create: Invalid wallet seed"
-msgstr "Δεν ήταν δυνατή η δημιουργία: Μη έγκυρο wallet seed"
+msgstr "Δεν ήταν δυνατή η δημιουργία: Μη έγκυρο seed πορτοφολιού"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
@@ -429,7 +429,7 @@ msgstr "Δημιουργία"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
-msgstr "Δημιουργία νέου wallet"
+msgstr "Δημιουργία νέου πορτοφολιού"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
@@ -438,11 +438,11 @@ msgstr "Δημιουργήστε νέο πορτοφόλι"
 
 #: src/js/controllers/index.js:286
 msgid "Create new wallet  together with  ?"
-msgstr "Δημιουργία νέου wallet μαζί με ;"
+msgstr "Δημιουργία νέου πορτοφολιού μαζί με ;"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr "Δημιουργία {{requiredCosigners}}- του-{{totalCosigners}} wallet"
+msgstr "Δημιουργία {{requiredCosigners}}- του-{{totalCosigners}} πορτοφολιού"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
