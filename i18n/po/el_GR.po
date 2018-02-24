@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-23 10:21-0500\n"
+"PO-Revision-Date: 2018-02-23 19:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -705,11 +705,11 @@ msgstr "Αν δεν πληρώσει η άλλη πλευρά, μπορώ να �
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Αν έχετε μετακινήσει αυτό το αντίγραφο ασφαλείας από μια άλλη συσκευή, διακόψτε τη χρήση του στην πρώτη, αμέσως μετά τη δημιουργία του αντιγράφου ασφαλείας.  Ποτέ μην κλωνοποιείται wallets.  Εάν χρειάζεστε πρόσβαση από πολλές συσκευές, χρησιμοποιήστε το multisig."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Εάν σκοπεύετε να επαναφέρετε το wallet σε άλλη συσκευή, διακόψτε τη χρήση του στο τρέχων, αμέσως μετά τη δημιουργία του αντιγράφου ασφαλείας.  Ποτέ μην κλωνοποιείται wallets.  Εάν χρειάζεστε πρόσβαση από πολλές συσκευές, χρησιμοποιήστε το multisig."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -725,16 +725,17 @@ msgstr "Εισάγεται το πορτοφόλι ..."
 
 #: public/views/walletHome.html:133
 msgid "Including pending confirmation"
-msgstr ""
+msgstr "Συμπεριλαμβανομένης της εν αναμονή επιβεβαίωσης"
 
 #: public/views/walletHome.html:602
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr ""
+msgstr "Ο συγχρονισμός ιστορικού της αρχικής συναλλαγής μπορεί να διαρκέσει μερικά λεπτά για wallets με πολλές συναλλαγές.<br>\n"
+"          Παρακαλώ περιμένετε."
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "Εισαγάγετε τη διεύθυνση μου"
 
 #: public/views/walletHome.html:621
 msgid "Invalid"
@@ -742,11 +743,11 @@ msgstr "Μη έγκυρο"
 
 #: src/js/controllers/index.js:1533
 msgid "Invalid Touch ID"
-msgstr ""
+msgstr "Μη έγκυρο αναγνωριστικό αφής"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr ""
+msgstr "Προσκαλέστε την άλλη συσκευή"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
