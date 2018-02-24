@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-24 09:30-0500\n"
+"PO-Revision-Date: 2018-02-24 09:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1007,7 +1007,7 @@ msgstr ""
 
 #: public/views/walletHome.html:334
 msgid "Profile"
-msgstr ""
+msgstr "Προφίλ"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1019,7 +1019,7 @@ msgstr "Σαρωτής QR"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Ερώτηση:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
@@ -1040,11 +1040,11 @@ msgstr "Γίνεται επανασύνδεση στην Υπηρεσία Πορ
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr ""
+msgstr "Ανάκτηση"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr ""
+msgstr "Ανάκτηση από το seed"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1060,15 +1060,15 @@ msgstr "Πληροφορίες Έκδοσης"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
-msgstr ""
+msgstr "Κατάργηση"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Κατάργηση μιας συσκευής"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
-msgstr ""
+msgstr "Μετονομασία:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
@@ -1077,15 +1077,15 @@ msgstr "Επανάληψη κωδικού"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "Επανάληψη κωδικού πρόσβασης"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "Αντικατάσταση"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr ""
+msgstr "Αίτηση κωδικού πρόσβασης"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:297
@@ -1094,15 +1094,15 @@ msgstr "Ζητήστε ένα συγκεκριμένο ποσό"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr ""
+msgstr "Αίτηση πληρωμής"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
-msgstr ""
+msgstr "Απαιτούμενος αριθμός υπογραφών"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr ""
+msgstr "Επαναφορά από το πλήρες αντίγραφο ασφαλείας"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
@@ -1129,11 +1129,11 @@ msgstr "Αποθήκευση προτιμήσεων..."
 
 #: public/views/preferences.html:66
 msgid "Scan Fingerprint"
-msgstr ""
+msgstr "Σάρωση δακτυλικού αποτυπώματος"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr ""
+msgstr "Σάρωση χρημάτων Πορτοφολιού"
 
 #: public/views/walletHome.html:120
 msgid "Scan status finished with error"
@@ -1145,7 +1145,7 @@ msgstr ""
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
-msgstr ""
+msgstr "Παρακαλώ σαρώστε το δακτυλικό σας αποτύπωμα"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
@@ -1153,11 +1153,11 @@ msgstr "Σάρωση χρημάτων Πορτοφολιού..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr ""
+msgstr "Σάρωση διευθύνσεων..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
-msgstr ""
+msgstr "Σάρωση χρημάτων πορτοφολιού..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1169,7 +1169,7 @@ msgstr ""
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "Επιλέξτε την ταυτότητά σας"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:467
@@ -1184,15 +1184,15 @@ msgstr "Αποστολή Όλων"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr ""
+msgstr "Αποστολή Πληρωμής"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr ""
+msgstr "Αποστολή διευθύνσεων μέσω ηλεκτρονικού ταχυδρομείου"
 
 #: public/views/walletHome.html:368
 msgid "Send all"
-msgstr ""
+msgstr "Αποστολή όλων"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
@@ -1200,11 +1200,11 @@ msgstr "Αποστολή με email"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr ""
+msgstr "Αποστολή χρημάτων..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
-msgstr ""
+msgstr "Αποστολή..."
 
 #: public/views/walletHome.html:619
 msgid "Sent"
@@ -1216,7 +1216,7 @@ msgstr "Ημερολόγιο συνεδριών"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "Ορίστε έναν κωδικό πρόσβασης"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
@@ -1228,11 +1228,11 @@ msgstr "Ενεργοποιώντας τις ενημερώσεις μέσω ηλ
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "Ρυθμίσεις"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Κοινοποίηση"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
