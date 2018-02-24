@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-23 19:41-0500\n"
+"PO-Revision-Date: 2018-02-23 19:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -751,15 +751,15 @@ msgstr "Προσκαλέστε την άλλη συσκευή"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Μόνο το wallet seed δεν είναι αρκετό. Με το seed μονάχα, δεν θα μπορέσετε να επαναφέρετε multisig wallets και ιδιωτικά περιουσιακά στοιχεία, όπως τα blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Κρατήστε μόνο τα δεδομένα που είναι σχετικά με εσάς"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
-msgstr ""
+msgstr "Ετικέτα"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
@@ -767,7 +767,7 @@ msgstr "Γλώσσα"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr ""
+msgstr "Αργότερα"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
@@ -779,7 +779,7 @@ msgstr "Κάντε μια πληρωμή σε"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr ""
+msgstr "Ίσως αργότερα"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:116
@@ -793,7 +793,7 @@ msgstr "Μήνυμα Εμπόρου"
 
 #: public/views/walletHome.html:430
 msgid "Merkle proof"
-msgstr ""
+msgstr "Απόδειξη Merkle"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
@@ -805,19 +805,19 @@ msgstr "Μετακινήθηκε"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr ""
+msgstr "Wallet πολλαπλών συσκευών"
 
 #: public/views/walletHome.html:240
 msgid "My Byteball address"
-msgstr ""
+msgstr "Η Byteball διεύθυνση μου"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
-msgstr ""
+msgstr "Η προτίμηση εγγραφής μου"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "Όνομα της επαφής"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
@@ -825,24 +825,24 @@ msgstr "Δίκτυο"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr ""
+msgstr "Νέο τυχαίο seed"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
-msgstr ""
+msgstr "Νέα έκδοση είναι διαθέσιμη!"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
-msgstr ""
+msgstr "Νέοι μάρτυρες"
 
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:458
 msgid "No"
-msgstr ""
+msgstr "Όχι"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "Δεν δόθηκε κωδικός πρόσβασης"
 
 #: public/views/walletHome.html:586
 msgid "No transactions yet"
@@ -868,7 +868,7 @@ msgstr "Σημείωση"
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
 msgid "Offer a contract"
-msgstr ""
+msgstr "Προσφέρετε ένα συμβόλαιο"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
