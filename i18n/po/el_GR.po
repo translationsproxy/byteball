@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-26 13:40-0500\n"
+"PO-Revision-Date: 2018-02-26 13:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1497,7 +1497,7 @@ msgstr ""
 
 #: public/views/walletHome.html:522
 msgid "Values"
-msgstr ""
+msgstr "Τιμές"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1505,7 +1505,7 @@ msgstr "Έκδοση"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "ΠΡΟΕΙΔΟΠΟΙΗΣΗ:"
 
 #: public/views/walletHome.html:222
 msgid "WARNING: Backup needed"
@@ -1518,15 +1518,15 @@ msgstr ""
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
 msgid "WARNINGS:"
-msgstr ""
+msgstr "ΠΡΟΕΙΔΟΠΟΙΗΣΕΙΣ:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO BYTEBALL"
-msgstr ""
+msgstr "ΚΑΛΩΣ ΗΛΘΑΤΕ ΣΤΟ BYTEBALL"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
-msgstr ""
+msgstr "Αναμονή για συν-υπογράφοντες"
 
 #: public/views/copayers.html:33
 msgid "Waiting..."
@@ -1542,20 +1542,20 @@ msgstr "Ψευδώνυμο Πορτοφολιού"
 
 #: public/views/preferencesInformation.html:27
 msgid "Wallet Configuration (m-n)"
-msgstr ""
+msgstr "Διαμόρφωση Πορτοφολιού (m-n)"
 
 #: public/views/preferencesInformation.html:20
 msgid "Wallet Id"
-msgstr ""
+msgstr "Ταυτότητα Πορτοφολιού"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
 msgid "Wallet Information"
-msgstr ""
+msgstr "Πληροφορίες Πορτοφολιού"
 
 #: public/views/preferencesInformation.html:12
 msgid "Wallet Name (at creation)"
-msgstr ""
+msgstr "Όνομα Πορτοφολιού (κατά τη δημιουργία)"
 
 #: src/js/services/profileService.js:436
 msgid "Wallet already in Byteball:"
