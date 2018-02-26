@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-26 05:11-0500\n"
+"PO-Revision-Date: 2018-02-26 05:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1267,24 +1267,24 @@ msgstr "Πορτοφόλι μονής διεύθυνσης"
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "Πορτοφόλια μονής διεύθυνσης δεν θα εμφανίζουν νέες διευθύνσεις για κάθε συναλλαγή. Η αλλαγή θα πηγαίνει πάντα στη μοναδική διεύθυνση που περιέχει το πορτοφόλι."
 
 #: src/js/services/profileService.js:318
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "Πορτοφόλι μικρών εξόδων"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr ""
+msgstr "Καθορίστε seed..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
 msgid "Spending Restrictions"
-msgstr ""
+msgstr "Περιορισμοί δαπανών"
 
 #: public/views/preferencesGlobal.html:96
 msgid "Still not done"
-msgstr ""
+msgstr "Δεν έχει πραγματοποιηθεί ακόμη"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:135
