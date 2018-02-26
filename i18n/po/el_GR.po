@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-26 14:31-0500\n"
+"PO-Revision-Date: 2018-02-26 14:42-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1452,7 +1452,7 @@ msgstr "Συναλλαγή"
 
 #: public/views/walletHome.html:608
 msgid "Transactions<br> Downloaded"
-msgstr ""
+msgstr "Κατεβασμένες<br> Συναλλαγές"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
@@ -1580,7 +1580,7 @@ msgstr "Προειδοποίηση!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "Διεκδικήθηκε;"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
@@ -1726,7 +1726,7 @@ msgstr ""
 
 #: public/views/walletHome.html:153
 msgid "in smart wallets"
-msgstr ""
+msgstr "στα έξυπνα πορτοφόλια"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -1734,7 +1734,7 @@ msgstr "κλειδωμένο από εκκρεμούσες πληρωμές"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "δεν διεκδικήθηκε"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -1748,7 +1748,7 @@ msgstr "προαιρετικό"
 
 #: public/views/modals/offer-contract.html:99
 msgid "or"
-msgstr ""
+msgstr "ή"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
@@ -1772,7 +1772,7 @@ msgstr ""
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "αποστολή email"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1783,15 +1783,15 @@ msgstr ""
 #: src/js/controllers/walletHome.js:942
 #: src/js/controllers/walletHome.js:981
 msgid "sending"
-msgstr ""
+msgstr "αποστολή"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "κοινοποιήστε πάλι"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
-msgstr ""
+msgstr "προς"
 
 #: public/views/walletHome.html:432
 #: public/views/walletHome.html:443
@@ -1800,7 +1800,7 @@ msgstr "πάρα πολύ μεγάλο μέγεθος!"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "με"
 
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
