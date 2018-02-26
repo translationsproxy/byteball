@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-24 09:40-0500\n"
+"PO-Revision-Date: 2018-02-26 05:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1052,7 +1052,7 @@ msgstr "Αναδημιουργία πορτοφολιού..."
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
-msgstr ""
+msgstr "Απορρίφθηκε"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
@@ -1249,7 +1249,7 @@ msgstr ""
 
 #: public/views/walletHome.html:670
 msgid "Show all"
-msgstr ""
+msgstr "Εμφάνιση όλων"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
@@ -1311,11 +1311,11 @@ msgstr ""
 
 #: public/views/walletHome.html:82
 msgid "Syncing... {{index.syncProgress}}"
-msgstr ""
+msgstr "Συγχρονισμός... {{index.syncProgress}}"
 
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
-msgstr ""
+msgstr "TOR"
 
 #: public/views/walletHome.html:116
 #: public/views/walletHome.html:121
@@ -1330,11 +1330,11 @@ msgstr "Όροι Χρήσης"
 
 #: public/views/correspondentDevice.html:341
 msgid "Text message to"
-msgstr ""
+msgstr "Μήνυμα κειμένου σε"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
