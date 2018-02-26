@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-26 05:00-0500\n"
+"PO-Revision-Date: 2018-02-26 05:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -977,11 +977,11 @@ msgstr "Θύρα"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Ποστάρετε αυθαίρετα ζεύγη τιμής-κλειδιού στο δίκτυο Byteball."
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Ποστάρετε τιμές στα datafeeds χειροκίνητα, γίνετε ένας oracle."
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
@@ -1003,7 +1003,7 @@ msgstr "Ιδιωτικά περιουσιακά στοιχεία (όπως black
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
 msgid "Private payloads sent"
-msgstr ""
+msgstr "Απεσταλμένα ιδιωτικά payloads"
 
 #: public/views/walletHome.html:334
 msgid "Profile"
@@ -1141,7 +1141,7 @@ msgstr "Η σάρωση έχει τελειώσει με σφάλματα"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr ""
+msgstr "Σαρώστε τον παραπάνω κωδικό QR χρησιμοποιώντας την άλλη συσκευή ή στείλτε αυτό τον κωδικό ζεύξης στην άλλη συσκευή:"
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
@@ -1165,7 +1165,7 @@ msgstr "Επιλέξτε ένα πορτοφόλι"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr ""
+msgstr "Επιλέξτε ένα υπο-πορτοφόλι"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1241,11 +1241,11 @@ msgstr "Μοιραστείτε τη διεύθυνση"
 
 #: public/views/walletHome.html:280
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "Κοινοποιήστε αυτή τη διεύθυνση πορτοφολιού για να λάβετε πληρωμές."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Κοινή χρήση μέσω μηνύματος"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
@@ -1253,16 +1253,16 @@ msgstr "Εμφάνιση όλων"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "Εμφάνιση του seed πορτοφολιού ούτως ή άλλως"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
-msgstr ""
+msgstr "Υπογραφή δαπάνης συναλλαγής από το πορτοφόλι;"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Πορτοφόλι μονής διεύθυνσης"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
