@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-26 14:11-0500\n"
+"PO-Revision-Date: 2018-02-26 14:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1572,7 +1572,7 @@ msgstr ""
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Wallets"
-msgstr ""
+msgstr "Πορτοφόλια"
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
