@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-26 13:50-0500\n"
+"PO-Revision-Date: 2018-02-26 14:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1513,7 +1513,7 @@ msgstr "Προειδοποίηση: Δημιουργία αντιγράφων α
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr ""
+msgstr "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Αυτό το seed δημιουργήθηκε με ένα συνθηματικό. Για να ανακτήσετε το αυτό πορτοφόλι απαιτούνται τόσο το μνημονικό, όσο και το συνθηματικό."
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
@@ -1631,7 +1631,7 @@ msgstr ""
 
 #: public/views/export.html:33
 msgid "Your export password"
-msgstr ""
+msgstr "Ο κωδικός εξαγωγής σας"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
