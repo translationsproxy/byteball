@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-26 14:21-0500\n"
+"PO-Revision-Date: 2018-02-26 14:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1473,11 +1473,11 @@ msgstr "Ανεπιβεβαίωτες"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr ""
+msgstr "Μονάδα για blackbytes"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr ""
+msgstr "Μονάδα για bytes"
 
 #: public/views/walletHome.html:197
 msgid "Unsent transactions"
@@ -1489,7 +1489,7 @@ msgstr "Ενημέρωση πορτοφολιού..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
-msgstr ""
+msgstr "Αναβάθμιση σε {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
@@ -1559,7 +1559,7 @@ msgstr "Όνομα Πορτοφολιού (κατά τη δημιουργία)"
 
 #: src/js/services/profileService.js:436
 msgid "Wallet already in Byteball:"
-msgstr ""
+msgstr "Πορτοφόλι ήδη στο Byteball:"
 
 #: public/views/create.html:48
 msgid "Wallet name"
@@ -1567,7 +1567,7 @@ msgstr "Όνομα πορτοφολιού"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
-msgstr ""
+msgstr "Το seed πορτοφολιού δεν είναι διαθέσιμο."
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
@@ -1584,7 +1584,7 @@ msgstr ""
 
 #: public/views/walletHome.html:328
 msgid "What to send"
-msgstr ""
+msgstr "Τί να σταλεί"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
@@ -1592,19 +1592,19 @@ msgstr ""
 #: public/views/walletHome.html:456
 #: public/views/walletHome.html:539
 msgid "Who signs:"
-msgstr ""
+msgstr "Ποιος υπογράφει:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
-msgstr ""
+msgstr "Διεύθυνση μάρτυρα"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Witnesses"
-msgstr ""
+msgstr "Μάρτυρες"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
-msgstr ""
+msgstr "Καταγράψτε το και φυλάξτε το με ασφάλεια."
 
 #: src/js/services/profileService.js:664
 msgid "Wrong password"
@@ -1639,7 +1639,7 @@ msgstr "Ο κωδικός σας"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr ""
+msgstr "Το αρχείο του πορτοφολιού σας:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
@@ -1651,13 +1651,13 @@ msgstr ""
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[Προσθήκη νέας συσκευής συν-υπογράφοντος]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
 msgid "amount"
-msgstr ""
+msgstr "ποσό"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
