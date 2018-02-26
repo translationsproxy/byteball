@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-26 05:40-0500\n"
+"PO-Revision-Date: 2018-02-26 05:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1363,7 +1363,7 @@ msgstr "Ο πωλητής πορτοφολιού θα μπορεί να γνωρ
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
-msgstr ""
+msgstr "Η καταγραφή της προτίμησης τους"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
@@ -1371,23 +1371,23 @@ msgstr "Δεν υπάρχουν πορτοφόλια για να πραγματ�
 
 #: public/views/walletHome.html:279
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr ""
+msgstr "Αυτή η διεύθυνση είναι κοινόχρηστη με {{index.shared_address_cosigners}}."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
-msgstr ""
+msgstr "Αυτή η επιλογή δεν μπορεί να αλλάξει αργότερα"
 
 #: public/views/walletHome.html:350
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
-msgstr ""
+msgstr "Αυτό είναι ένα ιδιωτικό περιουσιακό στοιχείο. Παρακαλώ στείλτε το πατώντας μόνο συνδέσεις (links) στο chat ή στείλτε το σε άλλα πορτοφόλια σας."
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "Αυτή η επιλογή είναι καλύτερη για την ιδιωτικότητα, αλλά θα χρειαστεί αρκετά gigabytes για αποθήκευση και ο αρχικός συγχρονισμός θα διαρκέσει αρκετές ημέρες.  Η χρήση του CPU θα είναι υψηλή, κατά τη διάρκεια του συγχρονισμού."
 
 #: public/views/walletHome.html:417
 msgid "This payment is bound to a condition"
-msgstr ""
+msgstr "Η πληρωμή αυτή είναι δεμένη με μια κατάσταση"
 
 #: public/views/modals/tx-details.html:80
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
