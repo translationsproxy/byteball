@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-26 14:42-0500\n"
+"PO-Revision-Date: 2018-02-26 14:52-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1493,7 +1493,7 @@ msgstr "Αναβάθμιση σε {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "Γίνεται αναβάθμιση της βάσης δεδομένων, παρακαλώ περιμένετε. Μερικές φορές διαρκεί αρκετά λεπτά."
 
 #: public/views/walletHome.html:522
 msgid "Values"
