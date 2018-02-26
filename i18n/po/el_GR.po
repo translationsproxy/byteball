@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-26 05:20-0500\n"
+"PO-Revision-Date: 2018-02-26 05:33-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -168,11 +168,11 @@ msgstr "Πιστοποίηση"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr "Αυτόματη ενημέρωση του καταλόγου μαρτύρων από το hub"
+msgstr "Αυτόματη ενημέρωση του καταλόγου μαρτύρων από τον κεντρικό τομέα"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr "Αυτόματη ενημέρωση του καταλόγου μαρτύρων από αυτό το hub"
+msgstr "Αυτόματη ενημέρωση του καταλόγου μαρτύρων από αυτό τον κεντρικό τομέα"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -264,7 +264,7 @@ msgstr "Άκυρο"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr "Αλλαγή hub:"
+msgstr "Αλλαγή κεντρικού τομέα:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
@@ -1299,15 +1299,15 @@ msgstr "Επιτυχία"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr ""
+msgstr "Μεταφορά πορτοφολιού"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr ""
+msgstr "Μεταφορά χάρτινου πορτοφολιού"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr ""
+msgstr "Συγχρονισμός... {{index.count_unhandled_private_payments}} οι ιδιωτικές πληρωμές έφυγαν"
 
 #: public/views/walletHome.html:82
 msgid "Syncing... {{index.syncProgress}}"
@@ -1338,19 +1338,19 @@ msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr ""
+msgstr "Ο κεντρικός τομέας για τη λήψη μηνυμάτων από άλλες συσκευές."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr ""
+msgstr "Ο κεντρικός τομέας προτείνει την αντικατάσταση των παρακάτω μαρτύρων:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "Ο ομότιμος (peer) λαμβάνει αυτή την πληρωμή, εάν"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "Η ψήφος θα υπογραφεί από όλες τις διευθύνσεις σας που χρηματοδοτούνται"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
