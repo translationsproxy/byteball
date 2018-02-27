@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-02-27 14:11-0500\n"
+"PO-Revision-Date: 2018-02-27 14:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -326,7 +326,7 @@ msgstr "Co-semnatar {{$index + 1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr "Co-semnatarii"
+msgstr "Co-semnatari"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
@@ -425,7 +425,7 @@ msgstr "Nu s-a putut trimite plata"
 
 #: public/views/walletHome.html:44
 msgid "Create"
-msgstr "Creează"
+msgstr "Creaţi"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
