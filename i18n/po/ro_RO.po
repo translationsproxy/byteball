@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-02-16 08:20-0500\n"
+"PO-Revision-Date: 2018-02-27 14:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -217,7 +217,7 @@ msgstr "Mai bine, folosesc portofele multisig cu redundanţă,"
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr "Obligați de plată"
+msgstr "Trimite plata"
 
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
