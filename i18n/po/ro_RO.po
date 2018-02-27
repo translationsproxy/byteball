@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-02-27 14:00-0500\n"
+"PO-Revision-Date: 2018-02-27 14:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -222,7 +222,7 @@ msgstr "Trimite plata"
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
 msgid "Bind the payment to a condition"
-msgstr "Obligații de plată cu o condiție"
+msgstr "Trimite plata cu o condiție"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -230,7 +230,7 @@ msgstr "Bitcoin URI nu este valid!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr "Magazin de bot"
+msgstr "Magazin bot"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -238,11 +238,11 @@ msgstr "Atât tu, cât şi {{correspondent.name}} ați activat înregistrarea is
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr "Browser nesuportat"
+msgstr "Browser neacceptat"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr "Adresa de Byteball"
+msgstr "Adresa Byteball"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
