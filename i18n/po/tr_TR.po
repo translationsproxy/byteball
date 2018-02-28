@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 09:52-0500\n"
+"PO-Revision-Date: 2018-02-28 10:07-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1473,11 +1473,11 @@ msgstr "Onaylanmamış"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr "Blackbytes birimi"
+msgstr "Blackbyte birimi"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr "Byte için birim"
+msgstr "Byte birimi"
 
 #: public/views/walletHome.html:197
 msgid "Unsent transactions"
@@ -1489,11 +1489,11 @@ msgstr "Cüzdan güncelleniyor..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
-msgstr "{{version}} sürümüne geçin"
+msgstr "{{version}} sürümüne yükselt"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr "Veritabanının güncellenmesi, lütfen bekleyin. Bazen birkaç dakika sürer."
+msgstr "Veritabanı yükseltiliyor, lütfen bekleyin. Bazen birkaç dakika alır."
 
 #: public/views/walletHome.html:522
 msgid "Values"
@@ -1509,11 +1509,11 @@ msgstr "UYARI:"
 
 #: public/views/walletHome.html:222
 msgid "WARNING: Backup needed"
-msgstr "Uyarı: Yedekleme gereklidir"
+msgstr "UYARI: Yedekleme gerekli"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr "Kurtarma sözcükleri bir parola ile desteklendi. Bu cüzdanı kurtarmak için, kurtarma sözcüklerine ve parolaya ihtiyaç olacaktır."
+msgstr "UYARI: Bu kurtarma sözcükleri şifre ile oluşturuldu. Bu cüzdanı kurtarmak için, hem kurtarma sözcükleri hem de parola gereklidir."
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
@@ -1526,11 +1526,11 @@ msgstr "BYTEBALL'A HOŞ GELDİNİZ"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
-msgstr "İşbirlikçiler için beklemek"
+msgstr "İmza ortakları bekleniyor"
 
 #: public/views/copayers.html:33
 msgid "Waiting..."
-msgstr "Bekliyor..."
+msgstr "Bekleniyor..."
 
 #: public/views/preferencesDeleteWallet.html:12
 msgid "Wallet"
@@ -1546,7 +1546,7 @@ msgstr "Cüzdan Yapılandırma (m-n)"
 
 #: public/views/preferencesInformation.html:20
 msgid "Wallet Id"
-msgstr "Cüzdan Id"
+msgstr "Cüzdan Id'si"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
@@ -1555,7 +1555,7 @@ msgstr "Cüzdan Bilgisi"
 
 #: public/views/preferencesInformation.html:12
 msgid "Wallet Name (at creation)"
-msgstr "Cüzdan ismi (oluşturmadaki)"
+msgstr "Cüzdan ismi (oluşturulduğundaki)"
 
 #: src/js/services/profileService.js:436
 msgid "Wallet already in Byteball:"
@@ -1567,12 +1567,12 @@ msgstr "Cüzdan ismi"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
-msgstr "Cüzdan çekirdeği mevcut değil."
+msgstr "Cüzdan kurtarma kelimeleri mevcut değil."
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Wallets"
-msgstr "Cüzdan"
+msgstr "Cüzdanlar"
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
@@ -1592,7 +1592,7 @@ msgstr "Ne gönderilecek"
 #: public/views/walletHome.html:456
 #: public/views/walletHome.html:539
 msgid "Who signs:"
-msgstr "Kim işaret eder:"
+msgstr "Kimler imzalar:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
@@ -1604,7 +1604,7 @@ msgstr "Tanıklar"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
-msgstr "Yaz ve bir yerde güvenli tutun."
+msgstr "Not edin ve güvenli bir yerde saklayın."
 
 #: src/js/services/profileService.js:664
 msgid "Wrong password"
@@ -1627,11 +1627,11 @@ msgstr "Cüzdanınız yok"
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr "Cüzdan Çekirdekleriniz:"
+msgstr "Cüzdan Kurtama Sözcükleriniz:"
 
 #: public/views/export.html:33
 msgid "Your export password"
-msgstr "Dışa alım parolanız"
+msgstr "Dışa aktarma parolanız"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
