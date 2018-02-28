@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-28 08:31-0500\n"
+"PO-Revision-Date: 2018-02-28 08:42-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -192,7 +192,7 @@ msgstr "Πίσω"
 
 #: public/views/walletHome.html:232
 msgid "Backup now"
-msgstr "Πάρτε Αντίγραφο Ασφαλείας τώρα"
+msgstr "Δημιουργία αντιγράφων ασφαλείας τώρα"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
@@ -1685,7 +1685,7 @@ msgstr "καθαρισμός ιστορικού συνομιλίας"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "αντιγράψτε το παρακάτω κείμενο και στείλτε το στον παραλήπτη μέσω οποιασδήποτε εφαρμογής ανταλλαγής μηνυμάτων, ή εκτυπώστε το σε χαρτί"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1697,7 +1697,7 @@ msgstr "ημέρες"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "π.χ. 1-από-2 πορτοφόλι με ένα κλειδί σε αυτή τη συσκευή και ένα άλλο κλειδί στον φορητό σας υπολογιστή."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
@@ -1752,23 +1752,23 @@ msgstr "ή"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "ή δημιουργήστε αντίγραφα ασφαλείας για όλα τα δεδομένα Byteball σε"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr ""
+msgstr "ο ομότιμος (peer) πληρώνει"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
-msgstr ""
+msgstr "δημοσιεύτηκε"
 
 #: public/views/modals/tx-details.html:142
 msgid "re-send private payloads"
-msgstr ""
+msgstr "επαναποστολή ιδιωτικών payloads"
 
 #: public/views/modals/tx-details.html:145
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "επαναποστολή ιδιωτικών payloads στους συνυπογράφοντες"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
@@ -1804,15 +1804,15 @@ msgstr "με"
 
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
-msgstr ""
+msgstr "με αναμενόμενη τιμή"
 
 #: public/views/modals/bind.html:58
 msgid "with expected value of"
-msgstr ""
+msgstr "με αναμενόμενη τιμή ύψους"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
-msgstr ""
+msgstr "{{address}} μπορούν να δαπανηθούν εάν:"
 
 #: public/views/modals/claim-textcoin.html:36
 #: public/views/modals/customized-amount.html:76
@@ -1821,7 +1821,7 @@ msgstr ""
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
-msgstr ""
+msgstr "{{cancel_label || 'Ακύρωση'}}"
 
 #: src/js/controllers/walletHome.js:1662
 msgid "{{fee}} will be deducted for bitcoin networking fees"
@@ -1829,16 +1829,16 @@ msgstr "{{fee}}, θα προεξοφληθεί ώς τέλος του δικτύ
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "{{hrd.destinationAddress}} μπορούν να δαπανηθούν εάν:"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
 msgid "{{index.m}}-of-{{index.n}}"
-msgstr ""
+msgstr "{{index.m}}- του -{{index.n}}"
 
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr ""
+msgstr "{{item.m}}- του -{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
