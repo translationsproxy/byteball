@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 09:22-0500\n"
+"PO-Revision-Date: 2018-02-28 09:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -846,7 +846,7 @@ msgstr "Verilen şifre yok"
 
 #: public/views/walletHome.html:586
 msgid "No transactions yet"
-msgstr "Henüz hiç bir işlem yok"
+msgstr "Henüz hiçbir işlem yok"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
@@ -1068,7 +1068,7 @@ msgstr "Bir aygıtı kaldır"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
-msgstr "Adını değiştirmek:"
+msgstr "Yeniden Adlandır:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
@@ -1081,11 +1081,11 @@ msgstr "Şifreyi tekrarla"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr "Değiştirmek"
+msgstr "Değiştir"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr "Şifre İste"
+msgstr "Şifre Sor"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:297
@@ -1094,7 +1094,7 @@ msgstr "Belirli bir miktar iste"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr "Ödeme iste"
+msgstr "Ödeme talep et"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
@@ -1145,7 +1145,7 @@ msgstr "Yukarıdaki QR kodunu diğer cihazı kullanarak tarayın veya bu eşleş
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
-msgstr "Parmak izinizi tarayın lütfen"
+msgstr "Lütfen parmak izinizi taratın"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
