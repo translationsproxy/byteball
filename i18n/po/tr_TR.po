@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 09:04-0500\n"
+"PO-Revision-Date: 2018-02-28 09:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -172,11 +172,11 @@ msgstr "Tanık listesini hub'dan otomatik olarak güncelle"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr "Bu hub'tan tanık listesinin otomatik güncelleştirilmesi"
+msgstr "Tanık listesini bu hub'dan otomatik olarak güncelle"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr "Kullanılabilir Bakiye"
+msgstr "Mevcut Bakiye"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -196,7 +196,7 @@ msgstr "Şimdi yedekle"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "Cüzdan Yedekle"
+msgstr "Cüzdan kurtarma kelimelerini yedekle"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -208,7 +208,7 @@ msgstr "Adrese göre Bakiye"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "Para almadan önce cüzdanınızı mutlaka yedeklemeniz önerilir."
+msgstr "Para almadan önce cüzdan anahtarlarınızı yedeklemeniz şiddetle tavsiye edilir."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -222,11 +222,11 @@ msgstr "Ödemeyi bağla"
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
 msgid "Bind the payment to a condition"
-msgstr "Ödemeyi şarta bağla"
+msgstr "Ödemeyi bir koşula bağla"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr "Bitcoin URI geçerli değil!"
+msgstr "Bitcoin URI'sı geçerli değil!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
@@ -234,7 +234,7 @@ msgstr "Bot Mağazası"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr "Hem sizin hem de {{correspondent.name}} yerel sohbet geçmişi kaydını etkinleştirdi."
+msgstr "Hem siz hem de {{correspondent.name}} yerel sohbet geçmişi kaydetmeyi etkinleştirdi."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -242,7 +242,7 @@ msgstr "Desteklenmeyen tarayıcı"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr "Byteball adresiniz"
+msgstr "Byteball adresi"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -264,7 +264,7 @@ msgstr "İptal"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr "Merkezi değiştirin:"
+msgstr "Hub değiştir:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
@@ -322,15 +322,15 @@ msgstr "Kapat"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
-msgstr "Eş imzacı {{$index+1}}:"
+msgstr "Ortak imzacı {{$index+1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr "Eş imza sahipleri"
+msgstr "Ortak imzacılar"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr "Multisig için imza yetkilileri"
+msgstr "Çoklu imza için ortak imzacılar"
 
 #: public/views/preferences.html:29
 msgid "Color"
@@ -478,7 +478,7 @@ msgstr "Reddedildi"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr "Bir kağıt cüzdanının şifresini çözmek, bu cihazda yaklaşık 5 dakika sürebilir. lütfen sabırlı olun ve uygulamayı açık tutun."
+msgstr "Bir kağıt cüzdanın şifresini çözmek bu cihazda yaklaşık 5 dakika sürebilir. lütfen sabırlı olun ve uygulamayı açık tutun."
 
 #: public/views/walletHome.html:179
 msgid "Definition"
@@ -490,7 +490,7 @@ msgstr "Akıllı adresin tanımı"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
-msgstr "Adres tanımları"
+msgstr "Adreslerin tanımları"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
