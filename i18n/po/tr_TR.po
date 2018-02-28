@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 13:20-0500\n"
+"PO-Revision-Date: 2018-02-28 13:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1224,7 +1224,7 @@ msgstr "Bir şifre belirle"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr "E-posta bildirimleri ayarlamak gizliliğinizi zayıflatabilir. Cüzdan sağlayıcısı ele geçirilirse, bazı bilgiler saldırganların eline geçebilir ancak bu bilgiler sadece cüzdan adresiniz ve bakiyeniz olacaktır."
+msgstr "E-posta bildirimleri ayarlamak cüzdan hizmet sağlayıcısı bu konuda ödün verirse gizliliğinizi zayıflatabilir. Saldırganların eline geçebilecek bilgiler sadece cüzdan adresiniz ve bakiyeniz olacaktır, daha fazlası değil."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
@@ -1689,7 +1689,7 @@ msgstr "aşağıdaki yazıyı kopyalayarak onu alıcıya herhangi bir mesajlaşm
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr "oluşturulma"
+msgstr "oluşturuldu"
 
 #: public/views/modals/offer-contract.html:108
 msgid "days"
