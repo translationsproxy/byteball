@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 12:50-0500\n"
+"PO-Revision-Date: 2018-02-28 13:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1253,11 +1253,11 @@ msgstr "Hepsini Göster"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr "Cüzdan deposunu Göster"
+msgstr "Yine de Cüzdan Kurtarma Kelimelerini göster"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
-msgstr "İşlem harcamalarını cüzdandan imzala?"
+msgstr "İşlem harcamaları cüzdandan imzalansın mı?"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
@@ -1267,11 +1267,11 @@ msgstr "Tek adresli cüzdan"
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr "Tek adres cüzdanları, her işlem için yeni adresler atmaz, değişim her zaman, cüzdan içerisindeki tek bir adrese gider."
+msgstr "Tek adres cüzdanları, her işlem için yeni adresler oluşturmaz, değişim her zaman cüzdanda bulunan tek adrese gider."
 
 #: src/js/services/profileService.js:318
 msgid "Small Expenses Wallet"
-msgstr "Küçük Masraflar Cüzdan"
+msgstr "Düşük Masraflar Cüzdanı"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
@@ -1338,7 +1338,7 @@ msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr "Başka cihazlardan alınan mesajlar için merkez."
+msgstr "Başka cihazlardan mesaj almaya yarayan hub."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
@@ -1791,7 +1791,7 @@ msgstr "tekrar paylaş"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
-msgstr "kime"
+msgstr "alıcı"
 
 #: public/views/walletHome.html:432
 #: public/views/walletHome.html:443
