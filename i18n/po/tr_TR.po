@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 09:31-0500\n"
+"PO-Revision-Date: 2018-02-28 09:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1133,7 +1133,7 @@ msgstr "Parmak izi tara"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr "Cüzdan Fonlarını Tara"
+msgstr "Cüzdan Bakiyesini Tara"
 
 #: public/views/walletHome.html:120
 msgid "Scan status finished with error"
@@ -1149,15 +1149,15 @@ msgstr "Lütfen parmak izinizi taratın"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
-msgstr "Cüzdan para miktarı taranıyor..."
+msgstr "Cüzdan Bakiyesi taranıyor..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr "Adres taranıyor..."
+msgstr "Adresler taranıyor..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
-msgstr "Cüzdan fonlarını taranıyor..."
+msgstr "Cüzdan bakiyesi taranıyor..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1342,7 +1342,7 @@ msgstr "Başka cihazlardan alınan mesajlar için merkez."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr "Tanıklar aşağıdaki tanıkları değiştirmeyi tavsiye ediyor:"
+msgstr "Hub, aşağıdaki tanıkları değiştirmeyi tavsiye ediyor:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
@@ -1350,7 +1350,7 @@ msgstr "Eş, eğer bu ödemeyi alırsa"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr "Oylama, finanse edilen tüm adresler tarafından imzalanacak"
+msgstr "Oy, finanse edilen tüm adresleriniz tarafından imzalanacak"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
