@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-21 14:51-0500\n"
+"PO-Revision-Date: 2018-02-28 08:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -338,11 +338,11 @@ msgstr "Renk"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr "Güç kaydet"
+msgstr "Commit hash"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
-msgstr "Dosyayı sıkıştırdın mı? (Yavaş)"
+msgstr "Dosya sıkıştırılsın mı? (Daha yavaş)"
 
 #: src/js/controllers/copayers.js:10
 #: src/js/controllers/index.js:459
@@ -354,7 +354,7 @@ msgstr "Onayla"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr "Oyu Onaylayın"
+msgstr "Oyu Onayla"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -362,7 +362,7 @@ msgstr "Ödemeyi Onayla"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr "Oyu onaylayın"
+msgstr "Oyu onayla"
 
 #: public/views/modals/tx-details.html:115
 msgid "Confirmed"
@@ -370,7 +370,7 @@ msgstr "Onaylandı"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr "İletişim"
+msgstr "Kişiler"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:389
@@ -395,11 +395,11 @@ msgstr "Belirtilen genişletilmiş genel anahtar kullanılarak oluşturulamadı"
 
 #: src/js/services/profileService.js:258
 msgid "Could not create: Invalid wallet seed"
-msgstr "Oluşturulamadı: geçersiz cüzdan kelimeleri"
+msgstr "Oluşturulamadı: geçersiz cüzdan kurtarma kelimeleri"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr "Şifresi çözülemedi"
+msgstr "Şifre çözülemedi"
 
 #: public/views/walletHome.html:583
 msgid "Could not fetch transaction history"
@@ -409,15 +409,15 @@ msgstr "İşlem geçmişi alınamadı"
 #: src/js/services/profileService.js:517
 #: src/js/services/profileService.js:539
 msgid "Could not import"
-msgstr "İçe alınamadı"
+msgstr "İçe aktarılamadı"
 
 #: src/js/services/profileService.js:467
 msgid "Could not import. Check input file and password"
-msgstr "İçe alınamadı. Dosyayı ve parolanızı kontrol edin"
+msgstr "İçe alınamadı. Dosyayı ve parolayı kontrol ediniz"
 
 #: src/js/controllers/walletHome.js:51
 msgid "Could not recognize a valid Byteball QR Code"
-msgstr "Geçerli bir Byteball QR Kodu tanımlanamadı"
+msgstr "Geçerli bir Byteball QR Kodu tanınamadı"
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not send payment"
