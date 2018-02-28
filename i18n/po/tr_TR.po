@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 08:21-0500\n"
+"PO-Revision-Date: 2018-02-28 08:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -621,19 +621,19 @@ msgstr "Tam yedekleme"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
-msgstr "Bulunan fonlar"
+msgstr "Bulunan paralar"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr "Fon transfer edebileceği"
+msgstr "Paralar şuraya gönderilecek"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
-msgstr "Başlarken"
+msgstr "BAŞLA"
 
 #: src/js/controllers/walletHome.js:418
 msgid "Generate QR Code"
-msgstr "QR Kodu Yarat"
+msgstr "QR kodu oluştur"
 
 #: public/views/walletHome.html:288
 msgid "Generate new address"
@@ -641,11 +641,11 @@ msgstr "Yeni adres oluştur"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
-msgstr "Csv dosyası oluşturuluyor..."
+msgstr ".csv dosyası oluşturuluyor..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
-msgstr "{{selectedWalletName}} için cüzdan adresi alınıyor..."
+msgstr "{{selectedWalletName}} cüzdanı için adres alınıyor..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
@@ -653,7 +653,7 @@ msgstr "Genel tercihler"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
-msgstr "Geri dön"
+msgstr "Geri git"
 
 #: public/views/preferences.html:48
 msgid "Hardware wallet"
@@ -661,7 +661,7 @@ msgstr "Donanım cüzdanı"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr "Cüzdan Çekirdeğini Gizle"
+msgstr "Cüzdan Kurtarma Kelimelerini Gizle"
 
 #: src/js/controllers/index.js:618
 msgid "History"
@@ -705,7 +705,7 @@ msgstr "Eş ödemezse paramı geri alabilirim"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Bu yedeklemeyi başka bir aygıta taşıdıysanız, yedeklemeyi oluşturduktan hemen sonra orijinal aygıtta kullanmayı bırakın. Asla cüzdanları kopyalamayın. Birden fazla cihazdan erişime ihtiyacınız varsa, multisig kullanın."
+msgstr "Bu yedeklemeyi başka bir aygıttan taşıdıysanız, yedeklemeyi oluşturduktan hemen sonra orijinal aygıtta kullanmayı bırakın. Asla cüzdanları klonlamayın. Birden fazla cihazdan erişime ihtiyacınız varsa, çoklu imza kullanın."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
