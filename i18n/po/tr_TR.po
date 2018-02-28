@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 12:32-0500\n"
+"PO-Revision-Date: 2018-02-28 12:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -605,11 +605,11 @@ msgstr "Ücret"
 
 #: public/views/modals/tx-details.html:110
 msgid "Finality"
-msgstr "Sonlandır"
+msgstr "Kesinlik"
 
 #: public/views/modals/tx-details.html:60
 msgid "From"
-msgstr "Kimden"
+msgstr "Gönderen"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
@@ -677,11 +677,11 @@ msgstr "Sunucu"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr "Merkez"
+msgstr "Hub"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr "Merkez URL'si"
+msgstr "Hub URL'si"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
@@ -1330,7 +1330,7 @@ msgstr "Kullanım Şartları"
 
 #: public/views/correspondentDevice.html:341
 msgid "Text message to"
-msgstr "Adresine yazılı mesaj"
+msgstr "Şu adrese yazılı mesaj:"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
@@ -1808,7 +1808,7 @@ msgstr "beklenen değere sahip"
 
 #: public/views/modals/bind.html:58
 msgid "with expected value of"
-msgstr "beklenen değere sahip"
+msgstr "şu beklenen değere sahip:"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
@@ -1834,11 +1834,11 @@ msgstr "{{hrd.destinationAddress}} eğer şu koşullar sağlanıyorsa harcanabil
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
 msgid "{{index.m}}-of-{{index.n}}"
-msgstr "{{index.m}} te {{index.n}}"
+msgstr "{{index.n}}--in--{{index.m}}'si"
 
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr "{{item.n}} te {{item.m}}"
+msgstr "{{item.n}}--in--{{item.m}}'si"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
