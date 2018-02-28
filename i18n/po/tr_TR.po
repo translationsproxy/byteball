@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 13:00-0500\n"
+"PO-Revision-Date: 2018-02-28 13:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1764,11 +1764,11 @@ msgstr "gönderildi"
 
 #: public/views/modals/tx-details.html:142
 msgid "re-send private payloads"
-msgstr "özel yüklerinizi yeniden gönderin"
+msgstr "özel payloadları yeniden gönder"
 
 #: public/views/modals/tx-details.html:145
 msgid "re-send private payloads to cosigners"
-msgstr "cosigners'a özel yüklerinizi yeniden gönderin"
+msgstr "özel payloadları imza ortaklarına yeniden gönder"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
