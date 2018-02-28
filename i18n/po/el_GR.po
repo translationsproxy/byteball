@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-26 17:50-0500\n"
+"PO-Revision-Date: 2018-02-28 08:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1618,7 +1618,7 @@ msgstr "Ναι"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "Δεν μπορείτε να δέσετε τη συναλλαγή σας σε αντίστροφη πληρωμή, καθώς είστε σε πορτοφόλι μονής διεύθυνσης.  Χρησιμοποιήστε ένα πορτοφόλι μη μονής διεύθυνσης και στη συνέχεια μεταφέρετε τα χρήματα σε αυτό το πορτοφόλι."
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
@@ -1661,15 +1661,15 @@ msgstr "ποσό"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "ένα γεγονός καταχωρείται από έναν oracle"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr ""
+msgstr "μπορεί να ξεκλειδώσει το συμβόλαιο"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "μπορεί να ξεκλειδώσει το συμβόλαιο μετά τη λήξη του, σε"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -1677,7 +1677,7 @@ msgstr "ακύρωση δημιουργίας πορτοφολιού"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "διεκδικήθηκε από {{btx.claimedByMe;» εγώ»: «δέκτης» | μετάφραση}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
