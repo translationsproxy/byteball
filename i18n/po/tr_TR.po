@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 09:10-0500\n"
+"PO-Revision-Date: 2018-02-28 09:22-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -525,11 +525,11 @@ msgstr "Cihaz adı, iletişim kurduğunuz diğer cihazlar tarafından görülebi
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr "Cüzdanların orijinalerini kopyalamayın, klonlu cüzdan kullanmayı bırakın."
+msgstr "Cüzdanların klonlamayın, bu kurtarma kelimeleriyle orijinal cüzdanı kullanmayı bırakın."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr "M-cüzdan'ı klonlamak için kullanmayın."
+msgstr "Cüzdanı klonlamak için kullanmayın."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -743,7 +743,7 @@ msgstr "Geçersiz"
 
 #: src/js/controllers/index.js:1533
 msgid "Invalid Touch ID"
-msgstr "Geçersiz Dokunma Kimliği"
+msgstr "Geçersiz Touch ID"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
@@ -751,11 +751,11 @@ msgstr "Diğer cihazı davet et"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr "Cüzdan çekirdeği yeterli değil. Tek çekirdekle multisig cüzdanları ve blackbytes gibi özel varlıkları geri yükleyemezsiniz."
+msgstr "Sadece cüzdan kurtarma kelimeleri yeterli değildir. Sadece kurtarma kelimeleri ile çoklu imzalı cüzdanları ve blackbytelar gibi özel varlıkları geri yükleyemezsiniz."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr "Yalnızca verileri sizinle alakalı tutun"
+msgstr "Yalnızca sizinle ilgili verileri saklayın"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
@@ -771,7 +771,7 @@ msgstr "Sonra"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr "Yükleneniyor..."
+msgstr "Yükleniyor..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
@@ -785,7 +785,7 @@ msgstr "Belki sonra"
 #: public/views/modals/offer-contract.html:116
 #: public/views/preferencesInformation.html:76
 msgid "Me"
-msgstr "Beni"
+msgstr "Ben"
 
 #: public/views/modals/tx-details.html:104
 msgid "Merchant message"
@@ -793,11 +793,11 @@ msgstr "Tüccar mesajı"
 
 #: public/views/walletHome.html:430
 msgid "Merkle proof"
-msgstr "Kalıp kanıtı"
+msgstr "Merkle kanıtı"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
-msgstr "Mesajınız"
+msgstr "Mesaj"
 
 #: public/views/walletHome.html:620
 msgid "Moved"
@@ -805,7 +805,7 @@ msgstr "Taşındı"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr "Çok Aygıtlı Cüzdan"
+msgstr "Çoklu Aygıt Cüzdanı"
 
 #: public/views/walletHome.html:240
 msgid "My Byteball address"
@@ -825,7 +825,7 @@ msgstr "Ağ"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr "Yeni Rastgele Sınıflandırma"
+msgstr "Yeni Rastgele Kurtarma Kelimeleri"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
