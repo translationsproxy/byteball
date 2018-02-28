@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 08:31-0500\n"
+"PO-Revision-Date: 2018-02-28 08:42-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -709,7 +709,7 @@ msgstr "Bu yedeklemeyi başka bir aygıttan taşıdıysanız, yedeklemeyi oluşt
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Cüzdan'ı başka bir cihaza geri yüklemeyi planlıyorsanız, yedeklemeyi oluşturduktan hemen sonra cüzdan kullanımını durdurun. Asla cüzdanları kopyalamayın. Birden fazla cihazdan erişime ihtiyacınız varsa, multisig kullanın."
+msgstr "Cüzdanı başka bir cihazda geri yüklemeyi planlıyorsanız, yedeklemeyi oluşturduktan hemen sonra mevcut aygıtta kullanmayı bırakın. Asla cüzdanları klonlamayın. Birden fazla cihazdan erişime ihtiyacınız varsa, çoklu imza kullanın."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -725,12 +725,12 @@ msgstr "Cüzdan içe aktarılıyor..."
 
 #: public/views/walletHome.html:133
 msgid "Including pending confirmation"
-msgstr "Onayı bekleyin"
+msgstr "Askıda olan onaylar dahil"
 
 #: public/views/walletHome.html:602
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr "İlk işlem geçmişi senkronizasyonu, birçok işlemi olan cüzdanlar için biraz zaman alabilir. <br>\n"
+msgstr "İlk işlem geçmişi senkronizasyonu birçok işlemi olan cüzdanlar için biraz zaman alabilir. <br>\n"
 "           Lütfen bekleyiniz."
 
 #: public/views/correspondentDevice.html:327
@@ -868,19 +868,19 @@ msgstr "Not"
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
 msgid "Offer a contract"
-msgstr "Bir sözleşme teklif etme"
+msgstr "Bir sözleşme teklif et"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr "Cüzdan tohumunuzu yazdıktan sonra, onu bu cihazdan silmeniz önerilir."
+msgstr "Cüzdan kurtarma kelimelerini not ettikten sonra, onu bu cihazdan silmeniz önerilir."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr "Yalnızca tek sigaralı cüzdanlar kurtarılamaz."
+msgstr "Yalnızca tek imzalı cüzdanlar kurtarılabilir."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr "Açık sohbet"
+msgstr "Sohbeti aç"
 
 #: public/views/modals/share.html:23
 msgid "Or"
@@ -892,15 +892,15 @@ msgstr "Eşleştir"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr "Eşleşmiş cihazlar"
+msgstr "Eşlenen cihazlar"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr "Eşleştirme kodu"
+msgstr "Eşleşme kodu"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr "Kağıt Cüzdanı Özel Anahtarı"
+msgstr "Kağıt Cüzdan Özel Anahtarı"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
@@ -949,7 +949,7 @@ msgstr "Ödeme Gönderildi"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr "Emsal:"
+msgstr "Eş:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -1371,7 +1371,7 @@ msgstr "Bu ödemeyi yapmak için hiçbir cüzdan yok"
 
 #: public/views/walletHome.html:279
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr "Bu adres aracılığıyla paylaşılıyor{{index.shared_address_cosigners}}"
+msgstr "Bu adres aracılığıyla paylaşılıyor{{index.shared_address_cosigners}}."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
