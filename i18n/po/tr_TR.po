@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 08:42-0500\n"
+"PO-Revision-Date: 2018-02-28 08:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -957,7 +957,7 @@ msgstr "Bu cüzdanı kalıcı olarak sil. BU EYLEM GERİ ALINAMAZ"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
-msgstr "Düz cüzdan"
+msgstr "Sade Cüzdan"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
@@ -973,19 +973,19 @@ msgstr "Lütfen bu cihazı adlandırın"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr "Liman"
+msgstr "Port"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr "Keyfi değer çiftlerini Byteball ağına yerleştirin."
+msgstr "Byteball ağına isteğe bağlı anahtar-değer veri çiftleri gönder."
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr "Değerleri elle veri kaynağına yerleştirin, torpilli olun."
+msgstr "Değerleri manuel olarak veri akışlarına gönderin, kahin olun."
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr "Profil verilerinizi gönderin, kendiniz hakkında söylemek istediğiniz her şeyi yapın."
+msgstr "Profil verilerinizi gönderin, kendiniz hakkında söylemek istediğiniz herhangi bir şey olabilir."
 
 #: public/views/walletHome.html:175
 #: public/views/walletHome.html:47
@@ -998,7 +998,7 @@ msgstr "Çıkmak için tekrar basın"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr "Özel varlıklar (blackbytes gibi) kurtarılamadı."
+msgstr "Özel varlıklar (blackbytes gibi) kurtarılmaz."
 
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
@@ -1023,7 +1023,7 @@ msgstr "Soru:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
-msgstr "Alma"
+msgstr "Al"
 
 #: public/views/walletHome.html:617
 msgid "Received"
@@ -1522,7 +1522,7 @@ msgstr "UYARILAR:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO BYTEBALL"
-msgstr "BYTEBOL'A HOŞ GELDİNİZ"
+msgstr ""
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
