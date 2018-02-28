@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 13:11-0500\n"
+"PO-Revision-Date: 2018-02-28 13:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1003,7 +1003,7 @@ msgstr "Özel varlıklar (blackbytes gibi) kurtarılmaz."
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
 msgid "Private payloads sent"
-msgstr "Özel yükler gönderildi"
+msgstr "Gönderilen özel payload'lar"
 
 #: public/views/walletHome.html:334
 msgid "Profile"
@@ -1739,7 +1739,7 @@ msgstr "alınmadı"
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr "yayın adı üzerinde"
+msgstr "şu akışta"
 
 #: public/views/walletHome.html:431
 #: public/views/walletHome.html:442
