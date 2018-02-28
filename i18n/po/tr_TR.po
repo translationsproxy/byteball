@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 09:41-0500\n"
+"PO-Revision-Date: 2018-02-28 09:52-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1359,7 +1359,7 @@ msgstr "\"{{walletName}}\" cüzdanı silindi"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr "Cüzdan sağlayıcısı, bazı, hesaplarınızı bilmek ve hangi işlemlerin sizin olduğunu görmek için uygun fakat cüzdanı kullanmaya hemen başlayabilirsin ve cüzdan tamamiyle işlevseldir."
+msgstr "Cüzdan sağlayıcısı bakiyelerinizin bir kısmını bilebilecek ve hangi işlemlerin sizin olduğunu görebilecek, ama cüzdanı hemen kullanmaya başlayabilirsiniz ve cüzdan tamamen işlevseldir."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
@@ -1371,7 +1371,7 @@ msgstr "Bu ödemeyi yapmak için hiçbir cüzdan yok"
 
 #: public/views/walletHome.html:279
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr "Bu adres aracılığıyla paylaşılıyor{{index.shared_address_cosigners}}."
+msgstr "Bu adres, {{index.shared_address_cosigners}} ile paylaşılıyor."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
@@ -1379,23 +1379,23 @@ msgstr "Bu seçim daha sonra değiştirilemez"
 
 #: public/views/walletHome.html:350
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
-msgstr "Bu özel bir varlık, lütfen gönderme işlemini sadece konuşmadaki bağlantıya tıklayarak yapın yada diğer cüzdanlarınıza gönderin."
+msgstr "Bu özel bir varlıktır, lütfen gönderme işlemini sadece konuşmadaki bağlantılara tıklayarak yapın ya da diğer cüzdanlarınıza gönderin."
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr "Bu seçenek gizlilik açısından daha iyidir ama bir kaç gb depo alanını dolduracak ve ilk eşitleme birkaç gün sürecektir. Senkronizasyon sırasında CPU'su yüksek seviyede olacaktır."
+msgstr "Bu seçenek gizlilik açısından daha iyidir ama bir kaç gb depo alanını doldurur ve ilk senkronizasyon birkaç gün sürecektir. Senkronizasyon sırasında CPU yükü yüksek seviyede olacaktır."
 
 #: public/views/walletHome.html:417
 msgid "This payment is bound to a condition"
-msgstr "Bu ödeme şarta bağlı"
+msgstr "Bu ödeme bir şarta bağlı"
 
 #: public/views/modals/tx-details.html:80
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr "Bu işlem muhtemel bir çift harcama girişimi yüzünden geçersiz hale geldi."
+msgstr "Bu işlem geçersiz hale geldi; muhtemelen bir çift harcama girişimi yüzünden."
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr "Zaten çoklu adreslerden oluşuyor veya çoklu cihazlara bağlı olduğu için tek adresli cüzdana dönüştürülemez"
+msgstr "Bu cüzdan, zaten birden çok adresten oluştuğu veya çoklu cihaz cüzdanı olduğu için tek adresli cüzdana dönüştürülemez"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
@@ -1444,7 +1444,7 @@ msgstr "Toplam Kilitli Bakiye"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr "Toplam imzacı sayısı"
+msgstr "Toplam ortak imzacı sayısı"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
@@ -1477,7 +1477,7 @@ msgstr "Blackbytes birimi"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr "Bayt için birim"
+msgstr "Byte için birim"
 
 #: public/views/walletHome.html:197
 msgid "Unsent transactions"
