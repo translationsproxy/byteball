@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 12:40-0500\n"
+"PO-Revision-Date: 2018-02-28 12:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -697,11 +697,11 @@ msgstr "Başka bir ödeme aldım"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr "Durum karşılanmazsa, bu parayı geri alabilirim"
+msgstr "Koşul gerçekleşmezse, bu parayı şu kadar süre sonra geri alabilirim:"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr "Eş ödemezse paramı geri alabilirim"
+msgstr "Eş ödeme yapmazsa, paramı şu kadar süre sonra geri alabilirim:"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -842,7 +842,7 @@ msgstr "Hayır"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr "Verilen şifre yok"
+msgstr "Hiçbir şifre girilmedi"
 
 #: public/views/walletHome.html:586
 msgid "No transactions yet"
@@ -1165,7 +1165,7 @@ msgstr "Bir cüzdan seçin"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr "Alt cüzdanı seçin"
+msgstr "Alt cüzdan seçin"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1192,7 +1192,7 @@ msgstr "Adresleri E-Posta ile gönder"
 
 #: public/views/walletHome.html:368
 msgid "Send all"
-msgstr "Hepsini gönder"
+msgstr "Tümünü gönder"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
@@ -1216,11 +1216,11 @@ msgstr "Oturum günlüğü"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr "Şifreyi ayarla"
+msgstr "Bir Şifre belirle"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr "Parola ayarla"
+msgstr "Bir şifre belirle"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
