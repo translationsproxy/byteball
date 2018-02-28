@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-02-04 12:30-0500\n"
+"PO-Revision-Date: 2018-02-28 08:42-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -234,7 +234,7 @@ msgstr "Itaja Botu"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr "Eyanmejeji ati iwo {{oniyorin.oruko}} jeki gbigbasile igbasile itan itanran agbegbe."
+msgstr ""
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
