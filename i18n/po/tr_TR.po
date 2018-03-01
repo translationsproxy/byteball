@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-02-28 13:31-0500\n"
+"PO-Revision-Date: 2018-03-01 09:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -689,11 +689,11 @@ msgstr "Bu koşulları okuduğumu, anladığımı ve kabul ettiğimi onaylıyoru
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr "Ben ödeme"
+msgstr "Öderim"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr "Başka bir ödeme aldım"
+msgstr "Şu miktarda başka bir ödeme daha alırsam"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
