@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-03-01 11:40-0500\n"
+"PO-Revision-Date: 2018-03-01 16:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -212,7 +212,7 @@ msgstr "Para almadan önce cüzdan anahtarlarınızı yedeklemeniz şiddetle tav
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr "Daha da iyisi, çoklu ortam cüzdanlarını artıklığıdır,"
+msgstr "Daha da iyisi, ortaklık özelliğine sahip çoklu imza cüzdanlarını kullanın,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
