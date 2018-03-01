@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-03-01 09:20-0500\n"
+"PO-Revision-Date: 2018-03-01 10:35-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1299,11 +1299,11 @@ msgstr "Başarılı"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr "Cüzdan Temizleme"
+msgstr "Cüzdanı Temizle"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr "Cüzdan kağıtlarını temizleme"
+msgstr "Kağıt cüzdanı temizle"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
