@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2018-03-02 13:40-0500\n"
+"PO-Revision-Date: 2018-03-02 13:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1148,95 +1148,95 @@ msgstr "Molimo vas skenirajte vaš otisak prsta"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
-msgstr ""
+msgstr "Skeniranje sredstva novčanika..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr ""
+msgstr "Skeniranje adresa..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
-msgstr ""
+msgstr "Skeniranje sredstva novčanika..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
-msgstr ""
+msgstr "Odaberite novčanik"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr ""
+msgstr "Odaberite subnovčanik"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "Odaberite vaš identitet"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:467
 #: public/views/walletHome.html:547
 #: src/js/controllers/index.js:614
 msgid "Send"
-msgstr ""
+msgstr "Pošaljite"
 
 #: public/views/walletHome.html:319
 msgid "Send All"
-msgstr ""
+msgstr "Pošaljite sve"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr ""
+msgstr "Pošaljite uplatu"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr ""
+msgstr "Pošaljite adrese preko e-pošte"
 
 #: public/views/walletHome.html:368
 msgid "Send all"
-msgstr ""
+msgstr "Pošaljite sve"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
-msgstr ""
+msgstr "Pošaljite preko e-pošte"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr ""
+msgstr "Slanje sredstava..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
-msgstr ""
+msgstr "Slanje..."
 
 #: public/views/walletHome.html:619
 msgid "Sent"
-msgstr ""
+msgstr "Poslano"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr ""
+msgstr "Zapisnik"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "Postavite lozinku"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr ""
+msgstr "Postavite lozinku"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr ""
+msgstr "Postavljanje obavijesti preko e-pošte može oslabiti vašu privatnost, ako je davatelj usluga novčanika kompromiziran. Informacije koje su dostupne napadaču će uključivati vaše adrese i njihovo stanje, ali ništa više."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "Postavke"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Podijelite"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
 msgid "Share address"
-msgstr ""
+msgstr "Podijelite adresu"
 
 #: public/views/walletHome.html:280
 msgid "Share this wallet address to receive payments."
