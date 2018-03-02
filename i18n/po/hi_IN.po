@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-02-06 03:10-0500\n"
+"PO-Revision-Date: 2018-03-02 09:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -85,7 +85,7 @@ msgstr "पता"
 
 #: public/views/walletHome.html:507
 msgid "Address to attest"
-msgstr ""
+msgstr "निवेदन / पता हस्ताक्षर करने के लिए"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
