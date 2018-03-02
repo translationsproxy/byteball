@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2018-03-02 11:40-0500\n"
+"PO-Revision-Date: 2018-03-02 11:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -976,120 +976,120 @@ msgstr "Ulaz"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Objavite proizvoljne uparene ključeve u našu Byteball mrežu."
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Objavite vrijednosti u datafeeds manualno, budi korisnik."
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Objavite podatke vašeg profila, što god želite reći o sebi."
 
 #: public/views/walletHome.html:175
 #: public/views/walletHome.html:47
 msgid "Preferences"
-msgstr ""
+msgstr "Postavke"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "Pritisnite još jednom za izlaz"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "Privatna imovina (npr. blackbytes) se neće oporaviti."
 
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
 msgid "Private payloads sent"
-msgstr ""
+msgstr "Privatna količina poslana"
 
 #: public/views/walletHome.html:334
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
-msgstr ""
+msgstr "QR kod"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr ""
+msgstr "QR-Scanner"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Pitanje:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
-msgstr ""
+msgstr "Primanje"
 
 #: public/views/walletHome.html:617
 msgid "Received"
-msgstr ""
+msgstr "Primljeno"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:52
 msgid "Recipients"
-msgstr ""
+msgstr "Primatelji"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
-msgstr ""
+msgstr "Ponovno povezivanje s novčanik uslugom..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr ""
+msgstr "Oporavak"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr ""
+msgstr "Obnavljanje iz sigurnosne kopije"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr ""
+msgstr "Rekreacija novčanika..."
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
-msgstr ""
+msgstr "Odbijeno"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr ""
+msgstr "Informacije"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
-msgstr ""
+msgstr "Ukloni"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Uklanjanje uređaja"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
-msgstr ""
+msgstr "Preimenujte:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr ""
+msgstr "Ponovite lozinku"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "Ponovite lozinku"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "Zamijenite"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr ""
+msgstr "Zatražite lozinku"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:297
 msgid "Request a specific amount"
-msgstr ""
+msgstr "Zatražite određenu količinu"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
@@ -1525,65 +1525,65 @@ msgstr "DOBRODOŠLI NA BYTEBALL"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
-msgstr ""
+msgstr "Čekivanje na ostale korisnike"
 
 #: public/views/copayers.html:33
 msgid "Waiting..."
-msgstr ""
+msgstr "Čekanje..."
 
 #: public/views/preferencesDeleteWallet.html:12
 msgid "Wallet"
-msgstr ""
+msgstr "Novčanik"
 
 #: public/views/preferences.html:20
 msgid "Wallet Alias"
-msgstr ""
+msgstr "Novčanik korisnici"
 
 #: public/views/preferencesInformation.html:27
 msgid "Wallet Configuration (m-n)"
-msgstr ""
+msgstr "Konfiguracija novčanika (m-n)"
 
 #: public/views/preferencesInformation.html:20
 msgid "Wallet Id"
-msgstr ""
+msgstr "ID novčanika"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
 msgid "Wallet Information"
-msgstr ""
+msgstr "Informacije novčanika"
 
 #: public/views/preferencesInformation.html:12
 msgid "Wallet Name (at creation)"
-msgstr ""
+msgstr "Ime novčanika (sa početka)"
 
 #: src/js/services/profileService.js:436
 msgid "Wallet already in Byteball:"
-msgstr ""
+msgstr "Novčanik je već u Byteball:"
 
 #: public/views/create.html:48
 msgid "Wallet name"
-msgstr ""
+msgstr "Ime novčanika"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
-msgstr ""
+msgstr "Dijeljenje nije moguće."
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Wallets"
-msgstr ""
+msgstr "Novčanici"
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
-msgstr ""
+msgstr "Upozorenje!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "Je bilo potvrđeno?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
-msgstr ""
+msgstr "Što treba poslati"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
@@ -1591,29 +1591,29 @@ msgstr ""
 #: public/views/walletHome.html:456
 #: public/views/walletHome.html:539
 msgid "Who signs:"
-msgstr ""
+msgstr "Tko potpisuje:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
-msgstr ""
+msgstr "Adresa korisnika"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Witnesses"
-msgstr ""
+msgstr "Korisnici"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
-msgstr ""
+msgstr "Zapišite ga i držite ga negdje na sigurno."
 
 #: src/js/services/profileService.js:664
 msgid "Wrong password"
-msgstr ""
+msgstr "Pogrešna lozinka"
 
 #: public/views/authConfirmation.html:17
 #: public/views/modals/confirmation.html:6
 #: src/js/controllers/index.js:457
 msgid "Yes"
-msgstr ""
+msgstr "Da"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
