@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 10:10-0500\n"
+"PO-Revision-Date: 2018-03-02 10:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -147,12 +147,12 @@ msgstr "दुशरे यंत्रों में वटुवा नि�
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr ""
+msgstr "क्या आप आस्वस्त हैं और आप चाहते हैं बैकअप शब्दों को हटाना?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr ""
+msgstr "क्या आप आस्वस्त हैं और आप चाहते हैं वटुवा को हटाना?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
@@ -160,15 +160,15 @@ msgstr "संपत्ति"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "प्रलेख डेटा प्रमाणित करें जो लिंक किया गया है किसी बाइटबॉल पता में|"
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
-msgstr ""
+msgstr "प्रमाण"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "गवाह सूची को स्वयं-नवनीकरण होने दें केंद्र से"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
