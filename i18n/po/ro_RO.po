@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-02-27 14:20-0500\n"
+"PO-Revision-Date: 2018-03-02 09:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -383,7 +383,7 @@ msgstr "Corespondenţii nu sunt restabiliți."
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not create payment proposal"
-msgstr "Nu s-a putut crea propunerea de plată"
+msgstr "Nu s-a putut creea propunerea de plată"
 
 #: src/js/services/profileService.js:265
 msgid "Could not create using the specified extended private key"
