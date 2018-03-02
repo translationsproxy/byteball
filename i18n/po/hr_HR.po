@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2018-03-02 07:11-0500\n"
+"PO-Revision-Date: 2018-03-02 07:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1390,16 +1390,16 @@ msgstr "Ovo plaćanje je uvjetovano"
 
 #: public/views/modals/tx-details.html:80
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr ""
+msgstr "Ova transakcija je postala nevaljana; vjerovatno zbog dvostrukog pokušaja plaćanja."
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "Ovaj novčanik ne može bit pretvoren u jednu adresu novčanika jer se već sastoji od više adresa ili je korištena na nekoliko uređaja"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
-msgstr ""
+msgstr "Ovo će trajno izbrisati vaše postojeće novčanike!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1407,31 +1407,31 @@ msgstr ""
 #: public/views/modals/tx-details.html:65
 #: public/views/walletHome.html:651
 msgid "To"
-msgstr ""
+msgstr "Za"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "Da biste vratili sve, molimo stvoritie punu sigurnosnu kopiju (pronađite opciju u izborniku)"
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "Da biste mogli poslati proizvoljne podatke u Byteball mrežu, prvo prijeđite u jedno adresni novčanik ili ga stvorite."
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr ""
+msgstr "Za povezivanje uplate uz uvjet, molimo kliknite na adresu drugog korisnika u razgovoru"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "Za byteball adresu"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "Za bytball adressu ili email"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "Za email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
