@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2018-03-02 07:42-0500\n"
+"PO-Revision-Date: 2018-03-02 09:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -110,23 +110,23 @@ msgstr "Sve novčanik adrese"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr ""
+msgstr "Svi doprinosi za Byteball prevod su dobrodošli. Prijavi se na crowdin.com i pridruži se Byteball projektu na"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
-msgstr ""
+msgstr "Već plaćeno"
 
 #: public/views/walletHome.html:150
 msgid "Also"
-msgstr ""
+msgstr "Također"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "Također u izborniku Postavke, naći ćete mogućnosti sigurnosti kao što je postavljanje lozinke."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Također, ne zaboravite izbrisati vaše dijeljenje"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -135,48 +135,48 @@ msgstr ""
 #: public/views/paymentUri.html:16
 #: public/views/walletHome.html:367
 msgid "Amount"
-msgstr ""
+msgstr "Količina"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "Odgovor:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr ""
+msgstr "Odobriti stvaranje novčanika na drugim uređajima"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr ""
+msgstr "Jeste li sigurni da želite obrisati ovu pohranu?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr ""
+msgstr "Jeste li sigurni da želite izbrisati ovaj novčanik?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr ""
+msgstr "Imovina"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Potvrditi podatke profila povezanih na bilo koju Byteball adresu."
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
-msgstr ""
+msgstr "Potvrda"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "Auto-ažuriranje popisa svjedoka iz baze podataka"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "Auto-ažuriranje popisa svjedoka iz baze podataka"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr ""
+msgstr "Raspoloživo stanje"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -188,15 +188,15 @@ msgstr ""
 #: public/views/modals/destination-address.html:9
 #: public/views/modals/tx-details.html:5
 msgid "Back"
-msgstr ""
+msgstr "Natrag"
 
 #: public/views/walletHome.html:232
 msgid "Backup now"
-msgstr ""
+msgstr "Izradi sigurnosnu kopiju sada"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "Dijeljenje sigurnosne kopije novčanika"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
