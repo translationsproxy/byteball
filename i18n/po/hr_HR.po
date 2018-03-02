@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2018-03-02 11:50-0500\n"
+"PO-Revision-Date: 2018-03-02 12:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1617,82 +1617,82 @@ msgstr "Da"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "Ne možete vezati vaše transakcije za obratno plaćanje jer ste u jedno-adresnom novčaniku. Koristite višestruku adresu novčanika i zatim prenesite novac u ovaj novčanik."
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
-msgstr ""
+msgstr "Nemate novčanik"
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr ""
+msgstr "Vaše dijeljenje:"
 
 #: public/views/export.html:33
 msgid "Your export password"
-msgstr ""
+msgstr "Vaša izvozna lozinka"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
-msgstr ""
+msgstr "Vaša lozinka"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr ""
+msgstr "Vaš a datoteka novčanika:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr ""
+msgstr "Vaš novčanik će biti enkriptovan. Lozinka ne može biti oporavljena. Budite sigurni da ju zapišete"
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "Novčanik će se stvoriti na ovom uređaju, držite ga sigurno.  Pogledajte sigurnosne opcije u izborniku postavke."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[ Dodaj novi suvlasnik-uređaj ]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
 msgid "amount"
-msgstr ""
+msgstr "količina"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "događaj je objavljen od strane korisnika"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr ""
+msgstr "može otključati ugovor"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "može otključati ugovor nakon što istekne u"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "prekinute stvaranje novčanika"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "primljeno od {{btx.claimedByMe?'mene':'primaoc'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
-msgstr ""
+msgstr "očisti povijest razgovora"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "kopirajte tekst ispod i pošaljite ga primatelju putem aplikacije za dopisivanje ili ga isprintajte na papir"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "stvoreno"
 
 #: public/views/modals/offer-contract.html:108
 msgid "days"
-msgstr ""
+msgstr "dani"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
