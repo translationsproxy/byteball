@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2018-03-02 13:30-0500\n"
+"PO-Revision-Date: 2018-03-02 13:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -395,74 +395,74 @@ msgstr "Nije moguće stvoriti pomoću produženog javnog ključa"
 
 #: src/js/services/profileService.js:258
 msgid "Could not create: Invalid wallet seed"
-msgstr ""
+msgstr "Nije moguće stvoriti: nevaljano dijeljenje"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr ""
+msgstr "Nije moguće dešifrirati"
 
 #: public/views/walletHome.html:583
 msgid "Could not fetch transaction history"
-msgstr ""
+msgstr "Nije moguće prenijeti povijest transakcija"
 
 #: src/js/services/profileService.js:490
 #: src/js/services/profileService.js:517
 #: src/js/services/profileService.js:539
 msgid "Could not import"
-msgstr ""
+msgstr "Nije moguće uvesti"
 
 #: src/js/services/profileService.js:467
 msgid "Could not import. Check input file and password"
-msgstr ""
+msgstr "Nije moguće uvesti. Provjerite ulazne datoteke i lozinke"
 
 #: src/js/controllers/walletHome.js:51
 msgid "Could not recognize a valid Byteball QR Code"
-msgstr ""
+msgstr "Nije moguće prepoznati validan Byteball QR kod"
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not send payment"
-msgstr ""
+msgstr "Nije moguće poslati uplatu"
 
 #: public/views/walletHome.html:44
 msgid "Create"
-msgstr ""
+msgstr "Stvorite"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
-msgstr ""
+msgstr "Stvorite novi novčanik"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
 msgid "Create new wallet"
-msgstr ""
+msgstr "Stvorite novi novčanik"
 
 #: src/js/controllers/index.js:286
 msgid "Create new wallet  together with  ?"
-msgstr ""
+msgstr "Stvoriti novi novčanik zajedno sa ?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr ""
+msgstr "Stvorite {{requiredCosigners}}- od -{{totalCosigners}} novčanik"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr ""
+msgstr "Stvoreno:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr ""
+msgstr "Stvaranje profila..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr ""
+msgstr "Stvaranje novčanika..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr ""
+msgstr "BRISANJE RIJEČI"
 
 #: public/views/walletHome.html:335
 msgid "Data"
-msgstr ""
+msgstr "Podaci"
 
 #: public/views/walletHome.html:332
 msgid "Data into datafeed"
@@ -1093,23 +1093,23 @@ msgstr "Zatražite određenu količinu"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr ""
+msgstr "Zahtjev za plaćanje"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
-msgstr ""
+msgstr "Potreban broj potpisa"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr ""
+msgstr "Vratiti podatke iz sigurnosne kopije"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr ""
+msgstr "Ponovni pokušaj..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
-msgstr ""
+msgstr "POSTAVI"
 
 #: public/views/editCorrespondentDevice.html:41
 #: public/views/modals/destination-address.html:132
@@ -1120,31 +1120,31 @@ msgstr ""
 #: public/views/preferencesHub.html:18
 #: public/views/preferencesTor.html:19
 msgid "Save"
-msgstr ""
+msgstr "Spremiti"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
-msgstr ""
+msgstr "Spremanje postavki..."
 
 #: public/views/preferences.html:66
 msgid "Scan Fingerprint"
-msgstr ""
+msgstr "Skeniranje otisak prsta"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr ""
+msgstr "Skenirajte sredstva novčanika"
 
 #: public/views/walletHome.html:120
 msgid "Scan status finished with error"
-msgstr ""
+msgstr "Status skeniranja je završen sa pogreškom"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr ""
+msgstr "Skenirajte QR kod iznad pomoću drugog uređaja ili pošaljite ovaj kod na drugi uređaj za uparivanje:"
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
-msgstr ""
+msgstr "Molimo vas skenirajte vaš otisak prsta"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
