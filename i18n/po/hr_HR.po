@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2018-03-02 07:01-0500\n"
+"PO-Revision-Date: 2018-03-02 07:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1345,48 +1345,48 @@ msgstr "Središte predlaže zamjenu sljedećih 'svjedoka':"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "Korisnik prima ovu isplatu ako"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "Glasa će biti potpisan od svih naših plaćenih adresa"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The wallet \"{{walletName}}\" was deleted"
-msgstr ""
+msgstr "Novčanik \"{{walletName}}\" je izbrisan"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "Novčanik će biti u mogućnosti da poznaje neko od vaših balansa i bit će u mogućnosti vidjeti koje su vaše transakcije, ali možete odmah početi koristiti novčanik te je novčanik potpuno funkcionalan."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
-msgstr ""
+msgstr "Njihove postavke za snimanje"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
-msgstr ""
+msgstr "Nema novčanika da biste napravili plaćanje"
 
 #: public/views/walletHome.html:279
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr ""
+msgstr "Ova adresa se dijeli sa {{index.shared_address_cosigners}}."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
-msgstr ""
+msgstr "Ovaj izbor ne može biti promijenjen naknadno"
 
 #: public/views/walletHome.html:350
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
-msgstr ""
+msgstr "Ovo je privatna imovina, molimo pošaljite samo klikom na linkove u razgovoru ili pošaljite ih u vaše druge novčanike."
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "Ova mogućnost je bolja za privatnost, ali će zauzeti nekoliko gigabajta prostora za phranu i početna sinkronizacija će potrajati nekoliko dana.  Učitavanje u centralnu procesorsku jedinicu će biti visoko tijekom sinkronizacije."
 
 #: public/views/walletHome.html:417
 msgid "This payment is bound to a condition"
-msgstr ""
+msgstr "Ovo plaćanje je uvjetovano"
 
 #: public/views/modals/tx-details.html:80
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
