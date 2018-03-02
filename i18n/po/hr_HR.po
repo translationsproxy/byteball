@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2018-03-02 09:50-0500\n"
+"PO-Revision-Date: 2018-03-02 10:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -200,41 +200,41 @@ msgstr "Dijeljenje sigurnosne kopije novčanika"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr ""
+msgstr "Riječi sigurnosne kopije obrisane"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "Stanje po adresi"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "Prije primanja sredstava, preporučujemo da napravite sigurnosnu kopiju vaših ključeva za novčanik."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Još bolje, koristite multisig novčanike jednostavnije,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr ""
+msgstr "Povezivanje plaćanja"
 
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
 msgid "Bind the payment to a condition"
-msgstr ""
+msgstr "Povežite plaćanje sa uvjetom"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr ""
+msgstr "Bitcoin URI nije valjan!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr ""
+msgstr "Robot trgovina"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Vi i {{correspondent.name}} ste omogućili snimanje povijesti lokalnog razgovora."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -466,15 +466,15 @@ msgstr ""
 
 #: public/views/walletHome.html:332
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Podaci u datafeed"
 
 #: public/views/modals/tx-details.html:85
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: src/js/controllers/index.js:256
 msgid "Declined"
-msgstr ""
+msgstr "Odbijeno"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
