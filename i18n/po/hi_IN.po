@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 10:01-0500\n"
+"PO-Revision-Date: 2018-03-02 10:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -126,7 +126,7 @@ msgstr "समायोजन मेनुए में भी, आप पाव
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "इसी तरह, अंकुर को नष्ट करना न भूलें"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -143,7 +143,7 @@ msgstr "जवाब:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr ""
+msgstr "दुशरे यंत्रों में वटुवा निर्माण अनुमोदित"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
