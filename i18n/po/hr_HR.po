@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2018-03-02 10:01-0500\n"
+"PO-Revision-Date: 2018-03-02 10:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -478,31 +478,31 @@ msgstr "Odbijeno"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr ""
+msgstr "Dekriptiranje novčanika će trajati oko 5 minuta na ovom uređaju. Molimo budite strpljivi i držite aplikaciju otvorenom."
 
 #: public/views/walletHome.html:179
 msgid "Definition"
-msgstr ""
+msgstr "Definicija"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
-msgstr ""
+msgstr "Definicija pametne adrese"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
-msgstr ""
+msgstr "Definicije adresa"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
-msgstr ""
+msgstr "Brisanje novčanika"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete wallet"
-msgstr ""
+msgstr "Obrišite novčanik"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
-msgstr ""
+msgstr "Strategija izvođenja"
 
 #: public/views/modals/customized-amount.html:29
 #: public/views/modals/multi-payment.html:17
