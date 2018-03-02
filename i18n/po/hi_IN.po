@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 09:50-0500\n"
+"PO-Revision-Date: 2018-03-02 10:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -102,7 +102,7 @@ msgstr "सहमत"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
-msgstr ""
+msgstr "<i>{{index.walletName}}</i> के लिए उपनाम"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
@@ -110,7 +110,7 @@ msgstr "सभी वॉलेट पतें"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr ""
+msgstr "सभी योगदानों का स्वागत है बाइटबॉल का अनुवाद के लिए. क्रोडिन.कॉम में साईन अप करें और बाइटबॉल परियोजना से जुड़ें"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -118,11 +118,11 @@ msgstr "पहले से ही भुगतान"
 
 #: public/views/walletHome.html:150
 msgid "Also"
-msgstr ""
+msgstr "भी"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "समायोजन मेनुए में भी, आप पावोगे सुरक्क्षा विक्लप जैसे पासवर्ड समायोजन|"
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
