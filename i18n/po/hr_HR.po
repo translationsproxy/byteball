@@ -11,50 +11,50 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2018-03-02 07:20-0500\n"
+"PO-Revision-Date: 2018-03-02 07:32-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr ""
+msgstr "(Stranica neće vidjeti vaše stanje i novac neće biti potrošen)"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
-msgstr ""
+msgstr "(moguće dvostruko plaćanje)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- Odaberite drugog potpisnika --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 riječi odvojenih crticama"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
-msgstr ""
+msgstr "O Byteball"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
 #: src/js/controllers/walletHome.js:121
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr ""
+msgstr "Prihvati"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
-msgstr ""
+msgstr "Prihvati pozivnicu"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr ""
+msgstr "Prihvatite poziv sa drugog uređaja"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
-msgstr ""
+msgstr "Račun"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Dodajte Robot"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
@@ -1435,93 +1435,93 @@ msgstr "Za email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr ""
+msgstr "Da biste zaštitili vašu privatnos,, nove adrese se automatski generiraju jednom kada ih koristite."
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
-msgstr ""
+msgstr "Ukupno Zaključano Stanje"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr ""
+msgstr "Ukupan broj drugih osoba za potpisivanje"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
-msgstr ""
+msgstr "Transakcija"
 
 #: public/views/walletHome.html:608
 msgid "Transactions<br> Downloaded"
-msgstr ""
+msgstr "Preuzete<br> Transakcije"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
-msgstr ""
+msgstr "Prevedeni Krediti"
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
-msgstr ""
+msgstr "Prevoditelji"
 
 #: src/js/controllers/walletHome.js:774
 msgid "Unable to send transaction proposal"
-msgstr ""
+msgstr "Nemoguće poslati prijedlog za transakciju"
 
 #: public/views/modals/tx-details.html:112
 #: public/views/walletHome.html:639
 msgid "Unconfirmed"
-msgstr ""
+msgstr "Nepotvrđeno"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr ""
+msgstr "Jedinica za blackbyte"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr ""
+msgstr "Jedinica za byte"
 
 #: public/views/walletHome.html:197
 msgid "Unsent transactions"
-msgstr ""
+msgstr "Neposlane transakcije"
 
 #: public/views/walletHome.html:73
 msgid "Updating Wallet..."
-msgstr ""
+msgstr "Učitavamo novčanik..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
-msgstr ""
+msgstr "Nadogradite na {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "Učitavanje baze podataka, molimo sačekajte. Nekada će potrajati nekoliko minuta."
 
 #: public/views/walletHome.html:522
 msgid "Values"
-msgstr ""
+msgstr "Vrijednosti"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
-msgstr ""
+msgstr "Verzija"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "UPOZORENJE:"
 
 #: public/views/walletHome.html:222
 msgid "WARNING: Backup needed"
-msgstr ""
+msgstr "UPOZORENJE: Potreban povratak podataka"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr ""
+msgstr "UPOZORENJE: Ovaj prijenos je napravljen sa šifrom. Da biste oporavili ovaj novčanik obe šifre su potrebne."
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
 msgid "WARNINGS:"
-msgstr ""
+msgstr "UPOZORENJA:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO BYTEBALL"
-msgstr ""
+msgstr "DOBRODOŠLI NA BYTEBALL"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
