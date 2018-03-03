@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 02:40-0500\n"
+"PO-Revision-Date: 2018-03-03 05:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1451,7 +1451,8 @@ msgstr "लेनदेन"
 
 #: public/views/walletHome.html:608
 msgid "Transactions<br> Downloaded"
-msgstr ""
+msgstr "लेन-देन<br>\n"
+"डाउनलोड"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
