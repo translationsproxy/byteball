@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 08:12-0500\n"
+"PO-Revision-Date: 2018-03-03 08:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -362,7 +362,7 @@ msgstr "भुगतान की पुष्टि करें"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "वोट की पुष्टी करें"
 
 #: public/views/modals/tx-details.html:115
 msgid "Confirmed"
@@ -621,11 +621,11 @@ msgstr "पूरा बैकअप"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
-msgstr ""
+msgstr "धन मिला"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr ""
+msgstr "को धन स्थान्तरित किये जायेंगे"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
@@ -641,7 +641,7 @@ msgstr "नया पता उत्पन्न करें"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
-msgstr ""
+msgstr "उत्पन्न हो रही है .सीएसवी फाइल..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
@@ -1657,7 +1657,7 @@ msgstr "[ नया सह-हस्ताक्षरकर्ता उपक�
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
 msgid "amount"
-msgstr "राशि"
+msgstr "रकम"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
@@ -1817,7 +1817,7 @@ msgstr ""
 #: public/views/modals/claim-textcoin.html:36
 #: public/views/modals/customized-amount.html:76
 msgid "{{buttonLabel}}"
-msgstr ""
+msgstr "{{buttonLabel}}"
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
