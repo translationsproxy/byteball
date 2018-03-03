@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 23:30-0500\n"
+"PO-Revision-Date: 2018-03-02 23:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -525,28 +525,28 @@ msgstr "उपकरण का नाम प्रत्यक्ष होत�
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "वटुवों का प्रतिरूप न करें, इस बीज के साथ मूल वटुवा का उपयोग करना बंद कर दें|"
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "इसका उपयोग न करें वटुवे का प्रतिरूप करने में|"
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr ""
+msgstr "क्या आप क्रोडिन में अपना भाषा नहीं देखते? क्रोडिन में मालिक से संपर्क करें! हमलोग आनंदित होंगे आपके भाषा को मदद कर|"
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr ""
+msgstr "पूरा हुआ"
 
 #: public/views/walletHome.html:678
 msgid "Download CSV file"
-msgstr ""
+msgstr "सीएसवी फाइल डाउनलोड करें"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "पूरी बाइटबॉल डेटाबेस डाउनलोड करें"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
