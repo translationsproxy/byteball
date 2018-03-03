@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 22:10-0500\n"
+"PO-Revision-Date: 2018-03-02 22:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -292,15 +292,15 @@ msgstr "टेक्स्ट सिक्के के रूप में ध�
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "धन लें टेक्स्ट सिक्के व्यवहार करते हुवे"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "<span ng-if=\"isResend\">पुन:</span>बटन को दबायें ईमेल भेजने के लिए"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "भुगतान तैयार करने के लिए इस बटन को दबाएं और इस साझा करें निजी सन्देश बातचीत वाली एप्प्स से"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
