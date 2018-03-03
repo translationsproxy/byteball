@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 21:00-0500\n"
+"PO-Revision-Date: 2018-03-02 21:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -212,7 +212,7 @@ msgstr "धन प्राप्त करने से पहले, यह �
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "अभी तक बेहतर, उपयोग करें एक से अधिक हस्ताक्षर वटुवों का बहुतायत में|"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
