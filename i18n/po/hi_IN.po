@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 05:20-0500\n"
+"PO-Revision-Date: 2018-03-03 05:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1493,11 +1493,11 @@ msgstr "{{version}} में अपग्रेड"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "डेटाबेस अपग्रेड हो रहा है, कृपया प्रतीक्षा करें| कभी-कभी यह कई मिनट्स लेता है|"
 
 #: public/views/walletHome.html:522
 msgid "Values"
-msgstr ""
+msgstr "मूल्यों"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1513,16 +1513,16 @@ msgstr "चेतावनी: बैकअप आवश्यक"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr ""
+msgstr "चेतावनी: यह बीज पासफ्रेज के साथ तैयार किया गया था| इस वॉलेट की पुनः प्राप्ती के लिए स्मरक और पासफ्रेज दोनों की जरुरत होती है|"
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
 msgid "WARNINGS:"
-msgstr ""
+msgstr "चेतावनियाँ:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO BYTEBALL"
-msgstr ""
+msgstr "बाइटबॉल में आपका स्वागत है"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
