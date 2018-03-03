@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 02:30-0500\n"
+"PO-Revision-Date: 2018-03-03 02:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1148,11 +1148,11 @@ msgstr "कृपया अपना अंगुली-चिन्ह स्�
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
-msgstr ""
+msgstr "स्कैन हो रहा है वटुवे का धन..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr ""
+msgstr "पत्तों की स्कैन हो रही है..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
@@ -1160,15 +1160,15 @@ msgstr ""
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
-msgstr ""
+msgstr "एक वटुवा चुनें"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr ""
+msgstr "उप वटुवा चुनें"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "अपनी पहचान चुनें"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:467
@@ -1199,19 +1199,19 @@ msgstr "ईमेल द्वारा भेजें"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr ""
+msgstr "धन भेज रहे हैं..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
-msgstr ""
+msgstr "भेज रहे हैं..."
 
 #: public/views/walletHome.html:619
 msgid "Sent"
-msgstr ""
+msgstr "भेजा गया"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr ""
+msgstr "सेशन अभिलेख"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
