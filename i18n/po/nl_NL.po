@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-03-03 10:01-0500\n"
+"PO-Revision-Date: 2018-03-03 10:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1618,7 +1618,7 @@ msgstr "Ja"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr "U kunt uw transactie niet verbinden aan een terugbetaling, aangezien u een één adres wallet gebruik. Gebruik een wallet met meerdere adressen en zet uw fondsen over naar deze wallet."
+msgstr "U kunt uw transactie niet verbinden aan een terugbetaling, aangezien u een één adres portefeuille gebruik. Gebruik een portefeuille met meerdere adressen en zet uw fondsen over naar deze portefeuille."
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
@@ -1627,7 +1627,7 @@ msgstr "U heeft geen portefeuille"
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr "De seed van uw portefeuille:"
+msgstr "De Seed van uw Portefeuille:"
 
 #: public/views/export.html:33
 msgid "Your export password"
@@ -1639,7 +1639,7 @@ msgstr "Uw wachtwoord"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr "Uw bestand van de portefeuille:"
+msgstr "Uw portefeuillebestand:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
@@ -1651,7 +1651,7 @@ msgstr "Uw portefeuille zal worden gemaakt op dit apparaat, houd het veilig.  Zi
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr "[medeondertekenaar apparaat toevoegen]"
+msgstr "[ Medeondertekenaar apparaat toevoegen ]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
@@ -1669,7 +1669,7 @@ msgstr "kan het contract ontgrendelen"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr "kan het contract ontgrendelen nadat het is verlopen op"
+msgstr "kan het contract ontgrendelen nadat het is verlopen na"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -1677,7 +1677,7 @@ msgstr "portefeuille aanmaken annuleren"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr "geclaimd door {{btx.claimedByMe?'me':'receiver'|translate}}"
+msgstr "geclaimd door {{btx.claimedByMe?'mij':'ontvanger'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1697,11 +1697,11 @@ msgstr "dagen"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr "bijvorbeeld 1-van-2-wallet met één sleutel op dit appraat en een andere sleutel op uw laptop."
+msgstr "bijvoorbeeld 1-van-2 portefeuille met één sleutel op dit apparaat en een andere sleutel op uw laptop."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr "bijvoorbeeld 1-van-2-wallet met één sleutel op dit apparaat en een andere sleutel op uw smartphone."
+msgstr "bijvoorbeeld 1-van-2 portefeuille met één sleutel op dit apparaat en een andere sleutel op uw smartphone."
 
 #: public/views/modals/bind.html:72
 msgid "either way"
