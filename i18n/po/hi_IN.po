@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 20:50-0500\n"
+"PO-Revision-Date: 2018-03-02 21:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -208,7 +208,7 @@ msgstr "पतों के अनुसार बैलेंस"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "धन प्राप्त करने से पहले, यह अति अनुशंसित है की आप अपने वटुवे की कुंजिओं का बैकअप रख लें|"
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
