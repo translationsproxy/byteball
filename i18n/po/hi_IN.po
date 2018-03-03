@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 07:51-0500\n"
+"PO-Revision-Date: 2018-03-03 08:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -784,7 +784,7 @@ msgstr "संभवतः बाद में"
 #: public/views/modals/offer-contract.html:116
 #: public/views/preferencesInformation.html:76
 msgid "Me"
-msgstr "मैं"
+msgstr "मुझे"
 
 #: public/views/modals/tx-details.html:104
 msgid "Merchant message"
@@ -862,7 +862,7 @@ msgstr ""
 #: public/views/walletHome.html:441
 #: public/views/walletHome.html:649
 msgid "Note"
-msgstr "नोट"
+msgstr "नोट करें"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
@@ -891,7 +891,7 @@ msgstr "जोड़ें"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr "जुड़े डिवाइसेस"
+msgstr "जुड़े उपकरनें"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
@@ -1010,15 +1010,15 @@ msgstr "प्रालेख"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
-msgstr "QR कोड"
+msgstr "क्यूआर संकेत"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr "QR-स्कैनर"
+msgstr "क्यूआर-स्कैनर"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr "प्रश्न:"
+msgstr "सवाल:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
