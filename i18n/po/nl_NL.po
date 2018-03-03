@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-03-03 09:21-0500\n"
+"PO-Revision-Date: 2018-03-03 09:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -538,7 +538,7 @@ msgstr "Is uw taal niet zichtbaar op Crowdin? Neem contact op met de eigenaar op
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr "Klaar"
+msgstr "Gereed"
 
 #: public/views/walletHome.html:678
 msgid "Download CSV file"
@@ -571,12 +571,12 @@ msgstr "Geef de ontvangen koppelingscode van het andere apparaat in, of gebruik 
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr "Vul wachtwoord in"
+msgstr "Voer je wachtwoord in"
 
 #: src/js/services/profileService.js:323
 #: src/js/services/profileService.js:374
 msgid "Error creating wallet"
-msgstr "Fout bij het aanmaken van een portefeuille"
+msgstr "Fout bij het aanmaken van portefeuille"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -621,15 +621,15 @@ msgstr "Volledige backup"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
-msgstr "Gevonden bedragen"
+msgstr "Gevonden saldo"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr "De bedragen zullen overgemaakt worden aan"
+msgstr "Het bedrag zal worden overgemaakt naar"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
-msgstr "START"
+msgstr "AAN DE SLAG"
 
 #: src/js/controllers/walletHome.js:418
 msgid "Generate QR Code"
@@ -645,7 +645,7 @@ msgstr "Bezig met aanmaken van .CSV-bestand..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
-msgstr "Bezig met ophalen van het address van portefeuille {{selectedWalletName}} ..."
+msgstr "Bezig met het ophalen van het address van portefeuille {{selectedWalletName}} ..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
@@ -653,7 +653,7 @@ msgstr "Algemene voorkeuren"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
-msgstr "Ga terug"
+msgstr "Terug"
 
 #: public/views/preferences.html:48
 msgid "Hardware wallet"
@@ -949,7 +949,7 @@ msgstr "Betaling Verzonden"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr "Wederpartij:"
+msgstr "Peer:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -961,7 +961,7 @@ msgstr "Gewone portefeuille"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr "Kies hoeveel gegevens op te slaan in uw portemonnee"
+msgstr "Kies hoeveel gegevens u op wilt slaan in uw portefeuille"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
@@ -981,7 +981,7 @@ msgstr "Post willekeurige sleutelwaarde-paren van gegevens in het Byteball netwe
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr "Post handmatig waarden in datafeeds, wordt een orakel."
+msgstr "Post waarden handmatig in datafeeds, wees een orakel."
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
@@ -998,12 +998,12 @@ msgstr "Druk nogmaals om te beëindigen"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr "Private assets (zoals blackbytes) zijn niet hersteld."
+msgstr "Privémiddelen (zoals blackbytes) zijn niet hersteld."
 
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
 msgid "Private payloads sent"
-msgstr "Private transacties zijn verzonden"
+msgstr "Privé payloads verzonden"
 
 #: public/views/walletHome.html:334
 msgid "Profile"
@@ -1015,7 +1015,7 @@ msgstr "QR-code"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr "QR-scanner"
+msgstr "QR-Scanner"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
