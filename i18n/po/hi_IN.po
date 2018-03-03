@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 22:30-0500\n"
+"PO-Revision-Date: 2018-03-02 22:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -379,11 +379,11 @@ msgstr "क्लिपबोर्ड में प्रतिलिपि/क
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr ""
+msgstr "संवाददाता नवनीकरण नहीं हुवे हैं|"
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not create payment proposal"
-msgstr ""
+msgstr "भुगतान का प्रस्ताव नहीं बन सका"
 
 #: src/js/services/profileService.js:265
 msgid "Could not create using the specified extended private key"
