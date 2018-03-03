@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-03-03 10:10-0500\n"
+"PO-Revision-Date: 2018-03-03 10:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1180,7 +1180,7 @@ msgstr "Verstuur"
 
 #: public/views/walletHome.html:319
 msgid "Send All"
-msgstr "Verstuur alles"
+msgstr "Alles verzenden"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
@@ -1224,7 +1224,7 @@ msgstr "Maak een wachtwoord aan"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr "Het activeren van e-mailnotificaties kan uw privacy verminderen, wanneer de portefeuille service provider zou zijn gecompromitteerd. De informatie welke beschikbaar zou worden voor de aanvaller zouden uw portefeuille adressen en bijhorende saldo's bevatten, maar verder niets."
+msgstr "Het instellen van e-mailberichten kan uw privacy verminderen als de portefeuille dienstverlener in het gedrang komt. Informatie beschikbaar voor een aanvaller zou de adressen van uw portefeuille en de balans bevatten, maar niet meer."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
@@ -1262,12 +1262,12 @@ msgstr "Onderteken uitgaande transacties van de portefeuille ?"
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr "Wallet met één adres"
+msgstr "Portefeuille met één adres"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr "Wallets met één adres zullen niet voor elke transactie nieuwe adressen aanmaken, wisselgeld zal altijd terug gaan naar het enige adres dat de wallet heeft."
+msgstr "Portefeuilles met één adres zullen niet voor elke transactie nieuwe adressen aanmaken, wisselgeld zal altijd terug gaan naar het enige adres dat de portefeuille heeft."
 
 #: src/js/services/profileService.js:318
 msgid "Small Expenses Wallet"
@@ -1275,7 +1275,7 @@ msgstr "Portefeuille voor kleine uitgaven"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr "Specificeer seed..."
+msgstr "Specificeer Seed..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
@@ -1284,7 +1284,7 @@ msgstr "Uitgavenbeperkingen"
 
 #: public/views/preferencesGlobal.html:96
 msgid "Still not done"
-msgstr "Nog bezig"
+msgstr "Nog niet voltooid"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:135
@@ -1722,7 +1722,7 @@ msgstr "als een gebeurtenis door een orakel gepost wordt"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
-msgstr "in de merkte tree"
+msgstr "in de merkle boom"
 
 #: public/views/walletHome.html:153
 msgid "in smart wallets"
@@ -1730,7 +1730,7 @@ msgstr "in slimme portefeuilles"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
-msgstr "geblokkeerd door betalingen in uitvoering"
+msgstr "vergrendeld door betalingen in behandeling"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
@@ -1756,7 +1756,7 @@ msgstr "of backup alle Byteball data op"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr "wederpartij betaalt"
+msgstr "peer betaalt"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
@@ -1764,15 +1764,15 @@ msgstr "gepost"
 
 #: public/views/modals/tx-details.html:142
 msgid "re-send private payloads"
-msgstr "private transacties opnieuw verzenden"
+msgstr "privétransacties opnieuw verzenden"
 
 #: public/views/modals/tx-details.html:145
 msgid "re-send private payloads to cosigners"
-msgstr "private transacties opnieuw verzenden naar medeondertekenaars"
+msgstr "privétransacties opnieuw verzenden naar medeondertekenaars"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr "verstuur e-mail"
+msgstr "e-mail verzenden"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1783,7 +1783,7 @@ msgstr "verstuur e-mail"
 #: src/js/controllers/walletHome.js:942
 #: src/js/controllers/walletHome.js:981
 msgid "sending"
-msgstr "bezig met versturen"
+msgstr "bezig met verzenden"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
