@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 22:40-0500\n"
+"PO-Revision-Date: 2018-03-02 22:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -387,23 +387,23 @@ msgstr "भुगतान का प्रस्ताव नहीं बन �
 
 #: src/js/services/profileService.js:265
 msgid "Could not create using the specified extended private key"
-msgstr ""
+msgstr "बन नहीं सका निर्दिष्ट विस्तारित निजी कुंजी के उपयोग से"
 
 #: src/js/services/profileService.js:275
 msgid "Could not create using the specified extended public key"
-msgstr ""
+msgstr "बन नहीं सका निर्दिष्ट विस्तारित सार्वजनिक कुंजी के उपयोग से"
 
 #: src/js/services/profileService.js:258
 msgid "Could not create: Invalid wallet seed"
-msgstr ""
+msgstr "बन नहीं सका: अमान्य वटुवा अंकुर"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr ""
+msgstr "डिक्रीप्ट नहीं हो सका"
 
 #: public/views/walletHome.html:583
 msgid "Could not fetch transaction history"
-msgstr ""
+msgstr "लेन-देन का विवरण नहीं ला सका"
 
 #: src/js/services/profileService.js:490
 #: src/js/services/profileService.js:517
