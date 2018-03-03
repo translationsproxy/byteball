@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 10:30-0500\n"
+"PO-Revision-Date: 2018-03-02 20:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -172,7 +172,7 @@ msgstr "गवाह सूची को स्वयं-नवनीकरण �
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "गवाह सूची को स्वयं-नवनीकरण होने दें इस केंद्र से"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
