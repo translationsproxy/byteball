@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 02:20-0500\n"
+"PO-Revision-Date: 2018-03-03 02:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1101,15 +1101,15 @@ msgstr "हस्ताक्षरों की अपेक्षित सं
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
-msgstr ""
+msgstr "फिर से जमा करें पूर्ण बैकअप से"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr ""
+msgstr "पुन: प्रयास हो रहा हैं..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
-msgstr ""
+msgstr "व्यवस्थित करना"
 
 #: public/views/editCorrespondentDevice.html:41
 #: public/views/modals/destination-address.html:132
@@ -1124,27 +1124,27 @@ msgstr "सेव"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
-msgstr ""
+msgstr "बचत प्रथिमिकताएँ..."
 
 #: public/views/preferences.html:66
 msgid "Scan Fingerprint"
-msgstr ""
+msgstr "अंगुली-चिन्ह स्कैन करें"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr ""
+msgstr "वटुवे का धन स्कैन करें"
 
 #: public/views/walletHome.html:120
 msgid "Scan status finished with error"
-msgstr ""
+msgstr "स्कैन अवस्था त्रुटि के साथ समाप्त हुवा"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr ""
+msgstr "ऊपर वाली क्यूआर संकेत को स्कैन करें दुशरे उपकरण से, या जुड़ने वाली संकेत को भेजें दुशरे उपकरण को:"
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
-msgstr ""
+msgstr "कृपया अपना अंगुली-चिन्ह स्कैन करें"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
