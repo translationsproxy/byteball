@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-03-03 18:00-0500\n"
+"PO-Revision-Date: 2018-03-03 18:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -152,7 +152,7 @@ msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr "Είσαι σίγουρος ότι θέλετε να διαγράψετε αυτό το πορτοφόλι?"
+msgstr "Είσαι βέβαιοι ότι θέλετε να διαγράψετε αυτό το πορτοφόλι;"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
@@ -172,7 +172,7 @@ msgstr "Αυτόματη ενημέρωση του καταλόγου μαρτύ
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr "Αυτόματη ενημέρωση του καταλόγου μαρτύρων από αυτό τον κεντρικό τομέα"
+msgstr "Αυτόματη ενημέρωση του καταλόγου μαρτύρων από αυτόν τον κεντρικό τομέα"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
