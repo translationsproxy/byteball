@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 06:10-0500\n"
+"PO-Revision-Date: 2018-03-03 06:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1697,19 +1697,19 @@ msgstr "दिन"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "उदाहरणार्थ १-का-२ वटुवा एक कुंजी के साथ इस उपकरण में और दुशरा कुंजी आपके लैपटॉप कंप्यूटर में|"
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "उदाहरणार्थ १-का-२ वटुवा एक कुंजी के साथ इस उपकरण में और दुशरा कुंजी आपके स्मार्टफोन में|"
 
 #: public/views/modals/bind.html:72
 msgid "either way"
-msgstr ""
+msgstr "किसी भी तरह"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
-msgstr ""
+msgstr "स्पष्टतया"
 
 #: public/views/modals/bind.html:79
 #: public/views/modals/offer-contract.html:69
@@ -1718,15 +1718,15 @@ msgstr "घंटे"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
-msgstr ""
+msgstr "यदि एक कार्यकर्म प्रेषित किया जाता है एक ओरेकल द्वारा"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
-msgstr ""
+msgstr "मर्कल पेड़ में"
 
 #: public/views/walletHome.html:153
 msgid "in smart wallets"
-msgstr ""
+msgstr "स्मार्ट वटुवों में"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
