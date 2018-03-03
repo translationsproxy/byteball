@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 07:21-0500\n"
+"PO-Revision-Date: 2018-03-03 07:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -454,11 +454,11 @@ msgstr "प्रालेख बन रहे हैं..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr "वॉलेट बनाना..."
+msgstr "वटुवा बन रहा है..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr "शब्द हटाएँ"
+msgstr "शब्दों को मिटायें"
 
 #: public/views/walletHome.html:335
 msgid "Data"
@@ -474,7 +474,7 @@ msgstr "तिथि"
 
 #: src/js/controllers/index.js:256
 msgid "Declined"
-msgstr "अस्वीकृत"
+msgstr "इंकार किया"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
@@ -494,11 +494,11 @@ msgstr "पत्तों की परिभाषाएँ"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
-msgstr "वॉलेट नष्ट करें"
+msgstr "वटुवा को मिटा दें"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete wallet"
-msgstr "वॉलेट नष्ट करें"
+msgstr "वटुवा को मिटा दें"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -512,12 +512,12 @@ msgstr "विवरण"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Device address"
-msgstr "डिवाइस का पता"
+msgstr "उपकरण का पता"
 
 #: public/views/preferencesDeviceName.html:12
 #: public/views/preferencesGlobal.html:17
 msgid "Device name"
-msgstr "डिवाइस का नाम"
+msgstr "उपकरण का नाम"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
@@ -538,7 +538,7 @@ msgstr "क्या आप क्रोडिन में अपना भा�
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr "पूरा हुआ"
+msgstr "संपन्न"
 
 #: public/views/walletHome.html:678
 msgid "Download CSV file"
@@ -551,7 +551,7 @@ msgstr "पूरी बाइटबॉल डेटाबेस डाउनल
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
-msgstr "एडिट"
+msgstr "सम्पादित करें"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
