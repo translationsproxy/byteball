@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 05:11-0500\n"
+"PO-Revision-Date: 2018-03-03 05:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1456,7 +1456,7 @@ msgstr "लेन-देन<br>\n"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
-msgstr ""
+msgstr "अनुवाद श्रेय/अनुवाद आभार"
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
@@ -1464,7 +1464,7 @@ msgstr "अनुवादक"
 
 #: src/js/controllers/walletHome.js:774
 msgid "Unable to send transaction proposal"
-msgstr ""
+msgstr "लेन-देन प्रस्ताव भेजने में असमर्थ"
 
 #: public/views/modals/tx-details.html:112
 #: public/views/walletHome.html:639
@@ -1473,23 +1473,23 @@ msgstr "अपुष्ट"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr ""
+msgstr "इकाईं ब्लैकबाइटस के लिए"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr ""
+msgstr "इकाईं बाइटस के लिए"
 
 #: public/views/walletHome.html:197
 msgid "Unsent transactions"
-msgstr ""
+msgstr "नहीं भेजे गए लेन-देन"
 
 #: public/views/walletHome.html:73
 msgid "Updating Wallet..."
-msgstr ""
+msgstr "वटुवा नवनीकरण हो रहा है..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
-msgstr ""
+msgstr "{{version}} में अपग्रेड"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
