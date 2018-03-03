@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 01:10-0500\n"
+"PO-Revision-Date: 2018-03-03 01:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1072,19 +1072,19 @@ msgstr "पुनः नामकरण:"
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr ""
+msgstr "दुबारा पासवर्ड डालें"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "पासवर्ड को दुबारा डालें"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "बदलें"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr ""
+msgstr "पासवर्ड का अनुरोध"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:297
