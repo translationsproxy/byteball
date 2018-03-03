@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 23:20-0500\n"
+"PO-Revision-Date: 2018-03-02 23:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -502,7 +502,7 @@ msgstr "वॉलेट नष्ट करें"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
-msgstr ""
+msgstr "उत्पति योजना"
 
 #: public/views/modals/customized-amount.html:29
 #: public/views/modals/multi-payment.html:17
@@ -521,7 +521,7 @@ msgstr "डिवाइस का नाम"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr ""
+msgstr "उपकरण का नाम प्रत्यक्ष होता है दुशरे उपकरणों में जिससे आप जुड़ते हैं|"
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
