@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 07:30-0500\n"
+"PO-Revision-Date: 2018-03-03 07:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -563,7 +563,7 @@ msgstr "वटुवे की सुचनाओं के लिए ईमे�
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr "पुश नोटिफिकेशन चालू करें"
+msgstr "धक्का अधिसूचनाएँ सक्रीय करें"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
@@ -576,7 +576,7 @@ msgstr "आपका पासवर्ड डालें"
 #: src/js/services/profileService.js:323
 #: src/js/services/profileService.js:374
 msgid "Error creating wallet"
-msgstr "वॉलेट तैयार करते समाया त्रुटि"
+msgstr "वॉलेट तैयार करते समय त्रुटि"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -633,11 +633,11 @@ msgstr "शुरू करें"
 
 #: src/js/controllers/walletHome.js:418
 msgid "Generate QR Code"
-msgstr "QR कोड बनाएं"
+msgstr "QR/क्यूआर कोड उत्पन्न करें"
 
 #: public/views/walletHome.html:288
 msgid "Generate new address"
-msgstr "नया पता बनाएं"
+msgstr "नया पता उत्पन्न करें"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
@@ -665,7 +665,7 @@ msgstr ""
 
 #: src/js/controllers/index.js:618
 msgid "History"
-msgstr "इतिहास"
+msgstr "इतिहास/विवरण"
 
 #: src/js/controllers/index.js:606
 msgid "Home"
@@ -673,15 +673,15 @@ msgstr "घर"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr "होस्ट"
+msgstr "मेजबान"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr "हब"
+msgstr "केंद्र"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr "हब URL"
+msgstr "केंद्र यूआरएल"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
