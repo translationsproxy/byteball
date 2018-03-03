@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 00:40-0500\n"
+"PO-Revision-Date: 2018-03-03 00:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -980,33 +980,33 @@ msgstr "मनमाना कुंजी-अहमियत डेटा क�
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "मूल्यों को पोस्ट करें डेटाफीडस में हाँथ से, एक ओरेकल हो जाएँ|"
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "अपनी प्रलेख डेटा पोस्ट करें, कुछ भी आप चाहते हैं अपने बारे में कहना|"
 
 #: public/views/walletHome.html:175
 #: public/views/walletHome.html:47
 msgid "Preferences"
-msgstr ""
+msgstr "प्रथिमिकताएँ"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "फिर से दबाएं बाहर आने के लिए"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "निजी सम्पतियाँ (जैसे ब्लैकबाइटस) पुनः प्राप्त नहीं हुवा|"
 
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
 msgid "Private payloads sent"
-msgstr ""
+msgstr "निजी भार भेजा गया"
 
 #: public/views/walletHome.html:334
 msgid "Profile"
-msgstr ""
+msgstr "प्रालेख"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
