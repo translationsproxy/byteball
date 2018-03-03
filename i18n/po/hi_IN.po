@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 05:50-0500\n"
+"PO-Revision-Date: 2018-03-03 06:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1618,7 +1618,7 @@ msgstr "हाँ"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "जैसे की आप एक एकल वटुवा पता में हो आप बाध्य नहीं कर सकते अपना लेन-देन भुगतान वापस के लिए| उपयोग करें वटुवा पता का जो एकल नहीं है और तब आप स्थान्तरित करें पैसा इस वटुवा में|"
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
@@ -1643,11 +1643,11 @@ msgstr "आपकी वॉलेट फ़ाइल:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr ""
+msgstr "आपका वटुवा एन्क्रिप्ट हो जायेगा| पासवर्ड पुनः प्राप्त नहीं किया जा सकता| पक्का लिख लें"
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "आपका वटुवा तैयार हो जायेगा इस उपकरण में, इसे सुरक्षित रखें| अपना बैकअप विकल्प देखें समायोजन मेनुए में|"
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
