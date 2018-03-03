@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 07:01-0500\n"
+"PO-Revision-Date: 2018-03-03 07:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -226,11 +226,11 @@ msgstr "भुगतान को बाँधे रखें शर्त क�
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr "बिटकॉइन URI गलत है!"
+msgstr "बिटकॉइन यूआरआई अमान्य है!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr "बॉट स्टोर"
+msgstr "बोट भंडार"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -238,7 +238,7 @@ msgstr "आप और {{correspondent.name}} दोनों स्थानी�
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr "असमर्थित ब्राउज़र"
+msgstr "निराधार ब्राउज़र"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
@@ -264,7 +264,7 @@ msgstr "रद्द करें"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr "हब बदलें:"
+msgstr "केंद्र बदलें:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
@@ -272,7 +272,7 @@ msgstr "सिर्फ वटुवे का उपनाम बदलने �
 
 #: src/js/controllers/index.js:622
 msgid "Chat"
-msgstr "चैट"
+msgstr "बातचीत"
 
 #: public/views/import.html:33
 msgid "Choose File"
