@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 06:00-0500\n"
+"PO-Revision-Date: 2018-03-03 06:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1661,31 +1661,31 @@ msgstr "राशि"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "एक कार्यकर्म प्रेषित किया गया एक ओरेकल द्वारा"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr ""
+msgstr "अनुबद्ध खोल सकते हैं"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "अनुबद्ध खोल सकते हैं अंत होने के बाद में"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "वटुवा निर्माण रद्द करें"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "{{btx.claimedByMe?'me':'receiver'|translate}} के द्वारा लिया गया"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
-msgstr ""
+msgstr "बातचित विवरण साफ़ करें"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "निचे वाली अक्षर को कॉपी करें और भेज देन प्राप्तकर्ता को किसी सन्देश माध्यम एप्प से, या पेपर में प्रिंट ले लें"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
