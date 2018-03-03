@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-03-03 09:52-0500\n"
+"PO-Revision-Date: 2018-03-03 10:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -759,7 +759,7 @@ msgstr "Bewaar alleen voor u relevante gegevens"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
-msgstr "Naam"
+msgstr "Label"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
@@ -775,7 +775,7 @@ msgstr "Bezig met laden..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr "Betalen aan"
+msgstr "Een betaling maken naar"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
@@ -797,7 +797,7 @@ msgstr "Merkle bewijs"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
-msgstr "Boodschap"
+msgstr "Bericht"
 
 #: public/views/walletHome.html:620
 msgid "Moved"
@@ -825,11 +825,11 @@ msgstr "Netwerk"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr "Nieuwe random seed"
+msgstr "Nieuwe willekeurige seed"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
-msgstr "Een nieuwe versie is beschikbaar!"
+msgstr "Er is een nieuwe versie beschikbaar!"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
@@ -905,11 +905,11 @@ msgstr "Persoonlijke sleutel van papieren portefeuille"
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr "Wachtwoord"
+msgstr "Wachtwoordszin"
 
 #: src/js/services/profileService.js:654
 msgid "Password needed"
-msgstr "Wachtwoord benodigd"
+msgstr "Wachtwoord nodig"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
@@ -929,11 +929,11 @@ msgstr "Betaal aan dit adres"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr "Betaling aanvaard"
+msgstr "Betaling Geaccepteerd"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
-msgstr "Betalingsvoorstel aangemaakt"
+msgstr "Betalingsvoorstel Aangemaakt"
 
 #: public/views/walletHome.html:196
 msgid "Payment Proposals"
@@ -941,7 +941,7 @@ msgstr "Betalingsvoorstellen"
 
 #: public/views/modals/tx-status.html:38
 msgid "Payment Rejected"
-msgstr "Betaling verworpen"
+msgstr "Betaling Afgewezen"
 
 #: public/views/modals/tx-status.html:5
 msgid "Payment Sent"
