@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 21:20-0500\n"
+"PO-Revision-Date: 2018-03-02 22:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -284,11 +284,11 @@ msgstr "को भेजने के लिए डिवाइस चुने"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "धन लें"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "टेक्स्ट सिक्के के रूप में धन लें"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
