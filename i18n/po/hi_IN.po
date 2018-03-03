@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 06:40-0500\n"
+"PO-Revision-Date: 2018-03-03 06:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -188,7 +188,7 @@ msgstr "उपलब्ध बैलेंस"
 #: public/views/modals/destination-address.html:9
 #: public/views/modals/tx-details.html:5
 msgid "Back"
-msgstr "वापस"
+msgstr "पीछे आएँ"
 
 #: public/views/walletHome.html:232
 msgid "Backup now"
@@ -196,11 +196,11 @@ msgstr "बैकअप"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr "वॉलेट मूल बैकअप"
+msgstr "वटुवा बीज का बैकअप लें"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr "बैकअप शब्दों को हटाया"
+msgstr "बैकअप अक्षरों को नष्ट किया गया"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
