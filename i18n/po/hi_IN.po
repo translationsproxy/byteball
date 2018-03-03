@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 00:50-0500\n"
+"PO-Revision-Date: 2018-03-03 01:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1022,48 +1022,48 @@ msgstr "प्रश्न:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
-msgstr ""
+msgstr "ग्रहण करें"
 
 #: public/views/walletHome.html:617
 msgid "Received"
-msgstr ""
+msgstr "लिया"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:52
 msgid "Recipients"
-msgstr ""
+msgstr "प्राप्तकर्ताएँ"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
-msgstr ""
+msgstr "फिर से जोड़ रहे हैं वटुवा सर्विस के लिए..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr ""
+msgstr "पुनः प्राप्त"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr ""
+msgstr "बीज से पुनः प्राप्ती"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr ""
+msgstr "वटुवा फिर से तैयार हो रहा है..."
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
-msgstr ""
+msgstr "अस्वीकृत हुवा"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr ""
+msgstr "जानकारी प्रकाशित"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
-msgstr ""
+msgstr "हटाएँ"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "उपकरण हटाएँ"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
