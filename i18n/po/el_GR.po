@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-02-28 08:51-0500\n"
+"PO-Revision-Date: 2018-03-03 18:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr "(Το site δεν θα βλέπει το υπολοιπό σας και τα χρήματα δεν θα δαπανηθούν)"
+msgstr "(Το site δεν θα βλέπει το υπόλοιπο σας και δεν θα δαπανηθούν καθόλου χρήματα)"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
@@ -46,7 +46,7 @@ msgstr "Αποδοχή πρόσκλησης"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr "Αποδοχή πρόσκλησης από αλλη συσκευή"
+msgstr "Αποδοχή πρόσκλησης από την άλλη συσκευή"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
@@ -54,7 +54,7 @@ msgstr "Λογαριασμός"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr "Προσθέστε Bot"
+msgstr "Προσθήκη Bot"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
@@ -67,7 +67,7 @@ msgstr "Προσθήκη νέας καταχώρησης"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
-msgstr "Προσθέστε πεδία"
+msgstr "Προσθήκη πεδίων"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
