@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-03-03 10:20-0500\n"
+"PO-Revision-Date: 2018-03-03 10:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1299,11 +1299,11 @@ msgstr "Succes"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr "Portefeuille importeren"
+msgstr "Portefeuille sweepen"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr "Papieren portefeuille importeren"
+msgstr "Papieren portefeuille sweepen"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
@@ -1321,7 +1321,7 @@ msgstr "TOR"
 #: public/views/walletHome.html:121
 #: public/views/walletHome.html:584
 msgid "Tap to retry"
-msgstr "Tik op om opnieuw te proberen"
+msgstr "Tik om opnieuw te proberen"
 
 #: public/views/disclaimer.html:12
 #: public/views/preferencesAbout.html:30
