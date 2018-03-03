@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 22:20-0500\n"
+"PO-Revision-Date: 2018-03-02 22:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -330,7 +330,7 @@ msgstr "सह-हस्ताक्षरकर्ता"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr ""
+msgstr "बहुतायत हस्ताक्षर के लिये सह-हस्ताक्षरकर्ताएँ"
 
 #: public/views/preferences.html:29
 msgid "Color"
@@ -342,7 +342,7 @@ msgstr ""
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
-msgstr ""
+msgstr "क्या फाइल को छोटा करना है? (धीरे)"
 
 #: src/js/controllers/copayers.js:10
 #: src/js/controllers/index.js:459
@@ -354,11 +354,11 @@ msgstr "पुष्टि करें"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr ""
+msgstr "मत/वोट को पुष्टि करें"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
-msgstr ""
+msgstr "भुगतान की पुष्टि करें"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
@@ -375,7 +375,7 @@ msgstr "संपर्क सूची"
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:389
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "क्लिपबोर्ड में प्रतिलिपि/कॉपी हुआ"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
