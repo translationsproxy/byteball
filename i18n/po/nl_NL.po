@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-03-03 09:10-0500\n"
+"PO-Revision-Date: 2018-03-03 09:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -354,7 +354,7 @@ msgstr "Bevestigen"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr "Stem bevestigen"
+msgstr "Stem Bevestigen"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -383,11 +383,11 @@ msgstr "Chatdeelnemers zijn niet teruggeplaatst."
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not create payment proposal"
-msgstr "Betalingsvoorstel werd niet gecreeerd"
+msgstr "Betaling voorstel kan niet worden gemaakt"
 
 #: src/js/services/profileService.js:265
 msgid "Could not create using the specified extended private key"
-msgstr "Aanmaken met de gespecificeerde uitgebreide private sleutel is niet mogelijk"
+msgstr "Aanmaken met de gespecificeerde uitgebreide privésleutel is niet mogelijk"
 
 #: src/js/services/profileService.js:275
 msgid "Could not create using the specified extended public key"
@@ -395,25 +395,25 @@ msgstr "Aanmaken met de gespecificeerde uitgebreide publieke sleutel is niet mog
 
 #: src/js/services/profileService.js:258
 msgid "Could not create: Invalid wallet seed"
-msgstr "Creatie mislukt: ongeldige seed"
+msgstr "Kon niet worden gemaakt: Ongeldige portemonnee seed"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr "Ontcijferen is mislukt"
+msgstr "Ontcijferen mislukt"
 
 #: public/views/walletHome.html:583
 msgid "Could not fetch transaction history"
-msgstr "De transactiegeschiedenis kon niet opgehaald worden"
+msgstr "De transactiegeschiedenis kon niet worden opgehaald"
 
 #: src/js/services/profileService.js:490
 #: src/js/services/profileService.js:517
 #: src/js/services/profileService.js:539
 msgid "Could not import"
-msgstr "Importeren is mislukt"
+msgstr "Importeren mislukt"
 
 #: src/js/services/profileService.js:467
 msgid "Could not import. Check input file and password"
-msgstr "Importeren is mislukt. Controleer het input bestand en het wachtwoord"
+msgstr "Importeren mislukt. Controleer het input bestand en het wachtwoord"
 
 #: src/js/controllers/walletHome.js:51
 msgid "Could not recognize a valid Byteball QR Code"
@@ -478,7 +478,7 @@ msgstr "Afgewezen"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr "Het ontcijferen van de papieren portefeuille zal op dit apparaat ongeveer 5 minuten duren. Heeft u even geduld en laat de toepassing open."
+msgstr "Het ontcijferen van de papieren portefeuille zal op dit toestel ongeveer 5 minuten duren. Wees geduldig en laat de toepassing open."
 
 #: public/views/walletHome.html:179
 msgid "Definition"
@@ -521,11 +521,11 @@ msgstr "Naam van het apparaat"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr "De naam van het apparaatl is zichtbaar voor de andere apparaten waarmee u communiceert."
+msgstr "De naam van het apparaat is zichtbaar voor de andere apparaten waarmee u communiceert."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr "Clone nooit een wallet. Stop met het gebruiken van deze seed in de originele portefeuille."
+msgstr "Clone nooit een wallet. Stop met het gebruiken van de originele portefeuille met deze seed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
@@ -533,7 +533,7 @@ msgstr "Gebruik het niet om de portefeuille te kopiëren."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr "Is uw taal niet zichtbaar op Crowdin? Neem contact op met de eigenaar van Crowdin! Wij willen graag uw taal toevoegen."
+msgstr "Is uw taal niet zichtbaar op Crowdin? Neem contact op met de eigenaar op Crowdin! Wij zouden graag uw taal toevoegen."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
@@ -693,7 +693,7 @@ msgstr "Ik betaal"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr "Ik ontvang een volgende betaling van"
+msgstr "Ik ontvang een andere betaling van"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
@@ -705,11 +705,11 @@ msgstr "Als de wederpartij niet betaalt, kan ik de betaling terugvorderen na"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Als u deze backup hebt verplaatst vanaf een ander apparaat, stop dan onmiddelijk met het gebruik van het origineel na het creëren van de backup. Clone nooit een wallet. Als u toegang nodig heeft vanaf meerdere apparaten, gebruik dan multisig."
+msgstr "Als u deze backup heeft verplaatst vanaf een ander apparaat, stop dan onmiddellijk met het gebruik van het origineel na het creëren van de backup. Clone nooit een wallet. Als u toegang nodig heeft vanaf meerdere apparaten, gebruik dan multisig."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Als u deze backup wilt gebruiken op een ander apparaat, stop dan onmiddelijk met het gebruik van het origineel na het creëren van de backup. Clone nooit een wallet. Als u toegang nodig heeft vanaf meerdere apparaten, gebruik dan multisig."
+msgstr "Als u deze backup wilt gebruiken op een ander apparaat, stop dan onmiddellijk met het gebruik van het origineel na het creëren van de backup. Clone nooit een wallet. Als u toegang nodig heeft vanaf meerdere apparaten, gebruik dan multisig."
 
 #: public/views/import.html:40
 msgid "Import"
