@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-02-19 04:42-0500\n"
+"PO-Revision-Date: 2018-03-03 09:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -230,7 +230,7 @@ msgstr "Bitcoin URI is NIET geldig!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr "Bot store"
+msgstr "Bot winkel"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -238,7 +238,7 @@ msgstr "Zowel jij als {{correspondent.name}} hebben lokale chat geschiedenis opn
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr "Deze browser is niet ondersteund"
+msgstr "Browser niet ondersteund"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
@@ -246,7 +246,7 @@ msgstr "Byteball adres"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr "ANNULEER"
+msgstr "ANNULEREN"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
@@ -268,7 +268,7 @@ msgstr "Verander hub:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr "Wijziging van de portefeuille-alias is enkel van toepassing op de naam van de lokale portefeuille."
+msgstr "Wijziging van de portefeuille-alias is alleen van toepassing op de naam van de lokale portefeuille."
 
 #: src/js/controllers/index.js:622
 msgid "Chat"
@@ -280,7 +280,7 @@ msgstr "Bestand kiezen"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr "Kies het toestel waarnaar u wilt sturen"
+msgstr "Kies het toestel om naar te versturen"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
@@ -296,13 +296,11 @@ msgstr "Eis een bedrag op door middel van textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr "Klik om <span ng-if=\"isResend\">nogmaals</span>e-mail te verzenden\n"
-" \n"
-"Context | Request Context"
+msgstr "Klik om de mail te <span ng-if=\"isResend\">her</span>sturen"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr "Klik hier om een betaling te creëren en te delen via private message in chat-apps"
+msgstr "Klik op deze knop om de betaling te maken en deze te delen via privé bericht in chat apps"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -320,7 +318,7 @@ msgstr "Klik hier om een betaling te creëren en te delen via private message in
 #: public/views/modals/share.html:4
 #: public/views/modals/vote.html:4
 msgid "Close"
-msgstr "Afsluiten"
+msgstr "Sluiten"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
