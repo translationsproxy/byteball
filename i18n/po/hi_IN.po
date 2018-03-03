@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 07:40-0500\n"
+"PO-Revision-Date: 2018-03-03 07:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -717,11 +717,11 @@ msgstr "आयात"
 
 #: public/views/add.html:22
 msgid "Import wallet"
-msgstr "वॉलेट आयात"
+msgstr "वटुवा आयात करें"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr "वॉलेट आयात रहा है..."
+msgstr "वटुवा आयात हो रहा है..."
 
 #: public/views/walletHome.html:133
 msgid "Including pending confirmation"
@@ -742,11 +742,11 @@ msgstr "अमान्य"
 
 #: src/js/controllers/index.js:1533
 msgid "Invalid Touch ID"
-msgstr "गलत टच आईडी"
+msgstr "अमान्य स्पर्श आईडी"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr "अन्य डिवाइस को आमंत्रित करें"
+msgstr "अन्य उपकरण को आमंत्रित करें"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
@@ -770,7 +770,7 @@ msgstr "बाद में"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr "लोड हो रहा है..."
+msgstr "भर रहा है..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
@@ -778,7 +778,7 @@ msgstr "को भुगतान करें"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr "शायद बाद में"
+msgstr "संभवतः बाद में"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:116
