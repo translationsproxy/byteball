@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 08:01-0500\n"
+"PO-Revision-Date: 2018-03-03 08:12-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1105,7 +1105,7 @@ msgstr "फिर से जमा करें पूर्ण बैकअप 
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr "पुन: प्रयास हो रहा हैं..."
+msgstr "पुन: प्रयास हो रहा है..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1120,7 +1120,7 @@ msgstr "व्यवस्थित करना"
 #: public/views/preferencesHub.html:18
 #: public/views/preferencesTor.html:19
 msgid "Save"
-msgstr "सेव"
+msgstr "सहेजें"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
@@ -1187,7 +1187,7 @@ msgstr "भुगतान भेजें"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr "पतें ईमेल द्वारा भी भेजें"
+msgstr "पते ईमेल द्वारा भी भेजें"
 
 #: public/views/walletHome.html:368
 msgid "Send all"
@@ -1203,7 +1203,7 @@ msgstr "धन भेज रहे हैं..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
-msgstr "भेज रहे हैं..."
+msgstr "भेज रहे है..."
 
 #: public/views/walletHome.html:619
 msgid "Sent"
@@ -1325,7 +1325,7 @@ msgstr ""
 #: public/views/disclaimer.html:12
 #: public/views/preferencesAbout.html:30
 msgid "Terms of Use"
-msgstr "उपयोग की शर्तें"
+msgstr "उपयोग करने की शर्तें"
 
 #: public/views/correspondentDevice.html:341
 msgid "Text message to"
@@ -1447,7 +1447,7 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
-msgstr "लेनदेन"
+msgstr "लेन-देन"
 
 #: public/views/walletHome.html:608
 msgid "Transactions<br> Downloaded"
@@ -1563,7 +1563,7 @@ msgstr "पहले से ही वटुवा बाइटबॉल मे�
 
 #: public/views/create.html:48
 msgid "Wallet name"
-msgstr "वॉलेट का नाम"
+msgstr "वटुवा का नाम"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
@@ -1572,7 +1572,7 @@ msgstr "वटुवा का बीज उपलब्ध नहीं है|
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Wallets"
-msgstr "वॉलेट"
+msgstr "वटुवों"
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
@@ -1622,12 +1622,12 @@ msgstr "जैसे की आप एक एकल वटुवा पता �
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
-msgstr "आपके पास कोई वॉलेट नहीं है"
+msgstr "आपके पास कोई वटुवा नहीं है"
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr "आपका वॉलेट मूल:"
+msgstr "आपका वटुवा बीज:"
 
 #: public/views/export.html:33
 msgid "Your export password"
@@ -1639,7 +1639,7 @@ msgstr "आपका पासवर्ड"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr "आपकी वॉलेट फ़ाइल:"
+msgstr "आपकी वटुवा प्रालेख:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
@@ -1651,7 +1651,7 @@ msgstr "आपका वटुवा तैयार हो जायेगा �
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr "[ नया सह-हस्ताक्षरकर्ता डिवाइस जोड़ें ]"
+msgstr "[ नया सह-हस्ताक्षरकर्ता उपकरण जोड़ें ]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
