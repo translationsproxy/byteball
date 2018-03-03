@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 08:21-0500\n"
+"PO-Revision-Date: 2018-03-03 08:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -645,11 +645,11 @@ msgstr "उत्पन्न हो रही है .सीएसवी फा
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
-msgstr ""
+msgstr "{{selectedWalletName}} वटुवा के लिए पता मिल रहा है..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "विश्वव्यापी प्रथिमिकताएँ"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
@@ -657,11 +657,11 @@ msgstr "पीछे जाएँ"
 
 #: public/views/preferences.html:48
 msgid "Hardware wallet"
-msgstr ""
+msgstr "हार्डवेयर वटुवा"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr ""
+msgstr "वटुवा बीज को छुपा दें"
 
 #: src/js/controllers/index.js:618
 msgid "History"
@@ -685,7 +685,7 @@ msgstr "केंद्र यूआरएल"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
-msgstr ""
+msgstr "मैं पुष्टी करता हूँ की मैंने पढ़ा है, समझा है, और सहमत हूँ इन शर्तों से|"
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
