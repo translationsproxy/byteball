@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 06:20-0500\n"
+"PO-Revision-Date: 2018-03-03 06:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1730,11 +1730,11 @@ msgstr "स्मार्ट वटुवों में"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
-msgstr ""
+msgstr "बकाया भुगतानों के कारन बंद हुवा"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "नहीं लिया गया"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
