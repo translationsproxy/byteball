@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 06:30-0500\n"
+"PO-Revision-Date: 2018-03-03 06:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1739,7 +1739,7 @@ msgstr "नहीं लिया गया"
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "में फीड का नाम"
 
 #: public/views/walletHome.html:431
 #: public/views/walletHome.html:442
@@ -1752,11 +1752,11 @@ msgstr "या"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "या बैकअप ले लें सभी बाइटबॉल डेटा को में"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr ""
+msgstr "साथी भुगतान करते हैं"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
