@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 05:41-0500\n"
+"PO-Revision-Date: 2018-03-03 05:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1592,11 +1592,11 @@ msgstr "क्या भेजना है"
 #: public/views/walletHome.html:456
 #: public/views/walletHome.html:539
 msgid "Who signs:"
-msgstr ""
+msgstr "कौन हस्ताक्षर करता है:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
-msgstr ""
+msgstr "गवाह का पता"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Witnesses"
@@ -1604,7 +1604,7 @@ msgstr "गवाह"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
-msgstr ""
+msgstr "इसे लिख लें और किसी सुरक्षित जगह पे रखें|"
 
 #: src/js/services/profileService.js:664
 msgid "Wrong password"
