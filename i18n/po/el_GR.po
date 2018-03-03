@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-03-03 18:10-0500\n"
+"PO-Revision-Date: 2018-03-03 18:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -222,15 +222,15 @@ msgstr "Δέσμευση πληρωμής"
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
 msgid "Bind the payment to a condition"
-msgstr "Δεσμεύστε την πληρωμή υπό έναν όρο"
+msgstr "Δεσμεύστε την πληρωμή σε μία κατάσταση"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr "Το σύστημα Bitcoin URI δεν είναι έγκυρο!"
+msgstr "Το Bitcoin URI ΔΕΝ είναι έγκυρο!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr "Κατάστημα bot"
+msgstr "Κατάστημα Bot"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -238,7 +238,7 @@ msgstr "Τόσο εσείς όσο και ο {{correspondent.name}} έχετε �
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr "Ο πλοηγός δέν υποστηρίζεται"
+msgstr "Το πρόγραμμα περιήγησης δεν υποστηρίζεται"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
@@ -284,15 +284,15 @@ msgstr "Επιλέξτε τη συσκευή προς αποστολή"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr "Αξίωση κεφαλαίου"
+msgstr "Διεκδίκηση κεφαλαίων"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr "Αξιώστε κεφάλαια από textcoin"
+msgstr "Διεκδικήστε κεφάλαια από textcoin"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr "Αξιώστε κεφάλαια χρησιμοποιώντας textcoin"
+msgstr "Διεκδικήστε κεφάλαια χρησιμοποιώντας textcoin"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
