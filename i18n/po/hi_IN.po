@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 00:00-0500\n"
+"PO-Revision-Date: 2018-03-03 00:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -976,7 +976,7 @@ msgstr "पोर्ट"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "मनमाना कुंजी-अहमियत डेटा का जोड़े को पोस्ट करें बाइटबॉल नेटवर्क में|"
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
