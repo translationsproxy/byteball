@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 23:00-0500\n"
+"PO-Revision-Date: 2018-03-02 23:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -417,11 +417,11 @@ msgstr "आयात नहीं हो सका| निवेश फाइल
 
 #: src/js/controllers/walletHome.js:51
 msgid "Could not recognize a valid Byteball QR Code"
-msgstr ""
+msgstr "पहचान नहीं सका एक मान्य बाइटबॉल क्यूआर संकेत"
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not send payment"
-msgstr ""
+msgstr "भुगतान भेज नहीं सका"
 
 #: public/views/walletHome.html:44
 msgid "Create"
@@ -438,7 +438,7 @@ msgstr "नया वॉलेट बनाएं"
 
 #: src/js/controllers/index.js:286
 msgid "Create new wallet  together with  ?"
-msgstr ""
+msgstr "क्या नया वटुवा तैयार करना है  को मिलाकर ?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
