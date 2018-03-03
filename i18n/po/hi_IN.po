@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 07:10-0500\n"
+"PO-Revision-Date: 2018-03-03 07:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -276,11 +276,11 @@ msgstr "बातचीत"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr "फ़ाइल चुनें"
+msgstr "फाइल चुनें"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr "को भेजने के लिए डिवाइस चुने"
+msgstr "को भेजने के लिए उपकरण चुने"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
@@ -450,7 +450,7 @@ msgstr "बनाया:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr "प्रोफ़ाइल बन रहा है..."
+msgstr "प्रालेख बन रहे हैं..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
