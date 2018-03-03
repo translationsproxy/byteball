@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 01:40-0500\n"
+"PO-Revision-Date: 2018-03-03 02:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1089,15 +1089,15 @@ msgstr "पासवर्ड का अनुरोध"
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:297
 msgid "Request a specific amount"
-msgstr ""
+msgstr "एक खास रकम की अनुरोध करें"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr ""
+msgstr "भुगतान की अनुरोध करें"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
-msgstr ""
+msgstr "हस्ताक्षरों की अपेक्षित संख्या"
 
 #: public/views/preferencesGlobal.html:127
 msgid "Restore from full backup"
