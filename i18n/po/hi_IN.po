@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-02 23:10-0500\n"
+"PO-Revision-Date: 2018-03-02 23:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -442,7 +442,7 @@ msgstr "क्या नया वटुवा तैयार करना ह�
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr ""
+msgstr "{{totalCosigners}}-का-{{requiredCosigners}} वटुवा बनायें"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -462,11 +462,11 @@ msgstr "शब्द हटाएँ"
 
 #: public/views/walletHome.html:335
 msgid "Data"
-msgstr ""
+msgstr "डेटा"
 
 #: public/views/walletHome.html:332
 msgid "Data into datafeed"
-msgstr ""
+msgstr "डेटाफीड में डेटा नहीं"
 
 #: public/views/modals/tx-details.html:85
 msgid "Date"
@@ -478,7 +478,7 @@ msgstr "अस्वीकृत"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr ""
+msgstr "पेपर वटुवे को डिक्रीप्ट होने ५ मिनट्स लग सकते है इस यन्त्र में, कृपया धैर्य रखें और एप्प को खुला रखें|"
 
 #: public/views/walletHome.html:179
 msgid "Definition"
@@ -486,11 +486,11 @@ msgstr "परिभाषा"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
-msgstr ""
+msgstr "फुर्तीला/स्मार्ट पता का परिभाषा"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
-msgstr ""
+msgstr "पत्तों की परिभाषाएँ"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
