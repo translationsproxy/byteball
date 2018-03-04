@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-03 08:31-0500\n"
+"PO-Revision-Date: 2018-03-04 06:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -689,11 +689,11 @@ msgstr "मैं पुष्टी करता हूँ की मैंन�
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "मैं भुगतान करता हूँ"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "का मैं दूसरा भुगतान प्राप्त करता हूँ"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
