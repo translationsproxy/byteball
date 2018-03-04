@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 06:41-0500\n"
+"PO-Revision-Date: 2018-03-04 06:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -825,11 +825,11 @@ msgstr "नेटवर्क"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr ""
+msgstr "नया आकस्मिक बीज"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
-msgstr ""
+msgstr "नयी संस्करण उपलब्ध है!"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
@@ -842,11 +842,11 @@ msgstr "नहीं"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "कोई पासवर्ड नहीं दिया गया"
 
 #: public/views/walletHome.html:586
 msgid "No transactions yet"
-msgstr ""
+msgstr "अभी तक कोई लेन-देन नहीं"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
@@ -855,7 +855,7 @@ msgstr ""
 #: public/views/walletHome.html:395
 #: public/views/walletHome.html:512
 msgid "Not valid"
-msgstr ""
+msgstr "अमान्य"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:100
@@ -868,11 +868,11 @@ msgstr "नोट करें"
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
 msgid "Offer a contract"
-msgstr ""
+msgstr "एक अनुबंध पेश करें"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr ""
+msgstr "एक बार जब आप लिख लेते हैं वटुवा बीज, यह अनुसंशित किया गया है की इसे उपकरण से मिटा दें|"
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
