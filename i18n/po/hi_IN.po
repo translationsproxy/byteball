@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 06:30-0500\n"
+"PO-Revision-Date: 2018-03-04 06:41-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -751,11 +751,11 @@ msgstr "अन्य उपकरण को आमंत्रित करे�
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "अकेले वटुवा का बीज काफी नहीं है|अकेले बीज के साथ, बहुहस्ताक्षर वटुवे और निजी धन जैसे की ब्लॉकबाइटस को आप फिर से बहाल करने के लायक नहीं होंगे|"
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "वही डेटा रखें जो आपके लिए उपयुक्त हो"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
@@ -793,7 +793,7 @@ msgstr "व्यापारी संदेश"
 
 #: public/views/walletHome.html:430
 msgid "Merkle proof"
-msgstr ""
+msgstr "मर्कल साक्ष्य"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
@@ -801,11 +801,11 @@ msgstr "संदेश"
 
 #: public/views/walletHome.html:620
 msgid "Moved"
-msgstr ""
+msgstr "स्थान परिवर्तन हुवा"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr ""
+msgstr "बहुउपकरण वटुवा"
 
 #: public/views/walletHome.html:240
 msgid "My Byteball address"
@@ -813,7 +813,7 @@ msgstr "मेरा बाईटबॉल पता"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
-msgstr ""
+msgstr "मेरा रिकॉर्डिंग प्रथिमिकताएँ"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
