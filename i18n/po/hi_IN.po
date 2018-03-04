@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 07:10-0500\n"
+"PO-Revision-Date: 2018-03-04 07:21-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1224,45 +1224,45 @@ msgstr ""
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr ""
+msgstr "ईमेल अधिसूचना बहाल करने से आपकी गोपनीयता कमजोर हो सकती है, यदि वटुवा सेवा देने वाला मिला-जुला हो| एक आकर्मणकर्ता के पास उपलब्ध सूंचनाओं में आपका वटुवा का पता और शेष राशि हो सकता है, लेकिन अब और नहीं|"
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "समायोजन"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "साझा करें"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
 msgid "Share address"
-msgstr ""
+msgstr "पता साझा करें"
 
 #: public/views/walletHome.html:280
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "इस वटुवा का पता साझा करें भुगतानों को प्राप्त करने के लिए|"
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "सन्देश के द्वारा साझा करें"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
-msgstr ""
+msgstr "सब दिखाएँ"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "किसी तरह से वटुवा बीज दिखाएँ"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
-msgstr ""
+msgstr "वटुवा से से किया गया लेन-देन में हस्ताक्षर किया क्या?"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "एकल पता वाली वटुवा"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
