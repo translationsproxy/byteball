@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-02 16:31-0500\n"
+"PO-Revision-Date: 2018-03-04 13:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -567,7 +567,7 @@ msgstr "Activare notificări push"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr "Introduceți condul de cuplare primit de la celălalt aparat, sau folosiți camera (iconița din colțul din dreapta de sus) pentru a scana codul QR afișat pe celălalt aparat."
+msgstr "Introduceți codul de cuplare primit de la celălalt aparat, sau folosiți camera (iconița din colțul din dreapta de sus) pentru a scana codul QR afișat pe celălalt aparat."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
