@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 07:50-0500\n"
+"PO-Revision-Date: 2018-03-04 08:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -370,7 +370,7 @@ msgstr "पुष्टि हुई"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr "संपर्क सूची"
+msgstr "ताल्लुकात"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:389
@@ -425,16 +425,16 @@ msgstr "भुगतान भेज नहीं सका"
 
 #: public/views/walletHome.html:44
 msgid "Create"
-msgstr "बनाएँ"
+msgstr "तैयार करें"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
-msgstr "नया वॉलेट बनाएं"
+msgstr "नया वटुवा तैयार करें"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
 msgid "Create new wallet"
-msgstr "नया वॉलेट बनाएं"
+msgstr "नया वटुवा तैयार करें"
 
 #: src/js/controllers/index.js:286
 msgid "Create new wallet  together with  ?"
@@ -470,7 +470,7 @@ msgstr "डेटाफीड में डेटा नहीं"
 
 #: public/views/modals/tx-details.html:85
 msgid "Date"
-msgstr "तिथि"
+msgstr "दिनांक"
 
 #: src/js/controllers/index.js:256
 msgid "Declined"
@@ -482,7 +482,7 @@ msgstr "पेपर वटुवे को डिक्रीप्ट हो�
 
 #: public/views/walletHome.html:179
 msgid "Definition"
-msgstr "परिभाषा"
+msgstr "व्याख्या"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -580,7 +580,7 @@ msgstr "वॉलेट तैयार करते समय त्रुट�
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr "निर्यात"
+msgstr "निर्यात करें"
 
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
@@ -601,7 +601,7 @@ msgstr "निर्यात करने में विफल"
 
 #: public/views/modals/tx-details.html:92
 msgid "Fee"
-msgstr "शुल्क"
+msgstr "फीस"
 
 #: public/views/modals/tx-details.html:110
 msgid "Finality"
@@ -713,7 +713,7 @@ msgstr "यदि आपने इरादा बना लिया है व
 
 #: public/views/import.html:40
 msgid "Import"
-msgstr "आयात"
+msgstr "आयात करें"
 
 #: public/views/add.html:22
 msgid "Import wallet"
@@ -759,11 +759,11 @@ msgstr "वही डेटा रखें जो आपके लिए उप
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
-msgstr "लेबल"
+msgstr "लेबल करें"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
-msgstr "भाषा "
+msgstr "भाषा"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
