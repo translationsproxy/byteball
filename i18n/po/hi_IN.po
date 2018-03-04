@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 07:31-0500\n"
+"PO-Revision-Date: 2018-03-04 07:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -46,7 +46,7 @@ msgstr "निमंत्रण स्वीकारें"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr "अंय डिवाइस से आमंत्रण स्वीकार करें"
+msgstr "दूसरे उपकरण से आये निमंत्रण स्वीकार करें"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
@@ -63,7 +63,7 @@ msgstr "नया डिवाइस जोड़ें"
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr "नया उपयोगकर्ता जोड़ें"
+msgstr "नयी टीम जोड़ें"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
@@ -71,11 +71,11 @@ msgstr "नया क्षेत्र जोड़े"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
-msgstr "वॉलेट जोड़ें"
+msgstr "वटुवा जोड़ें"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr "जोड़ा गया"
+msgstr "संकलित"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
@@ -94,11 +94,11 @@ msgstr "पता पुस्तिका"
 
 #: public/views/preferences.html:56
 msgid "Advanced"
-msgstr "उन्नत"
+msgstr "विकसित"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
-msgstr "सहमत"
+msgstr "सहमत हैं"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
@@ -114,11 +114,11 @@ msgstr "सभी योगदानों का स्वागत है ब�
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
-msgstr "पहले से ही भुगतान"
+msgstr "पहले ही भुगतान हो गया है"
 
 #: public/views/walletHome.html:150
 msgid "Also"
-msgstr "भी"
+msgstr ""
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
