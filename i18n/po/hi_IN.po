@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 10:00-0500\n"
+"PO-Revision-Date: 2018-03-04 10:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr "(ये site आपका शेष नहीं देखेगा और कोई भी अफपका रुपया ख़र्च नहीं करेगा)"
+msgstr "(यह साइट आपको शेष राशी नहीं दिखायेगा और कोई पैसा खर्च नहीं होगा)"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
@@ -338,7 +338,7 @@ msgstr "रंग"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr ""
+msgstr "कमिट हैश"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
