@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 11:20-0500\n"
+"PO-Revision-Date: 2018-03-04 11:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -900,7 +900,7 @@ msgstr "युग्मन संकेत"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr "पेपर वटुवा की निजी कुंजी"
+msgstr "पेपर बटुवे की निजी कुंजी"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
@@ -957,7 +957,7 @@ msgstr "हमेशा के लिए इस बटुवे को नष्
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
-msgstr "सरल वटुवा"
+msgstr "सरल बटुआ"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
@@ -1036,7 +1036,7 @@ msgstr "प्राप्तकर्ताएँ"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
-msgstr "फिर से जोड़ रहे हैं वटुवा सर्विस के लिए..."
+msgstr "फिर से जोड़ रहे हैं बटुवा सर्विस के लिए..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
