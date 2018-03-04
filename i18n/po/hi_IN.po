@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 09:31-0500\n"
+"PO-Revision-Date: 2018-03-04 09:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1400,7 +1400,7 @@ msgstr "यह वटुवा एकल पता वटुवा में ब
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
-msgstr ""
+msgstr "पहले के सभी वटुवे को यह हमेशा के लिए मिटा देगा!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1412,7 +1412,7 @@ msgstr "को"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "सबकुछ पुनः स्थापित करने के लायक हो जाएँ, पूरी बैकअप तैयार कर लें (मेनुए में विकल्प ढूंढें)"
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
