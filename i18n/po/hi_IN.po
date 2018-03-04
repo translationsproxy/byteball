@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 06:00-0500\n"
+"PO-Revision-Date: 2018-03-04 06:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -697,11 +697,11 @@ msgstr "का मैं दूसरा भुगतान प्राप्�
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "अगर सभी शर्तें नहीं मिलते, तो बाद में मैं इस पैसा को वापस ले सकता हूँ"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "अगर साथी भुगतान नहीं करता, तो मैं अपना पैसा बाद में वापस ले सकता हूँ"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
