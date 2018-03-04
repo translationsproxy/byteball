@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 06:20-0500\n"
+"PO-Revision-Date: 2018-03-04 06:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -730,11 +730,12 @@ msgstr "लंबित पुष्टिकरण को शामिल क�
 #: public/views/walletHome.html:602
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr ""
+msgstr "वटुवा के लिए बहुत लेन-देन के साथ शुरुवाती लेन-देन विवरण का तुल्यकालन में कुछ समय लग सकता है|<br>\n"
+"          चुपचाप देखते रहिए|"
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "मेरा पता सन्निविष्ट करें"
 
 #: public/views/walletHome.html:621
 msgid "Invalid"
