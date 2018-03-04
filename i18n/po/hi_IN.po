@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 11:40-0500\n"
+"PO-Revision-Date: 2018-03-04 12:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1535,45 +1535,45 @@ msgstr "इंतजार कर रहे है"
 
 #: public/views/preferencesDeleteWallet.html:12
 msgid "Wallet"
-msgstr "वटुवा"
+msgstr "बटुवा"
 
 #: public/views/preferences.html:20
 msgid "Wallet Alias"
-msgstr "वटुवा उपनाम"
+msgstr "बटुवा उपनाम"
 
 #: public/views/preferencesInformation.html:27
 msgid "Wallet Configuration (m-n)"
-msgstr "वटुवा समाकृति (म-न)"
+msgstr "बटुवा समाकृति (म-न)"
 
 #: public/views/preferencesInformation.html:20
 msgid "Wallet Id"
-msgstr "वटुवा आईडी/पहचान पत्र"
+msgstr "बटुवा आईडी/पहचान पत्र"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
 msgid "Wallet Information"
-msgstr "वटुवा की जानकारी"
+msgstr "बटुवा की जानकारी"
 
 #: public/views/preferencesInformation.html:12
 msgid "Wallet Name (at creation)"
-msgstr "वटुवा का नाम (तैयार करते समय)"
+msgstr "बटुवा का नाम (तैयार करते समय)"
 
 #: src/js/services/profileService.js:436
 msgid "Wallet already in Byteball:"
-msgstr "पहले से ही वटुवा बाइटबॉल में है:"
+msgstr "पहले से ही बटुवा बाइटबॉल में है:"
 
 #: public/views/create.html:48
 msgid "Wallet name"
-msgstr "वटुवा का नाम"
+msgstr "बटुवा का नाम"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
-msgstr "वटुवा का बीज उपलब्ध नहीं है|"
+msgstr "बटुवा का बीज उपलब्ध नहीं है|"
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Wallets"
-msgstr "वटुवों"
+msgstr "बटुवों"
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
