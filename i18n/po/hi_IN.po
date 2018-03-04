@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 06:50-0500\n"
+"PO-Revision-Date: 2018-03-04 07:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -876,15 +876,15 @@ msgstr "एक बार जब आप लिख लेते हैं वट�
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr ""
+msgstr "सिर्फ एकल-हस्ताक्षर वटुवा हे पुनः प्राप्त किया जा सकता है|"
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "बातचीत शुरू करें"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "या"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -896,52 +896,52 @@ msgstr "जुड़े उपकरनें"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "युग्मन संकेत"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr ""
+msgstr "पेपर वटुवा की निजी कुंजी"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr ""
+msgstr "पासफ्रेज"
 
 #: src/js/services/profileService.js:654
 msgid "Password needed"
-msgstr ""
+msgstr "पासवर्ड की आवश्यकता"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
-msgstr ""
+msgstr "पासवर्ड्स मेल नहीं खाते"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr ""
+msgstr "अपना पेपर वटुवा की निजी कुंजी यहाँ चिपकाएँ"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr ""
+msgstr "भुगतान और प्रस्ताव"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
-msgstr ""
+msgstr "इस पता में भुगतान करें"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr ""
+msgstr "भुगतान स्वीकार किया गया"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
-msgstr ""
+msgstr "भुगतान प्रस्ताव तैयार हो गया"
 
 #: public/views/walletHome.html:196
 msgid "Payment Proposals"
-msgstr ""
+msgstr "भुगतान प्रस्तावें"
 
 #: public/views/modals/tx-status.html:38
 msgid "Payment Rejected"
-msgstr ""
+msgstr "भुगतान ख़ारिज हुवा"
 
 #: public/views/modals/tx-status.html:5
 msgid "Payment Sent"
