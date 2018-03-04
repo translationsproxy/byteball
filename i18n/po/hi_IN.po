@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 06:11-0500\n"
+"PO-Revision-Date: 2018-03-04 06:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -705,11 +705,11 @@ msgstr "अगर साथी भुगतान नहीं करता, त
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "यदि आपने इस बैकअप को दूसरे उपकरण से लाया है, तो उपयोग करना बंद कर दें तुरंत मूल प्रति में बैकअप तैयार होने के बाद| वटुवा का प्रतिरूप न करें| यदि आप बहुत से उपकरणों से प्रवेश करना चाहते हैं तो, बहुहस्ताक्षर का उपयोग करें|"
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "यदि आपने इरादा बना लिया है वटुवा को दूसरे उपकरण में बहाल करना, तो तुरंत उपयोग करना बंद कर दें बैकअप लेने के बाद|वटुवा का प्रतिरूप न करें| यदि आप बहुत से उपकरणों से प्रवेश करना चाहते हैं तो, बहुहस्ताक्षर का उपयोग करें|"
 
 #: public/views/import.html:40
 msgid "Import"
@@ -725,7 +725,7 @@ msgstr "वटुवा आयात हो रहा है..."
 
 #: public/views/walletHome.html:133
 msgid "Including pending confirmation"
-msgstr ""
+msgstr "लंबित पुष्टिकरण को शामिल करते हुवे"
 
 #: public/views/walletHome.html:602
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
