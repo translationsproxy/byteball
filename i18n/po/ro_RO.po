@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-04 13:30-0500\n"
+"PO-Revision-Date: 2018-03-04 13:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -705,11 +705,11 @@ msgstr "Dacă nu plăteşte partea, pot lua banii înapoi după"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Dacă aţi mutat această copie de rezervă de la un alt aparat, nu o mai folosiți pe cea original imediat ce ați creat copia de rezervă. Nu clonați niciodată portofele.  Dacă aveţi nevoie de acces de la mai multe aparate, utilizaţi multisig."
+msgstr "Dacă aţi mutat această copie de rezervă de pe un alt aparat, nu o mai folosiți pe cea originală imediat ce ați creat copia de rezervă. Nu clonați niciodată portofele.  Dacă aveţi nevoie de acces de la mai multe aparate, utilizaţi multisig."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Dacă plănuiți să restituiți protofelului la un alt aparat, nu îl mai folosiți pe cel original imediat ce ați creat copia de rezervă. Nu clonați niciodată portofele.  Dacă aveţi nevoie de acces de la mai multe aparate, utilizaţi multisig."
+msgstr "Dacă plănuiți să restabiliți protofelului la pe un alt aparat, nu îl mai folosiți pe cel original imediat ce ați creat copia de rezervă. Nu clonați niciodată portofele. Dacă aveţi nevoie de acces de la mai multe aparate, utilizaţi multisig."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -721,7 +721,7 @@ msgstr "Importați portofel"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr "Se importă portofel..."
+msgstr "Se importă portfofel..."
 
 #: public/views/walletHome.html:133
 msgid "Including pending confirmation"
@@ -735,15 +735,15 @@ msgstr "Sincronizarea istoricului tranzacțiilor inițiale pentru portofelele cu
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr "Introduce adresa mea"
+msgstr "Introduceți adresa mea"
 
 #: public/views/walletHome.html:621
 msgid "Invalid"
-msgstr "Incorect"
+msgstr "Nu este valid"
 
 #: src/js/controllers/index.js:1533
 msgid "Invalid Touch ID"
-msgstr "ID Touch Incorect"
+msgstr "ID Touch nu este valid"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
@@ -981,7 +981,7 @@ msgstr "Publică perechi arbitrare cheie-valoare de date în reţeaua Byteball."
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr "Postează manual valori în noutațiile de date, fi un oracol."
+msgstr "Postează manual valori în fluxurile de date, fi un oracol."
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
@@ -998,7 +998,7 @@ msgstr "Apăsaţi din nou pentru a ieşi"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr "Bunuri private (cum ar fi blackbytes) nu sunt recuperate."
+msgstr "Bunurile private (cum ar fi blackbytes) nu sunt recuperate."
 
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
