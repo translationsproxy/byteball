@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 08:20-0500\n"
+"PO-Revision-Date: 2018-03-04 08:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1315,13 +1315,13 @@ msgstr "संकालन हो रहा है... {{index.syncProgress}}"
 
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
-msgstr ""
+msgstr "टोर"
 
 #: public/views/walletHome.html:116
 #: public/views/walletHome.html:121
 #: public/views/walletHome.html:584
 msgid "Tap to retry"
-msgstr ""
+msgstr "दुबारा प्रयाश के लिए टेप करें"
 
 #: public/views/disclaimer.html:12
 #: public/views/preferencesAbout.html:30
@@ -1330,23 +1330,23 @@ msgstr "उपयोग करने की शर्तें"
 
 #: public/views/correspondentDevice.html:341
 msgid "Text message to"
-msgstr ""
+msgstr "को टेक्स्ट सन्देश"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "टेक्स्टसिक्का"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr ""
+msgstr "दूसरे उपकरणों से सन्देश प्राप्त करने के लिए केंद्र|"
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr ""
+msgstr "केंद्र सलाह देती है निचे दिए गए गवाहों को बदलने में:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "सहकर्मी इस भुगतान को प्राप्त करता है यदि"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
