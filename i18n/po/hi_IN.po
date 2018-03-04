@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 07:21-0500\n"
+"PO-Revision-Date: 2018-03-04 07:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -19,7 +19,7 @@ msgstr "(ये site आपका शेष नहीं देखेगा औ�
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
-msgstr "(संभव डबल खर्च)"
+msgstr "(संभवतः दुगुना खर्च)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
@@ -1267,7 +1267,7 @@ msgstr "एकल पता वाली वटुवा"
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "एकल पता वाला वटुवा प्रत्येक लेन-देन के लिए नए पते नहीं देगा, परिवर्तन सिर्फ और सिर्फ एक ही पता में जाता है हमेशा जिसे वटुवा रखता है|"
 
 #: src/js/services/profileService.js:318
 msgid "Small Expenses Wallet"
@@ -1843,5 +1843,5 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'On':'Off'}}"
 
