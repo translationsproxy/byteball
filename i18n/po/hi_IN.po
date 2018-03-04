@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 07:00-0500\n"
+"PO-Revision-Date: 2018-03-04 07:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -945,15 +945,15 @@ msgstr "भुगतान ख़ारिज हुवा"
 
 #: public/views/modals/tx-status.html:5
 msgid "Payment Sent"
-msgstr ""
+msgstr "भुगतान भेजा गया"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "सहकर्मी:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
-msgstr ""
+msgstr "हमेशा के लिए इस वटुवा को नष्ट कर दें| यह नीलामी रद्द नहीं हो सकता"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
@@ -1157,7 +1157,7 @@ msgstr "पत्तों की स्कैन हो रही है..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
-msgstr ""
+msgstr "वटुवा में धन की स्कैन हो रही है..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1216,7 +1216,7 @@ msgstr "सेशन अभिलेख"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "एक पासवर्ड तैयार करें"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
