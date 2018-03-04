@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 10:11-0500\n"
+"PO-Revision-Date: 2018-03-04 11:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -122,7 +122,7 @@ msgstr "और भी"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr "समायोजन मेनुए में भी, आप पावोगे सुरक्क्षा विक्लप जैसे पासवर्ड समायोजन|"
+msgstr "समायोजन मेनुए में भी, आप सुरक्क्षा विक्लप जैसे पासवर्ड समायोजन पवोगे।"
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
