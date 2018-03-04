@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-04 13:50-0500\n"
+"PO-Revision-Date: 2018-03-04 14:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -789,11 +789,11 @@ msgstr "Eu"
 
 #: public/views/modals/tx-details.html:104
 msgid "Merchant message"
-msgstr "Mesaj de comerciant"
+msgstr "Mesaj comerciant"
 
 #: public/views/walletHome.html:430
 msgid "Merkle proof"
-msgstr "Dovadă de Merkel"
+msgstr "Dovadă Merkel"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
@@ -825,7 +825,7 @@ msgstr "Reţea"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr "O nouă seed aleatoare"
+msgstr "Un nou seed aleator"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
@@ -833,7 +833,7 @@ msgstr "O nouă versiune este disponibilă!"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
-msgstr "Noi witnesses"
+msgstr "Noi martori"
 
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:458
@@ -855,7 +855,7 @@ msgstr "Nici o tranzacție încă"
 #: public/views/walletHome.html:395
 #: public/views/walletHome.html:512
 msgid "Not valid"
-msgstr "Nu este valabil"
+msgstr "Nu este valid"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:100
@@ -1342,7 +1342,7 @@ msgstr "Hub pentru primirea mesajelor de la alte aparate."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr "Hub-ul sugerează înlocuirea următorilor witnesses:"
+msgstr "Hub-ul sugerează înlocuirea următorilor martori:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
@@ -1485,7 +1485,7 @@ msgstr "Tranzacţii netrimise"
 
 #: public/views/walletHome.html:73
 msgid "Updating Wallet..."
-msgstr "Actualizarea portofel..."
+msgstr "Actualizare portofel..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
@@ -1596,11 +1596,11 @@ msgstr "Cine semnează:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
-msgstr "Adresă Witness"
+msgstr "Adresă Martor"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Witnesses"
-msgstr "Witnesses"
+msgstr "Martori"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
