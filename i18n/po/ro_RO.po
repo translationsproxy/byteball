@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-04 14:10-0500\n"
+"PO-Revision-Date: 2018-03-04 14:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1665,7 +1665,7 @@ msgstr "un eveniment este postat de un oracol"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr "puteţi debloca contractului"
+msgstr "puteţi debloca contractul"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
@@ -1677,7 +1677,7 @@ msgstr "revocaţi crearea portofelului"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr "revendicat de {{btx.claimedByMe?'me':'receiver'|translate}}"
+msgstr "revendicat de {{btx.claimedByMe?'mine':'destinatar'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
