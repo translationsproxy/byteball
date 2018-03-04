@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 09:10-0500\n"
+"PO-Revision-Date: 2018-03-04 09:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1387,15 +1387,15 @@ msgstr "यह विकल्प गोपनीयता के लहजे �
 
 #: public/views/walletHome.html:417
 msgid "This payment is bound to a condition"
-msgstr ""
+msgstr "यह एक सशर्त भुगतान है"
 
 #: public/views/modals/tx-details.html:80
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr ""
+msgstr "यह लेन-देन अमान्य हो गया है; संभवतः दोहरा खर्च कोशिस के कारन|"
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "यह वटुवा एकल पता वटुवा में बदला नहीं जा सकता क्योंकि यह पहले से सही एक से अधीक पता से निहित है या एक से अधीक उपकरण से"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
