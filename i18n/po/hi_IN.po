@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 08:40-0500\n"
+"PO-Revision-Date: 2018-03-04 08:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1350,16 +1350,16 @@ msgstr "सहकर्मी इस भुगतान को प्राप�
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "वोट में हस्ताक्षर हो जायेगा आपके सभी जमा पूंजी पतों द्वारा"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The wallet \"{{walletName}}\" was deleted"
-msgstr ""
+msgstr "वटुवा \"{{walletName}}\" हट चूका था"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "वटुवा बिक्रेता आपका कुछ शेष राशि जानने लायक होगा और कौन सा लेन-देन आपका है इसे भी देखने लायक होगा, लेकिन आप तुरंत वटुवा का उपयोग कर सकते हैं और वटुवा पूरी तरह से कमलायक है|"
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
