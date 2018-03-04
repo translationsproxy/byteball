@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 09:40-0500\n"
+"PO-Revision-Date: 2018-03-04 09:51-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1416,35 +1416,35 @@ msgstr "सबकुछ पुनः स्थापित करने के �
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "अनियंत्रित डेटा भेजने के लायक हो जाएँ बाइटबॉल नेटवर्क में, कृप्या पहले एकल-पता वटुवा में स्विच करें या एक नया तैयार करें|"
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr ""
+msgstr "भुगतान को सशर्त करने के लिए, कृप्या बातचीत में सहकर्मी के पता में क्लिक करें"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "बाइटबॉल पता में"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "बाइटबॉल पता में या ईमेल में"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "ईमेल में"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr ""
+msgstr "आपकी गोपनीयता की रक्षा के लिए, जब आप उनका उपयोग करते हैं तो नया पता उत्पन्न होता है स्वयं|"
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
-msgstr ""
+msgstr "कुल बंद पड़ा शेष राशी"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr ""
+msgstr "सह-हस्ताक्षरकर्ताओं की संख्या"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
