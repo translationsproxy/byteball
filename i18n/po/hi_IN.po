@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 08:00-0500\n"
+"PO-Revision-Date: 2018-03-04 08:10-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -817,7 +817,7 @@ msgstr "मेरा रिकॉर्डिंग प्रथिमिकत�
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr "संपर्क का नाम"
+msgstr "संबंध का नाम"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
@@ -1220,7 +1220,7 @@ msgstr "एक पासवर्ड तैयार करें"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr ""
+msgstr "एक पासवर्ड तैयार करें"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
@@ -1271,16 +1271,16 @@ msgstr "एकल पता वाला वटुवा प्रत्ये�
 
 #: src/js/services/profileService.js:318
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "छोटी खर्च वाली वटुवा"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr ""
+msgstr "उल्लेखित बीजें..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
 msgid "Spending Restrictions"
-msgstr ""
+msgstr "खर्च करने की पाबंदियाँ"
 
 #: public/views/preferencesGlobal.html:96
 msgid "Still not done"
@@ -1299,7 +1299,7 @@ msgstr "सफल"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr ""
+msgstr "वटुवा साफ़ कर दें"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
