@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-04 13:40-0500\n"
+"PO-Revision-Date: 2018-03-04 13:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -701,7 +701,7 @@ msgstr "În cazul în care condiţia nu este îndeplinită, pot lua banii înapo
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr "Dacă nu plăteşte partea, pot lua banii înapoi după"
+msgstr "Dacă nu plăteşte partenerul, pot lua banii înapoi după"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -949,7 +949,7 @@ msgstr "Plată trimisă"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr "Peer:"
+msgstr "Partener:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -1090,7 +1090,7 @@ msgstr "Solicitare parolă"
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:297
 msgid "Request a specific amount"
-msgstr "Solicita o valoare specifică"
+msgstr "Solicită o valoare specifică"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
@@ -1106,7 +1106,7 @@ msgstr "Restabilește din copia completă de siguranță"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr "Se reîncearcă..."
+msgstr "Reîncearcă..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1141,7 +1141,7 @@ msgstr "Scanarea statusului s-a terminat cu o eroare"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr "Scanaţi codul QR de mai sus utilizând celălalt aparat sau trimite aceast cod de asociere către celălalt aparat:"
+msgstr "Scanaţi codul QR de mai sus utilizând celălalt aparat sau trimiteți aceast cod de asociere către celălalt aparat:"
 
 #: src/js/controllers/index.js:1526
 msgid "Scan your fingerprint please"
@@ -1169,7 +1169,7 @@ msgstr "Selectaţi un sub-portofel"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr "Selectaţi identitatea dumneavoastră"
+msgstr "Selectaţi-vă identitatea"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:467
@@ -1346,7 +1346,7 @@ msgstr "Hub-ul sugerează înlocuirea următorilor witnesses:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr "Peer-ul primeşte această plată dacă"
+msgstr "Partenerul primeşte această plată dacă"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -1420,7 +1420,7 @@ msgstr "Pentru a putea trimite date arbitrare în reţeaua de Byteball, vă rug�
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr "Pentru a lega plata la o condiţie, apăsați pe adresa peer-ului în chat"
+msgstr "Pentru a lega plata de o condiţie, apăsați pe adresa partenerului în chat"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
@@ -1436,7 +1436,7 @@ msgstr "Către email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr "Pentru a proteja confidenţialitatea datelor dumneavoastră, noi adrese sunt generate automat, odată ce le-aţi folosit."
+msgstr "Pentru a proteja confidenţialitatea datelor dumneavoastră, odată ce le-aţi folosit, noi adrese sunt generate automat."
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
@@ -1756,7 +1756,7 @@ msgstr "sau faceți o copie de rezervă la toate datele Byteball la"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr "peer plătește"
+msgstr "partenerul plătește"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
