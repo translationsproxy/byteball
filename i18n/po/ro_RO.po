@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-04 13:10-0500\n"
+"PO-Revision-Date: 2018-03-04 13:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -673,7 +673,7 @@ msgstr "Acasă"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr "Server"
+msgstr "Gazdă"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
@@ -701,7 +701,7 @@ msgstr "În cazul în care condiţia nu este îndeplinită, pot lua banii înapo
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr "Dacă nu plăteşte peer-ul, pot lua banii înapoi după"
+msgstr "Dacă nu plăteşte partea, pot lua banii înapoi după"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
