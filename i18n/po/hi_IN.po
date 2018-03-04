@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-03-04 11:11-0500\n"
+"PO-Revision-Date: 2018-03-04 11:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -212,7 +212,7 @@ msgstr "धन प्राप्त करने से पहले, यह �
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr "अभी तक बेहतर, उपयोग करें एक से अधिक हस्ताक्षर वटुवों का बहुतायत में|"
+msgstr "इसे भी बेहतर, एक से अधिक हस्ताक्षर वटुवों का बहुतायत में उपयोग करें।"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
@@ -917,7 +917,7 @@ msgstr "पासवर्ड्स मेल नहीं खाते"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr "अपना पेपर वटुवा की निजी कुंजी यहाँ चिपकाएँ"
+msgstr "अपना पेपर बटुवे की निजी कुंजी यहाँ चिपकाएँ"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
@@ -953,7 +953,7 @@ msgstr "सहकर्मी:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
-msgstr "हमेशा के लिए इस वटुवा को नष्ट कर दें| यह नीलामी रद्द नहीं हो सकता"
+msgstr "हमेशा के लिए इस बटुवे को नष्ट कर दें| यह नीलामी रद्द नहीं हो सकता"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
