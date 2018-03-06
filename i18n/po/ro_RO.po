@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-06 14:31-0500\n"
+"PO-Revision-Date: 2018-03-06 14:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1257,7 +1257,7 @@ msgstr "Arată seed-ul portofelului oricum"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
-msgstr "Semnați cheltuielile de tranzacție din portofel?"
+msgstr "Semnați cheltuielile tranzacției din portofel?"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
