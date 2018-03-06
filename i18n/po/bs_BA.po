@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Bosnian\n"
 "Language: bs_BA\n"
-"PO-Revision-Date: 2018-03-06 15:15-0500\n"
+"PO-Revision-Date: 2018-03-06 15:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -801,52 +801,52 @@ msgstr "Poruka"
 
 #: public/views/walletHome.html:620
 msgid "Moved"
-msgstr ""
+msgstr "Premješteno"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr ""
+msgstr "Višeuređajni novčanik"
 
 #: public/views/walletHome.html:240
 msgid "My Byteball address"
-msgstr ""
+msgstr "Moja Byteball adresa"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
-msgstr ""
+msgstr "Moje postavke snimanja"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "Ime kontakta"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
-msgstr ""
+msgstr "Mreža"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr ""
+msgstr "Novo početno dijeljenje"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
-msgstr ""
+msgstr "Nova verzija je dostupna!"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
-msgstr ""
+msgstr "Novi svjedoci"
 
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:458
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "Nema pružene lozinke"
 
 #: public/views/walletHome.html:586
 msgid "No transactions yet"
-msgstr ""
+msgstr "Još nema transakcija"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
@@ -855,7 +855,7 @@ msgstr ""
 #: public/views/walletHome.html:395
 #: public/views/walletHome.html:512
 msgid "Not valid"
-msgstr ""
+msgstr "Nije valjano"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:100
@@ -863,28 +863,28 @@ msgstr ""
 #: public/views/walletHome.html:441
 #: public/views/walletHome.html:649
 msgid "Note"
-msgstr ""
+msgstr "Bilješka"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
 msgid "Offer a contract"
-msgstr ""
+msgstr "Ponuditi ugovor"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr ""
+msgstr "Jednom kada ste napisali svoje dijeljenje, preporučuje se izbrisati ga s ovog uređaja."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr ""
+msgstr "Samo jedno potpisane novčanke je moguće oporaviti."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Otvaranje razgovora"
 
 #: public/views/modals/share.html:23
 msgid "Or"
-msgstr ""
+msgstr "Ili"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1739,40 +1739,40 @@ msgstr "nije potvrđeno"
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "na feed ime"
 
 #: public/views/walletHome.html:431
 #: public/views/walletHome.html:442
 msgid "optional"
-msgstr ""
+msgstr "izborno"
 
 #: public/views/modals/offer-contract.html:99
 msgid "or"
-msgstr ""
+msgstr "ili"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "ili sigornasna kopija svih Byteball podataka u"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr ""
+msgstr "korisnik plaća"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
-msgstr ""
+msgstr "objavljeno"
 
 #: public/views/modals/tx-details.html:142
 msgid "re-send private payloads"
-msgstr ""
+msgstr "ponovno poslati privatne količine"
 
 #: public/views/modals/tx-details.html:145
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "ponovno poslati privatne količine drugim potpisnicima"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "pošalji e-poštu"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1783,7 +1783,7 @@ msgstr ""
 #: src/js/controllers/walletHome.js:942
 #: src/js/controllers/walletHome.js:981
 msgid "sending"
-msgstr ""
+msgstr "slanje"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
