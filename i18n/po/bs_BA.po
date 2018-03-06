@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Bosnian\n"
 "Language: bs_BA\n"
-"PO-Revision-Date: 2018-03-06 16:50-0500\n"
+"PO-Revision-Date: 2018-03-06 17:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -42,11 +42,11 @@ msgstr "Slažem se"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
-msgstr "Prihvati pozivnicu"
+msgstr "Prihvati pozivanje"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr "Prihvatite poziv sa drugog uređaja"
+msgstr "Prihvatite pozivanje sa drugog uređaja"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
@@ -63,7 +63,7 @@ msgstr "Dodajte novi uređaj"
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr "Dodajte novi upis"
+msgstr "Dodajte novi zapis"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
@@ -75,7 +75,7 @@ msgstr "Dodajte novčanik"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr "Dodano"
+msgstr "Dodato"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
@@ -122,7 +122,7 @@ msgstr "Također"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr "Također u izborniku Postavke, naći ćete mogućnosti sigurnosti kao što je postavljanje lozinke."
+msgstr "Također u izborniku Postavke, naći ćete pogodnosti sigurnosti kao što je postavljanje šifre."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -176,7 +176,7 @@ msgstr "Auto-ažuriranje popisa svjedoka iz baze podataka"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr "Raspoloživo stanje"
+msgstr "Raspoloživi balans"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -204,7 +204,7 @@ msgstr "Riječi sigurnosne kopije obrisane"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr "Stanje po adresi"
+msgstr "Blans po adresi"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
@@ -413,7 +413,7 @@ msgstr "Nije moguće uvesti"
 
 #: src/js/services/profileService.js:467
 msgid "Could not import. Check input file and password"
-msgstr "Nije moguće uvesti. Provjerite ulazne datoteke i lozinke"
+msgstr "Nije moguće uvesti. Provjerite ulazne datoteke i šifre"
 
 #: src/js/controllers/walletHome.js:51
 msgid "Could not recognize a valid Byteball QR Code"
@@ -571,7 +571,7 @@ msgstr "Unesite kod za uparivanje od drugog uređaja ili koristite kameru (ikona
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr "Unesite svoju lozinku"
+msgstr "Unesite svoju šifru"
 
 #: src/js/services/profileService.js:323
 #: src/js/services/profileService.js:374
@@ -842,7 +842,7 @@ msgstr "Ne"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr "Nema pružene lozinke"
+msgstr "Nema pružene šifre"
 
 #: public/views/walletHome.html:586
 msgid "No transactions yet"
@@ -905,15 +905,15 @@ msgstr "Privatni ključ novčanika"
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr "Lozinka"
+msgstr "Šifra"
 
 #: src/js/services/profileService.js:654
 msgid "Password needed"
-msgstr "Potrebna je lozinka"
+msgstr "Potrebna je šifra"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
-msgstr "Lozinke se ne poklapaju"
+msgstr "Šifre se ne poklapaju"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
@@ -1073,11 +1073,11 @@ msgstr "Preimenujte:"
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr "Ponovite lozinku"
+msgstr "Ponovite šifru"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr "Ponovite lozinku"
+msgstr "Ponovite šifru"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
@@ -1085,7 +1085,7 @@ msgstr "Zamijenite"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr "Zatražite lozinku"
+msgstr "Zatražite šifru"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:297
@@ -1216,15 +1216,15 @@ msgstr "Zapisnik"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr "Postavite lozinku"
+msgstr "Postavite šifru"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr "Postavite lozinku"
+msgstr "Postavite šifru"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr "Postavljanje obavijesti preko e-pošte može oslabiti vašu privatnost, ako je davatelj usluga novčanika kompromiziran. Informacije koje su dostupne napadaču će uključivati vaše adrese i njihovo stanje, ali ništa više."
+msgstr "Postavljanje obavijesti preko e-pošte može oslabiti vašu privatnost, ako je davatelj usluga novčanika kompromiziran. Informacije koje su dostupne napadaču će uključivati vaše adrese i njihove balanse, ali ništa više."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
@@ -1440,7 +1440,7 @@ msgstr "Da biste zaštitili vašu privatnos,, nove adrese se automatski generira
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
-msgstr "Ukupno Zaključano Stanje"
+msgstr "Ukupan Zaključani Balans"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
@@ -1608,7 +1608,7 @@ msgstr "Zapišite ga i držite ga negdje na sigurno."
 
 #: src/js/services/profileService.js:664
 msgid "Wrong password"
-msgstr "Pogrešna lozinka"
+msgstr "Pogrešna šifra"
 
 #: public/views/authConfirmation.html:17
 #: public/views/modals/confirmation.html:6
@@ -1631,11 +1631,11 @@ msgstr "Vaše dijeljenje:"
 
 #: public/views/export.html:33
 msgid "Your export password"
-msgstr "Vaša izvozna lozinka"
+msgstr "Vaša izvozna šifra"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
-msgstr "Vaša lozinka"
+msgstr "Vaša šifra"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
@@ -1643,7 +1643,7 @@ msgstr "Vaš a datoteka novčanika:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr "Vaš novčanik će biti enkriptovan. Lozinka ne može biti oporavljena. Budite sigurni da ju zapišete"
+msgstr "Vaš novčanik će biti enkriptovan. Šifra ne može biti oporavljena. Budite sigurni da ju zapišete"
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
