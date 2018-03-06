@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Bosnian\n"
 "Language: bs_BA\n"
-"PO-Revision-Date: 2018-03-06 09:22-0500\n"
+"PO-Revision-Date: 2018-03-06 15:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1223,67 +1223,67 @@ msgstr "Postavite lozinku"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr ""
+msgstr "Postavljanje obavijesti preko e-pošte može oslabiti vašu privatnost, ako je davatelj usluga novčanika kompromiziran. Informacije koje su dostupne napadaču će uključivati vaše adrese i njihovo stanje, ali ništa više."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "Postavke"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Podijelite"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
 msgid "Share address"
-msgstr ""
+msgstr "Podijelite adresu"
 
 #: public/views/walletHome.html:280
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "Podijelite uvu adresu za novčanik da biste primili isplatu."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Podijelite preko poruke"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
-msgstr ""
+msgstr "Prikaži sve"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "Pokaži dijeljenje svakako"
 
 #: src/js/controllers/index.js:435
 msgid "Sign transaction spending  from wallet ?"
-msgstr ""
+msgstr "Potpisati transakciju za trošenje iz novčanika?"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Jednoadresni novčanik"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "Jednoadresni novčanici neće proizvesti nove adrese prilikom svake transakcije, promjena će uvijek ići na jednu jedinu adresu koju sadrži samo novčanik."
 
 #: src/js/services/profileService.js:318
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "Novčanik za male troškove"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr ""
+msgstr "Odaberite dijeljenje..."
 
 #: public/views/preferences.html:60
 #: public/views/preferencesGlobal.html:82
 msgid "Spending Restrictions"
-msgstr ""
+msgstr "Restrikcije trošenja"
 
 #: public/views/preferencesGlobal.html:96
 msgid "Still not done"
-msgstr ""
+msgstr "Još nije gotovo"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:135
@@ -1294,19 +1294,19 @@ msgstr ""
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
 msgid "Success"
-msgstr ""
+msgstr "Uspješno"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr ""
+msgstr "Prijenos novčanika"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr ""
+msgstr "Prijenos papir novčanika"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr ""
+msgstr "Sinkronizacija... {{index.count_unhandled_private_payments}} privatnog plaćanja lijevo"
 
 #: public/views/walletHome.html:82
 msgid "Syncing... {{index.syncProgress}}"
