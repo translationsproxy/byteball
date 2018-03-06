@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Bosnian\n"
 "Language: bs_BA\n"
-"PO-Revision-Date: 2018-03-06 16:20-0500\n"
+"PO-Revision-Date: 2018-03-06 16:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -27,18 +27,18 @@ msgstr "-- Odaberite drugog potpisnika --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr "12 riječi odvojenih crticama"
+msgstr "12 riječi odvojenih crtama"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
-msgstr "O Byteball"
+msgstr "O Byteballu"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
 #: src/js/controllers/walletHome.js:121
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr "Prihvati"
+msgstr "Slažem se"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
@@ -751,7 +751,7 @@ msgstr "Pozvati drugi uređaj"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr "Samo dijeljenje nije dovoljno.  Samo sa dijeljenjem, nećete moći vratiti multisig novčanike i privatnu imovinu kao što su blackbytes."
+msgstr "Samo dijeljenje nije dovoljno.  Samo sa dijeljenjem, nećete moći vratiti multisig novčanike i privatnu imovinu kao šta su blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
