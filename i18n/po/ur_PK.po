@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Urdu (Pakistan)\n"
 "Language: ur_PK\n"
-"PO-Revision-Date: 2018-03-05 23:50-0500\n"
+"PO-Revision-Date: 2018-03-06 00:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -122,11 +122,11 @@ msgstr "اس کے علاوہ"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "اس کے علاوہ ترتیبات کے مینو میں، آپ کو حفاظتی اختیارات ملے گی جیسے کہ پاسورڈ کو ترتیب دینا۔\n"
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "اس کے علاوہ، اپنے سیٹ کو خارج کرنے کے لئے مت بھولنا۔"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -135,32 +135,32 @@ msgstr ""
 #: public/views/paymentUri.html:16
 #: public/views/walletHome.html:367
 msgid "Amount"
-msgstr ""
+msgstr "مقدار"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "جواب:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr ""
+msgstr "دوسرے آلات پر والیٹ کی تخلیق کو منظور کریں"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr ""
+msgstr "کیا آپ یقین کے ساتھ بیک اپ الفاظ ڈلیٹ کرنا چاہتے ہیں؟"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr ""
+msgstr "کیا آپ واقعی اس بٹوے کو ڈلیٹ کرنا چاہتے ہیں؟"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr ""
+msgstr "اثاثہ"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "کوئی بھی پروفل ڑاٹا جو بیٹبال ولیٹ کے ساتھ وابستہ ہے کو ثابت کرواؤ۔"
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
