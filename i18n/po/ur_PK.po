@@ -11,59 +11,59 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Urdu (Pakistan)\n"
 "Language: ur_PK\n"
-"PO-Revision-Date: 2018-02-23 17:41-0500\n"
+"PO-Revision-Date: 2018-03-05 23:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr ""
+msgstr "(یہ سائٹ آپ کو توازن نہیں دیکھیگا اور پیسہ خرچ نہیں کیا جائے گا)۔"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
-msgstr ""
+msgstr "(ممکنہ ڈبل خرچ)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "--شریک دستخط منتخب کریں--"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12الفاظ جو ڈیشوں سےالگ کیے گیے ہے۔"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
-msgstr ""
+msgstr "بیٹبال کے متعلک"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
 #: src/js/controllers/walletHome.js:121
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr ""
+msgstr "قبول کرو"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
-msgstr ""
+msgstr "دعوت قبول کریں"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr ""
+msgstr "دوسرے آلہ سے دعوت نامہ قبول کریں\n"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
-msgstr ""
+msgstr "اکؤنٹ"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "ایٹ بوٹ"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
-msgstr ""
+msgstr "نیا آلہ شامل کریں\n"
 
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr ""
+msgstr "ایک نیاداخلہ شامل کریں"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
