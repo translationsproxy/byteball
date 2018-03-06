@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-06 04:42-0500\n"
+"PO-Revision-Date: 2018-03-06 05:02-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1399,7 +1399,7 @@ msgstr "Dieses Wallet kann nicht zu einer Einzeladdresse konvertiert werden, da 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
-msgstr "Hiermit werden sofort alle bestehenden Wallets gelöscht!"
+msgstr "Hiermit werden sofort all Ihre existierenden Brieftaschen gelöscht!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1717,7 +1717,7 @@ msgstr "Stunden"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
-msgstr "wenn ein Orakel ein Ereignis bekannt gibt"
+msgstr "wenn ein Orakel ein Ereignis meldet"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
