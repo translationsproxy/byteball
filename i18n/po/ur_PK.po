@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Urdu (Pakistan)\n"
 "Language: ur_PK\n"
-"PO-Revision-Date: 2018-03-06 00:17-0500\n"
+"PO-Revision-Date: 2018-03-06 00:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -226,11 +226,11 @@ msgstr "ایک شرط پر ادائیگی باندھائیں"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr ""
+msgstr "Bitcoin URI درست نہیں ہے!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr ""
+msgstr "بوٹ سٹور"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
