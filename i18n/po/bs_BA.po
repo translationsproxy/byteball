@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Bosnian\n"
 "Language: bs_BA\n"
-"PO-Revision-Date: 2018-03-06 16:11-0500\n"
+"PO-Revision-Date: 2018-03-06 16:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1379,28 +1379,28 @@ msgstr "Ovaj izbor ne može biti promijenjen naknadno"
 
 #: public/views/walletHome.html:350
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
-msgstr ""
+msgstr "Ovo je privatna imovina, molimo pošaljite samo klikom na linkove u razgovoru ili pošaljite ih u vaše druge novčanike."
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "Ova mogućnost je bolja za privatnost, ali će zauzeti nekoliko gigabajta prostora za phranu i početna sinkronizacija će potrajati nekoliko dana.  Učitavanje u centralnu procesorsku jedinicu će biti visoko tijekom sinkronizacije."
 
 #: public/views/walletHome.html:417
 msgid "This payment is bound to a condition"
-msgstr ""
+msgstr "Ovo plaćanje je uvjetovano"
 
 #: public/views/modals/tx-details.html:80
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr ""
+msgstr "Ova transakcija je postala nevaljana; vjerovatno zbog dvostrukog pokušaja plaćanja."
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr ""
+msgstr "Ovaj novčanik ne može bit pretvoren u jednu adresu novčanika jer se već sastoji od više adresa ili je korištena na nekoliko uređaja"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
-msgstr ""
+msgstr "Ovo će trajno izbrisati vaše postojeće novčanike!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1408,121 +1408,121 @@ msgstr ""
 #: public/views/modals/tx-details.html:65
 #: public/views/walletHome.html:651
 msgid "To"
-msgstr ""
+msgstr "Za"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "Da biste vratili sve, molimo stvoritie punu sigurnosnu kopiju (pronađite opciju u izborniku)"
 
 #: public/views/walletHome.html:558
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "Da biste mogli poslati proizvoljne podatke u Byteball mrežu, prvo prijeđite u jedno adresni novčanik ili ga stvorite."
 
 #: public/views/walletHome.html:420
 msgid "To bind the payment to a condition, please click the peer's address in chat"
-msgstr ""
+msgstr "Za povezivanje uplate uz uvjet, molimo kliknite na adresu drugog korisnika u razgovoru"
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr ""
+msgstr "Za byteball adresu"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr ""
+msgstr "Za bytball adressu ili email"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "Za email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr ""
+msgstr "Da biste zaštitili vašu privatnos,, nove adrese se automatski generiraju jednom kada ih koristite."
 
 #: public/views/walletHome.html:204
 msgid "Total Locked Balance"
-msgstr ""
+msgstr "Ukupno Zaključano Stanje"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr ""
+msgstr "Ukupan broj drugih osoba za potpisivanje"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
-msgstr ""
+msgstr "Transakcija"
 
 #: public/views/walletHome.html:608
 msgid "Transactions<br> Downloaded"
-msgstr ""
+msgstr "Preuzete<br> Transakcije"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
-msgstr ""
+msgstr "Prevedeni Krediti"
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
-msgstr ""
+msgstr "Prevoditelji"
 
 #: src/js/controllers/walletHome.js:774
 msgid "Unable to send transaction proposal"
-msgstr ""
+msgstr "Nemoguće poslati prijedlog za transakciju"
 
 #: public/views/modals/tx-details.html:112
 #: public/views/walletHome.html:639
 msgid "Unconfirmed"
-msgstr ""
+msgstr "Nepotvrđeno"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr ""
+msgstr "Jedinica za blackbyte"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr ""
+msgstr "Jedinica za byte"
 
 #: public/views/walletHome.html:197
 msgid "Unsent transactions"
-msgstr ""
+msgstr "Neposlane transakcije"
 
 #: public/views/walletHome.html:73
 msgid "Updating Wallet..."
-msgstr ""
+msgstr "Učitavamo novčanik..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
-msgstr ""
+msgstr "Nadogradite na {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "Učitavanje baze podataka, molimo sačekajte. Nekada će potrajati nekoliko minuta."
 
 #: public/views/walletHome.html:522
 msgid "Values"
-msgstr ""
+msgstr "Vrijednosti"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
-msgstr ""
+msgstr "Verzija"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "UPOZORENJE:"
 
 #: public/views/walletHome.html:222
 msgid "WARNING: Backup needed"
-msgstr ""
+msgstr "UPOZORENJE: Potreban povratak podataka"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr ""
+msgstr "UPOZORENJE: Ovaj prijenos je napravljen sa šifrom. Da biste oporavili ovaj novčanik obe šifre su potrebne."
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
 msgid "WARNINGS:"
-msgstr ""
+msgstr "UPOZORENJA:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO BYTEBALL"
-msgstr ""
+msgstr "DOBRODOŠLI NA BYTEBALL"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
@@ -1787,32 +1787,32 @@ msgstr "slanje"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "podijeli ponovo"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
-msgstr ""
+msgstr "za"
 
 #: public/views/walletHome.html:432
 #: public/views/walletHome.html:443
 msgid "too long!"
-msgstr ""
+msgstr "previše dugo!"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "sa"
 
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
-msgstr ""
+msgstr "sa očekivnom vrijednošću"
 
 #: public/views/modals/bind.html:58
 msgid "with expected value of"
-msgstr ""
+msgstr "sa očekivnom vrijednošću od"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
-msgstr ""
+msgstr "{{address}} može biti potrošen ukoliko:"
 
 #: public/views/modals/claim-textcoin.html:36
 #: public/views/modals/customized-amount.html:76
@@ -1821,26 +1821,26 @@ msgstr ""
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
-msgstr ""
+msgstr "{{cancel_label || 'Cancel'}}"
 
 #: src/js/controllers/walletHome.js:1662
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr ""
+msgstr "{{fee}} će biti odbijen za troškove povezivanja s bitcoinom"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "{{hrd.destinationAddress}} može biti potrošeno ukoliko:"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
 msgid "{{index.m}}-of-{{index.n}}"
-msgstr ""
+msgstr "{{index.m}}-od-{{index.n}}"
 
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr ""
+msgstr "{{item.m}}-od-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'On':'Off'}}"
 
