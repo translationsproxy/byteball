@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Urdu (Pakistan)\n"
 "Language: ur_PK\n"
-"PO-Revision-Date: 2018-03-06 17:30-0500\n"
+"PO-Revision-Date: 2018-03-06 17:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -280,27 +280,27 @@ msgstr "فایل چنیں"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr ""
+msgstr "بھیجنے کیلئے آلہ منتخب کریں"
 
 #: src/js/controllers/walletHome.js:488
 msgid "Claim funds"
-msgstr ""
+msgstr "فنڈز دعوی کریں"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "textcoin کی طرف سے فنڈز دعوی کریں"
 
 #: public/views/walletHome.html:302
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "textcoin کا ​​استعمال کرتے ہوئے فنڈز کا دعوی کریں"
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr ""
+msgstr "بٹن پر کلک کریں <span ng-if=\"isResend\">re</span> ای میل بھیجیں"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr ""
+msgstr "ادائیگی کے لئے اس بٹن کو کلک کریں اور چیٹ اپلیکیشن میں نجی پیغام کے ذریعہ اس کا اشتراک کریں۔\n"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -318,15 +318,15 @@ msgstr ""
 #: public/views/modals/share.html:4
 #: public/views/modals/vote.html:4
 msgid "Close"
-msgstr ""
+msgstr "بند کریں"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
-msgstr ""
+msgstr "شریک سینر {{$index+1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr ""
+msgstr "تعون کردہ دستخط\n"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
