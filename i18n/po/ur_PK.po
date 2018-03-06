@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Urdu (Pakistan)\n"
 "Language: ur_PK\n"
-"PO-Revision-Date: 2018-03-06 00:20-0500\n"
+"PO-Revision-Date: 2018-03-06 00:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -234,7 +234,7 @@ msgstr "بوٹ سٹور"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "آپ اور  {{correspondent.name}}  مقامی چیٹ کی تاریخ کی ریکاڈ کو قابل بنایے۔"
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
