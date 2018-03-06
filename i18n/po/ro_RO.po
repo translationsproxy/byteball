@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-04 14:20-0500\n"
+"PO-Revision-Date: 2018-03-06 14:01-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1200,7 +1200,7 @@ msgstr "Trimite prin email"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr "Trimiterea de fonduri..."
+msgstr "Se trimit fonduri..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
