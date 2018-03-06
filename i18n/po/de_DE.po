@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-06 03:50-0500\n"
+"PO-Revision-Date: 2018-03-06 04:03-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1148,7 +1148,7 @@ msgstr "Scanne bitte deinen Fingerabdruck"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
-msgstr "Prüfe Wallet auf neue Beträge..."
+msgstr "Prüfe Wallet-Beträge..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
@@ -1378,7 +1378,7 @@ msgstr "Diese Auswahl kann später nicht mehr geändert werden"
 
 #: public/views/walletHome.html:350
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
-msgstr "Dies ist eine private Einheit, bitte senden sie sie nur über einen Hyperlink im Chat oder zu ihrem eigenen Wallet."
+msgstr "Dies ist eine privater Vermögenswert, bitte senden sie sie nur über einen Hyperlink im Chat oder zu ihrem eigenen Wallet."
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
