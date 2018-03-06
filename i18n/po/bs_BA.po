@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Bosnian\n"
 "Language: bs_BA\n"
-"PO-Revision-Date: 2018-03-06 07:40-0500\n"
+"PO-Revision-Date: 2018-03-06 07:52-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -19,114 +19,114 @@ msgstr "(Stranica neće vidjeti vaše stanje i novac neće biti potrošen)"
 
 #: public/views/walletHome.html:628
 msgid "(possible double spend)"
-msgstr ""
+msgstr "(moguće dvostruko plaćanje)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- Odaberite drugog potpisnika --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 riječi odvojenih crticama"
 
 #: public/views/preferencesGlobal.html:135
 msgid "About Byteball"
-msgstr ""
+msgstr "O Byteball"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
 #: src/js/controllers/walletHome.js:121
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr ""
+msgstr "Prihvati"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
-msgstr ""
+msgstr "Prihvati pozivnicu"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr ""
+msgstr "Prihvatite poziv sa drugog uređaja"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
-msgstr ""
+msgstr "Račun"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Dodajte Robot"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
-msgstr ""
+msgstr "Dodajte novi uređaj"
 
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr ""
+msgstr "Dodajte novi upis"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
-msgstr ""
+msgstr "Dodajte polja"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
-msgstr ""
+msgstr "Dodajte novčanik"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "Dodano"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
 #: public/views/paymentUri.html:15
 msgid "Address"
-msgstr ""
+msgstr "Adresa"
 
 #: public/views/walletHome.html:507
 msgid "Address to attest"
-msgstr ""
+msgstr "Adresa za potvrdu"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
 msgid "Addressbook"
-msgstr ""
+msgstr "Adresar"
 
 #: public/views/preferences.html:56
 msgid "Advanced"
-msgstr ""
+msgstr "Napredno"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
-msgstr ""
+msgstr "Slažem se"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
-msgstr ""
+msgstr "Nadimak za <i>{{index.walletName}}</i>"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr ""
+msgstr "Sve novčanik adrese"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr ""
+msgstr "Svi doprinosi za Byteball prevod su dobrodošli. Prijavi se na crowdin.com i pridruži se Byteball projektu na"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
-msgstr ""
+msgstr "Već plaćeno"
 
 #: public/views/walletHome.html:150
 msgid "Also"
-msgstr ""
+msgstr "Također"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "Također u izborniku Postavke, naći ćete mogućnosti sigurnosti kao što je postavljanje lozinke."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Također, ne zaboravite izbrisati vaše dijeljenje"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -135,48 +135,48 @@ msgstr ""
 #: public/views/paymentUri.html:16
 #: public/views/walletHome.html:367
 msgid "Amount"
-msgstr ""
+msgstr "Količina"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "Odgovor:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr ""
+msgstr "Odobriti stvaranje novčanika na drugim uređajima"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr ""
+msgstr "Jeste li sigurni da želite obrisati ovu pohranu?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr ""
+msgstr "Jeste li sigurni da želite izbrisati ovaj novčanik?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr ""
+msgstr "Imovina"
 
 #: public/views/walletHome.html:496
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Potvrditi podatke profila povezanih na bilo koju Byteball adresu."
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
-msgstr ""
+msgstr "Potvrda"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "Auto-ažuriranje popisa svjedoka iz baze podataka"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "Auto-ažuriranje popisa svjedoka iz baze podataka"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr ""
+msgstr "Raspoloživo stanje"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -188,53 +188,53 @@ msgstr ""
 #: public/views/modals/destination-address.html:9
 #: public/views/modals/tx-details.html:5
 msgid "Back"
-msgstr ""
+msgstr "Natrag"
 
 #: public/views/walletHome.html:232
 msgid "Backup now"
-msgstr ""
+msgstr "Izradi sigurnosnu kopiju sada"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "Dijeljenje sigurnosne kopije novčanika"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr ""
+msgstr "Riječi sigurnosne kopije obrisane"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "Stanje po adresi"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "Prije primanja sredstava, preporučujemo da napravite sigurnosnu kopiju vaših ključeva za novčanik."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Još bolje, koristite multisig novčanike jednostavnije,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr ""
+msgstr "Pošaljite uplatu"
 
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
 msgid "Bind the payment to a condition"
-msgstr ""
+msgstr "Povežite plaćanje sa uvjetom"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr ""
+msgstr "Bitcoin URI nije valjan!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr ""
+msgstr "Robot trgovina"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Vi i {{correspondent.name}} ste omogućili snimanje povijesti lokalnog razgovora."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -466,210 +466,210 @@ msgstr ""
 
 #: public/views/walletHome.html:332
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Podaci u datafeed"
 
 #: public/views/modals/tx-details.html:85
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: src/js/controllers/index.js:256
 msgid "Declined"
-msgstr ""
+msgstr "Odbijeno"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr ""
+msgstr "Dekriptiranje novčanika će trajati oko 5 minuta na ovom uređaju. Molimo budite strpljivi i držite aplikaciju otvorenom."
 
 #: public/views/walletHome.html:179
 msgid "Definition"
-msgstr ""
+msgstr "Definicija"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
-msgstr ""
+msgstr "Definicija pametne adrese"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
-msgstr ""
+msgstr "Definicije adresa"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
-msgstr ""
+msgstr "Brisanje novčanika"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete wallet"
-msgstr ""
+msgstr "Obrišite novčanik"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
-msgstr ""
+msgstr "Strategija izvođenja"
 
 #: public/views/modals/customized-amount.html:29
 #: public/views/modals/multi-payment.html:17
 #: public/views/modals/tx-details.html:25
 msgid "Details"
-msgstr ""
+msgstr "Detalji"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Device address"
-msgstr ""
+msgstr "Adrese uređaja"
 
 #: public/views/preferencesDeviceName.html:12
 #: public/views/preferencesGlobal.html:17
 msgid "Device name"
-msgstr ""
+msgstr "Ime uređaja"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr ""
+msgstr "Ime uređaja je vidljivo drugim uređajima sa kojima komunicirate."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Ne klonirajte novčanike, prestanite koristiti glavni uređaj sa ovim dijeljenjem."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Ne koristite ga da klonirate novčanik."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr ""
+msgstr "Ne vidite vaš jezik na Crowdinu? Obratite se vlasniku na Crowdinu! Mi bi rado podržali vaš jezik."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr ""
+msgstr "Gotovo"
 
 #: public/views/walletHome.html:678
 msgid "Download CSV file"
-msgstr ""
+msgstr "Preuzmite CSV datoteku"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Preuzmite cijelu Byteball bazu podataka"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
-msgstr ""
+msgstr "Uredite"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr ""
+msgstr "Samo vi ili {{correspondent.name}} imaju onemogućenu povijest snimanja razgovora. Povijest nije spremljena niti za koga trenutno."
 
 #: public/views/preferencesEmail.html:33
 msgid "Email for wallet notifications"
-msgstr ""
+msgstr "E-mail za novčanik obavijesti"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr ""
+msgstr "Omogućiti automatske obavijesti"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr ""
+msgstr "Unesite kod za uparivanje od drugog uređaja ili koristite kameru (ikona u gornjem desnom kutu) za skenirajte QR koda prikazanog na drugom uređaju."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr ""
+msgstr "Unesite svoju lozinku"
 
 #: src/js/services/profileService.js:323
 #: src/js/services/profileService.js:374
 msgid "Error creating wallet"
-msgstr ""
+msgstr "Pogreška prilikom izrade računa"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "Izvoz"
 
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
 msgid "Export completed successfully"
-msgstr ""
+msgstr "Postupak je uspješno dovršen"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "Izvoženje..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr ""
+msgstr "Prošireni javni ključevi"
 
 #: public/views/export.html:25
 msgid "Failed to export"
-msgstr ""
+msgstr "Izvoz podataka nije uspio"
 
 #: public/views/modals/tx-details.html:92
 msgid "Fee"
-msgstr ""
+msgstr "Naknada"
 
 #: public/views/modals/tx-details.html:110
 msgid "Finality"
-msgstr ""
+msgstr "Konačnost"
 
 #: public/views/modals/tx-details.html:60
 msgid "From"
-msgstr ""
+msgstr "Od"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
-msgstr ""
+msgstr "Potpuna adresa:"
 
 #: public/views/preferencesGlobal.html:118
 msgid "Full backup"
-msgstr ""
+msgstr "Puna sigurnosna kopija"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
-msgstr ""
+msgstr "Sredstava pronađena"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr ""
+msgstr "Sredstva će se prenijeti"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
-msgstr ""
+msgstr "PRVI KORACI"
 
 #: src/js/controllers/walletHome.js:418
 msgid "Generate QR Code"
-msgstr ""
+msgstr "Generirajte QR kod"
 
 #: public/views/walletHome.html:288
 msgid "Generate new address"
-msgstr ""
+msgstr "Generirajte novu adresu"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
-msgstr ""
+msgstr "Generiranje .csv datoteke..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
-msgstr ""
+msgstr "Dobivanje adrese za novčanik {{selectedWalletName}}..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "Globalne postavke"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
-msgstr ""
+msgstr "Idi natrag"
 
 #: public/views/preferences.html:48
 msgid "Hardware wallet"
-msgstr ""
+msgstr "Hardver novčanik"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr ""
+msgstr "Sakrij dijeljene"
 
 #: src/js/controllers/index.js:618
 msgid "History"
-msgstr ""
+msgstr "Povijest"
 
 #: src/js/controllers/index.js:606
 msgid "Home"
-msgstr ""
+msgstr "Početna"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
@@ -887,209 +887,209 @@ msgstr ""
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr ""
+msgstr "Upari se"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr ""
+msgstr "Upareni uređaji"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Kod za uparivanje"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr ""
+msgstr "Privatni ključ novčanika"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr ""
+msgstr "Lozinka"
 
 #: src/js/services/profileService.js:654
 msgid "Password needed"
-msgstr ""
+msgstr "Potrebna je lozinka"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Lozinke se ne poklapaju"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr ""
+msgstr "Zalijepite svoj ključ novčanika ovdje"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr ""
+msgstr "Platite ili ponudite"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
-msgstr ""
+msgstr "Platite na ovu adresu"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr ""
+msgstr "Plaćanje prihvaćeno"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
-msgstr ""
+msgstr "Prijedlog plaćanja stvoren"
 
 #: public/views/walletHome.html:196
 msgid "Payment Proposals"
-msgstr ""
+msgstr "Prijedlog plaćanja"
 
 #: public/views/modals/tx-status.html:38
 msgid "Payment Rejected"
-msgstr ""
+msgstr "Plaćanje odbijeno"
 
 #: public/views/modals/tx-status.html:5
 msgid "Payment Sent"
-msgstr ""
+msgstr "Plaćanje poslano"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "Korisnik:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
-msgstr ""
+msgstr "Trajno izbrišite ovaj novčanik. OVA AKCIJA SE NE MOŽE PONIŠTITI"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
-msgstr ""
+msgstr "Običan novčanik"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr ""
+msgstr "Molimo odaberite koliko podataka želite pohraniti u novčanik"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
-msgstr ""
+msgstr "Molimo unesite sva obvezna polja"
 
 #: public/views/splash.html:82
 msgid "Please name this device"
-msgstr ""
+msgstr "Molimo imenujte ovaj uređaj"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr ""
+msgstr "Ulaz"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Objavite proizvoljne uparene ključeve u našu Byteball mrežu."
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Objavite vrijednosti u datafeeds manualno, budi korisnik."
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Objavite podatke vašeg profila, što god želite reći o sebi."
 
 #: public/views/walletHome.html:175
 #: public/views/walletHome.html:47
 msgid "Preferences"
-msgstr ""
+msgstr "Postavke"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "Pritisnite još jednom za izlaz"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "Privatna imovina (npr. blackbytes) se neće oporaviti."
 
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
 msgid "Private payloads sent"
-msgstr ""
+msgstr "Privatna količina poslana"
 
 #: public/views/walletHome.html:334
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
-msgstr ""
+msgstr "QR kod"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr ""
+msgstr "QR-Scanner"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Pitanje:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
-msgstr ""
+msgstr "Primanje"
 
 #: public/views/walletHome.html:617
 msgid "Received"
-msgstr ""
+msgstr "Primljeno"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:52
 msgid "Recipients"
-msgstr ""
+msgstr "Primatelji"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
-msgstr ""
+msgstr "Ponovno povezivanje s novčanik uslugom..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr ""
+msgstr "Oporavak"
 
 #: public/views/preferencesGlobal.html:109
 msgid "Recovery from seed"
-msgstr ""
+msgstr "Obnavljanje iz sigurnosne kopije"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr ""
+msgstr "Rekreacija novčanika..."
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
-msgstr ""
+msgstr "Odbijeno"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr ""
+msgstr "Informacije"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
-msgstr ""
+msgstr "Ukloni"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Uklanjanje uređaja"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
-msgstr ""
+msgstr "Preimenujte:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr ""
+msgstr "Ponovite lozinku"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "Ponovite lozinku"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "Zamijenite"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr ""
+msgstr "Zatražite lozinku"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:297
 msgid "Request a specific amount"
-msgstr ""
+msgstr "Zatražite određenu količinu"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
