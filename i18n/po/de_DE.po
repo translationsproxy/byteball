@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-06 05:02-0500\n"
+"PO-Revision-Date: 2018-03-06 05:22-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -217,7 +217,7 @@ msgstr "Besser noch, verwenden Sie Multisig Brieftaschen mit Redundanz,"
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr "Bedingte Zahlung"
+msgstr "Zahlungsbedingungen"
 
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
