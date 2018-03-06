@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Urdu (Pakistan)\n"
 "Language: ur_PK\n"
-"PO-Revision-Date: 2018-03-06 00:00-0500\n"
+"PO-Revision-Date: 2018-03-06 00:17-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -164,19 +164,19 @@ msgstr "کوئی بھی پروفل ڑاٹا جو بیٹبال ولیٹ کے سا
 
 #: public/views/walletHome.html:333
 msgid "Attestation"
-msgstr ""
+msgstr "توثیق"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "حب سے گواہ کی فہرست کو خود کار طریقے سے آپ ڈیٹ کریں۔"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "اس حب سے گواہ کی فہرست کو خود کار طریقے سے آپ ڈیٹ کریں۔"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr ""
+msgstr "دستیاب بیلنس"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -188,41 +188,41 @@ msgstr ""
 #: public/views/modals/destination-address.html:9
 #: public/views/modals/tx-details.html:5
 msgid "Back"
-msgstr ""
+msgstr "واپس"
 
 #: public/views/walletHome.html:232
 msgid "Backup now"
-msgstr ""
+msgstr "ابھی بیک آپ کریں۔"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "بیک اپ ویلٹ سیٹ"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr ""
+msgstr "بیک اپ الفاظ جو مٹ گئے ہیں۔"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "ایڈریس سے بیلنس"
 
 #: public/views/walletHome.html:226
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "فنڈز وصول کرنے سے پہلے، آپ کو اپنے والیٹ کی چابیاں ایپٹیٹ کرنے کا مشورہ دیا جاتا ہے."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "بہتر ابھی تک،  multisig بٹوے فالتوپن کے ساتھ استعمال کریں،\n"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr ""
+msgstr "پابند ادائیگی"
 
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:423
 msgid "Bind the payment to a condition"
-msgstr ""
+msgstr "ایک شرط پر ادائیگی باندھائیں"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
