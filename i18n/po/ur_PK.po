@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Urdu (Pakistan)\n"
 "Language: ur_PK\n"
-"PO-Revision-Date: 2018-03-06 00:30-0500\n"
+"PO-Revision-Date: 2018-03-06 17:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -238,20 +238,20 @@ msgstr "آپ اور  {{correspondent.name}}  مقامی چیٹ کی تاریخ �
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr ""
+msgstr "براؤزر غیر معاون"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "بیٹبال بال پتا۔"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr ""
+msgstr "منسوخ کریں۔"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr ""
+msgstr "جاری رکھیں۔"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:464
@@ -260,23 +260,23 @@ msgstr ""
 #: src/js/controllers/walletHome.js:122
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
-msgstr ""
+msgstr "منسوخ کریں۔"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr ""
+msgstr "حب تبدیل کریں:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr ""
+msgstr "والیٹ نام بدلنے میں صرف مقامی بٹوے کا نام متاثر ہوتا ہے."
 
 #: src/js/controllers/index.js:622
 msgid "Chat"
-msgstr ""
+msgstr "گفتگو کریں"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "فایل چنیں"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
