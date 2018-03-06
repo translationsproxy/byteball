@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-06 04:30-0500\n"
+"PO-Revision-Date: 2018-03-06 04:42-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1634,7 +1634,7 @@ msgstr "Ihr Passwort für den Export"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
-msgstr "Passwort"
+msgstr "Ihr Passwort"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
