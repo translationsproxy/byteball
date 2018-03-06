@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Urdu (Pakistan)\n"
 "Language: ur_PK\n"
-"PO-Revision-Date: 2018-03-05 23:30-0500\n"
+"PO-Revision-Date: 2018-03-05 23:50-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -106,19 +106,19 @@ msgstr "عرف کے لیے <i>{{index.walletName}}</i>"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr ""
+msgstr "تمام ایٹرس والٹ کا"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr ""
+msgstr "بیٹبال کے ترجمہ میں تمام شراکت داروں کا استقبال ہے۔ crowdin.com پر سایناین کریں اور بیٹویلٹ پر منصوبوں میں شمولیت اختیار کریں۔"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
-msgstr ""
+msgstr "پہلے سے ہی ادائیگی کی ہے۔"
 
 #: public/views/walletHome.html:150
 msgid "Also"
-msgstr ""
+msgstr "اس کے علاوہ"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
