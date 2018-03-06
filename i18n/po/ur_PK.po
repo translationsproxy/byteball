@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Urdu (Pakistan)\n"
 "Language: ur_PK\n"
-"PO-Revision-Date: 2018-03-06 17:50-0500\n"
+"PO-Revision-Date: 2018-03-06 18:00-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -375,31 +375,31 @@ msgstr "رابطے"
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:389
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "کلپ بورڈ پر نقل کیا گیا۔"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr ""
+msgstr "رپورٹرز بحال نہیں ہوئے ہے۔"
 
 #: src/js/controllers/walletHome.js:668
 msgid "Could not create payment proposal"
-msgstr ""
+msgstr "ادائیگی کی تجویز نہیں بن سکی\n"
 
 #: src/js/services/profileService.js:265
 msgid "Could not create using the specified extended private key"
-msgstr ""
+msgstr "مخصوص توسیع نجی چابی کا استعمال کرتے ہوئے تخلیق نہیں کیا جا سکا۔\n"
 
 #: src/js/services/profileService.js:275
 msgid "Could not create using the specified extended public key"
-msgstr ""
+msgstr "مخصوص توسیع نجی چابی کو استعمال کرتے ہوئے تخلیق نہیں کیا جا سکا"
 
 #: src/js/services/profileService.js:258
 msgid "Could not create: Invalid wallet seed"
-msgstr ""
+msgstr "پیدا نہیں کیا جا سکا: غلط والیٹ سیٹ"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr ""
+msgstr "بےرمز (decrypt) نہیں کر سکے"
 
 #: public/views/walletHome.html:583
 msgid "Could not fetch transaction history"
