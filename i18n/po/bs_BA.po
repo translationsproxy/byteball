@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Bosnian\n"
 "Language: bs_BA\n"
-"PO-Revision-Date: 2018-03-06 15:01-0500\n"
+"PO-Revision-Date: 2018-03-06 15:15-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -673,130 +673,131 @@ msgstr "Početna"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr ""
+msgstr "Server"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr ""
+msgstr "Čvor"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr ""
+msgstr "URL Čvora"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
-msgstr ""
+msgstr "Potvrđujem da sam pročitao, razumio, i da se slažem s ovim uvjetima."
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "Plaćam"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Primam drugo plaćanje od"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "Ako uvjet nije prepoznat, mogu vratiti ovaj novac natrag"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Ukoliko korisnik ne plati, mogu vratiti svoj novac natrag"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Ako premjestite ovu sigurnosnu kopiju s drugog uređaja, prestanite ju koristiti na izvornom  uređaju odmah nakon stvaranja sigurnosne kopije.  Nikada ne klonirajte novčanike. Ukoliko trebate pristup sa nekoliko uređaja, koristite multisig."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Ako planirate povratiti novčanik na drugi uređaj, prestanite ju koristiti na izvornom  uređaju odmah nakon stvaranja sigurnosne kopije.  Nikada ne klonirajte novčanike. Ukoliko trebate pristup sa nekoliko uređaja, koristite multisig."
 
 #: public/views/import.html:40
 msgid "Import"
-msgstr ""
+msgstr "Uvezi"
 
 #: public/views/add.html:22
 msgid "Import wallet"
-msgstr ""
+msgstr "Uvoz novčanika"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr ""
+msgstr "Uvozimo novčanik..."
 
 #: public/views/walletHome.html:133
 msgid "Including pending confirmation"
-msgstr ""
+msgstr "Uključujuje čekanje potvrde"
 
 #: public/views/walletHome.html:602
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr ""
+msgstr "Povijest sinkronizacije prve transakcije može potrajati nekoliko minuta za novčanike s mnogo transakcija.<br>\n"
+"          Molimo vas, pričekajte."
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "Ubaci moju adresu"
 
 #: public/views/walletHome.html:621
 msgid "Invalid"
-msgstr ""
+msgstr "Nevažeće"
 
 #: src/js/controllers/index.js:1533
 msgid "Invalid Touch ID"
-msgstr ""
+msgstr "Nevažeći ID dodir"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr ""
+msgstr "Pozvati drugi uređaj"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Samo dijeljenje nije dovoljno.  Samo sa dijeljenjem, nećete moći vratiti multisig novčanike i privatnu imovinu kao što su blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Držati samo podatke relevantne vama"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
-msgstr ""
+msgstr "Natpis"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
-msgstr ""
+msgstr "Jezik"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr ""
+msgstr "Kasnije"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr ""
+msgstr "Učitavanje..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr ""
+msgstr "Izvršiti uplatu za"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr ""
+msgstr "Možda kasnije"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:116
 #: public/views/preferencesInformation.html:76
 msgid "Me"
-msgstr ""
+msgstr "Ja"
 
 #: public/views/modals/tx-details.html:104
 msgid "Merchant message"
-msgstr ""
+msgstr "Poruka trgovca"
 
 #: public/views/walletHome.html:430
 msgid "Merkle proof"
-msgstr ""
+msgstr "Merkle dokaz"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
-msgstr ""
+msgstr "Poruka"
 
 #: public/views/walletHome.html:620
 msgid "Moved"
@@ -1310,7 +1311,7 @@ msgstr "Sinkronizacija... {{index.count_unhandled_private_payments}} privatnog p
 
 #: public/views/walletHome.html:82
 msgid "Syncing... {{index.syncProgress}}"
-msgstr ""
+msgstr "Sinkronizacija... {{index.syncProgress}}"
 
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
@@ -1525,65 +1526,65 @@ msgstr ""
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
-msgstr ""
+msgstr "Čekivanje na ostale korisnike"
 
 #: public/views/copayers.html:33
 msgid "Waiting..."
-msgstr ""
+msgstr "Čekanje..."
 
 #: public/views/preferencesDeleteWallet.html:12
 msgid "Wallet"
-msgstr ""
+msgstr "Novčanik"
 
 #: public/views/preferences.html:20
 msgid "Wallet Alias"
-msgstr ""
+msgstr "Novčanik korisnici"
 
 #: public/views/preferencesInformation.html:27
 msgid "Wallet Configuration (m-n)"
-msgstr ""
+msgstr "Konfiguracija novčanika (m-n)"
 
 #: public/views/preferencesInformation.html:20
 msgid "Wallet Id"
-msgstr ""
+msgstr "ID novčanika"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
 msgid "Wallet Information"
-msgstr ""
+msgstr "Informacije novčanika"
 
 #: public/views/preferencesInformation.html:12
 msgid "Wallet Name (at creation)"
-msgstr ""
+msgstr "Ime novčanika (sa početka)"
 
 #: src/js/services/profileService.js:436
 msgid "Wallet already in Byteball:"
-msgstr ""
+msgstr "Novčanik je već u Byteball:"
 
 #: public/views/create.html:48
 msgid "Wallet name"
-msgstr ""
+msgstr "Ime novčanika"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
-msgstr ""
+msgstr "Dijeljenje nije moguće."
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Wallets"
-msgstr ""
+msgstr "Novčanici"
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
-msgstr ""
+msgstr "Upozorenje!"
 
 #: public/views/modals/tx-details.html:123
 msgid "Was claimed?"
-msgstr ""
+msgstr "Je bilo potvrđeno?"
 
 #: public/views/walletHome.html:328
 msgid "What to send"
-msgstr ""
+msgstr "Što treba poslati"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
@@ -1591,149 +1592,149 @@ msgstr ""
 #: public/views/walletHome.html:456
 #: public/views/walletHome.html:539
 msgid "Who signs:"
-msgstr ""
+msgstr "Tko potpisuje:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
-msgstr ""
+msgstr "Adresa korisnika"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Witnesses"
-msgstr ""
+msgstr "Korisnici"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
-msgstr ""
+msgstr "Zapišite ga i držite ga negdje na sigurno."
 
 #: src/js/services/profileService.js:664
 msgid "Wrong password"
-msgstr ""
+msgstr "Pogrešna lozinka"
 
 #: public/views/authConfirmation.html:17
 #: public/views/modals/confirmation.html:6
 #: src/js/controllers/index.js:457
 msgid "Yes"
-msgstr ""
+msgstr "Da"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "Ne možete vezati vaše transakcije za obratno plaćanje jer ste u jedno-adresnom novčaniku. Koristite višestruku adresu novčanika i zatim prenesite novac u ovaj novčanik."
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
-msgstr ""
+msgstr "Nemate novčanik"
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr ""
+msgstr "Vaše dijeljenje:"
 
 #: public/views/export.html:33
 msgid "Your export password"
-msgstr ""
+msgstr "Vaša izvozna lozinka"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
-msgstr ""
+msgstr "Vaša lozinka"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr ""
+msgstr "Vaš a datoteka novčanika:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr ""
+msgstr "Vaš novčanik će biti enkriptovan. Lozinka ne može biti oporavljena. Budite sigurni da ju zapišete"
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "Novčanik će se stvoriti na ovom uređaju, držite ga sigurno.  Pogledajte sigurnosne opcije u izborniku postavke."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[ Dodaj novi suvlasnik-uređaj ]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
 msgid "amount"
-msgstr ""
+msgstr "količina"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "događaj je objavljen od strane korisnika"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr ""
+msgstr "može otključati ugovor"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "može otključati ugovor nakon što istekne u"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "prekinute stvaranje novčanika"
 
 #: public/views/modals/tx-details.html:131
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "primljeno od {{btx.claimedByMe?'mene':'primaoc'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
-msgstr ""
+msgstr "očisti povijest razgovora"
 
 #: public/views/modals/share.html:23
 msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr ""
+msgstr "kopirajte tekst ispod i pošaljite ga primatelju putem aplikacije za dopisivanje ili ga isprintajte na papir"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "stvoreno"
 
 #: public/views/modals/offer-contract.html:108
 msgid "days"
-msgstr ""
+msgstr "dani"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "npr. 1 od 2 novčanika sa jednim ključem na ovom uređaju i drugim ključem na vašem laptopu."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "npr. 1 od 2 novčanika sa jednim ključem na ovom uređaju i drugim ključem na vašem mobilnom uređaju."
 
 #: public/views/modals/bind.html:72
 msgid "either way"
-msgstr ""
+msgstr "bilo kako"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
-msgstr ""
+msgstr "isključivo"
 
 #: public/views/modals/bind.html:79
 #: public/views/modals/offer-contract.html:69
 msgid "hours"
-msgstr ""
+msgstr "sati"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
-msgstr ""
+msgstr "ukoliko je događaj objavljen od strane korisnika"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
-msgstr ""
+msgstr "u merkle stablu"
 
 #: public/views/walletHome.html:153
 msgid "in smart wallets"
-msgstr ""
+msgstr "u pametnom novčaniku"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
-msgstr ""
+msgstr "zaključano na čekanju plaćanja"
 
 #: public/views/modals/tx-details.html:125
 msgid "not claimed"
-msgstr ""
+msgstr "nije potvrđeno"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
