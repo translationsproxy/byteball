@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-06 04:23-0500\n"
+"PO-Revision-Date: 2018-03-06 04:30-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1492,7 +1492,7 @@ msgstr "Aktualisieren Sie auf Version {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr "Update die Datenbank, bitte warten. Manchmal dauert es mehrere Minuten."
+msgstr "Aktualisiere die Datenbank, bitte warten. Manchmal dauert es mehrere Minuten."
 
 #: public/views/walletHome.html:522
 msgid "Values"
