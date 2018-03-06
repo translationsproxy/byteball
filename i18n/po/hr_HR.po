@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2018-03-02 14:40-0500\n"
+"PO-Revision-Date: 2018-03-06 15:15-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -735,7 +735,7 @@ msgstr "Povijest sinkronizacije prve transakcije može potrajati nekoliko minuta
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr "Ubaci moju adresi"
+msgstr "Ubaci moju adresu"
 
 #: public/views/walletHome.html:621
 msgid "Invalid"
