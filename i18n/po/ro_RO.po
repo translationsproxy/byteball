@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-06 15:15-0500\n"
+"PO-Revision-Date: 2018-03-06 15:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1400,7 +1400,7 @@ msgstr "Acest portofel nu poate fi convertit la un portofel cu adresă unică de
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
-msgstr "Aceasta va şterge definitiv toate portofele existente ale dumneavoastră!"
+msgstr "Aceasta va şterge definitiv toate portofele dumneavoastră existente!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
