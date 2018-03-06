@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-06 14:01-0500\n"
+"PO-Revision-Date: 2018-03-06 14:31-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1224,7 +1224,7 @@ msgstr "Setaţi o parolă"
 
 #: public/views/preferencesEmail.html:38
 msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr "În cazul în care furnizorul portofelui este compromis, configurarea notificărilor prin email ar putea slăbi confidențialitatea dumneavoastră. Informaţiile pentru un atacator ar include adresele de portofel şi valoarea, dar nu mai mult."
+msgstr "În cazul în care furnizorul portofelui este compromis, configurarea notificărilor prin email ar putea slăbi confidențialitatea dumneavoastră. Informaţiile disponibile pentru un atacator ar include adresele portofelului şi valoarea, dar nu mai mult."
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
@@ -1237,11 +1237,11 @@ msgstr "Distribuie"
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
 msgid "Share address"
-msgstr "Partajează adresa"
+msgstr "Distribuie adresa"
 
 #: public/views/walletHome.html:280
 msgid "Share this wallet address to receive payments."
-msgstr "Partajaţi acestă adresă a portofelului pentru a primi plăţi."
+msgstr "Pentru a primi plăţi, distribuiți acestă adresă a portofelului."
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
