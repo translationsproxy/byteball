@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-06 04:03-0500\n"
+"PO-Revision-Date: 2018-03-06 04:11-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1423,15 +1423,15 @@ msgstr "Um die Zahlung an eine Bedingung zu knüpfen, klicken Sie auf die Teilne
 
 #: public/views/walletHome.html:390
 msgid "To byteball address"
-msgstr "Zu Byteball Addresse"
+msgstr "An Byteball Addresse"
 
 #: public/views/walletHome.html:382
 msgid "To byteball address or email"
-msgstr "Zu Byteball Addresse oder Email"
+msgstr "An Byteball Addresse oder Email"
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr "Zu Email"
+msgstr "An Email"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
