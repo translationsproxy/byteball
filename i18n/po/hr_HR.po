@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2018-03-06 15:15-0500\n"
+"PO-Revision-Date: 2018-03-06 15:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -833,7 +833,7 @@ msgstr "Nova verzija je dostupna!"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
-msgstr "Novi korisnici"
+msgstr "Novi svjedoci"
 
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:458
@@ -1596,11 +1596,11 @@ msgstr "Tko potpisuje:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
-msgstr "Adresa korisnika"
+msgstr "Adresa svjedoka"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Witnesses"
-msgstr "Korisnici"
+msgstr "Svjedoci"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
