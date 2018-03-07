@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-03-03 18:30-0500\n"
+"PO-Revision-Date: 2018-03-07 17:20-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -296,11 +296,11 @@ msgstr "Διεκδικήστε κεφάλαια χρησιμοποιώντας t
 
 #: public/views/modals/share.html:18
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr "Κάντε κλικ στο κουμπί για την <span ng-if=\"isResend\"> εκ νέου</span> αποστολή email"
+msgstr "Κάντε κλικ στο κουμπί για να <span ng-if=\"isResend\"> ξανα</span> στείλετε email"
 
 #: public/views/walletHome.html:477
 msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr "Κάντε κλικ σε αυτό το κουμπί για να δημιουργήσετε πληρωμή και να τη μοιραστείτε μέσω ιδιωτικού μηνύματος στις εφαρμογές chat"
+msgstr "Κάντε κλικ σε αυτό το κουμπί για να δημιουργήσετε πληρωμή και να τη κοινοποιήσετε μέσω ιδιωτικού μηνύματος στις εφαρμογές chat"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -338,7 +338,7 @@ msgstr "Χρώμα"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr "Δέσμευση λύσης"
+msgstr "Δέσμευση hash"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
