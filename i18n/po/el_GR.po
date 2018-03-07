@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-03-07 17:30-0500\n"
+"PO-Revision-Date: 2018-03-07 17:40-0500\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -442,7 +442,7 @@ msgstr "Δημιουργία νέου πορτοφολιού μαζί με ;"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr "Δημιουργία {{requiredCosigners}}- του-{{totalCosigners}} πορτοφολιού"
+msgstr "Δημιουργία {{requiredCosigners}}- από-{{totalCosigners}} πορτοφολιού"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -450,7 +450,7 @@ msgstr "Δημιουργήθηκε:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr "Δημιουργία του Προφίλ..."
+msgstr "Δημιουργία Προφίλ..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
@@ -478,7 +478,7 @@ msgstr "Απορρίφθηκε"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr "Η αποκρυπτογράφηση ενός χάρτινου πορτοφολιού μπορεί να πάρει περίπου 5 λεπτά σε αυτή την συσκευή. Κάντε υπομονή και κρατήστε την εφαρμογή ανοικτή."
+msgstr "Η αποκρυπτογράφηση ενός χάρτινου πορτοφολιού μπορεί να πάρει περίπου 5 λεπτά σε αυτή την συσκευή. Παρακαλώ κάντε υπομονή και κρατήστε την εφαρμογή ανοικτή."
 
 #: public/views/walletHome.html:179
 msgid "Definition"
@@ -559,7 +559,7 @@ msgstr "Είτε εσείς, είτε ο {{correspondent.name}} έχετε απ�
 
 #: public/views/preferencesEmail.html:33
 msgid "Email for wallet notifications"
-msgstr "Το ηλεκτρονικό σας ταχυδρομείο για τις ειδοποιήσεις του πορτοφόλιού σας"
+msgstr "Email για τις ειδοποιήσεις του πορτοφολιού σας"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -571,12 +571,12 @@ msgstr "Εισάγετε τον κωδικό ζεύξης που λάβατε α
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr "Παρακαλώ εισάγετε τον κωδικό σας"
+msgstr "Εισάγετε τον κωδικό σας"
 
 #: src/js/services/profileService.js:323
 #: src/js/services/profileService.js:374
 msgid "Error creating wallet"
-msgstr "Σφάλμα στην δημιουργία πορτοφολιού"
+msgstr "Σφάλμα κατά τη δημιουργία του πορτοφολιού"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -601,7 +601,7 @@ msgstr "Αποτυχία εξαγωγής"
 
 #: public/views/modals/tx-details.html:92
 msgid "Fee"
-msgstr "Αμοιβή"
+msgstr "Προμήθεια"
 
 #: public/views/modals/tx-details.html:110
 msgid "Finality"
