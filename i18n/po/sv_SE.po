@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2018-02-14 03:50-0500\n"
+"PO-Revision-Date: 2018-03-14 23:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -462,7 +462,7 @@ msgstr "TA BORT ORD"
 
 #: public/views/walletHome.html:335
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: public/views/walletHome.html:332
 msgid "Data into datafeed"
@@ -759,7 +759,7 @@ msgstr ""
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
-msgstr ""
+msgstr "Etikett"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
@@ -973,7 +973,7 @@ msgstr "Vänligen namnge denna enhet"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
@@ -1693,7 +1693,7 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:108
 msgid "days"
-msgstr ""
+msgstr "dagar"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
@@ -1800,7 +1800,7 @@ msgstr ""
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "med"
 
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
