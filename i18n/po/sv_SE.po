@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2018-03-14 23:00-0400\n"
+"PO-Revision-Date: 2018-03-14 23:10-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -67,7 +67,7 @@ msgstr "Lägg till ny post"
 
 #: public/views/walletHome.html:532
 msgid "Add fields"
-msgstr ""
+msgstr "Lägg till fält"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -75,7 +75,7 @@ msgstr "Lägg till plånbok"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "Tillagd"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
@@ -139,7 +139,7 @@ msgstr "Antal"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "Svar:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
@@ -272,11 +272,11 @@ msgstr "Byte av plånbokens alias påverkar endast lokala namnet"
 
 #: src/js/controllers/index.js:622
 msgid "Chat"
-msgstr ""
+msgstr "Chatt"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "Välj fil"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -370,7 +370,7 @@ msgstr "Bekräftat"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakter"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:389
@@ -482,7 +482,7 @@ msgstr "Dekryptering av pappers-plånbok kan ta ca 5 minuter, ha tålamod och h�
 
 #: public/views/walletHome.html:179
 msgid "Definition"
-msgstr ""
+msgstr "Definition"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -580,7 +580,7 @@ msgstr "Fel vid skapande av plånbok"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "Exportera"
 
 #: src/js/controllers/export.js:135
 #: src/js/controllers/export.js:160
@@ -589,7 +589,7 @@ msgstr "Export slutfört"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "Exporterar..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
@@ -689,7 +689,7 @@ msgstr "Jag intygar att jag har läst, förstått och håller med om dessa villk
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "Jag betalar"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
@@ -868,7 +868,7 @@ msgstr "Observera"
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
 msgid "Offer a contract"
-msgstr ""
+msgstr "Erbjud ett kontrakt"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
@@ -880,7 +880,7 @@ msgstr "Endast en-signatures plånböcker kan återställas."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Öppna chatt"
 
 #: public/views/modals/share.html:23
 msgid "Or"
@@ -1007,7 +1007,7 @@ msgstr "Privata tillgångar skickade."
 
 #: public/views/walletHome.html:334
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1019,7 +1019,7 @@ msgstr ""
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Fråga:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
@@ -1064,7 +1064,7 @@ msgstr "Ta bort"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Ta bort en enhet"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
@@ -1085,7 +1085,7 @@ msgstr "Ersätt"
 
 #: public/views/preferencesGlobal.html:86
 msgid "Request Password"
-msgstr ""
+msgstr "Begär lösenord"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:297
@@ -1106,7 +1106,7 @@ msgstr "Återställ från full backup"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr ""
+msgstr "Försöker igen..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1129,7 +1129,7 @@ msgstr "Sparar inställningar..."
 
 #: public/views/preferences.html:66
 msgid "Scan Fingerprint"
-msgstr ""
+msgstr "Skanna fingeravtryck"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
@@ -1204,7 +1204,7 @@ msgstr "Skickar tillgångar..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
-msgstr ""
+msgstr "Skickar..."
 
 #: public/views/walletHome.html:619
 msgid "Sent"
@@ -1212,7 +1212,7 @@ msgstr "Skickat"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr ""
+msgstr "Sessionslogg"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
@@ -1232,7 +1232,7 @@ msgstr "Inställningar"
 
 #: public/views/modals/share.html:8
 msgid "Share"
-msgstr ""
+msgstr "Dela"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:275
@@ -1245,7 +1245,7 @@ msgstr ""
 
 #: public/views/walletHome.html:478
 msgid "Share via message"
-msgstr ""
+msgstr "Dela via meddelande"
 
 #: public/views/walletHome.html:670
 msgid "Show all"
@@ -1295,7 +1295,7 @@ msgstr "Fortfarande inte klart"
 #: src/js/controllers/walletHome.js:1547
 #: src/js/controllers/walletHome.js:1621
 msgid "Success"
-msgstr ""
+msgstr "Klart"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
@@ -1321,7 +1321,7 @@ msgstr ""
 #: public/views/walletHome.html:121
 #: public/views/walletHome.html:584
 msgid "Tap to retry"
-msgstr ""
+msgstr "Tryck för att försöka igen"
 
 #: public/views/disclaimer.html:12
 #: public/views/preferencesAbout.html:30
@@ -1330,11 +1330,11 @@ msgstr "Villkor"
 
 #: public/views/correspondentDevice.html:341
 msgid "Text message to"
-msgstr ""
+msgstr "Textmeddelande till"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1432,7 +1432,7 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:44
 msgid "To email"
-msgstr ""
+msgstr "Till e-post"
 
 #: public/views/walletHome.html:281
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1460,7 +1460,7 @@ msgstr ""
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
-msgstr ""
+msgstr "Översättare"
 
 #: src/js/controllers/walletHome.js:774
 msgid "Unable to send transaction proposal"
@@ -1497,15 +1497,15 @@ msgstr ""
 
 #: public/views/walletHome.html:522
 msgid "Values"
-msgstr ""
+msgstr "Värden"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "VARNING:"
 
 #: public/views/walletHome.html:222
 msgid "WARNING: Backup needed"
@@ -1518,7 +1518,7 @@ msgstr "VARNING: Denna ordfrö skapades med lösenordsfras. För att återställ
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
 msgid "WARNINGS:"
-msgstr ""
+msgstr "VARNINGAR:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO BYTEBALL"
@@ -1530,7 +1530,7 @@ msgstr ""
 
 #: public/views/copayers.html:33
 msgid "Waiting..."
-msgstr ""
+msgstr "Väntar..."
 
 #: public/views/preferencesDeleteWallet.html:12
 msgid "Wallet"
@@ -1572,7 +1572,7 @@ msgstr ""
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Wallets"
-msgstr ""
+msgstr "Plånböcker"
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
@@ -1635,7 +1635,7 @@ msgstr ""
 
 #: public/views/includes/password.html:18
 msgid "Your password"
-msgstr ""
+msgstr "Ditt lösenord"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
@@ -1714,7 +1714,7 @@ msgstr ""
 #: public/views/modals/bind.html:79
 #: public/views/modals/offer-contract.html:69
 msgid "hours"
-msgstr ""
+msgstr "timmar"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
@@ -1772,7 +1772,7 @@ msgstr ""
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
-msgstr ""
+msgstr "skicka e-post"
 
 #: src/js/controllers/walletHome.js:1122
 #: src/js/controllers/walletHome.js:1153
@@ -1783,11 +1783,11 @@ msgstr ""
 #: src/js/controllers/walletHome.js:942
 #: src/js/controllers/walletHome.js:981
 msgid "sending"
-msgstr ""
+msgstr "skickar"
 
 #: public/views/modals/tx-details.html:139
 msgid "share again"
-msgstr ""
+msgstr "dela igen"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
