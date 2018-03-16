@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-16 11:52-0400\n"
+"PO-Revision-Date: 2018-03-16 12:04-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1812,7 +1812,7 @@ msgstr "cu valuare așteptată de"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
-msgstr "{{address}}} pote fi consumantă dacă:"
+msgstr "{{address}}} pote fi cheltuită dacă:"
 
 #: public/views/modals/claim-textcoin.html:36
 #: public/views/modals/customized-amount.html:76
@@ -1825,11 +1825,11 @@ msgstr "{cancel_label || 'Cancel'}"
 
 #: src/js/controllers/walletHome.js:1662
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr "{{fee}} vor fi deduse pentru bitcoin taxe de reţea"
+msgstr "{{fee}} vor fi deduse pentru taxele rețelei bitcoin"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr "{{hrd.destinationAddress}} poate fi consumată dacă:"
+msgstr "{{hrd.destinationAddress}} poate fi cheltuită dacă:"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
