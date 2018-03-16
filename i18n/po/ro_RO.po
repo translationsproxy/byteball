@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-16 11:40-0400\n"
+"PO-Revision-Date: 2018-03-16 11:52-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1739,7 +1739,7 @@ msgstr "nu a fost revendicat"
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr "noutații nume"
+msgstr "pe numele fluxului"
 
 #: public/views/walletHome.html:431
 #: public/views/walletHome.html:442
@@ -1768,7 +1768,7 @@ msgstr "re-trimite plățile private"
 
 #: public/views/modals/tx-details.html:145
 msgid "re-send private payloads to cosigners"
-msgstr "re-trimite plăâile private pentru co-semnatari"
+msgstr "re-trimite plățile private co-semnatarilor"
 
 #: src/js/controllers/walletHome.js:714
 msgid "send email"
