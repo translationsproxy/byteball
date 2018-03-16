@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-03-06 15:20-0500\n"
+"PO-Revision-Date: 2018-03-16 10:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1697,7 +1697,7 @@ msgstr "zile"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr "ex. unul din două portofele cu o cheie pe acest aparat şi o altă cheie pe laptop."
+msgstr "ex. unul din două portofele cu o cheie pe acest aparat şi o altă cheie pe laptopul dumneavoastră."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
