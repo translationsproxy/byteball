@@ -11,13 +11,25 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2018-02-28 08:42-0500\n"
+"PO-Revision-Date: 2018-03-19 15:52-0400\n"
+
+#: public/views/modals/share.html:43
+msgid "'Receive' tab → 'Claim funds using textcoin' button."
+msgstr ""
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
 msgstr "(Na síti nebude vidět zůstatek a žádné peníze nebudou utraceny)"
 
-#: public/views/walletHome.html:628
+#: public/views/modals/choose-profile.html:44
+msgid "(current wallet)"
+msgstr ""
+
+#: public/views/modals/choose-profile.html:47
+msgid "(my another wallet)"
+msgstr ""
+
+#: public/views/walletHome.html:667
 msgid "(possible double spend)"
 msgstr "(pravděpodobně dvojitá platba)"
 
@@ -29,13 +41,13 @@ msgstr "-- Vyber si připodepisujícho --"
 msgid "12 words separated by dashes"
 msgstr "12 slov oddělených pomlčkami"
 
-#: public/views/preferencesGlobal.html:135
+#: public/views/preferencesGlobal.html:140
 msgid "About Byteball"
 msgstr "O Byteballu"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
-#: src/js/controllers/walletHome.js:121
+#: src/js/controllers/walletHome.js:123
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
 msgstr "Přijmout"
@@ -65,7 +77,7 @@ msgstr "Přidat nové zařízení"
 msgid "Add a new entry"
 msgstr "Přidat nový záznam"
 
-#: public/views/walletHome.html:532
+#: public/views/walletHome.html:572
 msgid "Add fields"
 msgstr "Přidat pole"
 
@@ -83,7 +95,7 @@ msgstr "Přidáno"
 msgid "Address"
 msgstr "Adresa"
 
-#: public/views/walletHome.html:507
+#: public/views/walletHome.html:547
 msgid "Address to attest"
 msgstr "Adresa pro potvrzení"
 
@@ -92,9 +104,13 @@ msgstr "Adresa pro potvrzení"
 msgid "Addressbook"
 msgstr "Adresář"
 
-#: public/views/preferences.html:56
+#: public/views/preferences.html:59
 msgid "Advanced"
 msgstr "Pokročilé"
+
+#: public/views/modals/share.html:43
+msgid "After writing it down, find this transaction in"
+msgstr ""
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -116,7 +132,11 @@ msgstr "Všechny příspevky k překladu na Byteball jsou vítání. Přihlašte
 msgid "Already Paid"
 msgstr "Již zaplaceno"
 
-#: public/views/walletHome.html:150
+#: src/js/controllers/correspondentDevice.js:1129
+msgid "Already saved"
+msgstr ""
+
+#: public/views/walletHome.html:164
 msgid "Also"
 msgstr "Také"
 
@@ -133,7 +153,7 @@ msgstr "Nezapomeňte také odstranit seed"
 #: public/views/modals/customized-amount.html:59
 #: public/views/modals/customized-amount.html:62
 #: public/views/paymentUri.html:16
-#: public/views/walletHome.html:367
+#: public/views/walletHome.html:381
 msgid "Amount"
 msgstr "Množství"
 
@@ -158,13 +178,23 @@ msgstr "Opravdu si přejete odstranit tuto peněženku?"
 msgid "Asset"
 msgstr "Majetek"
 
-#: public/views/walletHome.html:496
+#: public/views/walletHome.html:536
 msgid "Attest profile data linked to any Byteball address."
 msgstr "Potvďte profilová data propojená s jakoukoliv adresou Byteball."
 
-#: public/views/walletHome.html:333
+#: public/views/walletHome.html:347
 msgid "Attestation"
 msgstr "Potvrzení"
+
+#: public/views/modals/accept-profile.html:28
+#: public/views/modals/choose-profile.html:41
+msgid "Attested address:"
+msgstr ""
+
+#: public/views/modals/accept-profile.html:24
+#: public/views/modals/choose-profile.html:37
+msgid "Attested by:"
+msgstr ""
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -190,11 +220,11 @@ msgstr "Dostupný zůstatek"
 msgid "Back"
 msgstr "Zpět"
 
-#: public/views/walletHome.html:232
+#: public/views/walletHome.html:246
 msgid "Backup now"
 msgstr "Vytvořit zálohu"
 
-#: public/views/preferencesGlobal.html:100
+#: public/views/preferencesGlobal.html:105
 msgid "Backup wallet seed"
 msgstr "Zálohování seed peněženky"
 
@@ -202,11 +232,19 @@ msgstr "Zálohování seed peněženky"
 msgid "Backup words deleted"
 msgstr "Zálohovaná slova vymazána"
 
+#: public/views/preferencesGlobal.html:95
+msgid "Backups"
+msgstr ""
+
+#: src/js/controllers/correspondentDevice.js:1114
+msgid "Bad profile"
+msgstr ""
+
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
 msgstr "Bilance podle adresy"
 
-#: public/views/walletHome.html:226
+#: public/views/walletHome.html:240
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
 msgstr "Před přijetím prostředků, velmi doporučujeme zálohovat peněženka klíče vaší peněženky."
 
@@ -219,8 +257,8 @@ msgstr "Raději použijte multisig peněženku s redundancí,"
 msgid "Bind payment"
 msgstr "Vázaná platba"
 
-#: public/views/walletHome.html:416
-#: public/views/walletHome.html:423
+#: public/views/walletHome.html:442
+#: public/views/walletHome.html:455
 msgid "Bind the payment to a condition"
 msgstr "Vázaná platba s podmínkou"
 
@@ -254,10 +292,10 @@ msgid "CONTINUE"
 msgstr "POKRAČOVAT"
 
 #: public/views/modals/destination-address.html:127
-#: public/views/walletHome.html:464
+#: public/views/walletHome.html:496
 #: src/js/controllers/copayers.js:9
 #: src/js/controllers/preferencesDelete.js:10
-#: src/js/controllers/walletHome.js:122
+#: src/js/controllers/walletHome.js:124
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
 msgstr "Zrušit"
@@ -270,7 +308,7 @@ msgstr "Změnit hub:"
 msgid "Changing wallet alias only affects the local wallet name."
 msgstr "Změna alias ovlivní pouze název místní peněženky."
 
-#: src/js/controllers/index.js:622
+#: src/js/controllers/index.js:683
 msgid "Chat"
 msgstr "Chat"
 
@@ -278,11 +316,19 @@ msgstr "Chat"
 msgid "Choose File"
 msgstr "Vybrat soubor"
 
+#: public/views/modals/choose-profile.html:8
+msgid "Choose private profile"
+msgstr ""
+
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
 msgstr "Vyberte zařízení k odeslání do"
 
-#: src/js/controllers/walletHome.js:488
+#: public/views/modals/choose-profile.html:51
+msgid "Choose which fields to send:"
+msgstr ""
+
+#: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
 msgstr "Vybrat prostředky"
 
@@ -290,24 +336,27 @@ msgstr "Vybrat prostředky"
 msgid "Claim funds by textcoin"
 msgstr "Vybrat prostředky pomocí textcoinu"
 
-#: public/views/walletHome.html:302
+#: public/views/walletHome.html:316
 msgid "Claim funds using textcoin"
 msgstr "Vybrat prostředky pomocí textcoinu"
 
-#: public/views/modals/share.html:18
-msgid "Click the button to <span ng-if=\"isResend\">re</span>send email"
-msgstr "Klikněte na tlačítko <span ng-if=\"isResend\"> znovu</span> odeslat e-mail"
+#: public/views/modals/share.html:30
+msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
+msgstr ""
 
-#: public/views/walletHome.html:477
-msgid "Click this button to create payment and share it via private message in chat apps"
-msgstr "Kliknutím na toto tlačítko vytvoříte platbu a sdílíte ji přes soukromou zprávu v chatu aplikace"
+#: public/views/walletHome.html:517
+msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
+msgstr ""
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
+#: public/views/modals/accept-profile.html:4
 #: public/views/modals/address-definition.html:30
 #: public/views/modals/address-definition.html:4
 #: public/views/modals/approveNewWitnesses.html:4
 #: public/views/modals/bind.html:4
+#: public/views/modals/choose-profile.html:4
+#: public/views/modals/choose-profile.html:70
 #: public/views/modals/claim-textcoin.html:4
 #: public/views/modals/customized-amount.html:4
 #: public/views/modals/destination-address.html:5
@@ -315,7 +364,7 @@ msgstr "Kliknutím na toto tlačítko vytvoříte platbu a sdílíte ji přes so
 #: public/views/modals/offer-contract.html:29
 #: public/views/modals/scanner.html:4
 #: public/views/modals/select-subwallet.html:4
-#: public/views/modals/share.html:4
+#: public/views/modals/share.html:13
 #: public/views/modals/vote.html:4
 msgid "Close"
 msgstr "Zavřit"
@@ -345,9 +394,11 @@ msgid "Compress the file? (Slower)"
 msgstr "Komprimovat soubor? (Pomalejší)"
 
 #: src/js/controllers/copayers.js:10
-#: src/js/controllers/index.js:459
+#: src/js/controllers/index.js:480
 #: src/js/controllers/preferencesDelete.js:11
-#: src/js/controllers/walletHome.js:123
+#: src/js/controllers/walletHome.js:125
+#: src/js/controllers/walletHome.js:1615
+#: src/js/controllers/walletHome.js:1619
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "Potvrdit"
@@ -364,7 +415,7 @@ msgstr "Potvrzení platby"
 msgid "Confirm vote"
 msgstr "Potvrzení hlasování"
 
-#: public/views/modals/tx-details.html:115
+#: public/views/modals/tx-details.html:121
 msgid "Confirmed"
 msgstr "Potvrzeno"
 
@@ -373,27 +424,31 @@ msgid "Contacts"
 msgstr "Kontakty"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
-#: src/js/controllers/walletHome.js:389
+#: src/js/controllers/walletHome.js:391
 msgid "Copied to clipboard"
 msgstr "Zkopírováno do schránky"
+
+#: public/views/modals/share.html:39
+msgid "Copy"
+msgstr ""
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
 msgstr "Adresáti nebudou obnoveni."
 
-#: src/js/controllers/walletHome.js:668
+#: src/js/controllers/walletHome.js:689
 msgid "Could not create payment proposal"
 msgstr "Nebylo možné vytvořit návrh platby"
 
-#: src/js/services/profileService.js:265
+#: src/js/services/profileService.js:279
 msgid "Could not create using the specified extended private key"
 msgstr "Nebylo možné vytvořit používaný rozšířený privátní klíč"
 
-#: src/js/services/profileService.js:275
+#: src/js/services/profileService.js:289
 msgid "Could not create using the specified extended public key"
 msgstr "Nebylo možné vytvořit používaný rozšířený veřejný klíč"
 
-#: src/js/services/profileService.js:258
+#: src/js/services/profileService.js:272
 msgid "Could not create: Invalid wallet seed"
 msgstr "Nebylo možné vytvořit: neplatný seed peněženky"
 
@@ -401,27 +456,31 @@ msgstr "Nebylo možné vytvořit: neplatný seed peněženky"
 msgid "Could not decrypt"
 msgstr "Nebylo možné dešifrovat"
 
-#: public/views/walletHome.html:583
+#: public/views/walletHome.html:622
 msgid "Could not fetch transaction history"
 msgstr "Nelze načíst transakční historii"
 
-#: src/js/services/profileService.js:490
-#: src/js/services/profileService.js:517
-#: src/js/services/profileService.js:539
+#: src/js/services/profileService.js:507
+#: src/js/services/profileService.js:534
+#: src/js/services/profileService.js:556
 msgid "Could not import"
 msgstr "Chyba importu"
 
-#: src/js/services/profileService.js:467
+#: src/js/services/profileService.js:484
 msgid "Could not import. Check input file and password"
 msgstr "Chyba importu. Zkontrolujte soubor a heslo"
 
-#: src/js/controllers/walletHome.js:51
+#: src/js/controllers/walletHome.js:53
 msgid "Could not recognize a valid Byteball QR Code"
 msgstr "Bytebal QR kód nebyl rozpoznán"
 
-#: src/js/controllers/walletHome.js:668
+#: src/js/controllers/walletHome.js:689
 msgid "Could not send payment"
 msgstr "Nebylo možné odeslat platbu"
+
+#: src/js/controllers/correspondentDevice.js:1085
+msgid "Country"
+msgstr ""
 
 #: public/views/walletHome.html:44
 msgid "Create"
@@ -436,7 +495,7 @@ msgstr "Vytvořit novou peněženku"
 msgid "Create new wallet"
 msgstr "Vytvořit novou peněženku"
 
-#: src/js/controllers/index.js:286
+#: src/js/controllers/index.js:307
 msgid "Create new wallet  together with  ?"
 msgstr "Vytvořit novou peněženku spolu s?"
 
@@ -460,19 +519,23 @@ msgstr "Vytváření peněženky..."
 msgid "DELETE WORDS"
 msgstr "ODSTRANĚNÍ SLOV"
 
-#: public/views/walletHome.html:335
+#: public/views/walletHome.html:349
 msgid "Data"
 msgstr "Data"
 
-#: public/views/walletHome.html:332
+#: public/views/walletHome.html:346
 msgid "Data into datafeed"
 msgstr "Data do datafeed"
 
-#: public/views/modals/tx-details.html:85
+#: public/views/modals/tx-details.html:91
 msgid "Date"
 msgstr "Datum"
 
-#: src/js/controllers/index.js:256
+#: src/js/controllers/correspondentDevice.js:1084
+msgid "Date of birth"
+msgstr ""
+
+#: src/js/controllers/index.js:277
 msgid "Declined"
 msgstr "Odmítnuto"
 
@@ -480,7 +543,7 @@ msgstr "Odmítnuto"
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
 msgstr "Dešifrování papírové peněženky může na tomto zařízení trvat okolo 5 minut, buďte prosím trpělivý a nechejte aplikaci otevřenou."
 
-#: public/views/walletHome.html:179
+#: public/views/walletHome.html:193
 msgid "Definition"
 msgstr "Definice"
 
@@ -500,17 +563,21 @@ msgstr "Odstranit peněženku"
 msgid "Delete wallet"
 msgstr "Odstranit peněženku"
 
+#: src/js/controllers/walletHome.js:1612
+msgid "Deleting the textcoin will remove the ability to claim it back or resend"
+msgstr ""
+
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
 msgstr "Derivační strategie"
 
 #: public/views/modals/customized-amount.html:29
 #: public/views/modals/multi-payment.html:17
-#: public/views/modals/tx-details.html:25
+#: public/views/modals/tx-details.html:31
 msgid "Details"
 msgstr "Detaily"
 
-#: public/views/preferencesGlobal.html:75
+#: public/views/preferencesGlobal.html:80
 msgid "Device address"
 msgstr "Adresa zařízení"
 
@@ -540,7 +607,7 @@ msgstr "Nevidíte na Crowdin váš jazyk? Kontaktujte správce repozitáře na C
 msgid "Done"
 msgstr "Hotovo"
 
-#: public/views/walletHome.html:678
+#: public/views/walletHome.html:723
 msgid "Download CSV file"
 msgstr "Stáhnout CSV soubor"
 
@@ -557,9 +624,13 @@ msgstr "Upravit"
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
 msgstr "Vy nebo {{correspondent.name}} máte zakázáno ukládání historie chatu. Nikdo nyní nemá uloženu historii."
 
-#: public/views/preferencesEmail.html:33
-msgid "Email for wallet notifications"
-msgstr "Email pro oznámení peněženky"
+#: public/views/preferencesGlobal.html:74
+msgid "Email attestor"
+msgstr ""
+
+#: public/views/preferencesEmailAttestor.html:13
+msgid "Email attestor address"
+msgstr ""
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -573,8 +644,8 @@ msgstr "Zadejte párovací kód přijatý od jiných zařízení nebo použijte 
 msgid "Enter your password"
 msgstr "Zadejte své heslo"
 
-#: src/js/services/profileService.js:323
-#: src/js/services/profileService.js:374
+#: src/js/services/profileService.js:338
+#: src/js/services/profileService.js:390
 msgid "Error creating wallet"
 msgstr "Chyba při vytváření peněženky"
 
@@ -582,8 +653,8 @@ msgstr "Chyba při vytváření peněženky"
 msgid "Export"
 msgstr "Export"
 
-#: src/js/controllers/export.js:135
-#: src/js/controllers/export.js:160
+#: src/js/controllers/export.js:136
+#: src/js/controllers/export.js:161
 msgid "Export completed successfully"
 msgstr "Export byl úspěšně dokončen"
 
@@ -599,15 +670,19 @@ msgstr "Rozšířený veřejný klíč"
 msgid "Failed to export"
 msgstr "Chyba exportu"
 
-#: public/views/modals/tx-details.html:92
+#: public/views/modals/tx-details.html:98
 msgid "Fee"
 msgstr "Poplatek"
 
-#: public/views/modals/tx-details.html:110
+#: public/views/modals/tx-details.html:116
 msgid "Finality"
 msgstr "Neodvolatelnost"
 
-#: public/views/modals/tx-details.html:60
+#: src/js/controllers/correspondentDevice.js:1082
+msgid "First name"
+msgstr ""
+
+#: public/views/modals/tx-details.html:66
 msgid "From"
 msgstr "Od"
 
@@ -615,7 +690,7 @@ msgstr "Od"
 msgid "Full address:"
 msgstr "Úplná adresa:"
 
-#: public/views/preferencesGlobal.html:118
+#: public/views/preferencesGlobal.html:123
 msgid "Full backup"
 msgstr "Úplná záloha"
 
@@ -631,11 +706,11 @@ msgstr "Částka bude převedena k"
 msgid "GET STARTED"
 msgstr "ZAČÍNÁME"
 
-#: src/js/controllers/walletHome.js:418
+#: src/js/controllers/walletHome.js:420
 msgid "Generate QR Code"
 msgstr "Vytvořit QR kód"
 
-#: public/views/walletHome.html:288
+#: public/views/walletHome.html:302
 msgid "Generate new address"
 msgstr "Vytvořit novou adresu"
 
@@ -655,7 +730,7 @@ msgstr "Obecná nastavení"
 msgid "Go back"
 msgstr "Zpět"
 
-#: public/views/preferences.html:48
+#: public/views/preferences.html:51
 msgid "Hardware wallet"
 msgstr "Hardwarová peněženka"
 
@@ -663,11 +738,12 @@ msgstr "Hardwarová peněženka"
 msgid "Hide the Wallet Seed"
 msgstr "Skrytí seed peněženky"
 
-#: src/js/controllers/index.js:618
+#: public/views/modals/share.html:43
+#: src/js/controllers/index.js:679
 msgid "History"
 msgstr "Historie"
 
-#: src/js/controllers/index.js:606
+#: src/js/controllers/index.js:667
 msgid "Home"
 msgstr "Domů"
 
@@ -695,6 +771,22 @@ msgstr "Platím"
 msgid "I receive another payment of"
 msgstr "Obdržel jsem další platbu od"
 
+#: src/js/controllers/correspondentDevice.js:1087
+msgid "ID number"
+msgstr ""
+
+#: src/js/controllers/correspondentDevice.js:1089
+msgid "ID subtype"
+msgstr ""
+
+#: src/js/controllers/correspondentDevice.js:1088
+msgid "ID type"
+msgstr ""
+
+#: public/views/modals/tx-details.html:154
+msgid "If any of your cosigner devices doesn't see this payment, you can"
+msgstr ""
+
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
 msgstr "Pokud podmínka není splněna, můžu si potom vzít tyto peníze zpět"
@@ -702,6 +794,11 @@ msgstr "Pokud podmínka není splněna, můžu si potom vzít tyto peníze zpět
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
 msgstr "Pokud druhá strana neplní, potom si vezmu svoje peníze zpět"
+
+#: public/views/modals/tx-details.html:145
+#: public/views/modals/tx-details.html:151
+msgid "If the recipient doesn't see your payment, you can"
+msgstr ""
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -723,11 +820,11 @@ msgstr "Import peněženky"
 msgid "Importing wallet..."
 msgstr "Importuji peněženku..."
 
-#: public/views/walletHome.html:133
+#: public/views/walletHome.html:137
 msgid "Including pending confirmation"
 msgstr "Včetně čekajícího potvrzení"
 
-#: public/views/walletHome.html:602
+#: public/views/walletHome.html:641
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
 msgstr "Počáteční synchronizace historie transakcí může trvat několik minut pro peněženky s mnoha transakcemi.<br>\n"
@@ -737,11 +834,15 @@ msgstr "Počáteční synchronizace historie transakcí může trvat několik mi
 msgid "Insert my address"
 msgstr "Vložte svoji adresu"
 
-#: public/views/walletHome.html:621
+#: public/views/correspondentDevice.html:343
+msgid "Insert private profile"
+msgstr ""
+
+#: public/views/walletHome.html:660
 msgid "Invalid"
 msgstr "Neplatné"
 
-#: src/js/controllers/index.js:1533
+#: src/js/controllers/index.js:1607
 msgid "Invalid Touch ID"
 msgstr "Neplatné dotekové ID"
 
@@ -765,6 +866,10 @@ msgstr "Popis"
 msgid "Language"
 msgstr "Jazyk"
 
+#: src/js/controllers/correspondentDevice.js:1083
+msgid "Last name"
+msgstr ""
+
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
 msgstr "Později"
@@ -787,11 +892,11 @@ msgstr "Možná později"
 msgid "Me"
 msgstr "Mě"
 
-#: public/views/modals/tx-details.html:104
+#: public/views/modals/tx-details.html:110
 msgid "Merchant message"
 msgstr "Zpráva obchodníka"
 
-#: public/views/walletHome.html:430
+#: public/views/walletHome.html:462
 msgid "Merkle proof"
 msgstr "Merkle důkaz"
 
@@ -799,7 +904,7 @@ msgstr "Merkle důkaz"
 msgid "Message"
 msgstr "Zpráva"
 
-#: public/views/walletHome.html:620
+#: public/views/walletHome.html:659
 msgid "Moved"
 msgstr "Přesunuto"
 
@@ -807,7 +912,7 @@ msgstr "Přesunuto"
 msgid "Multidevice Wallet"
 msgstr "Multi peněženka"
 
-#: public/views/walletHome.html:240
+#: public/views/walletHome.html:254
 msgid "My Byteball address"
 msgstr "Moje Byteball adresa"
 
@@ -836,7 +941,8 @@ msgid "New witnesses"
 msgstr "Noví svědci"
 
 #: public/views/authConfirmation.html:22
-#: src/js/controllers/index.js:458
+#: src/js/controllers/index.js:479
+#: src/js/controllers/walletHome.js:1627
 msgid "No"
 msgstr "Ne"
 
@@ -844,24 +950,33 @@ msgstr "Ne"
 msgid "No password given"
 msgstr "Žádné heslo"
 
-#: public/views/walletHome.html:586
+#: public/views/modals/choose-profile.html:67
+msgid "No profiles matching the requested criteria."
+msgstr ""
+
+#: public/views/modals/choose-profile.html:68
+msgid "No profiles yet."
+msgstr ""
+
+#: public/views/walletHome.html:625
 msgid "No transactions yet"
 msgstr "Žádné transakce"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
 #: public/views/modals/destination-address.html:112
-#: public/views/walletHome.html:359
-#: public/views/walletHome.html:395
-#: public/views/walletHome.html:512
+#: public/views/walletHome.html:373
+#: public/views/walletHome.html:410
+#: public/views/walletHome.html:419
+#: public/views/walletHome.html:552
 msgid "Not valid"
 msgstr "Neplatné"
 
 #: public/views/includes/output.html:12
-#: public/views/modals/tx-details.html:100
-#: public/views/modals/tx-details.html:75
-#: public/views/walletHome.html:441
-#: public/views/walletHome.html:649
+#: public/views/modals/tx-details.html:106
+#: public/views/modals/tx-details.html:81
+#: public/views/walletHome.html:473
+#: public/views/walletHome.html:688
 msgid "Note"
 msgstr "Poznámka"
 
@@ -882,9 +997,9 @@ msgstr "Jedině peněženku s jedním podpisem je možné obnovit."
 msgid "Open chat"
 msgstr "Otevřít chat"
 
-#: public/views/modals/share.html:23
-msgid "Or"
-msgstr "Nebo"
+#: public/views/modals/share.html:39
+msgid "Or copy"
+msgstr ""
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -907,7 +1022,7 @@ msgstr "Soukromý klíč papírové peněženky"
 msgid "Passphrase"
 msgstr "Přístupová fráze"
 
-#: src/js/services/profileService.js:654
+#: src/js/services/profileService.js:672
 msgid "Password needed"
 msgstr "Je vyžadováno heslo"
 
@@ -935,7 +1050,7 @@ msgstr "Platba přijata"
 msgid "Payment Proposal Created"
 msgstr "Návrh platby byl vytvořen"
 
-#: public/views/walletHome.html:196
+#: public/views/walletHome.html:210
 msgid "Payment Proposals"
 msgstr "Návrh platby"
 
@@ -971,23 +1086,27 @@ msgstr "Vyplňte požadovaná pole"
 msgid "Please name this device"
 msgstr "Prosím pojmenujte toto zařízení"
 
+#: src/js/controllers/correspondentDevice.js:149
+msgid "Please switch to a single-address wallet and you probably need to insert your address again."
+msgstr ""
+
 #: public/views/preferencesTor.html:16
 msgid "Port"
 msgstr "Port"
 
-#: public/views/walletHome.html:502
+#: public/views/walletHome.html:542
 msgid "Post arbitrary key-value pairs of data into Byteball network."
 msgstr "Zašlete data libovolné dvojice klíč-hodnota do Byteball sítě."
 
-#: public/views/walletHome.html:493
+#: public/views/walletHome.html:533
 msgid "Post values into datafeeds manually, be an oracle."
 msgstr "Zašlete hodnoty do datafeeds ručně, buďte věštec."
 
-#: public/views/walletHome.html:499
+#: public/views/walletHome.html:539
 msgid "Post your profile data, anything you want to say about yourself."
 msgstr "Pošlete Vaše profilová data, cokoliv chcete o sobě říct."
 
-#: public/views/walletHome.html:175
+#: public/views/walletHome.html:189
 #: public/views/walletHome.html:47
 msgid "Preferences"
 msgstr "Předvolby"
@@ -1000,12 +1119,16 @@ msgstr "Pro ukončení stiskněte tlačítko znovu"
 msgid "Private assets (such as blackbytes) are not recovered."
 msgstr "Soukromá aktiva (například blackbytes) nebudou obnovena."
 
-#: src/js/controllers/walletHome.js:1547
-#: src/js/controllers/walletHome.js:1621
+#: src/js/controllers/walletHome.js:1679
+#: src/js/controllers/walletHome.js:1753
 msgid "Private payloads sent"
 msgstr "Soukromá data odeslaná"
 
-#: public/views/walletHome.html:334
+#: public/views/modals/accept-profile.html:8
+msgid "Private profile"
+msgstr ""
+
+#: public/views/walletHome.html:348
 msgid "Profile"
 msgstr "Profil"
 
@@ -1021,16 +1144,16 @@ msgstr "QR čtečka"
 msgid "Question:"
 msgstr "Otázka:"
 
-#: src/js/controllers/index.js:610
+#: src/js/controllers/index.js:671
 msgid "Receive"
 msgstr "Přijmout"
 
-#: public/views/walletHome.html:617
+#: public/views/walletHome.html:656
 msgid "Received"
 msgstr "Přijato"
 
 #: public/views/includes/transaction.html:15
-#: public/views/modals/tx-details.html:52
+#: public/views/modals/tx-details.html:58
 msgid "Recipients"
 msgstr "Příjemci"
 
@@ -1042,7 +1165,7 @@ msgstr "Navazuji spojení se službou peněženky..."
 msgid "Recover"
 msgstr "Obnovit"
 
-#: public/views/preferencesGlobal.html:109
+#: public/views/preferencesGlobal.html:114
 msgid "Recovery from seed"
 msgstr "Obnovení ze seed"
 
@@ -1050,7 +1173,7 @@ msgstr "Obnovení ze seed"
 msgid "Recreating Wallet..."
 msgstr "Znovu vytvářím peněženku..."
 
-#: src/js/controllers/index.js:208
+#: src/js/controllers/index.js:229
 msgid "Refused"
 msgstr "Odmítnout"
 
@@ -1083,12 +1206,12 @@ msgstr "Zopakujte heslo"
 msgid "Replace"
 msgstr "Nahradit"
 
-#: public/views/preferencesGlobal.html:86
+#: public/views/preferencesGlobal.html:91
 msgid "Request Password"
 msgstr "Vyžadovat heslo"
 
 #: public/views/modals/customized-amount.html:8
-#: public/views/walletHome.html:297
+#: public/views/walletHome.html:311
 msgid "Request a specific amount"
 msgstr "Vyžádat konkrétní částku"
 
@@ -1100,7 +1223,7 @@ msgstr "Žádost o platbu"
 msgid "Required number of signatures"
 msgstr "Požadovaný počet podpisů"
 
-#: public/views/preferencesGlobal.html:127
+#: public/views/preferencesGlobal.html:132
 msgid "Restore from full backup"
 msgstr "Obnovení z úplné zálohy"
 
@@ -1118,6 +1241,7 @@ msgstr "NASTAVIT"
 #: public/views/preferencesDeviceName.html:14
 #: public/views/preferencesEditWitness.html:15
 #: public/views/preferencesEmail.html:35
+#: public/views/preferencesEmailAttestor.html:15
 #: public/views/preferencesHub.html:18
 #: public/views/preferencesTor.html:19
 msgid "Save"
@@ -1127,7 +1251,7 @@ msgstr "Uložit"
 msgid "Saving preferences..."
 msgstr "Ukládám nastavení..."
 
-#: public/views/preferences.html:66
+#: public/views/preferences.html:69
 msgid "Scan Fingerprint"
 msgstr "Skenovat otisk"
 
@@ -1143,7 +1267,7 @@ msgstr "Stav vyhledávání byl ukončený chybou"
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
 msgstr "Načti QR kód pomocí jiného zařízení nebo mu pošli párovací kód:"
 
-#: src/js/controllers/index.js:1526
+#: src/js/controllers/index.js:1600
 msgid "Scan your fingerprint please"
 msgstr "Naskenujte prosím svůj otisk"
 
@@ -1172,13 +1296,13 @@ msgid "Select your identity"
 msgstr "Vyberte si identitu"
 
 #: public/views/includes/transaction.html:10
-#: public/views/walletHome.html:467
-#: public/views/walletHome.html:547
-#: src/js/controllers/index.js:614
+#: public/views/walletHome.html:499
+#: public/views/walletHome.html:587
+#: src/js/controllers/index.js:675
 msgid "Send"
 msgstr "Odeslat"
 
-#: public/views/walletHome.html:319
+#: public/views/walletHome.html:333
 msgid "Send All"
 msgstr "Odeslat vše"
 
@@ -1190,13 +1314,17 @@ msgstr "Odeslat platbu"
 msgid "Send addresses by email"
 msgstr "Odeslat adresy emailem"
 
-#: public/views/walletHome.html:368
+#: public/views/walletHome.html:383
 msgid "Send all"
 msgstr "Odeslat vše"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
 msgstr "Poslat e-mailem"
+
+#: public/views/modals/choose-profile.html:62
+msgid "Send this profile"
+msgstr ""
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
@@ -1206,7 +1334,7 @@ msgstr "Odesílání částky..."
 msgid "Sending..."
 msgstr "Odesílám..."
 
-#: public/views/walletHome.html:619
+#: public/views/walletHome.html:658
 msgid "Sent"
 msgstr "Odesláno"
 
@@ -1222,32 +1350,28 @@ msgstr "Nastavení hesla"
 msgid "Set up a password"
 msgstr "Nastavení hesla"
 
-#: public/views/preferencesEmail.html:38
-msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
-msgstr "Nastavení emailových notifikací může snížit vaše soukromí, pokud je poskytovatel emailu napaden. Útočník by mohl získat vaše adresy peněženek a zůstatek, ale žádné další údaje."
-
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
 msgstr "Nastavení"
 
-#: public/views/modals/share.html:8
+#: public/views/modals/share.html:17
 msgid "Share"
 msgstr "Sdílet"
 
 #: public/views/modals/customized-amount.html:24
-#: public/views/walletHome.html:275
+#: public/views/walletHome.html:289
 msgid "Share address"
 msgstr "Sdílet adresu"
 
-#: public/views/walletHome.html:280
+#: public/views/walletHome.html:294
 msgid "Share this wallet address to receive payments."
 msgstr "Sdílejte tuto peněženku adresu pro příjem plateb."
 
-#: public/views/walletHome.html:478
+#: public/views/walletHome.html:518
 msgid "Share via message"
 msgstr "Sdílet zprávu"
 
-#: public/views/walletHome.html:670
+#: public/views/walletHome.html:715
 msgid "Show all"
 msgstr "Zobrazit vše"
 
@@ -1255,7 +1379,7 @@ msgstr "Zobrazit vše"
 msgid "Show the Wallet Seed Anyway"
 msgstr "Skutečně zobrazit seed peněženky"
 
-#: src/js/controllers/index.js:435
+#: src/js/controllers/index.js:456
 msgid "Sign transaction spending  from wallet ?"
 msgstr "Podepsat transakci výdaj z peněženky?"
 
@@ -1269,7 +1393,7 @@ msgstr "Peněženka s jedinou adresou"
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
 msgstr "Peněženky s jednou adresou nebudou vytvářet nové adresy pro každou transakci, směna půjde vždy na jedinou adresu kterou peněženka obsahuje."
 
-#: src/js/services/profileService.js:318
+#: src/js/services/profileService.js:332
 msgid "Small Expenses Wallet"
 msgstr "Peněženka s malými výdaji"
 
@@ -1277,23 +1401,27 @@ msgstr "Peněženka s malými výdaji"
 msgid "Specify Seed..."
 msgstr "Uveďte seed..."
 
-#: public/views/preferences.html:60
-#: public/views/preferencesGlobal.html:82
+#: public/views/preferences.html:63
+#: public/views/preferencesGlobal.html:87
 msgid "Spending Restrictions"
 msgstr "Výdajová omezení"
 
-#: public/views/preferencesGlobal.html:96
+#: public/views/preferencesGlobal.html:101
 msgid "Still not done"
 msgstr "Stále ještě není hotovo"
 
+#: src/js/controllers/correspondentDevice.js:1131
+msgid "Store"
+msgstr ""
+
 #: src/js/controllers/copayers.js:76
-#: src/js/controllers/export.js:135
-#: src/js/controllers/export.js:160
-#: src/js/controllers/index.js:245
-#: src/js/controllers/index.js:273
+#: src/js/controllers/export.js:136
+#: src/js/controllers/export.js:161
+#: src/js/controllers/index.js:266
+#: src/js/controllers/index.js:294
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:1547
-#: src/js/controllers/walletHome.js:1621
+#: src/js/controllers/walletHome.js:1679
+#: src/js/controllers/walletHome.js:1753
 msgid "Success"
 msgstr "Úspěšně dokončeno"
 
@@ -1319,7 +1447,7 @@ msgstr "TOR"
 
 #: public/views/walletHome.html:116
 #: public/views/walletHome.html:121
-#: public/views/walletHome.html:584
+#: public/views/walletHome.html:623
 msgid "Tap to retry"
 msgstr "Klepnutím akci opakujte"
 
@@ -1328,13 +1456,17 @@ msgstr "Klepnutím akci opakujte"
 msgid "Terms of Use"
 msgstr "Podmínky užívání"
 
-#: public/views/correspondentDevice.html:341
+#: public/views/correspondentDevice.html:347
 msgid "Text message to"
 msgstr "Textová zpráva"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
 msgstr "Textcoin"
+
+#: public/views/modals/accept-profile.html:32
+msgid "The attested address belongs to:"
+msgstr ""
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1343,6 +1475,10 @@ msgstr "Hub pro příjem zpráv z jiných zařízení."
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
 msgstr "Hub navrhuje nahradit následující svědky:"
+
+#: public/views/modals/share.html:27
+msgid "The money is stored on this textcoin:"
+msgstr ""
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
@@ -1369,7 +1505,7 @@ msgstr "Jejich preference nahrávání"
 msgid "There are no wallets to make this payment"
 msgstr "Není zde žádná peněženka, která by provedla tuto platbu"
 
-#: public/views/walletHome.html:279
+#: public/views/walletHome.html:293
 msgid "This address is shared with {{index.shared_address_cosigners}}."
 msgstr "Tato adresa je sdílená s {{index.shared_address_cosigners}}."
 
@@ -1377,7 +1513,7 @@ msgstr "Tato adresa je sdílená s {{index.shared_address_cosigners}}."
 msgid "This choice cannot be changed later"
 msgstr "Tento výběr nelze později změnit"
 
-#: public/views/walletHome.html:350
+#: public/views/walletHome.html:364
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
 msgstr "To je privátní zůstatek, zašlete jej prosím klepnutím na odkazy v chatu nebo jej pošlete do jiné vaší peněženky."
 
@@ -1385,17 +1521,33 @@ msgstr "To je privátní zůstatek, zašlete jej prosím klepnutím na odkazy v 
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
 msgstr "Tato možnost je lepší pro soukromí, ale zabere několik gigabajtů v úložišti a počáteční synchronizace bude trvat několik dní. Během synchronizace bude vysoké zatížení procesoru."
 
-#: public/views/walletHome.html:417
+#: public/views/walletHome.html:443
 msgid "This payment is bound to a condition"
 msgstr "Tato platba je vázán na podmínku"
 
-#: public/views/modals/tx-details.html:80
+#: src/js/controllers/correspondentDevice.js:149
+msgid "This payment must be paid only from single-address wallet"
+msgstr ""
+
+#: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
 msgstr "Transakce je neplatná, zřejmě kvůli pokusu o dvojí platbu."
 
+#: public/views/preferences.html:42
+msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
+msgstr ""
+
+#: public/views/preferences.html:41
+msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
+msgstr ""
+
 #: public/views/preferences.html:39
-msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses or is multidevice"
-msgstr "Tuto peněženku nelze převést na peněženku s jedinou adresou, protože již obsahuje více adres nebo je na více zařízeních"
+msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
+msgstr ""
+
+#: public/views/preferences.html:40
+msgid "This wallet cannot be converted to single address wallet as it is multidevice"
+msgstr ""
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
@@ -1404,9 +1556,9 @@ msgstr "Touto akcí trvale odstraníte všechny existující peněženky!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
-#: public/views/modals/tx-details.html:30
-#: public/views/modals/tx-details.html:65
-#: public/views/walletHome.html:651
+#: public/views/modals/tx-details.html:36
+#: public/views/modals/tx-details.html:71
+#: public/views/walletHome.html:690
 msgid "To"
 msgstr "Pro"
 
@@ -1414,33 +1566,38 @@ msgstr "Pro"
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
 msgstr "Chcete-li mít možnost vše obnovit, vytvořte si prosím úplnou zálohu (tuto možnost najdete v menu)"
 
-#: public/views/walletHome.html:558
+#: public/views/walletHome.html:598
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
 msgstr "Chcete-li mít možnost přenos libovolných dat do Byteball sítě, přepněte si peněženku do stavu s jedinou adresou nebo si takovou vytvořte."
 
-#: public/views/walletHome.html:420
+#: public/views/walletHome.html:452
 msgid "To bind the payment to a condition, please click the peer's address in chat"
 msgstr "Abyste vytvořili podmíněnou platbu, klikněte na párovací adresu v chatu"
 
-#: public/views/walletHome.html:390
+#: public/views/walletHome.html:405
 msgid "To byteball address"
 msgstr "Na adresu byteball"
 
-#: public/views/walletHome.html:382
+#: public/views/walletHome.html:397
 msgid "To byteball address or email"
 msgstr "Na adresu byteball nebo e-mailu"
 
-#: public/views/modals/tx-details.html:44
+#: public/views/modals/tx-details.html:50
+#: public/views/walletHome.html:693
 msgid "To email"
 msgstr "Na email"
 
-#: public/views/walletHome.html:281
+#: public/views/walletHome.html:295
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
 msgstr "Chcete-li ochránit své soukromí, po použití adresy bude automaticky generována nová."
 
-#: public/views/walletHome.html:204
+#: public/views/walletHome.html:218
 msgid "Total Locked Balance"
 msgstr "Blokovaný zůstatek"
+
+#: public/views/walletHome.html:382
+msgid "Total amount"
+msgstr ""
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
@@ -1450,7 +1607,7 @@ msgstr "Celkový počet signatářů"
 msgid "Transaction"
 msgstr "Transakce"
 
-#: public/views/walletHome.html:608
+#: public/views/walletHome.html:647
 msgid "Transactions<br> Downloaded"
 msgstr "Transakce <br>Staženo"
 
@@ -1462,12 +1619,20 @@ msgstr "Poděkování překladatelům"
 msgid "Translators"
 msgstr "Překladatelé"
 
-#: src/js/controllers/walletHome.js:774
+#: public/views/preferencesGlobal.html:67
+msgid "Trusted nodes"
+msgstr ""
+
+#: src/js/controllers/correspondentDevice.js:1086
+msgid "US state"
+msgstr ""
+
+#: src/js/controllers/walletHome.js:810
 msgid "Unable to send transaction proposal"
 msgstr "Nebylo možné odeslat návrh platby"
 
-#: public/views/modals/tx-details.html:112
-#: public/views/walletHome.html:639
+#: public/views/modals/tx-details.html:118
+#: public/views/walletHome.html:678
 msgid "Unconfirmed"
 msgstr "Nepotvrzeno"
 
@@ -1479,7 +1644,7 @@ msgstr "Jednotka pro blackbytes"
 msgid "Unit for bytes"
 msgstr "Jednotka pro bytes"
 
-#: public/views/walletHome.html:197
+#: public/views/walletHome.html:211
 msgid "Unsent transactions"
 msgstr "Neodeslaná transakce"
 
@@ -1495,9 +1660,13 @@ msgstr "Upgrade na {{version}}"
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
 msgstr "Upgrade databáze, počkejte prosím.  Někdy to trvá několik minut."
 
-#: public/views/walletHome.html:522
+#: public/views/walletHome.html:562
 msgid "Values"
 msgstr "Hodnoty"
+
+#: src/js/controllers/correspondentDevice.js:1108
+msgid "Verifying the profile..."
+msgstr ""
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1507,7 +1676,7 @@ msgstr "Verze"
 msgid "WARNING:"
 msgstr "VAROVÁNÍ:"
 
-#: public/views/walletHome.html:222
+#: public/views/walletHome.html:236
 msgid "WARNING: Backup needed"
 msgstr "Upozornění: Musíte zálohovat"
 
@@ -1557,7 +1726,7 @@ msgstr "Údaje peněženky"
 msgid "Wallet Name (at creation)"
 msgstr "Název peněženky (při vytváření)"
 
-#: src/js/services/profileService.js:436
+#: src/js/services/profileService.js:453
 msgid "Wallet already in Byteball:"
 msgstr "Peněženka je již v Byteball:"
 
@@ -1578,19 +1747,20 @@ msgstr "Peněženky"
 msgid "Warning!"
 msgstr "Varování!"
 
-#: public/views/modals/tx-details.html:123
+#: public/views/modals/tx-details.html:129
 msgid "Was claimed?"
 msgstr "Bylo vyžádáno?"
 
-#: public/views/walletHome.html:328
+#: public/views/walletHome.html:342
 msgid "What to send"
 msgstr "Co odeslat"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
 #: public/views/modals/vote.html:28
-#: public/views/walletHome.html:456
-#: public/views/walletHome.html:539
+#: public/views/walletHome.html:488
+#: public/views/walletHome.html:512
+#: public/views/walletHome.html:579
 msgid "Who signs:"
 msgstr "Kdo podepisuje:"
 
@@ -1602,19 +1772,26 @@ msgstr "Adresa svědka"
 msgid "Witnesses"
 msgstr "Svědci"
 
+#: public/views/modals/share.html:43
+msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
+msgstr ""
+
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
 msgstr "Zapište si to a uschovejte někde v bezpečí."
 
-#: src/js/services/profileService.js:664
+#: src/js/services/profileService.js:682
 msgid "Wrong password"
 msgstr "Chybné heslo"
 
 #: public/views/authConfirmation.html:17
-#: public/views/modals/confirmation.html:6
-#: src/js/controllers/index.js:457
+#: src/js/controllers/index.js:478
 msgid "Yes"
 msgstr "Ano"
+
+#: public/views/modals/tx-details.html:148
+msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
+msgstr ""
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1623,6 +1800,10 @@ msgstr "V peněžence jedinou adresou nemůžete stornovat platbu. Nejdříve p�
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
 msgstr "Nemáte žádnou peněženku"
+
+#: public/views/modals/choose-profile.html:69
+msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
+msgstr ""
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -1663,6 +1844,10 @@ msgstr "částka"
 msgid "an event is posted by an oracle"
 msgstr "událost poslaná věštcem"
 
+#: public/views/modals/share.html:43
+msgid "and erase the textcoin to keep it safe from attackers."
+msgstr ""
+
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
 msgstr "můžu odemknout kontrakt"
@@ -1675,17 +1860,13 @@ msgstr "můžu odemknout kontrakt po jeho vypršení v"
 msgid "cancel wallet creation"
 msgstr "zrušit vytvoření peněženky"
 
-#: public/views/modals/tx-details.html:131
+#: public/views/modals/tx-details.html:137
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
 msgstr "nárokováno"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
 msgstr "vymazat chatovací historii"
-
-#: public/views/modals/share.html:23
-msgid "copy the text below and send it to the recipient via any messaging app, or print it on paper"
-msgstr "zkopíruj text níže a pošli jej příjemci přes jakoukoliv aplikaci pro zasílání zpráv nebo vytiskni na papír"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1707,6 +1888,10 @@ msgstr "např. 1 z 2 peněženek s jedním klíčem na tomto zařízení a dalš
 msgid "either way"
 msgstr "oběma způsoby"
 
+#: public/views/modals/tx-details.html:148
+msgid "erase textcoin"
+msgstr ""
+
 #: public/views/modals/bind.html:64
 msgid "explicitly"
 msgstr "výslovně"
@@ -1724,15 +1909,19 @@ msgstr "jestliže událost je poslaná věštcem"
 msgid "in merkle tree"
 msgstr "v Merkleho stromu"
 
-#: public/views/walletHome.html:153
+#: public/views/walletHome.html:167
 msgid "in smart wallets"
 msgstr "v chytrých peněženkách"
+
+#: public/views/modals/share.html:36
+msgid "keep for myself"
+msgstr ""
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
 msgstr "zablokováno probíhající platbou"
 
-#: public/views/modals/tx-details.html:125
+#: public/views/modals/tx-details.html:131
 msgid "not claimed"
 msgstr "nevyžádáno"
 
@@ -1741,8 +1930,8 @@ msgstr "nevyžádáno"
 msgid "on feed name"
 msgstr "název informačního kanálu"
 
-#: public/views/walletHome.html:431
-#: public/views/walletHome.html:442
+#: public/views/walletHome.html:463
+#: public/views/walletHome.html:474
 msgid "optional"
 msgstr "volitelné"
 
@@ -1762,39 +1951,55 @@ msgstr "protistrana platí"
 msgid "posted"
 msgstr "publikováno"
 
-#: public/views/modals/tx-details.html:142
+#: public/views/modals/tx-details.html:151
 msgid "re-send private payloads"
 msgstr "znovu poslat privátní data"
 
-#: public/views/modals/tx-details.html:145
+#: public/views/modals/tx-details.html:154
 msgid "re-send private payloads to cosigners"
 msgstr "znovu poslat privátní data připodepisovatelům"
 
-#: src/js/controllers/walletHome.js:714
+#: public/views/modals/share.html:35
+msgid "send"
+msgstr ""
+
+#: src/js/controllers/walletHome.js:750
 msgid "send email"
 msgstr "poslat e-mail"
 
-#: src/js/controllers/walletHome.js:1122
-#: src/js/controllers/walletHome.js:1153
-#: src/js/controllers/walletHome.js:1160
-#: src/js/controllers/walletHome.js:827
-#: src/js/controllers/walletHome.js:833
-#: src/js/controllers/walletHome.js:846
-#: src/js/controllers/walletHome.js:942
-#: src/js/controllers/walletHome.js:981
+#: src/js/controllers/walletHome.js:1026
+#: src/js/controllers/walletHome.js:1072
+#: src/js/controllers/walletHome.js:1220
+#: src/js/controllers/walletHome.js:1251
+#: src/js/controllers/walletHome.js:1258
+#: src/js/controllers/walletHome.js:884
+#: src/js/controllers/walletHome.js:890
+#: src/js/controllers/walletHome.js:930
 msgid "sending"
 msgstr "odesílání"
 
-#: public/views/modals/tx-details.html:139
+#: public/views/modals/tx-details.html:145
 msgid "share again"
 msgstr "znovu sdílet"
+
+#: public/views/walletHome.html:449
+msgid "switch to multi-address"
+msgstr ""
+
+#: public/views/walletHome.html:448
+msgid "switch to single address"
+msgstr ""
+
+#: public/views/modals/share.html:39
+msgid "the text below and send it to the recipient via any messaging app"
+msgstr ""
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
 msgstr "komu"
 
-#: public/views/walletHome.html:432
-#: public/views/walletHome.html:443
+#: public/views/walletHome.html:464
+#: public/views/walletHome.html:475
 msgid "too long!"
 msgstr "příliš dlouho!"
 
@@ -1814,6 +2019,7 @@ msgstr "s očekávanou hodnotou z"
 msgid "{{address}} can be spent if:"
 msgstr "{{address}} mohou být použity, jestliže:"
 
+#: public/views/modals/accept-profile.html:41
 #: public/views/modals/claim-textcoin.html:36
 #: public/views/modals/customized-amount.html:76
 msgid "{{buttonLabel}}"
@@ -1823,7 +2029,11 @@ msgstr ""
 msgid "{{cancel_label || 'Cancel'}}"
 msgstr "{{cancel_label || 'Cancel'}}"
 
-#: src/js/controllers/walletHome.js:1662
+#: public/views/modals/confirmation.html:6
+msgid "{{confirm_label || 'Yes'}}"
+msgstr ""
+
+#: src/js/controllers/walletHome.js:1794
 msgid "{{fee}} will be deducted for bitcoin networking fees"
 msgstr "{{fee}} bude odečteno jako poplatek bitcoinové síti"
 
