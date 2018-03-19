@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-03-19 17:10-0400\n"
+"PO-Revision-Date: 2018-03-19 17:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1478,7 +1478,7 @@ msgstr "Hub'en anbefaler at følgende vidner udskiftes:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr ""
+msgstr "Penge er lagret i denne textcoin:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
@@ -1527,7 +1527,7 @@ msgstr "Denne betaling er betinget"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
-msgstr ""
+msgstr "Denne betaling skal udføres fra en single-address wallet"
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
@@ -1535,19 +1535,19 @@ msgstr "Denne transaktion er blevet ugyldig - muligvis pga. forsøg på at bruge
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
-msgstr ""
+msgstr "Denne wallet kan ikke konverteres til en multi-address wallet, fordi den indeholder attesteringer"
 
 #: public/views/preferences.html:41
 msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
-msgstr ""
+msgstr "Denne wallet kan ikke konverteres til en multi-address wallet fordi den er multidevice"
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
-msgstr ""
+msgstr "Denne wallet kan ikke konverteres til en single-address wallet, da den indeholder flere adresser"
 
 #: public/views/preferences.html:40
 msgid "This wallet cannot be converted to single address wallet as it is multidevice"
-msgstr ""
+msgstr "Denne wallet kan ikke konverteres til en single-address wallet da den er multidevice"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
@@ -1597,7 +1597,7 @@ msgstr "Total låst balance"
 
 #: public/views/walletHome.html:382
 msgid "Total amount"
-msgstr ""
+msgstr "I alt"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
@@ -1621,11 +1621,11 @@ msgstr "Oversættere"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr ""
+msgstr "Noder du har tillid til"
 
 #: src/js/controllers/correspondentDevice.js:1086
 msgid "US state"
-msgstr ""
+msgstr "US stat"
 
 #: src/js/controllers/walletHome.js:810
 msgid "Unable to send transaction proposal"
@@ -1666,7 +1666,7 @@ msgstr "Værdier"
 
 #: src/js/controllers/correspondentDevice.js:1108
 msgid "Verifying the profile..."
-msgstr ""
+msgstr "Bekræfter profilen..."
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1774,7 +1774,7 @@ msgstr "Vidner"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr ""
+msgstr "Skriv denne textcoin ned på papir og gem den et sikkert sted. Tilbagefør den når som helst i fremtiden via"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1791,7 +1791,7 @@ msgstr "Ja"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr ""
+msgstr "Du kan slette denne textcoin fra din wallet, hvis du allerede har gemt den et andet sted (f.eks. nedskrevet på papir):"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1803,7 +1803,7 @@ msgstr "Du har ikke en wallet"
 
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
-msgstr ""
+msgstr "Du skal gennemføre en attestering for at få en profil. Find Real Name Attestation bot i Bot Store."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -1846,7 +1846,7 @@ msgstr "en begivenhed er postet af et orakel"
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr ""
+msgstr "og slet denne textcoin for at sikre den mod angreb."
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1890,7 +1890,7 @@ msgstr "uanset hvad"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr ""
+msgstr "slet textcoin"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
@@ -1915,7 +1915,7 @@ msgstr "i smart-wallets"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr ""
+msgstr "behold for mig selv"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -1961,7 +1961,7 @@ msgstr "gensend private payloads til medunderskrivere"
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "send"
 
 #: src/js/controllers/walletHome.js:750
 msgid "send email"
@@ -1984,11 +1984,11 @@ msgstr "del igen"
 
 #: public/views/walletHome.html:449
 msgid "switch to multi-address"
-msgstr ""
+msgstr "skift til multi-address"
 
 #: public/views/walletHome.html:448
 msgid "switch to single address"
-msgstr ""
+msgstr "skift til single-address"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
