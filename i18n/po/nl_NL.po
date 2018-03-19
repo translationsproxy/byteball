@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-03-19 15:51-0400\n"
+"PO-Revision-Date: 2018-03-19 18:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr ""
+msgstr "'Ontvangen' tabblad → 'Claim vermogen met behulp van textcoin' knop."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,11 +23,11 @@ msgstr "(De site kan uw saldo niet zien en er zal geen geld uitgegeven worden)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr ""
+msgstr "(huidige portefeuille)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my another wallet)"
-msgstr ""
+msgstr "(mijn andere portefeuille)"
 
 #: public/views/walletHome.html:667
 msgid "(possible double spend)"
@@ -110,7 +110,7 @@ msgstr "Geavanceerd"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "Na het opschrijven vind je deze transactie in"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -134,7 +134,7 @@ msgstr "Reeds betaald"
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
-msgstr ""
+msgstr "Reeds opgeslagen"
 
 #: public/views/walletHome.html:164
 msgid "Also"
@@ -189,12 +189,12 @@ msgstr "Bevestiging"
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr ""
+msgstr "Bevestigd adres:"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "Bevestigd door:"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -234,11 +234,11 @@ msgstr "De backup-woorden zijn verwijderd"
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
-msgstr ""
+msgstr "Back-ups"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
-msgstr ""
+msgstr "Slecht profiel"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -318,7 +318,7 @@ msgstr "Bestand kiezen"
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
-msgstr ""
+msgstr "Privé profiel kiezen"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -326,7 +326,7 @@ msgstr "Kies het toestel om naar te versturen"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr ""
+msgstr "Kies welke velden u wilt versturen:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
@@ -342,11 +342,11 @@ msgstr "Eis een bedrag op door middel van textcoin"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr ""
+msgstr "Klik op de knop om de mail <span ng-if=\"isResend\">opnieuw</span> te versturen:"
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "Klik op deze knop om de betaling te maken en deze te delen via privé berichten in chat apps of om een papieren portefeuille te maken."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -430,7 +430,7 @@ msgstr "Gekopieerd naar klembord"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr ""
+msgstr "Kopieer"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
@@ -480,7 +480,7 @@ msgstr "Het versturen van de betaling is mislukt"
 
 #: src/js/controllers/correspondentDevice.js:1085
 msgid "Country"
-msgstr ""
+msgstr "Land"
 
 #: public/views/walletHome.html:44
 msgid "Create"
@@ -533,7 +533,7 @@ msgstr "Datum"
 
 #: src/js/controllers/correspondentDevice.js:1084
 msgid "Date of birth"
-msgstr ""
+msgstr "Geboortedatum"
 
 #: src/js/controllers/index.js:277
 msgid "Declined"
