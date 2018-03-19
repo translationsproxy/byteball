@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-03-19 15:52-0400\n"
+"PO-Revision-Date: 2018-03-19 17:01-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr ""
+msgstr "'Modtag'-menu → 'Anmod om beløb via textcoin'-knap."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,11 +23,11 @@ msgstr "(Siden ser ikke din balance og ingen penge bliver brugt)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr ""
+msgstr "(nuværende wallet)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my another wallet)"
-msgstr ""
+msgstr "(en anden af mine wallets)"
 
 #: public/views/walletHome.html:667
 msgid "(possible double spend)"
@@ -110,7 +110,7 @@ msgstr "Avanceret"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "Når du har skrevet det ned, findes transaktionen i"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -134,7 +134,7 @@ msgstr "Allerede betalt"
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
-msgstr ""
+msgstr "Allerede gemt"
 
 #: public/views/walletHome.html:164
 msgid "Also"
@@ -189,12 +189,12 @@ msgstr "Bevidnelse"
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr ""
+msgstr "Attesterede adresser:"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "Attesteret af:"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -234,11 +234,11 @@ msgstr "Backup-ord slettet"
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
-msgstr ""
+msgstr "Backups"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
-msgstr ""
+msgstr "Ugyldig profil"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -318,7 +318,7 @@ msgstr "Vælg fil"
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
-msgstr ""
+msgstr "Vælg privat profil"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -326,7 +326,7 @@ msgstr "Vælg enhed du vil sende til"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr ""
+msgstr "Vælg hvilke felter, du vil sende:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
@@ -342,11 +342,11 @@ msgstr "Anmod om beløb via textcoin"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr ""
+msgstr "Klik på knappen for at <span ng-if=\"isResend\">gen</span>sende email:"
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "Klik på knappen for at oprette betaling og dele den via privat besked i chat apps eller for at oprette en paper wallet."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
