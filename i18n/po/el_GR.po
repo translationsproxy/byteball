@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-03-19 14:40-0400\n"
+"PO-Revision-Date: 2018-03-19 14:50-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1133,7 +1133,7 @@ msgstr "Σάρωση δακτυλικού αποτυπώματος"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr "Σάρωση χρημάτων Πορτοφολιού"
+msgstr "Σάρωση Χρημάτων Πορτοφολιού"
 
 #: public/views/walletHome.html:120
 msgid "Scan status finished with error"
@@ -1208,11 +1208,11 @@ msgstr "Αποστολή..."
 
 #: public/views/walletHome.html:619
 msgid "Sent"
-msgstr "Εξερχόμενα"
+msgstr "Απεσταλμένα"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr "Ημερολόγιο συνεδριών"
+msgstr "Μητρώο συνεδρίας"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
