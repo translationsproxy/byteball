@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-03-19 17:20-0400\n"
+"PO-Revision-Date: 2018-03-19 17:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -326,7 +326,7 @@ msgstr "Vælg enhed du vil sende til"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr "Vælg hvilke felter, du vil sende:"
+msgstr "Vælg hvilke felter du vil sende:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
@@ -630,7 +630,7 @@ msgstr "Email attestor"
 
 #: public/views/preferencesEmailAttestor.html:13
 msgid "Email attestor address"
-msgstr "Email attestor adresse"
+msgstr "Email-attestors adresse"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -1992,7 +1992,7 @@ msgstr "skift til single-address"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
-msgstr ""
+msgstr "teksten herunder og send den til en modtager via en besked app"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
@@ -2031,7 +2031,7 @@ msgstr "{{cancel_label || 'Fortryd'}}"
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
-msgstr ""
+msgstr "{confirm_label || 'Ja'}"
 
 #: src/js/controllers/walletHome.js:1794
 msgid "{{fee}} will be deducted for bitcoin networking fees"
