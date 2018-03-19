@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-03-19 14:50-0400\n"
+"PO-Revision-Date: 2018-03-19 15:00-0400\n"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -909,7 +909,7 @@ msgstr "Συνθηματικό"
 
 #: src/js/services/profileService.js:654
 msgid "Password needed"
-msgstr "Κωδικός πρόσβασης απαιτείται"
+msgstr "Απαιτείται κωδικός πρόσβασης"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
@@ -937,7 +937,7 @@ msgstr "Πρόταση Πληρωμής Δημιουργήθηκε"
 
 #: public/views/walletHome.html:196
 msgid "Payment Proposals"
-msgstr "Πρόταση Πληρωμής"
+msgstr "Προτάσεις Πληρωμής"
 
 #: public/views/modals/tx-status.html:38
 msgid "Payment Rejected"
@@ -953,7 +953,7 @@ msgstr "Ομότιμος (peer):"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
-msgstr "Να διαγράφεί μόνιμα αυτό το πορτοφόλι? ΑΥΤΗ Η ΕΝΕΡΓΕΙΑ ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΑΝΤΙΣΤΡΑΦΕΙ"
+msgstr "Μόνιμη διαγραφή αυτού του πορτοφολιού. ΑΥΤΗ Η ΕΝΕΡΓΕΙΑ ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΑΝΤΙΣΤΡΑΦΕΙ"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
@@ -977,11 +977,11 @@ msgstr "Θύρα"
 
 #: public/views/walletHome.html:502
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr "Ποστάρετε αυθαίρετα ζεύγη τιμής-κλειδιού στο δίκτυο Byteball."
+msgstr "Καταχωρήστε αυθαίρετα ζεύγη τιμής-κλειδιού στο δίκτυο Byteball."
 
 #: public/views/walletHome.html:493
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr "Ποστάρετε τιμές στα datafeeds χειροκίνητα, γίνετε ένας oracle."
+msgstr "Καταχωρήστε τιμές στα datafeeds χειροκίνητα, γίνετε ένας oracle."
 
 #: public/views/walletHome.html:499
 msgid "Post your profile data, anything you want to say about yourself."
@@ -1023,7 +1023,7 @@ msgstr "Ερώτηση:"
 
 #: src/js/controllers/index.js:610
 msgid "Receive"
-msgstr "Λάβετε"
+msgstr "Λήψη"
 
 #: public/views/walletHome.html:617
 msgid "Received"
@@ -1048,7 +1048,7 @@ msgstr "Ανάκτηση από το seed"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr "Αναδημιουργία πορτοφολιού..."
+msgstr "Αναδημιουργία Πορτοφολιού..."
 
 #: src/js/controllers/index.js:208
 msgid "Refused"
@@ -1056,7 +1056,7 @@ msgstr "Απορρίφθηκε"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr "Πληροφορίες Έκδοσης"
+msgstr "Έκδοση Πληροφοριών"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
