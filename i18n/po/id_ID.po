@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2018-03-20 01:00-0400\n"
+"PO-Revision-Date: 2018-03-20 01:17-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -97,7 +97,7 @@ msgstr "Alamat"
 
 #: public/views/walletHome.html:547
 msgid "Address to attest"
-msgstr "Alamat untuk membuktikan"
+msgstr "Alamat yang akan disahkan"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -180,7 +180,7 @@ msgstr "Aset"
 
 #: public/views/walletHome.html:536
 msgid "Attest profile data linked to any Byteball address."
-msgstr "Membuktikan data profil terkait dengan alamat Byteball."
+msgstr "Mengesahkan data profil terkait dengan alamat Byteball."
 
 #: public/views/walletHome.html:347
 msgid "Attestation"
@@ -189,12 +189,12 @@ msgstr "Pengesahan"
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr "Alamat saksi:"
+msgstr "Alamat yang disahkan:"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr "Disaksikan oleh:"
+msgstr "Disahkan oleh:"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -626,11 +626,11 @@ msgstr "Baik anda atau {{correspondent.name}} menonaktifkan rekaman riwayat obro
 
 #: public/views/preferencesGlobal.html:74
 msgid "Email attestor"
-msgstr "Surel saksi"
+msgstr "Surel pengesah"
 
 #: public/views/preferencesEmailAttestor.html:13
 msgid "Email attestor address"
-msgstr "Alamat surel pengesahan"
+msgstr "Alamat surel pengesah"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -1466,7 +1466,7 @@ msgstr "Textcoin"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
-msgstr "Alamat saksi atas nama:"
+msgstr "Alamat yang disahkan atas nama:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1915,7 +1915,7 @@ msgstr "di dompet pintar"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr ""
+msgstr "simpan untuk diri sendiri"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -1961,7 +1961,7 @@ msgstr "mengirim ulang muatan pribadi ke cosigners"
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "kirim"
 
 #: src/js/controllers/walletHome.js:750
 msgid "send email"
@@ -1984,15 +1984,15 @@ msgstr "berbagi lagi"
 
 #: public/views/walletHome.html:449
 msgid "switch to multi-address"
-msgstr ""
+msgstr "beralih ke alamat multi"
 
 #: public/views/walletHome.html:448
 msgid "switch to single address"
-msgstr ""
+msgstr "beralih ke alamat tunggal"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
-msgstr ""
+msgstr "teks di bawah ini dan kirimkan ke penerima melalui aplikasi pesan"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
@@ -2031,7 +2031,7 @@ msgstr "{{cancel_label || 'Cancel'}}"
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
-msgstr ""
+msgstr "{{confirm_label || 'Ya'}}"
 
 #: src/js/controllers/walletHome.js:1794
 msgid "{{fee}} will be deducted for bitcoin networking fees"
