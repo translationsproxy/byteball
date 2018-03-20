@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2018-03-20 00:00-0400\n"
+"PO-Revision-Date: 2018-03-20 00:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1791,7 +1791,7 @@ msgstr "Ya"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr ""
+msgstr "Anda dapat menghapus textcoin dari dompet anda jika anda telah menyimpannya di tempat lain (seperti dompet kertas):"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1803,7 +1803,7 @@ msgstr "Anda tidak mempunyai dompet"
 
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
-msgstr ""
+msgstr "Anda perlu melalui proses pengesahan untuk mendapatkan profil.  Cari bot Pengesahan Nama Asli di toko Bot."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -1846,7 +1846,7 @@ msgstr "peristiwa dilansir oleh peramal"
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr ""
+msgstr "dan hapus textcoin untuk tetap aman dari penyerang."
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1890,7 +1890,7 @@ msgstr "apapun itu"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr ""
+msgstr "hapus textcoin"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
