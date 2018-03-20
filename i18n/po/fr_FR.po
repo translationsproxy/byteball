@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-03-20 07:11-0400\n"
+"PO-Revision-Date: 2018-03-20 07:26-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr "Onglet 'Recevoir' → Demander un montant via textcoin'."
+msgstr "Onglet 'Recevoir' → Demander un montant via textcoin."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -346,7 +346,7 @@ msgstr "Cliquez sur le bouton pour <span ng-if=\"isResend\">re</span>envoyer un 
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr "Cliquez sur ce bouton pour créer le paiement et le partager via message privé dans l'apps de chat ou pour créer un portefeuille papier."
+msgstr "Cliquez sur ce bouton pour créer le paiement et le partager via message privé dans l'application de chat ou pour créer un portefeuille papier."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -1535,19 +1535,19 @@ msgstr "Cette transaction est devenue invalide ; il s'agit peut-être d'une tent
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
-msgstr ""
+msgstr "Ce portefeuille ne peut être converti en portefeuille à adresses multiples car il a déjà des attestations"
 
 #: public/views/preferences.html:41
 msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
-msgstr ""
+msgstr "Ce portefeuille ne peut pas être converti en portefeuille à adresses multiples car c’est un multi-appareils"
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
-msgstr ""
+msgstr "Ce portefeuille ne peut être converti en portefeuille à adresses uniques car qu’il comprend déjà plusieurs adresses"
 
 #: public/views/preferences.html:40
 msgid "This wallet cannot be converted to single address wallet as it is multidevice"
-msgstr ""
+msgstr "Ce portefeuille ne peut être converti en portefeuille à adresses uniques car c'est un multi-appareils"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
