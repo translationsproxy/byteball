@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-03-20 02:40-0400\n"
+"PO-Revision-Date: 2018-03-20 02:51-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -27,7 +27,7 @@ msgstr "(portefeuille actuel)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my another wallet)"
-msgstr ""
+msgstr "(mon autre portefeuille)"
 
 #: public/views/walletHome.html:667
 msgid "(possible double spend)"
@@ -110,7 +110,7 @@ msgstr "Paramètres avancés"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "Après l'avoir noté, trouvez cette transaction dans"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -189,12 +189,12 @@ msgstr "Attestation"
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr ""
+msgstr "Adresse attestée :"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "Attestée par :"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -342,7 +342,7 @@ msgstr "Demander un montant via textcoin"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr ""
+msgstr "Cliquez sur le bouton pour <span ng-if=\"isResend\">re</span>envoyer un email :"
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
@@ -565,7 +565,7 @@ msgstr "Supprimer le portefeuille"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr ""
+msgstr "La suppression du textcoin supprimera la possibilité de le réclamer ou de le renvoyer"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -626,11 +626,11 @@ msgstr "Vous ou {{correspondent.name}} a l'enregistrement de l'historique du cha
 
 #: public/views/preferencesGlobal.html:74
 msgid "Email attestor"
-msgstr ""
+msgstr "Courrier témoin"
 
 #: public/views/preferencesEmailAttestor.html:13
 msgid "Email attestor address"
-msgstr ""
+msgstr "Adresse du courrier témoin"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -777,11 +777,11 @@ msgstr "Numéro d’identification"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
-msgstr ""
+msgstr "Sous-type d'identifiant"
 
 #: src/js/controllers/correspondentDevice.js:1088
 msgid "ID type"
-msgstr ""
+msgstr "Type d'identifiant"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
@@ -956,7 +956,7 @@ msgstr ""
 
 #: public/views/modals/choose-profile.html:68
 msgid "No profiles yet."
-msgstr ""
+msgstr "Actuellement aucun profil."
 
 #: public/views/walletHome.html:625
 msgid "No transactions yet"
@@ -1126,7 +1126,7 @@ msgstr "Charge privée envoyée"
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "Profil privé"
 
 #: public/views/walletHome.html:348
 msgid "Profile"
@@ -1324,7 +1324,7 @@ msgstr "Envoyer par e-mail"
 
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
-msgstr ""
+msgstr "Envoyer ce profil"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
@@ -1621,7 +1621,7 @@ msgstr "Traducteurs"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr ""
+msgstr "Nœuds de confiance"
 
 #: src/js/controllers/correspondentDevice.js:1086
 msgid "US state"
@@ -1774,7 +1774,7 @@ msgstr "Témoins"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr "Notez ce textcoin sur papier et stocker le en toute sécurité. Demandez-le à tout moment à l'avenir en utilisant"
+msgstr "Notez ce textcoin sur papier et stocker le en toute sécurité. Réclamez-le à tout moment à l'avenir en utilisant"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
