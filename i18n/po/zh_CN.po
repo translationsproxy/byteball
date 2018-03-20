@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-03-19 20:10-0400\n"
+"PO-Revision-Date: 2018-03-19 23:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -134,7 +134,7 @@ msgstr "已付款"
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
-msgstr ""
+msgstr "已保存"
 
 #: public/views/walletHome.html:164
 msgid "Also"
@@ -194,7 +194,7 @@ msgstr ""
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "证明:"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -234,7 +234,7 @@ msgstr "备份文档已删除"
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
-msgstr ""
+msgstr "备份"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
@@ -430,7 +430,7 @@ msgstr "已复制到剪贴板"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
@@ -533,7 +533,7 @@ msgstr "日期"
 
 #: src/js/controllers/correspondentDevice.js:1084
 msgid "Date of birth"
-msgstr ""
+msgstr "出生日期"
 
 #: src/js/controllers/index.js:277
 msgid "Declined"
@@ -773,7 +773,7 @@ msgstr "我收到另一笔款项其数额为"
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
-msgstr ""
+msgstr "身份证号码"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
@@ -1621,7 +1621,7 @@ msgstr "翻译者"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr ""
+msgstr "受信任节点"
 
 #: src/js/controllers/correspondentDevice.js:1086
 msgid "US state"
@@ -1961,7 +1961,7 @@ msgstr "向联合签署人重新发送私人有效载荷"
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "发送"
 
 #: src/js/controllers/walletHome.js:750
 msgid "send email"
