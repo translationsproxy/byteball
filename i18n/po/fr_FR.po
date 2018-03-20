@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-03-20 02:51-0400\n"
+"PO-Revision-Date: 2018-03-20 03:01-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -836,7 +836,7 @@ msgstr "Insérer mon adresse"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr ""
+msgstr "Insérez le profil privé"
 
 #: public/views/walletHome.html:660
 msgid "Invalid"
@@ -952,7 +952,7 @@ msgstr "Aucun mot de passe donné"
 
 #: public/views/modals/choose-profile.html:67
 msgid "No profiles matching the requested criteria."
-msgstr ""
+msgstr "Aucun profil ne correspondant aux critères de recherche."
 
 #: public/views/modals/choose-profile.html:68
 msgid "No profiles yet."
@@ -1088,7 +1088,7 @@ msgstr "Veuillez nommer cet appareil"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr ""
+msgstr "Veuillez passer à un portefeuille à adresse unique et vous devrez probablement insérer à nouveau votre adresse."
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1412,7 +1412,7 @@ msgstr "Pas encore fait"
 
 #: src/js/controllers/correspondentDevice.js:1131
 msgid "Store"
-msgstr ""
+msgstr "Store"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:136
