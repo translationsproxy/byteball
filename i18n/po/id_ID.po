@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2018-03-19 23:40-0400\n"
+"PO-Revision-Date: 2018-03-19 23:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -565,7 +565,7 @@ msgstr "Hapus Dompet"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr ""
+msgstr "Menghapus textcoin akan menghilangkan kemampuan untuk mengklaim kembali atau mengirim ulang"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -626,11 +626,11 @@ msgstr "Baik anda atau {{correspondent.name}} menonaktifkan rekaman riwayat obro
 
 #: public/views/preferencesGlobal.html:74
 msgid "Email attestor"
-msgstr ""
+msgstr "Surel saksi"
 
 #: public/views/preferencesEmailAttestor.html:13
 msgid "Email attestor address"
-msgstr ""
+msgstr "Alamat surel saksi"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -680,7 +680,7 @@ msgstr "Kepastian"
 
 #: src/js/controllers/correspondentDevice.js:1082
 msgid "First name"
-msgstr ""
+msgstr "Nama depan"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -773,19 +773,19 @@ msgstr "Saya menerima pembayaran lain dari"
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
-msgstr ""
+msgstr "Nomor ID"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
-msgstr ""
+msgstr "Subtipe ID"
 
 #: src/js/controllers/correspondentDevice.js:1088
 msgid "ID type"
-msgstr ""
+msgstr "Tipe ID"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
-msgstr ""
+msgstr "Jika salah satu perangkat cosigner anda tidak melihat pembayaran ini, anda dapat"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
@@ -798,7 +798,7 @@ msgstr "Jika rekanan tidak membayar, uang saya akan kembali setelah"
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr ""
+msgstr "Jika penerima tidak melihat pembayaran anda, anda dapat"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -836,7 +836,7 @@ msgstr "Masukkan alamat saya"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr ""
+msgstr "Masukkan profil pribadi"
 
 #: public/views/walletHome.html:660
 msgid "Invalid"
@@ -868,7 +868,7 @@ msgstr "Bahasa"
 
 #: src/js/controllers/correspondentDevice.js:1083
 msgid "Last name"
-msgstr ""
+msgstr "Nama belakang"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
@@ -952,11 +952,11 @@ msgstr "Tidak ada kata sandi yang diberikan"
 
 #: public/views/modals/choose-profile.html:67
 msgid "No profiles matching the requested criteria."
-msgstr ""
+msgstr "Profil tidak cocok dengan kriteria yang diminta."
 
 #: public/views/modals/choose-profile.html:68
 msgid "No profiles yet."
-msgstr ""
+msgstr "Belum memiliki profil."
 
 #: public/views/walletHome.html:625
 msgid "No transactions yet"
@@ -999,7 +999,7 @@ msgstr "Buka obrolan"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr ""
+msgstr "Atau menyalin"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1088,7 +1088,7 @@ msgstr "Berikan nama perangkat ini"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr ""
+msgstr "Harap beralih ke alamat dompet tunggal dan anda mungkin perlu untuk memasukkan alamat anda lagi."
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1126,7 +1126,7 @@ msgstr "Muatan pribadi dikirim"
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "Profil pribadi"
 
 #: public/views/walletHome.html:348
 msgid "Profile"
@@ -1324,7 +1324,7 @@ msgstr "Kirim melalui surel"
 
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
-msgstr ""
+msgstr "Kirim profil ini"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
@@ -1412,7 +1412,7 @@ msgstr "Masih belum selesai"
 
 #: src/js/controllers/correspondentDevice.js:1131
 msgid "Store"
-msgstr ""
+msgstr "Toko"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:136
@@ -1466,7 +1466,7 @@ msgstr "Textcoin"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
-msgstr ""
+msgstr "Alamat saksi atas nama:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1478,7 +1478,7 @@ msgstr "Hub menyarankan untuk mengganti saksi berikut ini:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr ""
+msgstr "Dana disimpan di textcoin ini:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
