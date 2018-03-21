@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-21 19:00-0400\n"
+"PO-Revision-Date: 2018-03-21 19:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr ""
+msgstr "Textcoin einlösen."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -189,12 +189,12 @@ msgstr "Beglaubigung"
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr ""
+msgstr "Bestätigte Adresse:"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "Bestätigt von:"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -238,7 +238,7 @@ msgstr "Sicherheitskopie"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
-msgstr ""
+msgstr "Defektes Profil"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -998,7 +998,7 @@ msgstr "Öffne Chat"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr ""
+msgstr "Oder kopieren"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1411,7 +1411,7 @@ msgstr "Noch nicht erledigt"
 
 #: src/js/controllers/correspondentDevice.js:1131
 msgid "Store"
-msgstr ""
+msgstr "Shop"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:136
