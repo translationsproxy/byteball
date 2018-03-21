@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-03-20 07:26-0400\n"
+"PO-Revision-Date: 2018-03-21 07:42-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -371,15 +371,15 @@ msgstr "Fermer"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
-msgstr "Co-signeur {{$index+1}}:"
+msgstr "Cosignataires {{$index+1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr "Co-signeurs"
+msgstr "Cosignataires"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr "Co-signeurs pour multi-signature"
+msgstr "Cosignataires pour multi-signature"
 
 #: public/views/preferences.html:29
 msgid "Color"
@@ -1601,7 +1601,7 @@ msgstr "Montant total"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr "Nombre total de co-signeurs"
+msgstr "Nombre total de cosignataires"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
@@ -1695,7 +1695,7 @@ msgstr "BIENVENUE SUR BYTEBALL"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
-msgstr "En attente des co-signeurs"
+msgstr "En attente des cosignataires"
 
 #: public/views/copayers.html:33
 msgid "Waiting..."
