@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-19 18:00-0400\n"
+"PO-Revision-Date: 2018-03-21 19:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -234,7 +234,7 @@ msgstr "Sicherungsworte gelöscht"
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
-msgstr ""
+msgstr "Sicherheitskopie"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
@@ -318,7 +318,7 @@ msgstr "Datei auswählen"
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
-msgstr ""
+msgstr "Privates Profil auswählen"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -430,7 +430,7 @@ msgstr "In die Zwischenablage kopiert"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr ""
+msgstr "Kopieren"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
@@ -533,7 +533,7 @@ msgstr "Datum"
 
 #: src/js/controllers/correspondentDevice.js:1084
 msgid "Date of birth"
-msgstr ""
+msgstr "Geburtsdatum"
 
 #: src/js/controllers/index.js:277
 msgid "Declined"
@@ -680,7 +680,7 @@ msgstr "Endgültigkeit"
 
 #: src/js/controllers/correspondentDevice.js:1082
 msgid "First name"
-msgstr ""
+msgstr "Vorname"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -773,7 +773,7 @@ msgstr "Ich erhalte eine weitere Zahlung von"
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
-msgstr ""
+msgstr "Ausweisnummer"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
@@ -781,7 +781,7 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:1088
 msgid "ID type"
-msgstr ""
+msgstr "Ausweistyp"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
@@ -867,7 +867,7 @@ msgstr "Sprache"
 
 #: src/js/controllers/correspondentDevice.js:1083
 msgid "Last name"
-msgstr ""
+msgstr "Name"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
@@ -1125,7 +1125,7 @@ msgstr "Private Transaktionen gesendet"
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "Privates Profil"
 
 #: public/views/walletHome.html:348
 msgid "Profile"
@@ -1323,7 +1323,7 @@ msgstr "Per E-Mail senden"
 
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
-msgstr ""
+msgstr "Sende dieses Profil"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
@@ -1596,7 +1596,7 @@ msgstr "Ingesamt gesperrter Gesamtsaldo"
 
 #: public/views/walletHome.html:382
 msgid "Total amount"
-msgstr ""
+msgstr "Gesamtbetrag"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
@@ -1620,11 +1620,11 @@ msgstr "Übersetzer"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr ""
+msgstr "Vertrauenswürdige Knoten"
 
 #: src/js/controllers/correspondentDevice.js:1086
 msgid "US state"
-msgstr ""
+msgstr "US-Bundesstaat"
 
 #: src/js/controllers/walletHome.js:810
 msgid "Unable to send transaction proposal"
@@ -1665,7 +1665,7 @@ msgstr "Werte"
 
 #: src/js/controllers/correspondentDevice.js:1108
 msgid "Verifying the profile..."
-msgstr ""
+msgstr "Verifiziere das Profil..."
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1889,7 +1889,7 @@ msgstr "so oder so"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr ""
+msgstr "Textcoin löschen"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
@@ -1960,7 +1960,7 @@ msgstr "private Transaktionsdaten erneut zu Mitunterzeichner senden"
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "senden"
 
 #: src/js/controllers/walletHome.js:750
 msgid "send email"
