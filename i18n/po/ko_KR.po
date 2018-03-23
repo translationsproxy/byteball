@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-03-23 02:43-0400\n"
+"PO-Revision-Date: 2018-03-23 02:54-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -250,7 +250,7 @@ msgstr "자금을 받기 전에 지갑의 키를 백업하길 강력히 권장�
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "더 좋은건, 여분의 다른 지급을 사용하십시오."
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
@@ -268,7 +268,7 @@ msgstr "비트코인 URI가 유효하지 않습니다!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr ""
+msgstr "봇 스토어"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -280,7 +280,7 @@ msgstr "지원되지 않는 브라우저"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "바이트볼 주소"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -314,11 +314,11 @@ msgstr "채팅"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "파일을 선택하십시오."
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
-msgstr ""
+msgstr "개인 프로필을 선택 하십시오"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -326,27 +326,27 @@ msgstr "보낼 장치 선택하기."
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr ""
+msgstr "보낼 필드를 선택하십시오."
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
-msgstr ""
+msgstr "펀드를 요청하십시오."
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "텍스트코인으로 펀드를 요청하십시오."
 
 #: public/views/walletHome.html:316
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "텍스트코인 사용하는 펀드 요청하십시오."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr ""
+msgstr "<span ng-if=\"isResend\">재</span> 전송 메일 버튼을 클릭하십시오."
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "결재하기 위해 이 버튼을 클릭하고 챗 어플에서 개인 메세지를 통해 공유하시거나, 지류 지갑을 만들기 위해 이 버튼을 클릭하십시오."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -405,7 +405,7 @@ msgstr "확인하기"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr ""
+msgstr "보트 확인해 주십시오."
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -413,7 +413,7 @@ msgstr "결제 확인"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "보트 확인해 주십시오."
 
 #: public/views/modals/tx-details.html:121
 msgid "Confirmed"
@@ -421,7 +421,7 @@ msgstr "확인됨."
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr ""
+msgstr "연락처"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:391
@@ -430,7 +430,7 @@ msgstr "클립보드에 복사하기"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr ""
+msgstr "복사"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
@@ -480,7 +480,7 @@ msgstr "지불할 비용을 보낼 수 없습니다."
 
 #: src/js/controllers/correspondentDevice.js:1085
 msgid "Country"
-msgstr ""
+msgstr "국가"
 
 #: public/views/walletHome.html:44
 msgid "Create"
@@ -521,11 +521,11 @@ msgstr "단어 삭제"
 
 #: public/views/walletHome.html:349
 msgid "Data"
-msgstr ""
+msgstr "데이타"
 
 #: public/views/walletHome.html:346
 msgid "Data into datafeed"
-msgstr ""
+msgstr "데이터피드 데이터"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
@@ -533,7 +533,7 @@ msgstr "날짜"
 
 #: src/js/controllers/correspondentDevice.js:1084
 msgid "Date of birth"
-msgstr ""
+msgstr "생일"
 
 #: src/js/controllers/index.js:277
 msgid "Declined"
