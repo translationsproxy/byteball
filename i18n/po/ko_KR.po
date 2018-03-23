@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-03-19 15:51-0400\n"
+"PO-Revision-Date: 2018-03-23 02:43-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr ""
+msgstr "'받기' 탭 → '텍스트코인 사용하여 펀드 요청하기' 버튼"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,11 +23,11 @@ msgstr "(사이트는 당신의 잔액을 표시하지 않고 어떠한 돈도 �
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr ""
+msgstr "(현재 지급)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my another wallet)"
-msgstr ""
+msgstr "(나의 다른 지갑)"
 
 #: public/views/walletHome.html:667
 msgid "(possible double spend)"
@@ -35,11 +35,11 @@ msgstr "(이중 지불 가능성 있음)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- 공동서명인 선택 --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "대시로 구분된 12단어"
 
 #: public/views/preferencesGlobal.html:140
 msgid "About Byteball"
@@ -66,7 +66,7 @@ msgstr "계정"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "봇을 추가하십시오."
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
@@ -79,7 +79,7 @@ msgstr "새 항목 추가"
 
 #: public/views/walletHome.html:572
 msgid "Add fields"
-msgstr ""
+msgstr "필드를 추가하십시오"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -87,7 +87,7 @@ msgstr "지갑 추가"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "추가됨"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
@@ -97,7 +97,7 @@ msgstr "주소"
 
 #: public/views/walletHome.html:547
 msgid "Address to attest"
-msgstr ""
+msgstr "입증할 주소"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -110,7 +110,7 @@ msgstr "고급"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "그것을 쓴다음, 이 트랜잭션을 찾으십시오."
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -134,7 +134,7 @@ msgstr "이미 지불됨."
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
-msgstr ""
+msgstr "이미 저장됨"
 
 #: public/views/walletHome.html:164
 msgid "Also"
@@ -142,11 +142,11 @@ msgstr "또한"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "셋팅 메뉴에서 역시, 당신은 패스워드 셋팅과 같은 보안 옵션을 찾을 수 있습니다."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "또한, 당신의 씨드를 삭제하는것을 잊지 마십시오."
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -159,7 +159,7 @@ msgstr "금액"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "답변:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
@@ -180,21 +180,21 @@ msgstr "자산"
 
 #: public/views/walletHome.html:536
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "모든 바이트볼 주소에 연결된 프로파일 데이타를 입증 하십시오."
 
 #: public/views/walletHome.html:347
 msgid "Attestation"
-msgstr ""
+msgstr "입증"
 
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr ""
+msgstr "입증된 주소:"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "입증되었습니다."
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -234,11 +234,11 @@ msgstr "백업 단어 삭제"
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
-msgstr ""
+msgstr "백업"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
-msgstr ""
+msgstr "나쁜 프로필"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
