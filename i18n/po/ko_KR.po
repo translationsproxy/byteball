@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-03-23 03:00-0400\n"
+"PO-Revision-Date: 2018-03-23 03:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -626,11 +626,11 @@ msgstr "당신이나 {{correspondent.name}}은 채팅 내역 기록을 이용하
 
 #: public/views/preferencesGlobal.html:74
 msgid "Email attestor"
-msgstr ""
+msgstr "이메일 입증자"
 
 #: public/views/preferencesEmailAttestor.html:13
 msgid "Email attestor address"
-msgstr ""
+msgstr "이메일 입증자 주소"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -680,7 +680,7 @@ msgstr "최종"
 
 #: src/js/controllers/correspondentDevice.js:1082
 msgid "First name"
-msgstr ""
+msgstr "이름"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -708,7 +708,7 @@ msgstr "시작하기"
 
 #: src/js/controllers/walletHome.js:420
 msgid "Generate QR Code"
-msgstr ""
+msgstr "QR 코드 생성하십시오"
 
 #: public/views/walletHome.html:302
 msgid "Generate new address"
@@ -765,15 +765,15 @@ msgstr "이 약관을 읽었으며, 이해하고 동의합니다."
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "내가 지불합니다."
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "나는 다른 지불을 받습니다."
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
-msgstr ""
+msgstr "ID 번호"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
@@ -1569,7 +1569,7 @@ msgstr ""
 
 #: public/views/walletHome.html:598
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "바이트볼 네트워크로 임의의 데이터를 보내기 위해서는 싱글 지갑을 첫 순위로 변경하거나 지갑을 생성하십시오."
 
 #: public/views/walletHome.html:452
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1577,16 +1577,16 @@ msgstr "지불의 조건을 부여 하려면 채팅에 동료의 주소를 클�
 
 #: public/views/walletHome.html:405
 msgid "To byteball address"
-msgstr ""
+msgstr "바이트볼 주소로"
 
 #: public/views/walletHome.html:397
 msgid "To byteball address or email"
-msgstr ""
+msgstr "바이트볼 주소 또는 이메일로"
 
 #: public/views/modals/tx-details.html:50
 #: public/views/walletHome.html:693
 msgid "To email"
-msgstr ""
+msgstr "이메일로"
 
 #: public/views/walletHome.html:295
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1598,7 +1598,7 @@ msgstr "총 고정 잔액"
 
 #: public/views/walletHome.html:382
 msgid "Total amount"
-msgstr ""
+msgstr "총 합계"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
@@ -1610,7 +1610,7 @@ msgstr "거래"
 
 #: public/views/walletHome.html:647
 msgid "Transactions<br> Downloaded"
-msgstr ""
+msgstr "다운로드된 트렌젝션<br>"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
@@ -1622,11 +1622,11 @@ msgstr "번역자"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr ""
+msgstr "신뢰할 만한 노드"
 
 #: src/js/controllers/correspondentDevice.js:1086
 msgid "US state"
-msgstr ""
+msgstr "미국"
 
 #: src/js/controllers/walletHome.js:810
 msgid "Unable to send transaction proposal"
@@ -1639,7 +1639,7 @@ msgstr "미확인"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr ""
+msgstr "블랙바이트 단위"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
@@ -1659,15 +1659,15 @@ msgstr "{{version}}으로 업그레이드"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "데이터베이스를 업그레이드 중입니다. 잠시만 기다려 주십시오. 때때로 몇 분 정도 걸립니다."
 
 #: public/views/walletHome.html:562
 msgid "Values"
-msgstr ""
+msgstr "값"
 
 #: src/js/controllers/correspondentDevice.js:1108
 msgid "Verifying the profile..."
-msgstr ""
+msgstr "프로필 확인중"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1675,7 +1675,7 @@ msgstr "버전"
 
 #: public/views/export.html:56
 msgid "WARNING:"
-msgstr ""
+msgstr "경고:"
 
 #: public/views/walletHome.html:236
 msgid "WARNING: Backup needed"
