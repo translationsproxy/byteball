@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-03-23 03:40-0400\n"
+"PO-Revision-Date: 2018-03-23 03:53-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1683,7 +1683,7 @@ msgstr "경고: 백업이 필요합니다"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr ""
+msgstr "경고: 이 씨드는 패스프레이즈로 생성되었습니다. 이 지갑을 복구하기 위해서 연상기호와 패스프레이즈 둘다 필요합니다."
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
@@ -1750,11 +1750,11 @@ msgstr "경고!"
 
 #: public/views/modals/tx-details.html:129
 msgid "Was claimed?"
-msgstr ""
+msgstr "요청 되었습니까?"
 
 #: public/views/walletHome.html:342
 msgid "What to send"
-msgstr ""
+msgstr "보낼 것"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
@@ -1775,7 +1775,7 @@ msgstr "증인"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr ""
+msgstr "페이퍼 이 텍스트코인을 적고 잘 보관하십시오. 향후 사용에 언제든지 그것을 요구 하십시오."
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1792,11 +1792,11 @@ msgstr "예"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr ""
+msgstr "당신이 이미 그것을 다른곳에 저장했다면(즉, 종이 지갑 같은) 당신의 지갑에서 텍스트코인을 지울수 있습니다."
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr ""
+msgstr "싱글 주소 지갑으로 역지불 하기 위해 당신의 트랜젝션을 바인드 할 수 없습니다. 싱글 아닌 주소 지갑을 사용하십시오. 그리고 나서 이 지갑에 돈을 송금하십시오."
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
@@ -1804,7 +1804,7 @@ msgstr "지갑이 없습니다"
 
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
-msgstr ""
+msgstr "프로필을 얻기 위해 당신은 입증을 고려해야합니다. 봇 스토어에서 진짜 이름 증명 봇를 찾으십시오."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -1813,7 +1813,7 @@ msgstr "당신의 지갑 시드:"
 
 #: public/views/export.html:33
 msgid "Your export password"
-msgstr ""
+msgstr "당신의 내보내기 패스워드"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
@@ -1829,41 +1829,41 @@ msgstr "지갑 키는 암호화 됩니다. 비밀번호는 복구 될수 없읍�
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "당신의 지갑은 이 디바이스에서 생성되어질 것입니다. 안전하게 보관하십시오. 셋팅 메뉴에서 당신의 백업 옵션을 살펴 보십시오."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[ 신규 공동서명자 디바이스 추가]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
 msgid "amount"
-msgstr ""
+msgstr "금액"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "이벤트는 오라클에 의해 게시됩니다."
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr ""
+msgstr "그리고 공격자로부터 그것을 안전하게 지키기 위해 텍스트코인을 지우십시오."
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr ""
+msgstr "계약을 해지 할 수 있습니다."
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "그것이 만료 후 계약을 해제 할 수 있습니다."
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "지갑 생성 취소하십시오."
 
 #: public/views/modals/tx-details.html:137
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "{{btx.claimedByMe?'me':'수신자'|translate}}로 요청 되었습니다."
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1871,19 +1871,19 @@ msgstr "채팅 기록 삭제"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "생성된"
 
 #: public/views/modals/offer-contract.html:108
 msgid "days"
-msgstr ""
+msgstr "일"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "즉, 디바이스에 하나의 키를 가지고 있는 지갑과 당신의 랩탑 컴퓨터에 다른 키를 가진 둘 중 하나의 키"
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "즉, 둘 중 하나의 지갑 이 디바이스의 하나의 키를 가지고 있고 다른 스마트폰에 있는 다른 키"
 
 #: public/views/modals/bind.html:72
 msgid "either way"
@@ -1891,11 +1891,11 @@ msgstr "어느 쪽이 든"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr ""
+msgstr "텍스트코인을 삭제하십시오"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
-msgstr ""
+msgstr "명쾌하게"
 
 #: public/views/modals/bind.html:79
 #: public/views/modals/offer-contract.html:69
