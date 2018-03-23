@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2018-03-23 08:50-0400\n"
+"PO-Revision-Date: 2018-03-23 09:02-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -773,15 +773,15 @@ msgstr "Şu miktarda başka bir ödeme daha alırsam"
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
-msgstr ""
+msgstr "Kimlik numarası"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
-msgstr ""
+msgstr "Kimlik alt türü"
 
 #: src/js/controllers/correspondentDevice.js:1088
 msgid "ID type"
-msgstr ""
+msgstr "Kimlik türü"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
@@ -999,7 +999,7 @@ msgstr "Sohbeti aç"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr ""
+msgstr "Yada kopyala"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1597,7 +1597,7 @@ msgstr "Toplam Kilitli Bakiye"
 
 #: public/views/walletHome.html:382
 msgid "Total amount"
-msgstr ""
+msgstr "Toplam tutar"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
@@ -1621,7 +1621,7 @@ msgstr "Çevirmenler"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr ""
+msgstr "Güvenilir düğümler"
 
 #: src/js/controllers/correspondentDevice.js:1086
 msgid "US state"
