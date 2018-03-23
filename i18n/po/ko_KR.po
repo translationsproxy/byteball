@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-03-23 02:54-0400\n"
+"PO-Revision-Date: 2018-03-23 03:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -565,7 +565,7 @@ msgstr "지갑 삭제"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr ""
+msgstr "텍스트코인을 삭제하는 것은 다시 요청하거나 재전송할 수 있는 능력을 제거할 것입니다."
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -592,11 +592,11 @@ msgstr "장치 이름은 당신과 통신하는 다른 장치에 표시됩니다
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "복제 지갑을 만들지 마십시오, 이 씨드로 원본 지갑을 사용하는 것을 중지 하십시오."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "지갑을 복제하기 위해 이것을 사용하지 마십시오."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -613,7 +613,7 @@ msgstr "CSV 파일 다운로드"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "온전히 바이트볼 데이터베이스를 다운로드 받으십시오."
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
