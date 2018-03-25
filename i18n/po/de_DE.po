@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-21 19:10-0400\n"
+"PO-Revision-Date: 2018-03-25 03:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -110,7 +110,7 @@ msgstr "Erweitert"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "Nach dem Sie diese aufgeschrieben haben, finden Sie diese Transaktion in"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -134,7 +134,7 @@ msgstr "bereits bezahlt"
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
-msgstr ""
+msgstr "Bereits gespeichert"
 
 #: public/views/walletHome.html:164
 msgid "Also"
@@ -326,7 +326,7 @@ msgstr "Wählen sie das Geräte für den Versand"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr ""
+msgstr "Wählen Sie, welche Felder gesendet werden sollen:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
@@ -342,7 +342,7 @@ msgstr "Gelder durch Textcoin beanspruchen"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr ""
+msgstr "Den Button klicken, um Email <span ng-if=\"isResend\">nochmal</span> zu senden:"
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
