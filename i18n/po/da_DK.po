@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-03-25 05:30-0400\n"
+"PO-Revision-Date: 2018-03-25 05:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1304,7 +1304,7 @@ msgstr "Send"
 
 #: public/views/walletHome.html:333
 msgid "Send All"
-msgstr "Send alle"
+msgstr "Send alt"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
@@ -1316,7 +1316,7 @@ msgstr "Send adresser som email"
 
 #: public/views/walletHome.html:383
 msgid "Send all"
-msgstr "Send alle"
+msgstr "Send alt"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
