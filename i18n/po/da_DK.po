@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-03-25 05:20-0400\n"
+"PO-Revision-Date: 2018-03-25 05:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -525,7 +525,7 @@ msgstr "Data"
 
 #: public/views/walletHome.html:346
 msgid "Data into datafeed"
-msgstr "Data i datafeed"
+msgstr "Data til datafeed"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
@@ -1100,7 +1100,7 @@ msgstr "Post vilkårlige nøgleværdier i Byteball-netværket."
 
 #: public/views/walletHome.html:533
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr "Post manuelle værdier i datastrømme, vær et orakel."
+msgstr "Post manuelle værdier i datastrømme som et orakel."
 
 #: public/views/walletHome.html:539
 msgid "Post your profile data, anything you want to say about yourself."
@@ -1984,11 +1984,11 @@ msgstr "del igen"
 
 #: public/views/walletHome.html:449
 msgid "switch to multi-address"
-msgstr "skift til multi-address"
+msgstr "Flere modtagere"
 
 #: public/views/walletHome.html:448
 msgid "switch to single address"
-msgstr "skift til single-address"
+msgstr "Enkelt modtager"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
