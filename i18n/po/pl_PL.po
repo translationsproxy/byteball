@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2018-03-19 15:51-0400\n"
+"PO-Revision-Date: 2018-03-25 11:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -23,11 +23,11 @@ msgstr "(Strona nie zobaczy Twojego salda i żadne środki nie zostaną wysłane
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr ""
+msgstr "(bieżący portfel)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my another wallet)"
-msgstr ""
+msgstr "(mój inny portfel)"
 
 #: public/views/walletHome.html:667
 msgid "(possible double spend)"
@@ -110,7 +110,7 @@ msgstr "Zaawansowane"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "Po zapisaniu tych danych, znajdziesz tę transkakcję w"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -134,7 +134,7 @@ msgstr "Już zapłacone"
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
-msgstr ""
+msgstr "Już zapisano"
 
 #: public/views/walletHome.html:164
 msgid "Also"
@@ -189,12 +189,12 @@ msgstr "Poświadczenie"
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr ""
+msgstr "Poświadczony adres:"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "Poświadczony przez:"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -234,11 +234,11 @@ msgstr "Usunięto słowa kopii zapasowej"
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
-msgstr ""
+msgstr "Kopie zapasowe"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
-msgstr ""
+msgstr "Zły profil"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -318,7 +318,7 @@ msgstr "Wybierz plik"
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
-msgstr ""
+msgstr "Wybierz profil prywatny"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -326,7 +326,7 @@ msgstr "Wybierz urządzenie, na które wysłać"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr ""
+msgstr "Wybierz, które pola wysłać:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
@@ -342,7 +342,7 @@ msgstr "Odbierz środki przy użyciu textcoin"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr ""
+msgstr "Kliknij przycisk, aby <span ng-if=\"isResend\"> ponownie</span> wysłać e-mail:"
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
@@ -1580,7 +1580,7 @@ msgstr "Na adres byteball"
 
 #: public/views/walletHome.html:397
 msgid "To byteball address or email"
-msgstr "Na adres byteball lub e-mail"
+msgstr "Na adres byteball lub email"
 
 #: public/views/modals/tx-details.html:50
 #: public/views/walletHome.html:693
