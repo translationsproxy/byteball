@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-25 11:10-0400\n"
+"PO-Revision-Date: 2018-03-25 12:04-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1534,19 +1534,19 @@ msgstr "Diese Transaktion ist ungültig; dies kann durch eine versuchte Doppelza
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
-msgstr ""
+msgstr "Diese Wallet kann nicht in eine Multi-Address-Wallet konvertiert werden, da sie bereits über Bestätigungen verfügt"
 
 #: public/views/preferences.html:41
 msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
-msgstr ""
+msgstr "Diese Wallet kann nicht in eine Multi-Address-Wallet konvertiert werden, da sie Multidevice ist"
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
-msgstr ""
+msgstr "Diese Wallet kann nicht zu einer Single-Address-Wallet konvertiert werden, da sie schon mehrere Addressen enthält"
 
 #: public/views/preferences.html:40
 msgid "This wallet cannot be converted to single address wallet as it is multidevice"
-msgstr ""
+msgstr "Diese Wallet kann nicht in eine Single-Address-Wallet konvertiert werden, da sie Multidevice ist"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
@@ -1773,7 +1773,7 @@ msgstr "Zeugen"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr ""
+msgstr "Notieren Sie sich diese Textcoin auf Papier und bewahren Sie diese sicher auf. Sie können diese in Zukunft jederzeit zurückfordern unter Verwendung von"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1790,7 +1790,7 @@ msgstr "Ja"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr ""
+msgstr "Wenn Sie diese bereits an anderer Stelle (z. B. als Paper Wallet) gesichert haben, können Sie die Textcoin aus Ihrer Wallet löschen:"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1802,7 +1802,7 @@ msgstr "Kein Wallet vorhanden"
 
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
-msgstr ""
+msgstr "Sie müssen einen Attest durchlaufen, um ein Profil zu erhalten. Suchen Sie im Bot Store nach dem Real Name Attestation Bot."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -1845,7 +1845,7 @@ msgstr "ein Event wird von einem Orakel gepostet"
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr ""
+msgstr "und löschen Sie die Textcoin um diese vor Angreifern zu schützen."
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1914,7 +1914,7 @@ msgstr "in Smart Wallets"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr ""
+msgstr "für mich behalten"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -1983,15 +1983,15 @@ msgstr "nochmals teilen"
 
 #: public/views/walletHome.html:449
 msgid "switch to multi-address"
-msgstr ""
+msgstr "wechseln zu multi-address"
 
 #: public/views/walletHome.html:448
 msgid "switch to single address"
-msgstr ""
+msgstr "wechseln zu single-address"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
-msgstr ""
+msgstr "den Text unterhalb und senden sie ihn dem Empfänger mittels einer Messaging App"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
@@ -2030,7 +2030,7 @@ msgstr "{{cancel_label || 'Abbrechen'}}"
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
-msgstr ""
+msgstr "{confirm_label || 'Ja'}"
 
 #: src/js/controllers/walletHome.js:1794
 msgid "{{fee}} will be deducted for bitcoin networking fees"
