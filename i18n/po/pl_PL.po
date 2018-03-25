@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2018-03-25 11:10-0400\n"
+"PO-Revision-Date: 2018-03-25 11:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -346,7 +346,7 @@ msgstr "Kliknij przycisk, aby <span ng-if=\"isResend\"> ponownie</span> wysłać
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "Kliknij ten przycisk, aby utworzyć płatność i wysłać ją za pośrednictwem prywatnej wiadomości w aplikacjach do czatu lub aby utworzyć portfel na papierze."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -430,7 +430,7 @@ msgstr "Skopiowano do schowka"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr ""
+msgstr "Kopiuj"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
@@ -480,7 +480,7 @@ msgstr "Nie można wysłać płatności"
 
 #: src/js/controllers/correspondentDevice.js:1085
 msgid "Country"
-msgstr ""
+msgstr "Kraj"
 
 #: public/views/walletHome.html:44
 msgid "Create"
@@ -533,7 +533,7 @@ msgstr "Data"
 
 #: src/js/controllers/correspondentDevice.js:1084
 msgid "Date of birth"
-msgstr ""
+msgstr "Data urodzenia"
 
 #: src/js/controllers/index.js:277
 msgid "Declined"
@@ -565,7 +565,7 @@ msgstr "Usuń portfel"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr ""
+msgstr "Usunięcie textcoin spowoduje brak możliwości ponownego odebrania środków lub ich wysłania"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -626,11 +626,11 @@ msgstr "Zarówno ty jak i {{correspondent.name}} macie wyłączone rejestrowanie
 
 #: public/views/preferencesGlobal.html:74
 msgid "Email attestor"
-msgstr ""
+msgstr "Poświadczyciel e-maila"
 
 #: public/views/preferencesEmailAttestor.html:13
 msgid "Email attestor address"
-msgstr ""
+msgstr "Adres poświadczyciela e-maila"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -680,7 +680,7 @@ msgstr "Finalność"
 
 #: src/js/controllers/correspondentDevice.js:1082
 msgid "First name"
-msgstr ""
+msgstr "Imię"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -773,11 +773,11 @@ msgstr "Odbieram kolejną płatność w wysokości"
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
-msgstr ""
+msgstr "Numer dokumentu tożsamości"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
-msgstr ""
+msgstr "Podtyp dokumentu tożsamości"
 
 #: src/js/controllers/correspondentDevice.js:1088
 msgid "ID type"
