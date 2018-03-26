@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-25 12:04-0400\n"
+"PO-Revision-Date: 2018-03-26 09:11-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -769,7 +769,7 @@ msgstr "Ich zahle"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr "Ich erhalte eine weitere Zahlung von"
+msgstr "Ich erhalte eine weitere Zahlung über"
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
@@ -1158,7 +1158,7 @@ msgstr "Empfänger"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
-msgstr "Neuverbindung zum Wallet Service... "
+msgstr "Verbindung zum Wallet-Dienst wird wieder hergestellt..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
