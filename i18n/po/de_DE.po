@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-26 09:11-0400\n"
+"PO-Revision-Date: 2018-03-26 09:25-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -806,7 +806,7 @@ msgstr "Wenn Sie dieses Backup von einem anderen Gerät haben, benutzen Sie das 
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Wenn Sie vorhaben diese Wallet auf einem anderen Gerät wiederherzustellen, benutzen Sie diese Wallet auf diesem Gerät nach der Erstellung des Backups nicht mehr. Kopieren Sie niemals eine Wallet. Wenn Sie Zugriff von verschiedenen Geräten brauchen, benutzen Sie MultiSig."
+msgstr "Wenn Sie vorhaben, diese Wallet auf einem anderen Gerät wiederherzustellen, benutzen Sie diese Wallet auf diesem Gerät nach der Erstellung des Backups nicht mehr. Kopieren Sie niemals eine Wallet. Wenn Sie Zugriff von verschiedenen Geräten brauchen, benutzen Sie MultiSig."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -822,7 +822,7 @@ msgstr "Wallet wird importiert..."
 
 #: public/views/walletHome.html:137
 msgid "Including pending confirmation"
-msgstr "Einschließlich laufender Bestätigungen"
+msgstr "Einschließlich ausstehender Bestätigung"
 
 #: public/views/walletHome.html:641
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
@@ -1430,7 +1430,7 @@ msgstr "Wallet löschen"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr "Paperwallet löschen"
+msgstr "Paperwallet reinigen"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
@@ -1853,7 +1853,7 @@ msgstr "kann den Vertrag entsperren"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr "kann den Vertrag entsperren nachdem er abgelaufen ist in"
+msgstr "kann den Vertrag entsperren, nachdem er abgelaufen ist, in"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -1940,7 +1940,7 @@ msgstr "oder"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr "oder sichern Sie alle Byteball Daten nach"
+msgstr "oder sichern Sie alle Byteball Daten unter"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
