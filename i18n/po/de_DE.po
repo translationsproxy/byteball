@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-27 02:10-0400\n"
+"PO-Revision-Date: 2018-03-27 02:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1518,7 +1518,7 @@ msgstr "Dies ist eine privater Vermögenswert, bitte senden sie sie nur über ei
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr "Diese Option ist für Privatsphäre optimiert, benötigt aber mehrere Gigabytes an Speicherplatz, und die erste Synchronisation kann mehrere Tage dauern. Die CPU wird während dem Synchronisierungsvorgang ausgelastet sein."
+msgstr "Diese Option ist für Ihre Privatsphäre optimiert, benötigt jedoch mehrere Gigabytes an Speicherplatz. Die Synchronisation kann mehrere Tage dauern und verursacht eine hohe CPU Auslastung."
 
 #: public/views/walletHome.html:443
 msgid "This payment is bound to a condition"
@@ -1563,7 +1563,7 @@ msgstr "An"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr "Um später alles wiederherstellen zu können, erstelle bitte ein komplettes Backup. Benutze dazu die entsprechende Option im Menü"
+msgstr "Um Ihre Daten später Wiederherstellen, benötigen Sie ein komplettes Backup. Benutze Sie dazu die entsprechende Option im Menü"
 
 #: public/views/walletHome.html:598
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
