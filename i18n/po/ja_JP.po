@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2018-03-28 10:30-0400\n"
+"PO-Revision-Date: 2018-03-28 10:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -110,7 +110,7 @@ msgstr "上級者向け"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "書き留めてからこのトランザクションを探します"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -342,11 +342,11 @@ msgstr "textcoinでお金を受け取る"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr ""
+msgstr "ボタンをクリックしてメールを<span ng-if=\"isResend\">再</span>送信します:"
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "このボタンをクリックして支払いを作成し、チャットアプリのプライベートメッセージでシェアするか、ペーパーウォレットを作成します。"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -565,7 +565,7 @@ msgstr "ウォレットを削除"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr ""
+msgstr "textcoinを削除すると返金や再送信ができなくなります"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -626,11 +626,11 @@ msgstr "あなたか{{correspondent.name}}のどちらかがチャット履歴�
 
 #: public/views/preferencesGlobal.html:74
 msgid "Email attestor"
-msgstr ""
+msgstr "メール認証者"
 
 #: public/views/preferencesEmailAttestor.html:13
 msgid "Email attestor address"
-msgstr ""
+msgstr "メール認証者アドレス"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -680,7 +680,7 @@ msgstr "完了"
 
 #: src/js/controllers/correspondentDevice.js:1082
 msgid "First name"
-msgstr ""
+msgstr "名"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -777,11 +777,11 @@ msgstr "IDナンバー"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
-msgstr ""
+msgstr "IDサブタイプ"
 
 #: src/js/controllers/correspondentDevice.js:1088
 msgid "ID type"
-msgstr ""
+msgstr "IDタイプ"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
@@ -868,7 +868,7 @@ msgstr "言語設定"
 
 #: src/js/controllers/correspondentDevice.js:1083
 msgid "Last name"
-msgstr ""
+msgstr "姓"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
