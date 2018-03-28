@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2018-03-28 11:57-0400\n"
+"PO-Revision-Date: 2018-03-28 12:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1088,7 +1088,7 @@ msgstr "この端末に名前をつけて下さい"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr ""
+msgstr "シングルアドレスウォレットに切り替えてください。アドレスをもう一度入力する必要がある場合があります。"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1126,7 +1126,7 @@ msgstr "プライベートペイロード送信"
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "個人プロフィール"
 
 #: public/views/walletHome.html:348
 msgid "Profile"
@@ -1324,7 +1324,7 @@ msgstr "メールで送信"
 
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
-msgstr ""
+msgstr "このプロフィールを送信する"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
@@ -1412,7 +1412,7 @@ msgstr "終わっていません"
 
 #: src/js/controllers/correspondentDevice.js:1131
 msgid "Store"
-msgstr ""
+msgstr "保存"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:136
@@ -1466,7 +1466,7 @@ msgstr "Textcoin"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
-msgstr ""
+msgstr "認証済みアドレスは次のものに属します:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1478,7 +1478,7 @@ msgstr "ハブは次のwitnessの入れ替えを提案しています:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr ""
+msgstr "お金はこのtextcoinに格納されます:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
