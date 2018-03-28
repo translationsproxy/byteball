@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2018-03-19 15:51-0400\n"
+"PO-Revision-Date: 2018-03-28 09:51-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr ""
+msgstr "「'受取」タブ→「textcoinでお金を受け取る」ボタン"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,11 +23,11 @@ msgstr "(サイトが残高を見たり、お金を使用することはあり�
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr ""
+msgstr "(現在のウォレット)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my another wallet)"
-msgstr ""
+msgstr "(他のウォレット)"
 
 #: public/views/walletHome.html:667
 msgid "(possible double spend)"
@@ -338,7 +338,7 @@ msgstr "textcoinでお金を請求する"
 
 #: public/views/walletHome.html:316
 msgid "Claim funds using textcoin"
-msgstr "textcoinを用いてお金を請求する"
+msgstr "textcoinでお金を受け取る"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
