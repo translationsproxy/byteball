@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2018-03-28 11:50-0400\n"
+"PO-Revision-Date: 2018-03-28 11:57-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -430,7 +430,7 @@ msgstr "クリップボードにコピーしました"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr "コピー"
+msgstr "以下のテキストをコピーし、"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
@@ -999,7 +999,7 @@ msgstr "チャットを開く"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr "または"
+msgstr "または以下のテキストをコピーし、"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1992,7 +1992,7 @@ msgstr ""
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
-msgstr ""
+msgstr "メッセージアプリで受取人に送ってください"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
