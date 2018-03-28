@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-28 16:40-0400\n"
+"PO-Revision-Date: 2018-03-28 16:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -306,7 +306,7 @@ msgstr "Hub ändern:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr "Eine Änderung des Alias der Brieftasche betrifft nur den lokalen Namen der Brieftasche."
+msgstr "Eine Änderung des Wallet Alias wirkt sich nur auf den lokalen Wallet Name aus."
 
 #: src/js/controllers/index.js:683
 msgid "Chat"
@@ -1991,7 +1991,7 @@ msgstr "wechseln zu single-address"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
-msgstr "den Text unterhalb und senden sie ihn dem Empfänger mittels einer Messaging App"
+msgstr "den Text unterhalb und senden Sie diesen dem Empfänger mittels einer Messaging App"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
