@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2018-03-28 12:50-0400\n"
+"PO-Revision-Date: 2018-03-28 13:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1791,7 +1791,7 @@ msgstr "はい"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr "textcoinは、既にどこか (例:ペーパーウォレット) に保存されている場合、ウォレットから削除することができます:"
+msgstr "textcoinは、既にどこか (例:ペーパーウォレット) に保存されている場合、ウォレットから消去することができます:"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1846,7 +1846,7 @@ msgstr "次のイベントが発生した場合 :オラクル"
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr ""
+msgstr "また、textcoinを消去して攻撃者から安全に守ります。"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1890,7 +1890,7 @@ msgstr "がいずれかの方法で"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr ""
+msgstr "textcoinを消去する"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
@@ -1915,7 +1915,7 @@ msgstr "はスマートウォレットにあります。"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr ""
+msgstr "自分で保管する"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -1961,7 +1961,7 @@ msgstr "連署者にプライベートペイロードを再送信することが
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "送信する"
 
 #: src/js/controllers/walletHome.js:750
 msgid "send email"
@@ -1984,11 +1984,11 @@ msgstr "もう一度シェア"
 
 #: public/views/walletHome.html:449
 msgid "switch to multi-address"
-msgstr ""
+msgstr "マルチアドレスに切り替える"
 
 #: public/views/walletHome.html:448
 msgid "switch to single address"
-msgstr ""
+msgstr "シングルアドレスに切り替える"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2031,7 +2031,7 @@ msgstr "{cancel_label || 'キャンセル'}"
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
-msgstr ""
+msgstr "{{confirm_label || 'はい'}}"
 
 #: src/js/controllers/walletHome.js:1794
 msgid "{{fee}} will be deducted for bitcoin networking fees"
