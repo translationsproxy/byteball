@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2018-03-27 13:40-0400\n"
+"PO-Revision-Date: 2018-03-29 12:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1634,7 +1634,7 @@ msgstr "Nie można wysłać propozycji płatności"
 #: public/views/modals/tx-details.html:118
 #: public/views/walletHome.html:678
 msgid "Unconfirmed"
-msgstr "Niepotwierdzone"
+msgstr "Niepotwierdzona"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
