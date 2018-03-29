@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-03-29 15:16-0400\n"
+"PO-Revision-Date: 2018-03-29 15:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr "‘Empfangen’ -> ‘Textcoin einlösen’ Button."
+msgstr "‘Empfangen’ -> Button ‘Textcoin einlösen’."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1494,7 +1494,7 @@ msgstr "Wallet \"{{walletName}}\" wurde gelöscht"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr "Der Wallet-Anbieter wird in der Lage sein einige Ihrer Guthaben zu identifizieren und Ihre Transaktionen zuzuordnen, aber Sie können die Wallet sofort nutzen und sie ist voll funktionsfähig."
+msgstr "Der Wallet-Anbieter wird in der Lage sein einige Ihrer Guthaben und Transaktionen zu sehen. Sie können jedoch sofort mit einem voll funktionsfähigen Wallet starten."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
@@ -1514,7 +1514,7 @@ msgstr "Diese Auswahl kann später nicht mehr geändert werden"
 
 #: public/views/walletHome.html:364
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
-msgstr "Dies ist eine privater Vermögenswert, bitte senden sie sie nur über einen Hyperlink im Chat oder zu ihrem eigenen Wallet."
+msgstr "Dies ist eine privater Vermögenswert, senden Sie diesen nur über einen Hyperlink im Chat oder zu ihrem eigenen Wallet."
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
