@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-03-19 15:51-0400\n"
+"PO-Revision-Date: 2018-04-03 14:11-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -23,11 +23,11 @@ msgstr "(Сайт не будет видеть Ваш баланс и деньг
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr ""
+msgstr "(текущий кошелек)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my another wallet)"
-msgstr ""
+msgstr "(другой мой кошелек)"
 
 #: public/views/walletHome.html:667
 msgid "(possible double spend)"
@@ -134,7 +134,7 @@ msgstr "Уже оплачено"
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
-msgstr ""
+msgstr "Уже сохранено"
 
 #: public/views/walletHome.html:164
 msgid "Also"
@@ -189,12 +189,12 @@ msgstr "Аттестация"
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr ""
+msgstr "Аттестованный адрес:"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "Аттестовано:"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -234,11 +234,11 @@ msgstr "Мнемоника удалена"
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
-msgstr ""
+msgstr "Резервные копии"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
-msgstr ""
+msgstr "Неверный профиль"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -318,7 +318,7 @@ msgstr "Выберите файл"
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
-msgstr ""
+msgstr "Выбрать профиль"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -326,7 +326,7 @@ msgstr "Выберите устройство куда отправить"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr ""
+msgstr "Выбрать поля для отправки:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
