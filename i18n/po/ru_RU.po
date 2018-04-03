@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-04-03 14:11-0400\n"
+"PO-Revision-Date: 2018-04-03 14:21-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr ""
+msgstr "Вкладка 'Получить' → кнопка 'Запросить деньги через textcoin'."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -110,7 +110,7 @@ msgstr "Подробнее"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "После написания, найти эту транзакцию в"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -342,11 +342,11 @@ msgstr "Запросить деньги через textcoin"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr ""
+msgstr "Нажмите для to <span ng-if=\"isResend\">повторной</span>отправки email:"
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "Нажмите здесь для отправки денег через приватное сообщение в мессенджере или создания бумажного кошелька."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -430,7 +430,7 @@ msgstr "Скопировано в буфер обмена"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr ""
+msgstr "Копировать"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
@@ -480,7 +480,7 @@ msgstr "Не удалось отправить платеж"
 
 #: src/js/controllers/correspondentDevice.js:1085
 msgid "Country"
-msgstr ""
+msgstr "Страна"
 
 #: public/views/walletHome.html:44
 msgid "Create"
@@ -533,7 +533,7 @@ msgstr "Дата"
 
 #: src/js/controllers/correspondentDevice.js:1084
 msgid "Date of birth"
-msgstr ""
+msgstr "Дата рождения"
 
 #: src/js/controllers/index.js:277
 msgid "Declined"
@@ -565,7 +565,7 @@ msgstr "Удалить кошелек"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr ""
+msgstr "Удаление этого textcoin не позволить получить его обратно или отправить повторно"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -626,11 +626,11 @@ msgstr "Или вы, или {{correspondent.name}} отключили запис
 
 #: public/views/preferencesGlobal.html:74
 msgid "Email attestor"
-msgstr ""
+msgstr "Кто аттестовал email"
 
 #: public/views/preferencesEmailAttestor.html:13
 msgid "Email attestor address"
-msgstr ""
+msgstr "Адрес заверителя email"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -680,7 +680,7 @@ msgstr "Завершенность"
 
 #: src/js/controllers/correspondentDevice.js:1082
 msgid "First name"
-msgstr ""
+msgstr "Имя"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -773,19 +773,19 @@ msgstr "я получаю другой платёж"
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
-msgstr ""
+msgstr "ID номер"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
-msgstr ""
+msgstr "ID подтип"
 
 #: src/js/controllers/correspondentDevice.js:1088
 msgid "ID type"
-msgstr ""
+msgstr "ID тип"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
-msgstr ""
+msgstr "Если кто-то из устройств-совладельцев не видит платёж, вы можете"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
@@ -798,7 +798,7 @@ msgstr "Если контрагент не заплатил, я могу заб�
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr ""
+msgstr "Если получатель не видит ваш платёж, вы можете"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -835,7 +835,7 @@ msgstr "Вставить мой адрес"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr ""
+msgstr "Вставить приватный профиль"
 
 #: public/views/walletHome.html:660
 msgid "Invalid"
@@ -867,7 +867,7 @@ msgstr "Язык"
 
 #: src/js/controllers/correspondentDevice.js:1083
 msgid "Last name"
-msgstr ""
+msgstr "Фамилия"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
@@ -951,11 +951,11 @@ msgstr "Не указан пароль"
 
 #: public/views/modals/choose-profile.html:67
 msgid "No profiles matching the requested criteria."
-msgstr ""
+msgstr "Нет профилей, удовлетворяющих критерию."
 
 #: public/views/modals/choose-profile.html:68
 msgid "No profiles yet."
-msgstr ""
+msgstr "Пока нет профилей."
 
 #: public/views/walletHome.html:625
 msgid "No transactions yet"
@@ -998,7 +998,7 @@ msgstr "Открыть чат"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr ""
+msgstr "Или копировать"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1087,7 +1087,7 @@ msgstr "Присвойте имя этому устройству"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr ""
+msgstr "Переключитель на кошелёк с единственный адресов, возможно вам понадобится снова вставить адрес."
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1125,7 +1125,7 @@ msgstr "Приватная информация отправлена"
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "Приватный профиль"
 
 #: public/views/walletHome.html:348
 msgid "Profile"
@@ -1323,7 +1323,7 @@ msgstr "Отправить по электронной почте"
 
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
-msgstr ""
+msgstr "Отправить этот профиль"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
@@ -1411,7 +1411,7 @@ msgstr "Все еще не завершено"
 
 #: src/js/controllers/correspondentDevice.js:1131
 msgid "Store"
-msgstr ""
+msgstr "Хранить"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:136
@@ -1465,7 +1465,7 @@ msgstr "Textcoin"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
-msgstr ""
+msgstr "Аттесованный адрес принадлежит:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1477,7 +1477,7 @@ msgstr "Хаб предлагает заменить следующих свид
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr ""
+msgstr "Деньги, хранятся в этом textcoin:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
