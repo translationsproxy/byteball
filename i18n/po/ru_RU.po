@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-04-04 02:31-0400\n"
+"PO-Revision-Date: 2018-04-04 02:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1665,7 +1665,7 @@ msgstr "Значения"
 
 #: src/js/controllers/correspondentDevice.js:1108
 msgid "Verifying the profile..."
-msgstr ""
+msgstr "Подтверждение профиля..."
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1773,7 +1773,7 @@ msgstr "Свидетели"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr ""
+msgstr "Запишите мнемофразу этого textcoin и надёжно храните её. Сможете вернуть его в любое время, используя"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1790,7 +1790,7 @@ msgstr "Да"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr ""
+msgstr "Можете удалить texcoin из кошелька если уже где-то записали его, например, на бумаге:"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1802,7 +1802,7 @@ msgstr "У вас нет кошелька"
 
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
-msgstr ""
+msgstr "Вам нужно пройти аттестацию для получения профиля. Воспользуйтесь Ботом Аттестации реальных имён с магазине ботов."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -1845,7 +1845,7 @@ msgstr "событие зарегистрировано оракулом"
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr ""
+msgstr "и удалите tectcoin для защиты от атак."
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1889,7 +1889,7 @@ msgstr "любым способом"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr ""
+msgstr "удалить textcoin"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
@@ -1914,7 +1914,7 @@ msgstr "в смарт кошельках"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr ""
+msgstr "хранить для себя"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -1960,7 +1960,7 @@ msgstr "переотправить приватное содержание со�
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "отправить"
 
 #: src/js/controllers/walletHome.js:750
 msgid "send email"
@@ -1983,15 +1983,15 @@ msgstr "передать снова"
 
 #: public/views/walletHome.html:449
 msgid "switch to multi-address"
-msgstr ""
+msgstr "переключить на мультиадресный"
 
 #: public/views/walletHome.html:448
 msgid "switch to single address"
-msgstr ""
+msgstr "переключить на одноадресный"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
-msgstr ""
+msgstr "texcoin ниже и отправите его через любой мессенджер"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
@@ -2030,7 +2030,7 @@ msgstr "{{cancel_label || 'Отмена'}}"
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
-msgstr ""
+msgstr "{{confirm_label || 'Да'}}"
 
 #: src/js/controllers/walletHome.js:1794
 msgid "{{fee}} will be deducted for bitcoin networking fees"
