@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2018-04-05 18:10-0400\n"
+"PO-Revision-Date: 2018-04-05 18:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -565,7 +565,7 @@ msgstr "Ştergeţi portofel"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr ""
+msgstr "Ștergerea textcoin o să înlăture ablitatea de a revendica sau a retrimite"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -680,7 +680,7 @@ msgstr "Finalitate"
 
 #: src/js/controllers/correspondentDevice.js:1082
 msgid "First name"
-msgstr ""
+msgstr "Prenume"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -773,15 +773,15 @@ msgstr "Primesc o altă plată de"
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
-msgstr ""
+msgstr "Număr ID"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
-msgstr ""
+msgstr "Subtip ID"
 
 #: src/js/controllers/correspondentDevice.js:1088
 msgid "ID type"
-msgstr ""
+msgstr "Tip ID"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
