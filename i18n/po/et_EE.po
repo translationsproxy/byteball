@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-13 04:27-0400\n"
+"PO-Revision-Date: 2018-04-13 04:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1149,7 +1149,7 @@ msgstr "Küsin"
 
 #: public/views/walletHome.html:656
 msgid "Received"
-msgstr ""
+msgstr "Saadud"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:58
@@ -1182,28 +1182,28 @@ msgstr ""
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
-msgstr ""
+msgstr "Eemalda"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Kustuta seade"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
-msgstr ""
+msgstr "Nimeta ümber:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr ""
+msgstr "Korda parool"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "Korda parool"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "Asenda"
 
 #: public/views/preferencesGlobal.html:91
 msgid "Request Password"
@@ -1244,7 +1244,7 @@ msgstr ""
 #: public/views/preferencesHub.html:18
 #: public/views/preferencesTor.html:19
 msgid "Save"
-msgstr ""
+msgstr "Salvesta"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
@@ -1299,7 +1299,7 @@ msgstr ""
 #: public/views/walletHome.html:587
 #: src/js/controllers/index.js:675
 msgid "Send"
-msgstr ""
+msgstr "Maksan"
 
 #: public/views/walletHome.html:333
 msgid "Send All"
@@ -1351,16 +1351,16 @@ msgstr ""
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "Seaded"
 
 #: public/views/modals/share.html:17
 msgid "Share"
-msgstr ""
+msgstr "Jaga"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:289
 msgid "Share address"
-msgstr ""
+msgstr "Jaga aadress"
 
 #: public/views/walletHome.html:294
 msgid "Share this wallet address to receive payments."
@@ -1372,7 +1372,7 @@ msgstr ""
 
 #: public/views/walletHome.html:715
 msgid "Show all"
-msgstr ""
+msgstr "Näita kõiki"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
