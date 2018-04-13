@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-13 08:30-0400\n"
+"PO-Revision-Date: 2018-04-13 08:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1461,7 +1461,7 @@ msgstr ""
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
@@ -1616,11 +1616,11 @@ msgstr ""
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
-msgstr ""
+msgstr "Tõlkijad"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr ""
+msgstr "Usaldusväärsed sõlmed"
 
 #: src/js/controllers/correspondentDevice.js:1086
 msgid "US state"
