@@ -1422,7 +1422,7 @@ msgstr ""
 #: src/js/controllers/walletHome.js:1679
 #: src/js/controllers/walletHome.js:1753
 msgid "Success"
-msgstr ""
+msgstr "Õnnestus"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
