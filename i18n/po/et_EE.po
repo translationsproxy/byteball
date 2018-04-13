@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-13 04:30-0400\n"
+"PO-Revision-Date: 2018-04-13 04:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1303,11 +1303,11 @@ msgstr "Maksan"
 
 #: public/views/walletHome.html:333
 msgid "Send All"
-msgstr ""
+msgstr "Saada kõik"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr ""
+msgstr "Saada makse"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
@@ -1315,39 +1315,39 @@ msgstr ""
 
 #: public/views/walletHome.html:383
 msgid "Send all"
-msgstr ""
+msgstr "Saada kõik"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
-msgstr ""
+msgstr "Saada emailiga"
 
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
-msgstr ""
+msgstr "Saada see profiil"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr ""
+msgstr "Raha saatmine..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
-msgstr ""
+msgstr "Saatmine..."
 
 #: public/views/walletHome.html:658
 msgid "Sent"
-msgstr ""
+msgstr "Saadetud"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr ""
+msgstr "Sessionide logi"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "Määra salasõna"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr ""
+msgstr "Määra salasõna"
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
