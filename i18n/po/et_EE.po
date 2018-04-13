@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-13 05:01-0400\n"
+"PO-Revision-Date: 2018-04-13 06:02-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -537,7 +537,7 @@ msgstr "Sünnikuupäev"
 
 #: src/js/controllers/index.js:277
 msgid "Declined"
-msgstr ""
+msgstr "Katkestatud"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
@@ -618,7 +618,7 @@ msgstr ""
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
-msgstr ""
+msgstr "Redigeeri"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
@@ -651,7 +651,7 @@ msgstr ""
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "Ekspordi"
 
 #: src/js/controllers/export.js:136
 #: src/js/controllers/export.js:161
@@ -660,7 +660,7 @@ msgstr ""
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "Eksportimine..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
@@ -672,7 +672,7 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:98
 msgid "Fee"
-msgstr ""
+msgstr "Tasu"
 
 #: public/views/modals/tx-details.html:116
 msgid "Finality"
@@ -765,7 +765,7 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "Mina maksan"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
@@ -773,15 +773,15 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
-msgstr ""
+msgstr "ID number"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
-msgstr ""
+msgstr "ID alamtüüp"
 
 #: src/js/controllers/correspondentDevice.js:1088
 msgid "ID type"
-msgstr ""
+msgstr "ID tüüp"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
@@ -810,15 +810,15 @@ msgstr ""
 
 #: public/views/import.html:40
 msgid "Import"
-msgstr ""
+msgstr "Impordi"
 
 #: public/views/add.html:22
 msgid "Import wallet"
-msgstr ""
+msgstr "Impordi rahakott"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr ""
+msgstr "Rahakotii importimine..."
 
 #: public/views/walletHome.html:137
 msgid "Including pending confirmation"
@@ -889,7 +889,7 @@ msgstr ""
 #: public/views/modals/offer-contract.html:116
 #: public/views/preferencesInformation.html:76
 msgid "Me"
-msgstr ""
+msgstr "Mina"
 
 #: public/views/modals/tx-details.html:110
 msgid "Merchant message"
@@ -901,7 +901,7 @@ msgstr ""
 
 #: public/views/paymentUri.html:17
 msgid "Message"
-msgstr ""
+msgstr "Sõnum"
 
 #: public/views/walletHome.html:659
 msgid "Moved"
