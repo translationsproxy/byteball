@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-13 09:53-0400\n"
+"PO-Revision-Date: 2018-04-13 10:01-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -596,7 +596,7 @@ msgstr "Ärge kloneerige rahakotte, lõpetage sama seed -iga lähte rahakotti ka
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Ärge kasutage seda rahakotti kloneerimiseks."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -609,7 +609,7 @@ msgstr "Valmis"
 
 #: public/views/walletHome.html:723
 msgid "Download CSV file"
-msgstr ""
+msgstr "Lae CSV alla"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
@@ -647,7 +647,7 @@ msgstr ""
 #: src/js/services/profileService.js:338
 #: src/js/services/profileService.js:390
 msgid "Error creating wallet"
-msgstr ""
+msgstr "Viga rahakotti loomisel"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -656,7 +656,7 @@ msgstr "Ekspordi"
 #: src/js/controllers/export.js:136
 #: src/js/controllers/export.js:161
 msgid "Export completed successfully"
-msgstr ""
+msgstr "Exportimine õnnestus"
 
 #: public/views/export.html:19
 msgid "Exporting..."
@@ -664,11 +664,11 @@ msgstr "Eksportimine..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr ""
+msgstr "Laiendatud avalik võtti"
 
 #: public/views/export.html:25
 msgid "Failed to export"
-msgstr ""
+msgstr "Eksportimine ei õnnestunud"
 
 #: public/views/modals/tx-details.html:98
 msgid "Fee"
@@ -692,11 +692,11 @@ msgstr "Täis aadress:"
 
 #: public/views/preferencesGlobal.html:123
 msgid "Full backup"
-msgstr ""
+msgstr "Täielik varukoopia"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
-msgstr ""
+msgstr "Leitud vahendid"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
@@ -708,23 +708,23 @@ msgstr ""
 
 #: src/js/controllers/walletHome.js:420
 msgid "Generate QR Code"
-msgstr ""
+msgstr "Genereeri QR kood"
 
 #: public/views/walletHome.html:302
 msgid "Generate new address"
-msgstr ""
+msgstr "Genereeri uus aadress"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
-msgstr ""
+msgstr "CSV faili genereerimine..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
-msgstr ""
+msgstr "{{selectedWalletName}} rahakotti aadressi pärimine..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "Globaalsed seaded"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
@@ -732,11 +732,11 @@ msgstr "Tagasi"
 
 #: public/views/preferences.html:51
 msgid "Hardware wallet"
-msgstr ""
+msgstr "Riistvaraline rahakott"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr ""
+msgstr "Peida rahakotti seed"
 
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:679
