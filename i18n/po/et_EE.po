@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-13 03:50-0400\n"
+"PO-Revision-Date: 2018-04-13 04:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -83,26 +83,26 @@ msgstr ""
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
-msgstr ""
+msgstr "Lisa rahakott"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "Lisatud"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
 #: public/views/paymentUri.html:15
 msgid "Address"
-msgstr ""
+msgstr "Aadress"
 
 #: public/views/walletHome.html:547
 msgid "Address to attest"
-msgstr ""
+msgstr "Aadress atesteerimiseks"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
 msgid "Addressbook"
-msgstr ""
+msgstr "Aadressiraamat"
 
 #: public/views/preferences.html:59
 msgid "Advanced"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
-msgstr ""
+msgstr "Nõustun"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
@@ -130,7 +130,7 @@ msgstr ""
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
-msgstr ""
+msgstr "Makstud"
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
@@ -234,7 +234,7 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
-msgstr ""
+msgstr "Varukoopiad"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
@@ -268,28 +268,28 @@ msgstr ""
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr ""
+msgstr "Botid"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Sina ja {{correspondent.name}} lubasite lokaalse vestluse salvestamist."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr ""
+msgstr "Seda brauserit ei toeta"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Byteball aadress"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr ""
+msgstr "KATKESTA"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr ""
+msgstr "EDASI"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:496
@@ -298,11 +298,11 @@ msgstr ""
 #: src/js/controllers/walletHome.js:124
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
-msgstr ""
+msgstr "Katkesta"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr ""
+msgstr "Vaheta hub:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
