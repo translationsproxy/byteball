@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-13 04:10-0400\n"
+"PO-Revision-Date: 2018-04-13 04:27-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -134,7 +134,7 @@ msgstr "Makstud"
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
-msgstr ""
+msgstr "Salvestatud"
 
 #: public/views/walletHome.html:164
 msgid "Also"
@@ -155,7 +155,7 @@ msgstr ""
 #: public/views/paymentUri.html:16
 #: public/views/walletHome.html:381
 msgid "Amount"
-msgstr ""
+msgstr "Summa"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -176,7 +176,7 @@ msgstr ""
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr ""
+msgstr "Aktiiv"
 
 #: public/views/walletHome.html:536
 msgid "Attest profile data linked to any Byteball address."
@@ -184,7 +184,7 @@ msgstr ""
 
 #: public/views/walletHome.html:347
 msgid "Attestation"
-msgstr ""
+msgstr "Atesteerimine"
 
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
@@ -218,19 +218,19 @@ msgstr ""
 #: public/views/modals/destination-address.html:9
 #: public/views/modals/tx-details.html:5
 msgid "Back"
-msgstr ""
+msgstr "Tagasi"
 
 #: public/views/walletHome.html:246
 msgid "Backup now"
-msgstr ""
+msgstr "Varukoopia tegemine"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "Rahakotti varukoopia seed"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr ""
+msgstr "Varukoopia seed on kustutatud"
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
@@ -238,7 +238,7 @@ msgstr "Varukoopiad"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
-msgstr ""
+msgstr "Vale profiil"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -367,7 +367,7 @@ msgstr ""
 #: public/views/modals/share.html:13
 #: public/views/modals/vote.html:4
 msgid "Close"
-msgstr ""
+msgstr "Sulge"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
@@ -383,7 +383,7 @@ msgstr ""
 
 #: public/views/preferences.html:29
 msgid "Color"
-msgstr ""
+msgstr "Värv"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
@@ -401,27 +401,27 @@ msgstr ""
 #: src/js/controllers/walletHome.js:1619
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
-msgstr ""
+msgstr "Kinnita"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr ""
+msgstr "Kinnita hääl"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
-msgstr ""
+msgstr "Kinnita makse"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "Kinnita hääl"
 
 #: public/views/modals/tx-details.html:121
 msgid "Confirmed"
-msgstr ""
+msgstr "Kinnitatud"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr ""
+msgstr "Kontaktid"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:391
@@ -430,7 +430,7 @@ msgstr ""
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr ""
+msgstr "Kopeeri"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
@@ -521,7 +521,7 @@ msgstr ""
 
 #: public/views/walletHome.html:349
 msgid "Data"
-msgstr ""
+msgstr "Andmed"
 
 #: public/views/walletHome.html:346
 msgid "Data into datafeed"
@@ -529,11 +529,11 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
-msgstr ""
+msgstr "Kuupäev"
 
 #: src/js/controllers/correspondentDevice.js:1084
 msgid "Date of birth"
-msgstr ""
+msgstr "Sünnikuupäev"
 
 #: src/js/controllers/index.js:277
 msgid "Declined"
@@ -545,7 +545,7 @@ msgstr ""
 
 #: public/views/walletHome.html:193
 msgid "Definition"
-msgstr ""
+msgstr "Definitsioon"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -557,11 +557,11 @@ msgstr ""
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
-msgstr ""
+msgstr "Kustuta Rahakott"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete wallet"
-msgstr ""
+msgstr "Kustuta rahakott"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
@@ -575,16 +575,16 @@ msgstr ""
 #: public/views/modals/multi-payment.html:17
 #: public/views/modals/tx-details.html:31
 msgid "Details"
-msgstr ""
+msgstr "Detailselt"
 
 #: public/views/preferencesGlobal.html:80
 msgid "Device address"
-msgstr ""
+msgstr "Seadme aadress"
 
 #: public/views/preferencesDeviceName.html:12
 #: public/views/preferencesGlobal.html:17
 msgid "Device name"
-msgstr ""
+msgstr "Seadme nimi"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
@@ -605,7 +605,7 @@ msgstr ""
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr ""
+msgstr "Valmis"
 
 #: public/views/walletHome.html:723
 msgid "Download CSV file"
@@ -680,15 +680,15 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:1082
 msgid "First name"
-msgstr ""
+msgstr "Eesnimi"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
-msgstr ""
+msgstr "Kellelt"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
-msgstr ""
+msgstr "Täis aadress:"
 
 #: public/views/preferencesGlobal.html:123
 msgid "Full backup"
@@ -728,7 +728,7 @@ msgstr ""
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
-msgstr ""
+msgstr "Tagasi"
 
 #: public/views/preferences.html:51
 msgid "Hardware wallet"
@@ -741,23 +741,23 @@ msgstr ""
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:679
 msgid "History"
-msgstr ""
+msgstr "Ajalugu"
 
 #: src/js/controllers/index.js:667
 msgid "Home"
-msgstr ""
+msgstr "Avaleht"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr ""
+msgstr "Host"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr ""
+msgstr "Hub"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr ""
+msgstr "Hub -i URL"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
@@ -859,15 +859,15 @@ msgstr ""
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
-msgstr ""
+msgstr "Nimetus"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
-msgstr ""
+msgstr "Keel"
 
 #: src/js/controllers/correspondentDevice.js:1083
 msgid "Last name"
-msgstr ""
+msgstr "Perekonnanimi"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
@@ -875,7 +875,7 @@ msgstr ""
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr ""
+msgstr "Laadimine..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
@@ -943,7 +943,7 @@ msgstr ""
 #: src/js/controllers/index.js:479
 #: src/js/controllers/walletHome.js:1627
 msgid "No"
-msgstr ""
+msgstr "Ei"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
@@ -977,7 +977,7 @@ msgstr ""
 #: public/views/walletHome.html:473
 #: public/views/walletHome.html:688
 msgid "Note"
-msgstr ""
+msgstr "Märkused"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
@@ -1129,11 +1129,11 @@ msgstr ""
 
 #: public/views/walletHome.html:348
 msgid "Profile"
-msgstr ""
+msgstr "Profiil"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
-msgstr ""
+msgstr "QR kood"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
@@ -1141,11 +1141,11 @@ msgstr ""
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Küsimus:"
 
 #: src/js/controllers/index.js:671
 msgid "Receive"
-msgstr ""
+msgstr "Küsin"
 
 #: public/views/walletHome.html:656
 msgid "Received"
