@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2018-03-19 15:51-0400\n"
+"PO-Revision-Date: 2018-04-18 05:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -430,7 +430,7 @@ msgstr "Kinopya sa clipboard"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr ""
+msgstr "Kopya"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
@@ -480,7 +480,7 @@ msgstr "Hindi maipadala ang bayad"
 
 #: src/js/controllers/correspondentDevice.js:1085
 msgid "Country"
-msgstr ""
+msgstr "Bansa"
 
 #: public/views/walletHome.html:44
 msgid "Create"
@@ -680,7 +680,7 @@ msgstr "Finality"
 
 #: src/js/controllers/correspondentDevice.js:1082
 msgid "First name"
-msgstr ""
+msgstr "Unang pangalan"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -773,15 +773,15 @@ msgstr "Tumatanggap ako ng bayad na"
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
-msgstr ""
+msgstr "Numero ng ID"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
-msgstr ""
+msgstr "Subtype ng ID"
 
 #: src/js/controllers/correspondentDevice.js:1088
 msgid "ID type"
-msgstr ""
+msgstr "Tipo ng ID"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
@@ -835,7 +835,7 @@ msgstr "Ilagay ang aking address"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr ""
+msgstr "Ilagay ang pribadong profile"
 
 #: public/views/walletHome.html:660
 msgid "Invalid"
@@ -867,7 +867,7 @@ msgstr "Wika"
 
 #: src/js/controllers/correspondentDevice.js:1083
 msgid "Last name"
-msgstr ""
+msgstr "Apelyido"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
@@ -951,11 +951,11 @@ msgstr "Walang password na ibinigay"
 
 #: public/views/modals/choose-profile.html:67
 msgid "No profiles matching the requested criteria."
-msgstr ""
+msgstr "Walang profile ang tumugma sa hininging batayan."
 
 #: public/views/modals/choose-profile.html:68
 msgid "No profiles yet."
-msgstr ""
+msgstr "Walang pang mga profile."
 
 #: public/views/walletHome.html:625
 msgid "No transactions yet"
@@ -998,7 +998,7 @@ msgstr "Bukas na chat"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr ""
+msgstr "O kopya"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1125,7 +1125,7 @@ msgstr "Naipadala ang mga pribadong payload"
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "Pribadong Profile"
 
 #: public/views/walletHome.html:348
 msgid "Profile"
@@ -1323,7 +1323,7 @@ msgstr "Ipadala gamit ang email"
 
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
-msgstr ""
+msgstr "Ipadala ang profile na ito"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
@@ -1411,7 +1411,7 @@ msgstr "Hindi pa tapos"
 
 #: src/js/controllers/correspondentDevice.js:1131
 msgid "Store"
-msgstr ""
+msgstr "Tindahan"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:136
@@ -1596,7 +1596,7 @@ msgstr "Kabuuang naka-lock na balanse"
 
 #: public/views/walletHome.html:382
 msgid "Total amount"
-msgstr ""
+msgstr "Kabuuang halaga"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
@@ -1624,7 +1624,7 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:1086
 msgid "US state"
-msgstr ""
+msgstr "Estado ng U.S."
 
 #: src/js/controllers/walletHome.js:810
 msgid "Unable to send transaction proposal"
