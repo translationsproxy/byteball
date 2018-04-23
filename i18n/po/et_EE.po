@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-23 09:41-0400\n"
+"PO-Revision-Date: 2018-04-23 09:55-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -634,7 +634,7 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr ""
+msgstr "Lubas push teated"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
@@ -642,7 +642,7 @@ msgstr ""
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr ""
+msgstr "Sisestage oma parool"
 
 #: src/js/services/profileService.js:338
 #: src/js/services/profileService.js:390
@@ -700,11 +700,11 @@ msgstr "Leitud vahendid"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr ""
+msgstr "Raha saadetakse"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
-msgstr ""
+msgstr "ALUSTA"
 
 #: src/js/controllers/walletHome.js:420
 msgid "Generate QR Code"
@@ -761,7 +761,7 @@ msgstr "Hub -i URL"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
-msgstr ""
+msgstr "Jah, kinnitan et olen läbi lugenud, aru saanud ja olen nõus toodud tingimustega."
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
@@ -831,23 +831,23 @@ msgstr ""
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "Sisesta minu aadress"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr ""
+msgstr "Siseta privaatne profiil"
 
 #: public/views/walletHome.html:660
 msgid "Invalid"
-msgstr ""
+msgstr "Kehtetu"
 
 #: src/js/controllers/index.js:1607
 msgid "Invalid Touch ID"
-msgstr ""
+msgstr "Kehtetu Touch ID"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr ""
+msgstr "Lisa teine seade"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
@@ -871,7 +871,7 @@ msgstr "Perekonnanimi"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr ""
+msgstr "Mitte praegu"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
@@ -879,11 +879,11 @@ msgstr "Laadimine..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr ""
+msgstr "Teen makse"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr ""
+msgstr "Võibolla hiljem"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:116
@@ -897,7 +897,7 @@ msgstr ""
 
 #: public/views/walletHome.html:462
 msgid "Merkle proof"
-msgstr ""
+msgstr "Merkle tõend"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
@@ -994,11 +994,11 @@ msgstr ""
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Ava chat"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr ""
+msgstr "Või Kopeeri"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1006,32 +1006,32 @@ msgstr ""
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr ""
+msgstr "Seotud seadmed"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Sidumiskood"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr ""
+msgstr "Paber rahakotti salajane võti"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr ""
+msgstr "Paroolifraas"
 
 #: src/js/services/profileService.js:672
 msgid "Password needed"
-msgstr ""
+msgstr "Parool on kohustuslik"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Paroolid ei klapi"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr ""
+msgstr "Sisestage paber rahakotti salajane võti siia"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
@@ -1043,7 +1043,7 @@ msgstr ""
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr ""
+msgstr "Makse on vastu võetud"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
@@ -1207,7 +1207,7 @@ msgstr "Asenda"
 
 #: public/views/preferencesGlobal.html:91
 msgid "Request Password"
-msgstr ""
+msgstr "Küsi parooli"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:311
