@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-23 09:31-0400\n"
+"PO-Revision-Date: 2018-04-23 09:41-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -126,7 +126,7 @@ msgstr "Kõik rahakotti aadressid"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr ""
+msgstr "Kaasaaitamine Byteball -i tõlkimisega on teretulnud. Registreeruge crowdin.com lehel ja liituge projektiga"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -142,11 +142,11 @@ msgstr ""
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "Samuti Seaded menüü all leiate parooli seadistamiseks vajalikud valikud."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Samuti ärge unustage kustutada teie seed sõnad"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -163,7 +163,7 @@ msgstr "Vastus:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr ""
+msgstr "Kinnitage rahakotti loomise teistel seadmetel"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
@@ -198,15 +198,15 @@ msgstr ""
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "Automaatne witness listi uuendamine hub -ist"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "Automaatne witness listi uuendamine hub -ist"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr ""
+msgstr "Kontojääk"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -242,11 +242,11 @@ msgstr "Vale profiil"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "Kontojääk aadressite järgi"
 
 #: public/views/walletHome.html:240
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "Enne kasutamist, soovitatav teha rahakotti võtmetest varunduskoopia."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
