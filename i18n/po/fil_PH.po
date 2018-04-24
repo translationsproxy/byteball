@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2018-04-18 05:30-0400\n"
+"PO-Revision-Date: 2018-04-23 21:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -533,7 +533,7 @@ msgstr "Petsa"
 
 #: src/js/controllers/correspondentDevice.js:1084
 msgid "Date of birth"
-msgstr ""
+msgstr "Petsa ng kapanganakan"
 
 #: src/js/controllers/index.js:277
 msgid "Declined"
@@ -1477,7 +1477,7 @@ msgstr "Iminumungkahi ng hub na palitan ang sumusunod na mga saksi:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr ""
+msgstr "Ang pera at nakatago sa textcoin na ito:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
@@ -1526,7 +1526,7 @@ msgstr "Ang pagbabayad na ito ay tiyak na isang kundisyon"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
-msgstr ""
+msgstr "Ang paybabayad ay dapat bayaran lang mula sa pitaka na may isang-padalahan"
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
@@ -1773,7 +1773,7 @@ msgstr "Mga saksi"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr ""
+msgstr "Isulat ang textcoin na ito sa papel at maingat itong itago. Kunin ito ulti kahit anong oras sa hinaharap gamit ang"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1845,7 +1845,7 @@ msgstr "isang pangyayari ay nai-post sa pamamagitan ng oracle"
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr ""
+msgstr "at burahin ang textcoin upang panatilihin itong ligtas mula sa mga umaatake."
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1889,7 +1889,7 @@ msgstr "alinman dito"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr ""
+msgstr "burahin ang textcoin"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
@@ -1960,7 +1960,7 @@ msgstr "muling ipadala ang payloads ng mga cosigners"
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "ipadala"
 
 #: src/js/controllers/walletHome.js:750
 msgid "send email"
@@ -2030,7 +2030,7 @@ msgstr "{{cancel_label || 'Cancel'}}"
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
-msgstr ""
+msgstr "{{confirm_label || 'Oo'}}"
 
 #: src/js/controllers/walletHome.js:1794
 msgid "{{fee}} will be deducted for bitcoin networking fees"
