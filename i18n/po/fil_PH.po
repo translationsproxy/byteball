@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2018-04-23 21:50-0400\n"
+"PO-Revision-Date: 2018-04-24 04:52-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr ""
+msgstr "'Taga-tanggap' na tab → 'Kunin ang mga pondo gamit ang textcoin' na button."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,11 +23,11 @@ msgstr "(Hindi makikita ng site na ito ang iyong balanse at walang pera ang maga
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr ""
+msgstr "(kasalukuyang pitaka)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my another wallet)"
-msgstr ""
+msgstr "(ang aking isa pang pitaka)"
 
 #: public/views/walletHome.html:667
 msgid "(possible double spend)"
@@ -110,7 +110,7 @@ msgstr "Advanced"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "Pagkatapos isulat ito, hanapin ang transaksyon na ito sa"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -134,7 +134,7 @@ msgstr "Nakapagbayad na"
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
-msgstr ""
+msgstr "Nai-save na"
 
 #: public/views/walletHome.html:164
 msgid "Also"
@@ -194,7 +194,7 @@ msgstr ""
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "Pinatutunayan ni:"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -234,7 +234,7 @@ msgstr "I-backup ang mga salitang tinanggal"
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
-msgstr ""
+msgstr "Mga backup"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
