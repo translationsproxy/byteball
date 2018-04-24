@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2018-04-24 05:51-0400\n"
+"PO-Revision-Date: 2018-04-24 06:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -346,7 +346,7 @@ msgstr "I-click ang button para <span ng-if=\"isResend\">ipadala ulit</span> ang
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "I-click ang button na ito para makagawa ng pagbayad at ibahagi ito sa pamamagitan ng isang pribadong mensahe sa loob ng mga chat na app o para makalikha ng papel na pitaka."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -565,7 +565,7 @@ msgstr "I-delete ang pitaka"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr ""
+msgstr "Ang pagbura sa textcoin ay magtatanggal sa abilidad para kunin ito pabalik o ipadala ulit"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -1620,7 +1620,7 @@ msgstr "Mga tagsalin"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr ""
+msgstr "Pinagkatiwalaang mga node"
 
 #: src/js/controllers/correspondentDevice.js:1086
 msgid "US state"
@@ -1983,11 +1983,11 @@ msgstr "ibahagi ulit"
 
 #: public/views/walletHome.html:449
 msgid "switch to multi-address"
-msgstr ""
+msgstr "lumipat sa multi-address"
 
 #: public/views/walletHome.html:448
 msgid "switch to single address"
-msgstr ""
+msgstr "lumipat sa isang address"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
