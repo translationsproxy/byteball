@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2018-04-24 21:40-0400\n"
+"PO-Revision-Date: 2018-04-25 21:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -226,11 +226,11 @@ msgstr "Mag-backup ngayon"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup wallet seed"
-msgstr "I-Backup ang seed ng pitaka"
+msgstr "I-backup ang seed ng pitaka"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr "I-backup ang mga salitang tinanggal"
+msgstr "I-backup ang mga salitang binura"
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
