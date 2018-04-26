@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2018-04-25 21:40-0400\n"
+"PO-Revision-Date: 2018-04-25 21:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -106,7 +106,7 @@ msgstr "Addressbook"
 
 #: public/views/preferences.html:59
 msgid "Advanced"
-msgstr "Advanced"
+msgstr "Mas Pinahusay"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -122,11 +122,11 @@ msgstr "Alyas para sa <i>{{index.walletName}}</i>"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr "Lahat ng mga address ng pitaka"
+msgstr "Lahat ng mga Address ng Pitaka"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr "Lahat ng kontribusyon para sa pagsasalin ni Byteball ay malugod na tinatanggap. Mag-sign up sa crowdin.com at sumali sa Byteball project sa"
+msgstr "Lahat ng kontribusyon para sa pagsasalin sa Byteball ay malugod na tinatanggap. Mag-sign up sa crowdin.com at sumali sa Byteball na proyekto sa"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -142,11 +142,11 @@ msgstr "At saka"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr "At saka sa settings menu, makikita ninyo ang mga opsiyon ng seguridad tulad ng pagtatakda ng isang password."
+msgstr "Pati na rin sa Settings na menu, makikita ninyo ang mga opsyon para sa seguridad gaya ng pagtatakda ng password."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr "Pati, wag kalimutan na burahin ang inyong seed"
+msgstr "Gayundin, huwag kalimutan na burahin ang iyong seed"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -172,11 +172,11 @@ msgstr "Sigurado ka ba na gusto mong burahin ang mga backup na salita?"
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr "Sigurado ka ba na gusto mong burahin ang pitaka?"
+msgstr "Sigurado ka ba na gusto mong burahin ang pitakang ito?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr "Asset"
+msgstr "Ari-arian"
 
 #: public/views/walletHome.html:536
 msgid "Attest profile data linked to any Byteball address."
@@ -206,7 +206,7 @@ msgstr "Awtomatikong i-update ang mga listahan ng saksi mula sa hub"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr "Available na balanse"
+msgstr "Magagamit na Balance"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
