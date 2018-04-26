@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2018-04-25 21:50-0400\n"
+"PO-Revision-Date: 2018-04-25 22:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -202,7 +202,7 @@ msgstr "Awtomatikong i-update ang mga listahan ng saksi mula sa hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr "Awtomatikong i-update ang mga listahan ng saksi mula sa hub"
+msgstr "Awtomatikong i-update ang mga listahan ng saksi mula sa hub na ito"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -557,11 +557,11 @@ msgstr "Mga kahulugan ng mga address"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
-msgstr "I-delete ang pitaka"
+msgstr "Burahin ang Pitaka"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete wallet"
-msgstr "I-delete ang pitaka"
+msgstr "Burahin ang pitaka"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
@@ -575,7 +575,7 @@ msgstr "Diskarte sa Pagkuha"
 #: public/views/modals/multi-payment.html:17
 #: public/views/modals/tx-details.html:31
 msgid "Details"
-msgstr "Detalye"
+msgstr "Mga Detalye"
 
 #: public/views/preferencesGlobal.html:80
 msgid "Device address"
@@ -741,7 +741,7 @@ msgstr "Itago ang seed ng pitaka"
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:679
 msgid "History"
-msgstr "Kasysayan"
+msgstr "Kasaysayan"
 
 #: src/js/controllers/index.js:667
 msgid "Home"
@@ -889,7 +889,7 @@ msgstr "Mamaya siguro"
 #: public/views/modals/offer-contract.html:116
 #: public/views/preferencesInformation.html:76
 msgid "Me"
-msgstr "Akin"
+msgstr "Ako"
 
 #: public/views/modals/tx-details.html:110
 msgid "Merchant message"
@@ -1303,11 +1303,11 @@ msgstr "Ipadala"
 
 #: public/views/walletHome.html:333
 msgid "Send All"
-msgstr "Ipadala lahat"
+msgstr "Ipadala Lahat"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr "Ipadala ang pagbabayad"
+msgstr "Ipadala ang Kabayaran"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
