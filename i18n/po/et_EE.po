@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 09:02-0400\n"
+"PO-Revision-Date: 2018-04-30 11:16-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -513,7 +513,7 @@ msgstr "Profiili loomine..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr "Rahakotti loomine..."
+msgstr "Rahakoti loomine..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
@@ -647,7 +647,7 @@ msgstr "Sisestage oma parool"
 #: src/js/services/profileService.js:338
 #: src/js/services/profileService.js:390
 msgid "Error creating wallet"
-msgstr "Viga rahakotti loomisel"
+msgstr "Viga rahakoti loomisel"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -720,7 +720,7 @@ msgstr "CSV faili genereerimine..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
-msgstr "{{selectedWalletName}} rahakotti aadressi pärimine..."
+msgstr "{{selectedWalletName}} rahakoti aadressi pärimine..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
@@ -1170,7 +1170,7 @@ msgstr "Taasta seed -i abil"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr "Rahakotti taastamine..."
+msgstr "Rahakoti taastamine..."
 
 #: src/js/controllers/index.js:229
 msgid "Refused"
@@ -1649,7 +1649,7 @@ msgstr ""
 
 #: public/views/walletHome.html:73
 msgid "Updating Wallet..."
-msgstr "Rahakotti uuendamine..."
+msgstr "Rahakoti uuendamine..."
 
 #: public/views/modals/newVersionIsAvailable.html:6
 msgid "Upgrade to {{version}}"
@@ -1706,7 +1706,7 @@ msgstr "Rahakott"
 
 #: public/views/preferences.html:20
 msgid "Wallet Alias"
-msgstr "Rahakotti Alias"
+msgstr "Rahakoti Alias"
 
 #: public/views/preferencesInformation.html:27
 msgid "Wallet Configuration (m-n)"
@@ -1714,7 +1714,7 @@ msgstr ""
 
 #: public/views/preferencesInformation.html:20
 msgid "Wallet Id"
-msgstr "Rahakotti ID"
+msgstr "Rahakoti ID"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
@@ -1819,7 +1819,7 @@ msgstr "Sinu parool"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr "Sinu rahakotti fail:"
+msgstr "Sinu rahakoti fail:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
