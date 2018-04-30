@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 19:20-0400\n"
+"PO-Revision-Date: 2018-04-30 19:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -255,12 +255,12 @@ msgstr "Pigem kasuta mitme allkirjaga rahakotte,"
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr "Seo makse"
+msgstr "Sõlmi makse leping"
 
 #: public/views/walletHome.html:442
 #: public/views/walletHome.html:455
 msgid "Bind the payment to a condition"
-msgstr ""
+msgstr "Sõlmi makse leping tingimusega"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -387,7 +387,7 @@ msgstr "Värv"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr ""
+msgstr "GitHub räsi"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
