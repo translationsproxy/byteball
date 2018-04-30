@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 17:00-0400\n"
+"PO-Revision-Date: 2018-04-30 17:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -242,7 +242,7 @@ msgstr "Vale profiil"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr "Kontojääk aadressite järgi"
+msgstr "Kontojääk aadressite kaupa"
 
 #: public/views/walletHome.html:240
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
@@ -569,7 +569,7 @@ msgstr ""
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
-msgstr ""
+msgstr "Lahenduskäigu Strateegia"
 
 #: public/views/modals/customized-amount.html:29
 #: public/views/modals/multi-payment.html:17
@@ -664,7 +664,7 @@ msgstr "Eksportimine..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr "Laiendatud avalik võtti"
+msgstr "Laiendatud avalikud võtmed"
 
 #: public/views/export.html:25
 msgid "Failed to export"
@@ -1710,7 +1710,7 @@ msgstr "Rahakoti Alias"
 
 #: public/views/preferencesInformation.html:27
 msgid "Wallet Configuration (m-n)"
-msgstr ""
+msgstr "Konfiguratsioon (mitu-mitmest)"
 
 #: public/views/preferencesInformation.html:20
 msgid "Wallet Id"
