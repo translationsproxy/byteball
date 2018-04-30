@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 15:20-0400\n"
+"PO-Revision-Date: 2018-04-30 15:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -180,7 +180,7 @@ msgstr "Vahend"
 
 #: public/views/walletHome.html:536
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Tõenda profiili andmedega, mis on seotud mõne Byteball aadressiga."
 
 #: public/views/walletHome.html:347
 msgid "Attestation"
@@ -189,12 +189,12 @@ msgstr "Vastavuse tõendamine"
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr ""
+msgstr "Tõendatud aadress:"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "Tõendaja:"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -626,11 +626,11 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:74
 msgid "Email attestor"
-msgstr ""
+msgstr "E-kirja tõendaja"
 
 #: public/views/preferencesEmailAttestor.html:13
 msgid "Email attestor address"
-msgstr ""
+msgstr "E-posti tõendaja aadress"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -724,7 +724,7 @@ msgstr "{{selectedWalletName}} rahakoti aadressi pärimine..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr "Globaalsed seaded"
+msgstr "Globaalsed eelistused"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
@@ -1248,7 +1248,7 @@ msgstr "Salvesta"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
-msgstr ""
+msgstr "Eelistuste salvestamine..."
 
 #: public/views/preferences.html:69
 msgid "Scan Fingerprint"
@@ -1311,7 +1311,7 @@ msgstr "Saada makse"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr ""
+msgstr "Saada aadresse e-kirjaga"
 
 #: public/views/walletHome.html:383
 msgid "Send all"
@@ -1465,7 +1465,7 @@ msgstr "Textcoin"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
-msgstr ""
+msgstr "Tõendatud aadress kuulub:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1534,7 +1534,7 @@ msgstr ""
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
-msgstr ""
+msgstr "Seda rahakotti pole võimalik muuta mitme aadressiga rahakotiks, sest see on juba läbinud vastavuse tõendamise"
 
 #: public/views/preferences.html:41
 msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
@@ -1579,12 +1579,12 @@ msgstr ""
 
 #: public/views/walletHome.html:397
 msgid "To byteball address or email"
-msgstr ""
+msgstr "Byteball või e-kirja aadress"
 
 #: public/views/modals/tx-details.html:50
 #: public/views/walletHome.html:693
 msgid "To email"
-msgstr "E-mail"
+msgstr "E-kirjale"
 
 #: public/views/walletHome.html:295
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
@@ -1964,7 +1964,7 @@ msgstr "saada"
 
 #: src/js/controllers/walletHome.js:750
 msgid "send email"
-msgstr "saada e-mail"
+msgstr "saada e-kiri"
 
 #: src/js/controllers/walletHome.js:1026
 #: src/js/controllers/walletHome.js:1072
