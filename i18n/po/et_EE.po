@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 16:20-0400\n"
+"PO-Revision-Date: 2018-04-30 16:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -785,7 +785,7 @@ msgstr "ID tüüp"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
-msgstr "Kui ükski teie kaasallkirjastaja seade ei näe seda makset, siis te saate"
+msgstr "Kui ükski kaasallkirjastajav seade ei näe seda makset, siis te saate"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
@@ -1748,7 +1748,7 @@ msgstr "Hoiatus!"
 
 #: public/views/modals/tx-details.html:129
 msgid "Was claimed?"
-msgstr ""
+msgstr "Saadi kätte?"
 
 #: public/views/walletHome.html:342
 msgid "What to send"
@@ -1790,7 +1790,7 @@ msgstr "Jah"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr ""
+msgstr "Te võite kustutada textcoin oma rahakotist kui te olete selle juba salvestanud kuskile mujale (näiteks paberile):"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1861,7 +1861,7 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:137
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "saadi kätte {{btx.claimedByMe?'minu poolt':'vastuvõtja poolt'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
