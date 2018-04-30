@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 16:40-0400\n"
+"PO-Revision-Date: 2018-04-30 16:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -246,7 +246,7 @@ msgstr "Kontojääk aadressite järgi"
 
 #: public/views/walletHome.html:240
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "Enne kasutamist, soovitatav teha rahakotti võtmetest varunduskoopia."
+msgstr "Enne vahendite vastuvõtmist on soovitatav teha rahakoti võtmetest varunduskoopia."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -306,7 +306,7 @@ msgstr "Vaheta keskust:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr "Rahakotti aliase muutmine mõjub ainult lokaalse rahakotti nimele."
+msgstr "Rahakoti aliase muutmine muudab ainult lokaalse rahakotti nime."
 
 #: src/js/controllers/index.js:683
 msgid "Chat"
@@ -346,7 +346,7 @@ msgstr "Klõpsake nuppu e-kirja <span ng-if=\"isResend\">uuesti</span> saatmisek
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "Klõpsake seda nuppu, et luua makse jagamiseks privaatvestluses või paberile kirjutamiseks."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -442,7 +442,7 @@ msgstr "Ei õnnestunud luua makse pakkumise"
 
 #: src/js/services/profileService.js:279
 msgid "Could not create using the specified extended private key"
-msgstr "Ei õnnestunud luua kasutaded laiendatud privaatset võtit"
+msgstr "Ei õnnestunud luua kasutades seda laiendatud salajast võtit"
 
 #: src/js/services/profileService.js:289
 msgid "Could not create using the specified extended public key"
@@ -596,7 +596,7 @@ msgstr "Ärge kloonige rahakotte, lõpetage selle seemne sõnadega rahakoti kasu
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr "Ärge kasutage seda rahakotti kloneerimiseks."
+msgstr "Ärge kasutage seda rahakotti kloonimiseks."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -1014,7 +1014,7 @@ msgstr "Sidumiskood"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr "Paberile kirjutatud salajane võti"
+msgstr "Paberile Kirjutatud Salajane Võti"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
