@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 18:10-0400\n"
+"PO-Revision-Date: 2018-04-30 18:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -126,7 +126,7 @@ msgstr "Kõik rahakoti aadressid"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr "Kaasaaitamine Byteball -i tõlkimisega on teretulnud. Registreeruge crowdin.com lehel ja liituge projektiga"
+msgstr "Kaasaaitamine Byteballi tõlkimisega on teretulnud. Registreeruge crowdin.com lehel ja liituge projektiga"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -314,7 +314,7 @@ msgstr "Vestlus"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr "Valige Fail"
+msgstr "Vali Fail"
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
@@ -342,11 +342,11 @@ msgstr "Raha kättesaamine textcoin kaudu"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr "Klõpsake nuppu e-kirja <span ng-if=\"isResend\">uuesti</span> saatmiseks:"
+msgstr "Klõpsa nuppu e-kirja <span ng-if=\"isResend\">uuesti</span> saatmiseks:"
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr "Klõpsake seda nuppu, et luua makse jagamiseks privaatvestluses või paberile kirjutamiseks."
+msgstr "Klõpsa seda nuppu, et luua makse jagamiseks privaatvestluses või paberile kirjutamiseks."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -413,7 +413,7 @@ msgstr "Kinnita makse"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr "Kinnitage hääl"
+msgstr "Kinnita hääl"
 
 #: public/views/modals/tx-details.html:121
 msgid "Confirmed"
@@ -438,7 +438,7 @@ msgstr "Korrespondendid ei ole taastatud."
 
 #: src/js/controllers/walletHome.js:689
 msgid "Could not create payment proposal"
-msgstr "Ei õnnestunud luua makse pakkumise"
+msgstr "Ei õnnestunud luua makse pakkumist"
 
 #: src/js/services/profileService.js:279
 msgid "Could not create using the specified extended private key"
@@ -458,7 +458,7 @@ msgstr "Ei õnnestu lahti krüpteerida"
 
 #: public/views/walletHome.html:622
 msgid "Could not fetch transaction history"
-msgstr "Ei õnnestu tehingute ajaloo kätte saada"
+msgstr "Ei õnnestu tehingute ajalogu kätte saada"
 
 #: src/js/services/profileService.js:507
 #: src/js/services/profileService.js:534
@@ -468,11 +468,11 @@ msgstr "Import ebaõnnestus"
 
 #: src/js/services/profileService.js:484
 msgid "Could not import. Check input file and password"
-msgstr "Import ebaõnnestus. Kontrollige sisendfaili ja salasõna"
+msgstr "Import ebaõnnestus. Kontrolli sisendfaili ja salasõna"
 
 #: src/js/controllers/walletHome.js:53
 msgid "Could not recognize a valid Byteball QR Code"
-msgstr "Ei õnnestunud tuvastada Byteball -i QR koodi"
+msgstr "Ei õnnestunud tuvastada Byteballi QR koodi"
 
 #: src/js/controllers/walletHome.js:689
 msgid "Could not send payment"
@@ -549,7 +549,7 @@ msgstr "Definitsioon"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
-msgstr "Smart aadress -i defineerimine"
+msgstr "Nutika aadressi määratlus"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
@@ -1690,7 +1690,7 @@ msgstr "HOIATUSED:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO BYTEBALL"
-msgstr "TERE TULEMAST BYTEBALL -i"
+msgstr "TERE TULEMAST BYTEBALLi"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
@@ -1877,11 +1877,11 @@ msgstr ""
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr "näiteks 1-2st rahakott, kus üks võti on selle seadmes ja teine võti on arvutis."
+msgstr "näiteks 1-2st rahakott, kus üks võti on selles seadmes ja teine võti on arvutis."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr "näiteks 1-2st rahakott, kus üks võti on selle seadmes ja teine võti on nutitelefonis."
+msgstr "näiteks 1-2st rahakott, kus üks võti on selles seadmes ja teine võti on nutitelefonis."
 
 #: public/views/modals/bind.html:72
 msgid "either way"
