@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 13:40-0400\n"
+"PO-Revision-Date: 2018-04-30 13:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -167,12 +167,12 @@ msgstr "Kinnitage rahakotti loomise teistel seadmetel"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr "Olete kindel, et soovite kustutada varukoopia sõnad?"
+msgstr "Kas olete kindel, et soovite kustutada varukoopia seemne sõnad?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr "Olete kindel, et soovite kustutada selle rahakotti?"
+msgstr "Kas olete kindel, et soovite kustutada seda rahakotti?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
@@ -450,7 +450,7 @@ msgstr "Ei õnnestunud luua kasutades laiendatud avaliku võtit"
 
 #: src/js/services/profileService.js:272
 msgid "Could not create: Invalid wallet seed"
-msgstr "Ei õnnestu luua: Vale rahakotti seed"
+msgstr "Ei õnnestu luua: Vigased rahakoti seemne sõnad"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
@@ -517,7 +517,7 @@ msgstr "Rahakoti loomine..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr "KUSTUTA SÕNAD"
+msgstr "KUSTUTA SEEMNE SÕNAD"
 
 #: public/views/walletHome.html:349
 msgid "Data"
