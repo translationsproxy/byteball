@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 18:20-0400\n"
+"PO-Revision-Date: 2018-04-30 18:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -289,7 +289,7 @@ msgstr "KATKESTA"
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr "EDASI"
+msgstr "JÄTKA"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:496
@@ -434,7 +434,7 @@ msgstr "Kopeeri"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr "Korrespondendid ei ole taastatud."
+msgstr "Kirjasaajad ei ole taastatud."
 
 #: src/js/controllers/walletHome.js:689
 msgid "Could not create payment proposal"
@@ -446,7 +446,7 @@ msgstr "Ei õnnestunud luua kasutades seda laiendatud salajast võtit"
 
 #: src/js/services/profileService.js:289
 msgid "Could not create using the specified extended public key"
-msgstr "Ei õnnestunud luua kasutades laiendatud avaliku võtit"
+msgstr "Ei õnnestunud luua kasutades seda laiendatud avaliku võtit"
 
 #: src/js/services/profileService.js:272
 msgid "Could not create: Invalid wallet seed"
@@ -458,7 +458,7 @@ msgstr "Ei õnnestu lahti krüpteerida"
 
 #: public/views/walletHome.html:622
 msgid "Could not fetch transaction history"
-msgstr "Ei õnnestu tehingute ajalogu kätte saada"
+msgstr "Ei õnnestu tehingute ajalugu kätte saada"
 
 #: src/js/services/profileService.js:507
 #: src/js/services/profileService.js:534
@@ -484,11 +484,11 @@ msgstr "Riik"
 
 #: public/views/walletHome.html:44
 msgid "Create"
-msgstr "Looge"
+msgstr "Loo"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
-msgstr "Looge uus rahakott"
+msgstr "Loo uus rahakott"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
@@ -497,7 +497,7 @@ msgstr "Loo uus rahakott"
 
 #: src/js/controllers/index.js:307
 msgid "Create new wallet  together with  ?"
-msgstr "Looge uus rahakott  koos  ?"
+msgstr "Loo uus rahakott  koos  ?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
@@ -541,11 +541,11 @@ msgstr "Katkestatud"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr "Rahakoti lahti krüpteerimine võib sellel seadmel võtta umbes 5 minutit. Oodake ja hoidke rakendus avatuna."
+msgstr "Rahakoti lahti krüpteerimine võib sellel seadmel võtta umbes 5 minutit. Ole kannatlik ja hoia rakendus avatuna."
 
 #: public/views/walletHome.html:193
 msgid "Definition"
-msgstr "Definitsioon"
+msgstr "Määratlus"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -553,7 +553,7 @@ msgstr "Nutika aadressi määratlus"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
-msgstr "Aadressite defineerimine"
+msgstr "Aadressite määratlused"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
