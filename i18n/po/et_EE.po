@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 17:40-0400\n"
+"PO-Revision-Date: 2018-04-30 17:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -497,7 +497,7 @@ msgstr "Looge uus rahakott"
 
 #: src/js/controllers/index.js:307
 msgid "Create new wallet  together with  ?"
-msgstr "Loo uus ühine rahakott ?"
+msgstr "Looge uus rahakott  koos  ?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
@@ -831,11 +831,11 @@ msgstr ""
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr "Sisesta minu aadress"
+msgstr "Sisestage minu aadress"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr "Siseta privaatne profiil"
+msgstr "Sisestage privaatne profiil"
 
 #: public/views/walletHome.html:660
 msgid "Invalid"
@@ -847,7 +847,7 @@ msgstr "Kehtetu Touch ID"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr "Saada kutse teisele seadmele"
+msgstr "Saatke kutse teisele seadmele"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
@@ -913,7 +913,7 @@ msgstr "Mitme Seadmega Rahakott"
 
 #: public/views/walletHome.html:254
 msgid "My Byteball address"
-msgstr ""
+msgstr "Minu Byteball aadress"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
