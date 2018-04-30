@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 18:00-0400\n"
+"PO-Revision-Date: 2018-04-30 18:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -43,7 +43,7 @@ msgstr "12 kriipsudega eraldatud sõna"
 
 #: public/views/preferencesGlobal.html:140
 msgid "About Byteball"
-msgstr "Byteball -ist"
+msgstr "Info Byteball kohta"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
@@ -130,11 +130,11 @@ msgstr "Kaasaaitamine Byteball -i tõlkimisega on teretulnud. Registreeruge crow
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
-msgstr "Makstud"
+msgstr "Juba Makstud"
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
-msgstr "Salvestatud"
+msgstr "Juba salvestatud"
 
 #: public/views/walletHome.html:164
 msgid "Also"
@@ -142,11 +142,11 @@ msgstr "Lisaks"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr "Lisaks leiate Seaded menüüst turvalisuse seadeid nagu salasõna seadistamine."
+msgstr "Lisaks leiad Seaded menüüst turvalisuse seadeid nagu salasõna seadistamine."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr "Ärge unustage kustutada seemne sõnad"
+msgstr "Ära unusta kustutada seemne sõnu"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -163,11 +163,11 @@ msgstr "Vastus:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr "Kinnitage rahakotti loomise teistel seadmetel"
+msgstr "Kinnita rahakoti loomine teistel seadmetel"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr "Kas oled kindel, et soovid kustutada varukoopia seemne sõnad?"
+msgstr "Kas oled kindel, et soovid kustutada varukoopia seemne sõnu?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
@@ -250,7 +250,7 @@ msgstr "Enne vahendite vastuvõtmist on soovitatav teha rahakoti võtmetest varu
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr "Pigem kasutage mitme allkirjaga rahakotte,"
+msgstr "Pigem kasuta mitme allkirjaga rahakotte,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
@@ -264,7 +264,7 @@ msgstr ""
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr "Bitcoin -i URI on vale!"
+msgstr "Bitcoini URI on VALE!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
