@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 08:47-0400\n"
+"PO-Revision-Date: 2018-04-30 08:51-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -35,7 +35,7 @@ msgstr "(võimalik mitmekordne maha arvestamine)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr "-- Valige kaasallkirjastaja --"
+msgstr "-- Vali kaasallkirjastaja --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
