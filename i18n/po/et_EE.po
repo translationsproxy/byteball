@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 15:30-0400\n"
+"PO-Revision-Date: 2018-04-30 15:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -198,11 +198,11 @@ msgstr "Tõendaja:"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr "Automaatne witness listi uuendamine hub -ist"
+msgstr "Automaatne tunnistajate nimekirja uuendamine keskusest"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr "Automaatne witness listi uuendamine hub -ist"
+msgstr "Automaatne tunnistajate nimekirja uuendamine sellest keskusest"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -342,7 +342,7 @@ msgstr "Raha kättesaamine textcoin kaudu"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr "Klikkage <span ng-if=\"isResend\">uuesti</span> email -i saatmiseks:"
+msgstr "Klõpsake nuppu e-kirja <span ng-if=\"isResend\">uuesti</span> saatmiseks:"
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
@@ -630,7 +630,7 @@ msgstr "E-kirja tõendaja"
 
 #: public/views/preferencesEmailAttestor.html:13
 msgid "Email attestor address"
-msgstr "E-posti tõendaja aadress"
+msgstr "E-kirja tõendaja aadress"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -1319,7 +1319,7 @@ msgstr "Saada kõik"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
-msgstr "Saada emailiga"
+msgstr "Saada e-kirjaga"
 
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
@@ -1765,11 +1765,11 @@ msgstr ""
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
-msgstr ""
+msgstr "Tunnistaja aadress"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Witnesses"
-msgstr ""
+msgstr "Tunnistajad"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
