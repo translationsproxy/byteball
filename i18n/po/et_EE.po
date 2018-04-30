@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 15:00-0400\n"
+"PO-Revision-Date: 2018-04-30 15:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -176,7 +176,7 @@ msgstr "Kas oled kindel, et soovid kustutada seda rahakotti?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr "Aktiiv"
+msgstr "Vahend"
 
 #: public/views/walletHome.html:536
 msgid "Attest profile data linked to any Byteball address."
@@ -310,7 +310,7 @@ msgstr "Rahakotti aliase muutmine mõjub ainult lokaalse rahakotti nimele."
 
 #: src/js/controllers/index.js:683
 msgid "Chat"
-msgstr "Chat"
+msgstr "Vestlus"
 
 #: public/views/import.html:33
 msgid "Choose File"
@@ -851,7 +851,7 @@ msgstr "Saada kutse teisele seadmele"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Ainult rahakoti seemne sõnadest ei piisa. Seemne sõnadega pole teil võimalik taastada mitme allkirjaga rahakotte ega vahendeid nagu blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -994,7 +994,7 @@ msgstr ""
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr "Ava chat"
+msgstr "Ava vestlus"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
@@ -1514,7 +1514,7 @@ msgstr ""
 
 #: public/views/walletHome.html:364
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
-msgstr ""
+msgstr "See on privaatne vahend, saatke seda ainult linkide kaudu vestluses või saates oma teistesse rahakottidesse."
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
@@ -1563,7 +1563,7 @@ msgstr "Kellele"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "Selleks, et saaks taastada kõike, tehke täielik varukoopia (leiate selle valiku menüüst)"
 
 #: public/views/walletHome.html:598
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
