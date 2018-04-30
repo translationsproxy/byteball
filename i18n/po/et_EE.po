@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 15:40-0400\n"
+"PO-Revision-Date: 2018-04-30 15:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -302,7 +302,7 @@ msgstr "Katkesta"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr "Vaheta hub:"
+msgstr "Vaheta keskust:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
@@ -753,11 +753,11 @@ msgstr "Host"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr "Hub"
+msgstr "Keskus"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr "Hub -i URL"
+msgstr "Keskuse URL"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
@@ -1224,7 +1224,7 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:132
 msgid "Restore from full backup"
-msgstr ""
+msgstr "Taastamine täielikust varukoopiast"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
@@ -1469,11 +1469,11 @@ msgstr "Tõendatud aadress kuulub:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr ""
+msgstr "Keskust kasutatakse sõnumite saamiseks teistelt seadmetelt."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr ""
+msgstr "Keskus soovitab vahetada järgmised tunnistajad:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
@@ -2051,5 +2051,5 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'Sees':'Väljas'}}"
 
