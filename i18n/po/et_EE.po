@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 13:50-0400\n"
+"PO-Revision-Date: 2018-04-30 14:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -142,7 +142,7 @@ msgstr ""
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr "Samuti Seaded menüü all leiate parooli seadistamiseks vajalikud valikud."
+msgstr "Lisaks leiate Seaded menüüst turvalisuse seadeid nagu salasõna seadistamine."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -167,12 +167,12 @@ msgstr "Kinnitage rahakotti loomise teistel seadmetel"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr "Kas olete kindel, et soovite kustutada varukoopia seemne sõnad?"
+msgstr "Kas oled kindel, et soovid kustutada varukoopia seemne sõnad?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr "Kas olete kindel, et soovite kustutada seda rahakotti?"
+msgstr "Kas oled kindel, et soovid kustutada seda rahakotti?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
@@ -468,7 +468,7 @@ msgstr "Import ebaõnnestus"
 
 #: src/js/services/profileService.js:484
 msgid "Could not import. Check input file and password"
-msgstr "Import ebaõnnestus. Kontrollige sisendfaili ja parooli"
+msgstr "Import ebaõnnestus. Kontrollige sisendfaili ja salasõna"
 
 #: src/js/controllers/walletHome.js:53
 msgid "Could not recognize a valid Byteball QR Code"
@@ -642,7 +642,7 @@ msgstr ""
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr "Sisestage oma parool"
+msgstr "Sisestage oma salasõna"
 
 #: src/js/services/profileService.js:338
 #: src/js/services/profileService.js:390
@@ -1023,11 +1023,11 @@ msgstr "Paroolifraas"
 
 #: src/js/services/profileService.js:672
 msgid "Password needed"
-msgstr "Parool on kohustuslik"
+msgstr "Salasõna on vajalik"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
-msgstr "Paroolid ei klapi"
+msgstr "Salasõnad ei kattu"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
@@ -1195,11 +1195,11 @@ msgstr "Nimeta ümber:"
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr "Korda parool"
+msgstr "Korda salasõna"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr "Korda parool"
+msgstr "Korda seda salasõna"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
@@ -1207,7 +1207,7 @@ msgstr "Asenda"
 
 #: public/views/preferencesGlobal.html:91
 msgid "Request Password"
-msgstr "Küsi parooli"
+msgstr "Nõua salasõna"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:311
@@ -1815,11 +1815,11 @@ msgstr ""
 
 #: public/views/includes/password.html:18
 msgid "Your password"
-msgstr "Sinu parool"
+msgstr "Salasõna"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
-msgstr "Sinu rahakoti fail:"
+msgstr "Rahakoti fail:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
