@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 16:30-0400\n"
+"PO-Revision-Date: 2018-04-30 16:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -541,7 +541,7 @@ msgstr "Katkestatud"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr "Rahakotti lahti krüpteerimine võib võtta kuni 5 minutit sellel seadmel. Oodake ja hoidke rakendus lahti."
+msgstr "Rahakoti lahti krüpteerimine võib sellel seadmel võtta umbes 5 minutit. Oodake ja hoidke rakendus avatuna."
 
 #: public/views/walletHome.html:193
 msgid "Definition"
@@ -700,7 +700,7 @@ msgstr "Leitud vahendid"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr "Raha saadetakse"
+msgstr "Vahendid saadetakse"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
@@ -1014,7 +1014,7 @@ msgstr "Sidumiskood"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr "Paber rahakotti salajane võti"
+msgstr "Paberile kirjutatud salajane võti"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
@@ -1031,7 +1031,7 @@ msgstr "Salasõnad ei kattu"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr "Sisestage paber rahakotti salajane võti siia"
+msgstr "Sisestage paberile kirjutatud salajane võti siia"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
@@ -1256,7 +1256,7 @@ msgstr ""
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
-msgstr ""
+msgstr "Otsi Rahakoti Vahendeid"
 
 #: public/views/walletHome.html:120
 msgid "Scan status finished with error"
@@ -1280,7 +1280,7 @@ msgstr ""
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
-msgstr ""
+msgstr "Rahakoti vahendite otsimine..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1327,7 +1327,7 @@ msgstr "Saada see profiil"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
-msgstr "Raha saatmine..."
+msgstr "Vahendite saatmine..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
@@ -1426,11 +1426,11 @@ msgstr "Õnnestus"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr ""
+msgstr "Rahakoti ülekandmine"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr ""
+msgstr "Kanna rahakott siia üle"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
