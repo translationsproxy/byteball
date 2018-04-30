@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 18:40-0400\n"
+"PO-Revision-Date: 2018-04-30 18:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -802,11 +802,11 @@ msgstr "Kui vastuvõtja ei näe makset, siis saad"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Kui võtsite selle varukoopia teiselt seadmelt, lõpetage pärast varukoopia tegemist kohe selle kasutamine originaalsel seadmel. Ärge kunagi kloonige rahakotte. Kasutage mitme allkirjaga rahakotti kui soovite ligipääsu mitmelt seadmelt."
+msgstr "Kui võtsid selle varukoopia teiselt seadmelt, lõpeta pärast varukoopia tegemist kohe selle kasutamine originaalsel seadmel. Ära kunagi klooni rahakotte. Kasuta mitme allkirjaga rahakotti kui soovite ligipääsu mitmelt seadmelt."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Kui plaanite taastada rahakotti teisel seadmel, lõpetage pärast varukoopia tegemist kohe selle kasutamine siin seadmel. Ärge kunagi kloonige rahakotte. Kasutage mitme allkirjaga rahakotti kui soovite ligipääsu mitmelt seadmelt."
+msgstr "Kui plaanid taastada rahakotti teisel seadmel, lõpeta pärast varukoopia tegemist kohe selle kasutamine siin seadmel. Ära kunagi klooni rahakotte. Kasuta mitme allkirjaga rahakotti kui soovid ligipääsu mitmelt seadmelt."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -818,7 +818,7 @@ msgstr "Impordi rahakott"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr "Rahakotii importimine..."
+msgstr "Rahakoti importimine..."
 
 #: public/views/walletHome.html:137
 msgid "Including pending confirmation"
@@ -879,7 +879,7 @@ msgstr "Laadimine..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr "Teen makse"
+msgstr "Tee makse"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
@@ -1031,7 +1031,7 @@ msgstr "Salasõnad ei kattu"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr "Sisestage paberile kirjutatud salajane võti siia"
+msgstr "Sisesta paberile kirjutatud salajane võti siia"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
@@ -1174,7 +1174,7 @@ msgstr "Rahakoti taastamine..."
 
 #: src/js/controllers/index.js:229
 msgid "Refused"
-msgstr "Katkestatud"
+msgstr "Keeldutud"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
@@ -1199,7 +1199,7 @@ msgstr "Korda salasõna"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr "Korda seda salasõna"
+msgstr "Korda sama salasõna"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
@@ -1494,7 +1494,7 @@ msgstr ""
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr "Rahakoti tootja võib näha mõningaid teie kontojääke ja millised tehingud kuuluvad teile, aga te saate alustada rahakoti kasutamisega kohe ja rahakott on täielikult töökorras."
+msgstr "Rahakoti tootja võib näha mõningaid sinu kontojääke ja millised tehingud kuuluvad sulle, aga sa saad alustada rahakoti kasutamisega kohe ja rahakott on täisfunktsionaalne."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
