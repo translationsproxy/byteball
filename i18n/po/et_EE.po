@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 14:30-0400\n"
+"PO-Revision-Date: 2018-04-30 14:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -50,7 +50,7 @@ msgstr "Byteball -ist"
 #: src/js/controllers/walletHome.js:123
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr "Aksepteeri"
+msgstr "Nõustun"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
@@ -618,7 +618,7 @@ msgstr "Lae alla kogu Byteball andmebaas"
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
-msgstr "Redigeeri"
+msgstr "Muuda"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
@@ -883,7 +883,7 @@ msgstr "Teen makse"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr "Võibolla hiljem"
+msgstr "Võib-olla hiljem"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:116
