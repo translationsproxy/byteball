@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 19:30-0400\n"
+"PO-Revision-Date: 2018-04-30 19:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -525,7 +525,7 @@ msgstr "Andmed"
 
 #: public/views/walletHome.html:346
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Informatsiooni andmesidesse"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
@@ -822,12 +822,13 @@ msgstr "Rahakoti importimine..."
 
 #: public/views/walletHome.html:137
 msgid "Including pending confirmation"
-msgstr ""
+msgstr "Sisaldades ootel kinnitust"
 
 #: public/views/walletHome.html:641
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr ""
+msgstr "Paljude tehingutega rahakottide esialgne ajaloo sünkroniseerimine võib aega võtta mõned minutid.<br>\n"
+"          Palun ole ootel."
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
@@ -905,7 +906,7 @@ msgstr "Sõnum"
 
 #: public/views/walletHome.html:659
 msgid "Moved"
-msgstr ""
+msgstr "Liigutatud"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
@@ -959,7 +960,7 @@ msgstr ""
 
 #: public/views/walletHome.html:625
 msgid "No transactions yet"
-msgstr ""
+msgstr "Veel ei ole ühtegi tehingut"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
@@ -969,7 +970,7 @@ msgstr ""
 #: public/views/walletHome.html:419
 #: public/views/walletHome.html:552
 msgid "Not valid"
-msgstr ""
+msgstr "Vigane"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:106
@@ -1051,7 +1052,7 @@ msgstr ""
 
 #: public/views/walletHome.html:210
 msgid "Payment Proposals"
-msgstr ""
+msgstr "Makse Ettepanekud"
 
 #: public/views/modals/tx-status.html:38
 msgid "Payment Rejected"
@@ -1095,15 +1096,15 @@ msgstr "Port"
 
 #: public/views/walletHome.html:542
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Postita võti-väärtus andmepaare Byteballi võrku."
 
 #: public/views/walletHome.html:533
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Postita väärtusi andmesidesse käsitsi, ole oraakel."
 
 #: public/views/walletHome.html:539
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Postita oma profiili andmeid, ükskõik mida soovid enda kohta öelda."
 
 #: public/views/walletHome.html:189
 #: public/views/walletHome.html:47
