@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 16:10-0400\n"
+"PO-Revision-Date: 2018-04-30 16:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -450,7 +450,7 @@ msgstr "Ei õnnestunud luua kasutades laiendatud avaliku võtit"
 
 #: src/js/services/profileService.js:272
 msgid "Could not create: Invalid wallet seed"
-msgstr "Ei õnnestu luua: Vigased rahakoti seemne sõnad"
+msgstr "Ei õnnestu luua: Valed rahakoti seemne sõnad"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
@@ -785,7 +785,7 @@ msgstr "ID tüüp"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
-msgstr ""
+msgstr "Kui ükski teie kaasallkirjastaja seade ei näe seda makset, siis te saate"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
@@ -798,7 +798,7 @@ msgstr ""
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr ""
+msgstr "Kui vastuvõtja ei näe teie makset, te saate"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -1154,7 +1154,7 @@ msgstr "Vastu võetud"
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:58
 msgid "Recipients"
-msgstr "Saajad"
+msgstr "Vastuvõtjad"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
@@ -1299,7 +1299,7 @@ msgstr ""
 #: public/views/walletHome.html:587
 #: src/js/controllers/index.js:675
 msgid "Send"
-msgstr "Maksan"
+msgstr "Saada"
 
 #: public/views/walletHome.html:333
 msgid "Send All"
@@ -1530,7 +1530,7 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr ""
+msgstr "See tehing on muutunud kehtetuks; tõenäoliselt mitmekordse maha arvestamise katse tõttu."
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
