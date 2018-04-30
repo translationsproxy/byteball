@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 17:50-0400\n"
+"PO-Revision-Date: 2018-04-30 18:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -35,7 +35,7 @@ msgstr "(võimalik topelt-kulutamine)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr "-- Valige kaasallkirjastaja --"
+msgstr "-- Vali kaasallkirjastaja --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
@@ -58,7 +58,7 @@ msgstr "Võta kutse vastu"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr "Võta kutse vastu teiselt seadmelt"
+msgstr "Võta teiselt seadmelt kutse vastu"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
@@ -493,7 +493,7 @@ msgstr "Looge uus rahakott"
 #: public/views/add.html:15
 #: public/views/create.html:175
 msgid "Create new wallet"
-msgstr "Looge uus rahakott"
+msgstr "Loo uus rahakott"
 
 #: src/js/controllers/index.js:307
 msgid "Create new wallet  together with  ?"
@@ -501,7 +501,7 @@ msgstr "Looge uus rahakott  koos  ?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr "Looge {{requiredCosigners}}-{{totalCosigners}}st rahakott"
+msgstr "Loo {{requiredCosigners}}-{{totalCosigners}}st rahakott"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -831,11 +831,11 @@ msgstr ""
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr "Sisestage minu aadress"
+msgstr "Sisesta minu aadress"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr "Sisestage privaatne profiil"
+msgstr "Sisesta privaatne profiil"
 
 #: public/views/walletHome.html:660
 msgid "Invalid"
@@ -847,7 +847,7 @@ msgstr "Kehtetu Touch ID"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr "Saatke kutse teisele seadmele"
+msgstr "Saada kutse teisele seadmele"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
@@ -1831,7 +1831,7 @@ msgstr ""
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr "[ Lisage uus kaasallkirjastaja seade ]"
+msgstr "[ Lisa uus kaasallkirjastaja seade ]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
