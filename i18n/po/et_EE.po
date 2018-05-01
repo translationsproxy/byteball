@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 00:30-0400\n"
+"PO-Revision-Date: 2018-05-01 00:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1080,7 +1080,7 @@ msgstr "Palun vali, kui palju andmeid salvestada sinu rahakotti"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
-msgstr ""
+msgstr "Palun täitke nõutud väljad"
 
 #: public/views/splash.html:82
 msgid "Please name this device"
@@ -1113,7 +1113,7 @@ msgstr "Eelistused"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "Väljumiseks vajuta uuesti"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
@@ -1179,7 +1179,7 @@ msgstr "Keeldutud"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr ""
+msgstr "Väljalaske Informatsioon"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
@@ -1253,7 +1253,7 @@ msgstr "Eelistuste salvestamine..."
 
 #: public/views/preferences.html:69
 msgid "Scan Fingerprint"
-msgstr ""
+msgstr "Skaneeri Sõrmejälge"
 
 #: public/views/paperWallet.html:44
 msgid "Scan Wallet Funds"
@@ -1269,7 +1269,7 @@ msgstr "Skaneeri ülevalolev QR kood teise seadmega või saada see paarituskood 
 
 #: src/js/controllers/index.js:1600
 msgid "Scan your fingerprint please"
-msgstr ""
+msgstr "Palun skaneeri oma sõrmejälge"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
@@ -1293,7 +1293,7 @@ msgstr "Vali alamrahakott"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "Vali oma identiteet"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:499
@@ -1340,7 +1340,7 @@ msgstr "Saadetud"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr "Sessionide logi"
+msgstr "Sessioonide logi"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
@@ -1395,7 +1395,7 @@ msgstr "Ühe aadressiga rahakotid ei tekita iga tehinguga uut aadressi, tehingus
 
 #: src/js/services/profileService.js:332
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "Rahakott Väikestele Kuludele"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
@@ -1728,7 +1728,7 @@ msgstr "Rahakoti Nimi (loomise ajal)"
 
 #: src/js/services/profileService.js:453
 msgid "Wallet already in Byteball:"
-msgstr ""
+msgstr "Rahakott on juba Byteballis:"
 
 #: public/views/create.html:48
 msgid "Wallet name"
