@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 01:40-0400\n"
+"PO-Revision-Date: 2018-05-01 01:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -43,7 +43,7 @@ msgstr "12 kriipsudega eraldatud sõna"
 
 #: public/views/preferencesGlobal.html:140
 msgid "About Byteball"
-msgstr "Info Byteball kohta"
+msgstr "Info Byteballi kohta"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
