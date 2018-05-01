@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 20:30-0400\n"
+"PO-Revision-Date: 2018-04-30 20:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -260,7 +260,7 @@ msgstr "Sõlmi makse leping"
 #: public/views/walletHome.html:442
 #: public/views/walletHome.html:455
 msgid "Bind the payment to a condition"
-msgstr "Sõlmi makse leping tingimusega"
+msgstr "Sõlmi tingimusega makse leping"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -1609,7 +1609,7 @@ msgstr ""
 
 #: public/views/walletHome.html:647
 msgid "Transactions<br> Downloaded"
-msgstr ""
+msgstr "Tehingud<br> Allalaetud"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
@@ -1634,7 +1634,7 @@ msgstr ""
 #: public/views/modals/tx-details.html:118
 #: public/views/walletHome.html:678
 msgid "Unconfirmed"
-msgstr ""
+msgstr "Kinnitamata"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
@@ -1646,7 +1646,7 @@ msgstr ""
 
 #: public/views/walletHome.html:211
 msgid "Unsent transactions"
-msgstr ""
+msgstr "Saatmata tehingud"
 
 #: public/views/walletHome.html:73
 msgid "Updating Wallet..."
@@ -1753,7 +1753,7 @@ msgstr "Saadi kätte?"
 
 #: public/views/walletHome.html:342
 msgid "What to send"
-msgstr ""
+msgstr "Mida saadetakse"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
@@ -1762,7 +1762,7 @@ msgstr ""
 #: public/views/walletHome.html:512
 #: public/views/walletHome.html:579
 msgid "Who signs:"
-msgstr ""
+msgstr "Kes allkirjastab:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
@@ -1799,7 +1799,7 @@ msgstr "Sa ei saa siduda oma tehingut tagasi saatma iseendale kui sul on ühe aa
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
-msgstr ""
+msgstr "Sul ei ole rahakotti"
 
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
@@ -1911,7 +1911,7 @@ msgstr ""
 
 #: public/views/walletHome.html:167
 msgid "in smart wallets"
-msgstr ""
+msgstr "nutirahakottides"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
@@ -1933,7 +1933,7 @@ msgstr ""
 #: public/views/walletHome.html:463
 #: public/views/walletHome.html:474
 msgid "optional"
-msgstr ""
+msgstr "valikuline"
 
 #: public/views/modals/offer-contract.html:99
 msgid "or"
@@ -1984,11 +1984,11 @@ msgstr "jaga uuesti"
 
 #: public/views/walletHome.html:449
 msgid "switch to multi-address"
-msgstr ""
+msgstr "aktiveeri mitmele aadressile saatmine"
 
 #: public/views/walletHome.html:448
 msgid "switch to single address"
-msgstr ""
+msgstr "aktiveeri ühele aadressile saatmine"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
