@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 02:30-0400\n"
+"PO-Revision-Date: 2018-05-01 02:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -454,7 +454,7 @@ msgstr "Ei õnnestu luua: Valed rahakoti seemnesõnad"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr "Ei õnnestu lahti krüpteerida"
+msgstr "Lahti krüpteerimine ebaõnnestus"
 
 #: public/views/walletHome.html:622
 msgid "Could not fetch transaction history"
@@ -472,7 +472,7 @@ msgstr "Import ebaõnnestus. Kontrolli sisendfaili ja salasõna"
 
 #: src/js/controllers/walletHome.js:53
 msgid "Could not recognize a valid Byteball QR Code"
-msgstr "Ei õnnestunud tuvastada Byteballi QR koodi"
+msgstr "Byteballi QR koodi tuvastamine ebaõnnestus"
 
 #: src/js/controllers/walletHome.js:689
 msgid "Could not send payment"
@@ -1308,7 +1308,7 @@ msgstr "Saada Kõik"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr "Saada makse"
+msgstr "Saada Makse"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
