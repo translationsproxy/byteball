@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 00:10-0400\n"
+"PO-Revision-Date: 2018-05-01 00:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1064,11 +1064,11 @@ msgstr "Makse tehtud"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "Teine osapool:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
-msgstr ""
+msgstr "Rahakoti jäädav kustutamine. SEDA TEGEVUST EI OLE VÕIMALIK TAGASI PÖÖRATA"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
@@ -1076,7 +1076,7 @@ msgstr "Tavaline Rahakott"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr ""
+msgstr "Palun vali, kui palju andmeid salvestada sinu rahakotti"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
@@ -1084,7 +1084,7 @@ msgstr ""
 
 #: public/views/splash.html:82
 msgid "Please name this device"
-msgstr ""
+msgstr "Palun anna sellele seadmele nimi"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
@@ -1126,7 +1126,7 @@ msgstr "Privaatne andmekanne saadetud"
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "Privaatne profiil"
 
 #: public/views/walletHome.html:348
 msgid "Profile"
@@ -1229,7 +1229,7 @@ msgstr "Taastamine täielikust varukoopiast"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr ""
+msgstr "Uuesti proovimine..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1511,7 +1511,7 @@ msgstr "Selle aadressi kaasallkirjastajad on {{index.shared_address_cosigners}}.
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
-msgstr ""
+msgstr "Seda valikut ei ole võimalik hiljem muuta"
 
 #: public/views/walletHome.html:364
 msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
@@ -1519,7 +1519,7 @@ msgstr "See on privaatne vahend, saada seda ainult linkide kaudu vestluses või 
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "See valik on parem privaatsuse säilitamiseks, aga võtab mitu gigabaiti ruumi ja esialgne sünkroniseerimine võtab aega mitu päeva. CPU kasutus on ka kõrge sellel ajal."
 
 #: public/views/walletHome.html:443
 msgid "This payment is bound to a condition"
