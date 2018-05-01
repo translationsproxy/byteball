@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 02:40-0400\n"
+"PO-Revision-Date: 2018-05-01 03:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -405,7 +405,7 @@ msgstr "Kinnita"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr "Kinnita hääl"
+msgstr "Kinnita Hääl"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -1080,7 +1080,7 @@ msgstr "Palun vali, kui palju andmeid salvestada sinu rahakotti"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
-msgstr "Palun täitke nõutud väljad"
+msgstr "Palun taida nõutud väljad"
 
 #: public/views/splash.html:82
 msgid "Please name this device"
@@ -1171,7 +1171,7 @@ msgstr "Taastamine seemnesõnadega"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr "Rahakoti taastamine..."
+msgstr "Rahakoti Taastamine..."
 
 #: src/js/controllers/index.js:229
 msgid "Refused"
@@ -1361,7 +1361,7 @@ msgstr "Jaga"
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:289
 msgid "Share address"
-msgstr "Jaga aadress"
+msgstr "Jaga aadressi"
 
 #: public/views/walletHome.html:294
 msgid "Share this wallet address to receive payments."
@@ -1449,7 +1449,7 @@ msgstr "TOR"
 #: public/views/walletHome.html:121
 #: public/views/walletHome.html:623
 msgid "Tap to retry"
-msgstr "Puuduta, et uuesti proovida"
+msgstr "Puuduta, et proovida uuesti"
 
 #: public/views/disclaimer.html:12
 #: public/views/preferencesAbout.html:30
@@ -1564,7 +1564,7 @@ msgstr "Kellele"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr "Selleks, et saaks taastada kõike, tehke täielik varukoopia (leiate selle valiku menüüst)"
+msgstr "Selleks, et saaks taastada kõike, tee täielik varukoopia (leiad selle valiku menüüst)"
 
 #: public/views/walletHome.html:598
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
@@ -1678,7 +1678,7 @@ msgstr "HOIATUS:"
 
 #: public/views/walletHome.html:236
 msgid "WARNING: Backup needed"
-msgstr "Hoiatus: Varukoopia on vajalik"
+msgstr "HOIATUS: Varukoopia on vajalik"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
