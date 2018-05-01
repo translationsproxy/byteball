@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 23:40-0400\n"
+"PO-Revision-Date: 2018-04-30 23:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -600,7 +600,7 @@ msgstr "Ära kasuta seda rahakotti kloonimiseks."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr ""
+msgstr "Ei näe oma keelt Crowdin lehel? Võta ühendust haldajaga Crowdin lehel! Me hea meelega lisaks sinu keele."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
@@ -856,7 +856,7 @@ msgstr "Ainult rahakoti seemnesõnadest ei piisa. Seemnesõnadega pole teil või
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Hoia alles ainult sinule olulised andmed"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
@@ -894,7 +894,7 @@ msgstr "Mina"
 
 #: public/views/modals/tx-details.html:110
 msgid "Merchant message"
-msgstr ""
+msgstr "Kaupmehe sõnum"
 
 #: public/views/walletHome.html:462
 msgid "Merkle proof"
@@ -922,11 +922,11 @@ msgstr "Minu salvestamise eelistus"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "Kontakti nimi"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
-msgstr ""
+msgstr "Võrk"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
@@ -2017,7 +2017,7 @@ msgstr "ja eeldatavaks väärtuseks on"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
-msgstr ""
+msgstr "{{address}} saab kulutada kui:"
 
 #: public/views/modals/accept-profile.html:41
 #: public/views/modals/claim-textcoin.html:36
@@ -2035,11 +2035,11 @@ msgstr "{{confirm_label || 'Jah'}}"
 
 #: src/js/controllers/walletHome.js:1794
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr ""
+msgstr "{{fee}} arvestatakse maha Bitcoini ülekande tasude katteks"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "{{hrd.destinationAddress}} saab kulutada kui:"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
