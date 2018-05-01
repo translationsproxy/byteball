@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 02:10-0400\n"
+"PO-Revision-Date: 2018-05-01 02:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -238,7 +238,7 @@ msgstr "Varukoopiad"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
-msgstr "Vale profiil"
+msgstr "Halb profiil"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -1044,7 +1044,7 @@ msgstr "Maksa sellele aadressile"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr "Makse on vastu võetud"
+msgstr "Makse Vastu Võetud"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
@@ -1060,7 +1060,7 @@ msgstr "Makse Tagasilükatud"
 
 #: public/views/modals/tx-status.html:5
 msgid "Payment Sent"
-msgstr "Makse tehtud"
+msgstr "Makse Saadetud"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
@@ -1088,7 +1088,7 @@ msgstr "Palun anna sellele seadmele nimi"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr "Palun muuda ühe aadressiga rahakoti peale ja tõenäoliselt pead sisestama oma aadressi uuesti."
+msgstr "Palun muuda ühe aadressiga rahakoti peale ja tõenäoliselt pead sa sisestama oma aadressi uuesti."
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1527,7 +1527,7 @@ msgstr "See makse on seotud tingimusega"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
-msgstr "Seda makse saab maksta ainult ühe aadressiga rahakotist"
+msgstr "Seda makset saab maksta ainult ühe aadressiga rahakotist"
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
