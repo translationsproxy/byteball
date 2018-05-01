@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 00:40-0400\n"
+"PO-Revision-Date: 2018-05-01 00:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -600,7 +600,7 @@ msgstr "Ära kasuta seda rahakotti kloonimiseks."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr "Ei näe oma keelt Crowdin lehel? Võta ühendust haldajaga Crowdin lehel! Me hea meelega lisaks sinu keele."
+msgstr "Kas ei näe oma keelt Crowdin lehel? Võta ühendust Crowdin projekti haldajaga! Me hea meelega lisaks sinu keele."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
@@ -700,7 +700,7 @@ msgstr "Vahendid leitud"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr "Vahendid saadetakse"
+msgstr "Vahendid saadetakse rahakotti"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
@@ -1032,7 +1032,7 @@ msgstr "Salasõnad ei kattu"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr "Sisesta paberile kirjutatud salajane võti siia"
+msgstr "Sisesta siia paberile kirjutatud salajane võti"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
@@ -1277,7 +1277,7 @@ msgstr "Rahakoti vahendite otsimine..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr "Aadressite skaneerimine..."
+msgstr "Aadressite otsimine..."
 
 #: public/views/paperWallet.html:18
 msgid "Scanning wallet funds..."
@@ -1404,7 +1404,7 @@ msgstr "Seemnesõnade määramine..."
 #: public/views/preferences.html:63
 #: public/views/preferencesGlobal.html:87
 msgid "Spending Restrictions"
-msgstr ""
+msgstr "Piirangud Kulutamisele"
 
 #: public/views/preferencesGlobal.html:101
 msgid "Still not done"
@@ -1427,7 +1427,7 @@ msgstr "Õnnestus"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr "Rahakoti ülekandmine"
+msgstr "Rahakoti Ülekandmine"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
@@ -1613,7 +1613,7 @@ msgstr "Tehingud<br> Allalaetud"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
-msgstr ""
+msgstr "Tõlke autorid"
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
