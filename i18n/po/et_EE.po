@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 01:30-0400\n"
+"PO-Revision-Date: 2018-05-01 01:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1381,7 +1381,7 @@ msgstr "Näita Ikkagi Rahakoti Seemnesõnu"
 
 #: src/js/controllers/index.js:456
 msgid "Sign transaction spending  from wallet ?"
-msgstr ""
+msgstr "Allkirjasta tehingu kulutused  rahakotist ?"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
