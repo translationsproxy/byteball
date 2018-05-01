@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 01:20-0400\n"
+"PO-Revision-Date: 2018-05-01 01:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -948,7 +948,7 @@ msgstr "Ei"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "Salasõna pole antud"
 
 #: public/views/modals/choose-profile.html:67
 msgid "No profiles matching the requested criteria."
@@ -1048,7 +1048,7 @@ msgstr "Makse on vastu võetud"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
-msgstr ""
+msgstr "Makse Ettepanek Loodud"
 
 #: public/views/walletHome.html:210
 msgid "Payment Proposals"
@@ -1056,7 +1056,7 @@ msgstr "Makse Ettepanekud"
 
 #: public/views/modals/tx-status.html:38
 msgid "Payment Rejected"
-msgstr ""
+msgstr "Makse Tagasilükatud"
 
 #: public/views/modals/tx-status.html:5
 msgid "Payment Sent"
@@ -1233,7 +1233,7 @@ msgstr "Uuesti proovimine..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
-msgstr ""
+msgstr "SEADISTA"
 
 #: public/views/editCorrespondentDevice.html:41
 #: public/views/modals/destination-address.html:132
@@ -1408,7 +1408,7 @@ msgstr "Piirangud Kulutamisele"
 
 #: public/views/preferencesGlobal.html:101
 msgid "Still not done"
-msgstr ""
+msgstr "Endiselt pole tehtud"
 
 #: src/js/controllers/correspondentDevice.js:1131
 msgid "Store"
@@ -1486,12 +1486,12 @@ msgstr "Teine osapool saab selle makse kui"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "Hääl allkirjastatakse kõigi sinu rahastatud aadressidega"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The wallet \"{{walletName}}\" was deleted"
-msgstr ""
+msgstr "Rahakott \"{{walletName}}\" kustutati"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
@@ -1629,7 +1629,7 @@ msgstr "USA ühendriik"
 
 #: src/js/controllers/walletHome.js:810
 msgid "Unable to send transaction proposal"
-msgstr ""
+msgstr "Ei õnnestud saata tehingu ettepanekut"
 
 #: public/views/modals/tx-details.html:118
 #: public/views/walletHome.html:678
@@ -1658,7 +1658,7 @@ msgstr "Uuenda versioonini {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr ""
+msgstr "Andmebaasi uuendamine, palun oota. Mõnikord võtab see mõned minutid."
 
 #: public/views/walletHome.html:562
 msgid "Values"
@@ -1919,7 +1919,7 @@ msgstr "endale hoidmiseks"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
-msgstr ""
+msgstr "lukus ootel maksete tõttu"
 
 #: public/views/modals/tx-details.html:131
 msgid "not claimed"
@@ -1941,7 +1941,7 @@ msgstr "või"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "või varunda kogu Byteball andmed kaustast"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
