@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 07:10-0400\n"
+"PO-Revision-Date: 2018-05-01 08:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -802,7 +802,7 @@ msgstr "Kui vastuvõtja ei näe makset, siis võid"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Kui võtsid selle varukoopia teiselt seadmelt, lõpeta pärast varukoopia tegemist kohe selle kasutamine originaalsel seadmel. Ära kunagi klooni rahakotte. Kasuta mitme allkirjaga rahakotti kui soovite ligipääsu mitmelt seadmelt."
+msgstr "Kui võtsid selle varukoopia teiselt seadmelt, lõpeta pärast varukoopia tegemist kohe selle kasutamine originaalsel seadmel. Ära kunagi klooni rahakotte. Kasuta mitme allkirjaga rahakotti kui soovid ligipääsu mitmelt seadmelt."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
