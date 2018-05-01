@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 00:50-0400\n"
+"PO-Revision-Date: 2018-05-01 01:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr "'Võta vastu' sakk → 'Vahendite omaksvõtmine tekstiga' nupp."
+msgstr "'Võta vastu' sakk → 'Vahendite omaksvõtmine tekstiga' nuppu."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1478,7 +1478,7 @@ msgstr "Keskus soovitab vahetada järgmised tunnistajad:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr ""
+msgstr "Vahendid on salvestatud sellesse teksti:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
@@ -1774,7 +1774,7 @@ msgstr "Tunnistajad"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr "Kirjuta tekstiga vahendid paberile ja hoia ohutus kohas. Võta need omaks tulevikus kasutades"
+msgstr "Kirjuta need tekstlised vahendid paberile ja hoia ohutus kohas. Võta need omaks kasutades kunagi tulevikus kasutades"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1915,7 +1915,7 @@ msgstr "nutirahakottides"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr ""
+msgstr "endale hoidmiseks"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -1961,7 +1961,7 @@ msgstr "saada privaatne andmekanne uuesti kaasallkirjastajatele"
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr "saada"
+msgstr "saatmiseks"
 
 #: src/js/controllers/walletHome.js:750
 msgid "send email"
@@ -1992,7 +1992,7 @@ msgstr "aktiveeri ühele aadressile saatmine"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
-msgstr ""
+msgstr "see alumine tekst ja saada see kellelegi läbi mõne sõnumirakenduse"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
