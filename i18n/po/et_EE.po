@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 00:00-0400\n"
+"PO-Revision-Date: 2018-05-01 00:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -588,7 +588,7 @@ msgstr "Seadme nimi"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr "Seadme nimi on nähtav teistele ühendatud seadmetele."
+msgstr "Seadme nimi on nähtav teistele seadmetele, millega suhtled."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
@@ -1782,7 +1782,7 @@ msgstr "Kirjuta üles ja hoia seda kuskil ohutus kohas."
 
 #: src/js/services/profileService.js:682
 msgid "Wrong password"
-msgstr ""
+msgstr "Vale salasõna"
 
 #: public/views/authConfirmation.html:17
 #: src/js/controllers/index.js:478
@@ -1812,7 +1812,7 @@ msgstr "Rahakoti Seemnesõnad:"
 
 #: public/views/export.html:33
 msgid "Your export password"
-msgstr ""
+msgstr "Exportimise salasõna"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
@@ -1996,7 +1996,7 @@ msgstr ""
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
-msgstr ""
+msgstr "asemele"
 
 #: public/views/walletHome.html:464
 #: public/views/walletHome.html:475
