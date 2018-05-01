@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 21:30-0400\n"
+"PO-Revision-Date: 2018-04-30 21:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -789,11 +789,11 @@ msgstr "Kui ükski kaasallkirjastajav seade ei näe seda makset, siis saad"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr "Kui see tingimus ei ole täidetud, siis ma saan selle summa tagasi võtta pärast"
+msgstr "Kui see tingimus ei ole täidetud, siis mina saan selle summa tagasi võtta pärast"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr "Kui teine osapool ei maksa, siis ma saan oma summa tagasi võtta pärast"
+msgstr "Kui teine osapool ei maksa, siis mina saan oma summa tagasi võtta pärast"
 
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
@@ -1850,11 +1850,11 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr "lukustab lahti selle lepingu"
+msgstr "lukustan/lukustab lahti selle lepingu"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr "lukustab lahti selle lepingu kui see aegub"
+msgstr "lukustan/lukustab lahti selle lepingu kui see aegub"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
