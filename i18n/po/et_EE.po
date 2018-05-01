@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 23:00-0400\n"
+"PO-Revision-Date: 2018-04-30 23:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr "'Võta vastu' sakk → 'Raha kättesaamine textcoin kaudu' nupp."
+msgstr "'Võta vastu' sakk → 'Vahendite omaksvõtmine tekstiga' nupp."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -330,15 +330,15 @@ msgstr "Vali väljad mida saata:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
-msgstr "Raha kättesaamine"
+msgstr "Võta vahendid omaks"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr "Raha kättesaamine textcoin kaudu"
+msgstr "Tekstiga vahendite omaksvõtmine"
 
 #: public/views/walletHome.html:316
 msgid "Claim funds using textcoin"
-msgstr "Raha kättesaamine textcoin kaudu"
+msgstr "Vahendite omaksvõtmine tekstiga"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
@@ -565,7 +565,7 @@ msgstr "Kustuta rahakott"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr ""
+msgstr "Tekstiga vahendite kustutamine kaotab võimaluse neid tagasi võtta või edasi saata"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -1462,7 +1462,7 @@ msgstr "Kirjuta sõnum:"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr "Textcoin"
+msgstr "Vahendid tekstiga"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
@@ -1749,7 +1749,7 @@ msgstr "Hoiatus!"
 
 #: public/views/modals/tx-details.html:129
 msgid "Was claimed?"
-msgstr "Saadi kätte?"
+msgstr "Võeti omaks?"
 
 #: public/views/walletHome.html:342
 msgid "What to send"
@@ -1774,7 +1774,7 @@ msgstr "Tunnistajad"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr ""
+msgstr "Kirjuta tekstiga vahendid paberile ja hoia ohutus kohas. Võta need omaks tulevikus kasutades"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1862,7 +1862,7 @@ msgstr "tühista rahakoti loomine"
 
 #: public/views/modals/tx-details.html:137
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr "saadi kätte {{btx.claimedByMe?'minu poolt':'vastuvõtja poolt'|translate}}"
+msgstr "võeti omaks {{btx.claimedByMe?'minu poolt':'vastuvõtja poolt'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
@@ -1923,7 +1923,7 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:131
 msgid "not claimed"
-msgstr "pole omaks võtnud"
+msgstr "pole omaks võtetud"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
