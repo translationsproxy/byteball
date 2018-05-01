@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 23:30-0400\n"
+"PO-Revision-Date: 2018-04-30 23:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -930,7 +930,7 @@ msgstr ""
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr ""
+msgstr "Uued Seemnesõnad"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
@@ -987,11 +987,11 @@ msgstr "Esita leping"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr ""
+msgstr "Kui sa oled rahakoti seemnesõnad üles kirjutanud, siis on soovitav need kustutada sellest seadmest."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr "Ainult ühe allkirjaga rahakotte annab taastada."
+msgstr "Ainult ühe allkirjaga rahakotte saab taastada."
 
 #: public/views/bot.html:35
 msgid "Open chat"
@@ -1377,7 +1377,7 @@ msgstr "Näita kõiki"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "Näita Ikkagi Rahakoti Seemnesõnu"
 
 #: src/js/controllers/index.js:456
 msgid "Sign transaction spending  from wallet ?"
@@ -1399,7 +1399,7 @@ msgstr ""
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr ""
+msgstr "Seemnesõnade määramine..."
 
 #: public/views/preferences.html:63
 #: public/views/preferencesGlobal.html:87
@@ -1682,7 +1682,7 @@ msgstr "Hoiatus: Varukoopia on vajalik"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr ""
+msgstr "HOIATUS: Need seemnesõnad loodi paroolifraasiga. Selle rahakoti taastamiseks on vaja meeles pidada need sõnad ja paroolifraas."
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
@@ -2027,11 +2027,11 @@ msgstr ""
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
-msgstr ""
+msgstr "{{cancel_label || 'Katkesta'}}"
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
-msgstr ""
+msgstr "{{confirm_label || 'Jah'}}"
 
 #: src/js/controllers/walletHome.js:1794
 msgid "{{fee}} will be deducted for bitcoin networking fees"
