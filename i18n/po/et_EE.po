@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 21:20-0400\n"
+"PO-Revision-Date: 2018-04-30 21:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -793,7 +793,7 @@ msgstr "Kui see tingimus ei ole täidetud, siis ma saan selle summa tagasi võtt
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Kui teine osapool ei maksa, siis ma saan oma summa tagasi võtta pärast"
 
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
@@ -1850,11 +1850,11 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr ""
+msgstr "lukustab lahti selle lepingu"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "lukustab lahti selle lepingu kui see aegub"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -1874,7 +1874,7 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:108
 msgid "days"
-msgstr ""
+msgstr "päeva järel"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
@@ -1903,7 +1903,7 @@ msgstr "tundi"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
-msgstr ""
+msgstr "kui sündmus on postitatud"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
@@ -1945,7 +1945,7 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr ""
+msgstr "teine osapool maksab"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
@@ -2009,7 +2009,7 @@ msgstr "koos"
 
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
-msgstr "eeldatav väärtus"
+msgstr "ja väärtusega"
 
 #: public/views/modals/bind.html:58
 msgid "with expected value of"
