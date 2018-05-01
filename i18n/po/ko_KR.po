@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-05-01 09:40-0400\n"
+"PO-Revision-Date: 2018-05-01 10:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -996,7 +996,7 @@ msgstr "오직 싱글시그 지갑만 복구될 수 있습니다."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "채팅창 열기"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
