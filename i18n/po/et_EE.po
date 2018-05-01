@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 02:00-0400\n"
+"PO-Revision-Date: 2018-05-01 02:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -426,7 +426,7 @@ msgstr "Kontaktid"
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:391
 msgid "Copied to clipboard"
-msgstr "Kopeeritud puhvrisse"
+msgstr "Kopeeritud lõikelauale"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
@@ -438,7 +438,7 @@ msgstr "Kirjasaajad ei ole taastatud."
 
 #: src/js/controllers/walletHome.js:689
 msgid "Could not create payment proposal"
-msgstr "Ei õnnestunud luua makse pakkumist"
+msgstr "Makse ettepaneku loomine ebaõnnestus"
 
 #: src/js/services/profileService.js:279
 msgid "Could not create using the specified extended private key"
@@ -458,7 +458,7 @@ msgstr "Ei õnnestu lahti krüpteerida"
 
 #: public/views/walletHome.html:622
 msgid "Could not fetch transaction history"
-msgstr "Ei õnnestu tehingute ajalugu kätte saada"
+msgstr "Tehingute ajaloo kätte saamine ebaõnnestus"
 
 #: src/js/services/profileService.js:507
 #: src/js/services/profileService.js:534
@@ -476,7 +476,7 @@ msgstr "Ei õnnestunud tuvastada Byteballi QR koodi"
 
 #: src/js/controllers/walletHome.js:689
 msgid "Could not send payment"
-msgstr "Makse ebaõnnestus"
+msgstr "Makse saatmine ebaõnnestus"
 
 #: src/js/controllers/correspondentDevice.js:1085
 msgid "Country"
@@ -525,7 +525,7 @@ msgstr "Andmed"
 
 #: public/views/walletHome.html:346
 msgid "Data into datafeed"
-msgstr "Informatsiooni andmesidesse"
+msgstr "Informatsiooni lisamine andmevoogu"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
@@ -609,7 +609,7 @@ msgstr "Valmis"
 
 #: public/views/walletHome.html:723
 msgid "Download CSV file"
-msgstr "Lae CSV alla"
+msgstr "Lae alla CSV fail"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
@@ -827,7 +827,7 @@ msgstr "Sisaldades ootel kinnitust"
 #: public/views/walletHome.html:641
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr "Paljude tehingutega rahakottide esialgne ajaloo sünkroniseerimine võib aega võtta mõned minutid.<br>\n"
+msgstr "Paljude tehingutega rahakottide esialgse ajaloo sünkroniseerimine võib aega võtta mõned minutid.<br>\n"
 "          Palun ole ootel."
 
 #: public/views/correspondentDevice.html:327
@@ -1100,7 +1100,7 @@ msgstr "Postita võti-väärtus andmepaare Byteballi võrku."
 
 #: public/views/walletHome.html:533
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr "Postita väärtusi andmesidesse käsitsi, ole oraakel."
+msgstr "Postita väärtusi andmevoogu käsitsi, ole nagu oraakel."
 
 #: public/views/walletHome.html:539
 msgid "Post your profile data, anything you want to say about yourself."
