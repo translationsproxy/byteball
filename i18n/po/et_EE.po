@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-01 01:10-0400\n"
+"PO-Revision-Date: 2018-05-01 01:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr "'Võta vastu' sakk → 'Vahendite omaksvõtmine tekstiga' nuppu."
+msgstr "'Võta vastu' sakk → 'Tekstiliste vahendite omaksvõtmine' nuppu."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -334,11 +334,11 @@ msgstr "Võta vahendid omaks"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr "Tekstiga vahendite omaksvõtmine"
+msgstr "Vahendite omaksvõtmine tekstiga"
 
 #: public/views/walletHome.html:316
 msgid "Claim funds using textcoin"
-msgstr "Vahendite omaksvõtmine tekstiga"
+msgstr "Tekstiliste vahendite omaksvõtmine"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
@@ -565,7 +565,7 @@ msgstr "Kustuta rahakott"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr "Tekstiga vahendite kustutamine kaotab võimaluse neid tagasi võtta või edasi saata"
+msgstr "Tekstiliste vahendite kustutamine kaotab võimaluse neid tagasi võtta või edasi saata"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -1462,7 +1462,7 @@ msgstr "Kirjuta sõnum:"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr "Vahendid tekstiga"
+msgstr "Tekstilised vahendid"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
@@ -1791,7 +1791,7 @@ msgstr "Jah"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr "Sa võid kustutada textcoini oma rahakotist kui oled selle juba salvestanud kuskile mujale (näiteks paberile):"
+msgstr "Sa võid kustutada tekstilised vahendid oma rahakotist kui oled selle juba salvestanud kuskile mujale (näiteks paberile):"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1890,7 +1890,7 @@ msgstr "mõlemal juhul"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr "kustuta textcoin"
+msgstr "kustuta tekstilised vahendid"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
@@ -1923,7 +1923,7 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:131
 msgid "not claimed"
-msgstr "pole omaks võtetud"
+msgstr "pole omaks võetud"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
