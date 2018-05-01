@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 21:50-0400\n"
+"PO-Revision-Date: 2018-04-30 22:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -983,7 +983,7 @@ msgstr "Märkused"
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
 msgid "Offer a contract"
-msgstr "Makselepingu ettepanek"
+msgstr "Esita leping"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
@@ -1036,7 +1036,7 @@ msgstr "Sisesta paberile kirjutatud salajane võti siia"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr "Maksa ja tee ettepanek"
+msgstr "Maksa ja esita leping"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
@@ -1854,7 +1854,7 @@ msgstr "lukustan/lukustab lahti selle lepingu"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr "lukustan/lukustab lahti selle lepingu kui see aegub"
+msgstr "lukustan/lukustab lahti selle lepingu kui see aegub pärast"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -1874,7 +1874,7 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:108
 msgid "days"
-msgstr "päeva järel"
+msgstr "päeva"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
