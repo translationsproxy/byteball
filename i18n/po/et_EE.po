@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-04-30 22:20-0400\n"
+"PO-Revision-Date: 2018-04-30 22:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1499,7 +1499,7 @@ msgstr "Rahakoti tootja võib näha mõningaid sinu kontojääke ja millised teh
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
-msgstr ""
+msgstr "Nende salvestamise eelistus"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
@@ -1527,7 +1527,7 @@ msgstr "See makse on seotud tingimusega"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
-msgstr ""
+msgstr "Seda makse saab maksta ainult ühe aadressiga rahakotist"
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
@@ -1625,7 +1625,7 @@ msgstr "Usaldusväärsed sõlmed"
 
 #: src/js/controllers/correspondentDevice.js:1086
 msgid "US state"
-msgstr ""
+msgstr "USA ühendriik"
 
 #: src/js/controllers/walletHome.js:810
 msgid "Unable to send transaction proposal"
@@ -1666,7 +1666,7 @@ msgstr "Väärtused"
 
 #: src/js/controllers/correspondentDevice.js:1108
 msgid "Verifying the profile..."
-msgstr ""
+msgstr "Profiili kinnitamine..."
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1866,7 +1866,7 @@ msgstr "saadi kätte {{btx.claimedByMe?'minu poolt':'vastuvõtja poolt'|translat
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
-msgstr ""
+msgstr "kustuta vestluse ajalugu"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
