@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-03 09:30-0400\n"
+"PO-Revision-Date: 2018-05-03 11:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -268,7 +268,7 @@ msgstr "Bitcoini URI on VALE!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr "Botide Kataloog"
+msgstr "Juturobotid"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
@@ -1803,7 +1803,7 @@ msgstr "Sul ei ole rahakotti"
 
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
-msgstr "Profiili saamiseks pead läbima vastavuse tõendamise. Otsi Botide Kataloogist \"Real Name Attestation boti."
+msgstr "Profiili saamiseks pead läbima vastavuse tõendamise. Seda saab teha \"Real Name Attestation\" juturobotiga."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
