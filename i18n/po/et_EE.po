@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-03 19:40-0400\n"
+"PO-Revision-Date: 2018-05-04 22:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -146,7 +146,7 @@ msgstr "Lisaks leiad Seaded menüüst turvalisuse seadeid nagu salasõna seadist
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr "Ära unusta kustutada seemnesõnu"
+msgstr "Ära unusta kustutada külvisõnu"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -167,7 +167,7 @@ msgstr "Kinnita rahakoti loomine teistel seadmetel"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr "Kas oled kindel, et soovid kustutada varukoopia seemnesõnu?"
+msgstr "Kas oled kindel, et soovid kustutada varukoopia külvisõnu?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
@@ -226,11 +226,11 @@ msgstr "Varukoopia tegemine"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup wallet seed"
-msgstr "Varukoopia seemnesõndadega"
+msgstr "Varukoopia külvisõndadega"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr "Varukoopia seemnesõnad on kustutatud"
+msgstr "Varukoopia külvisõnad on kustutatud"
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
@@ -450,7 +450,7 @@ msgstr "Ei õnnestunud luua kasutades seda laiendatud avaliku võtit"
 
 #: src/js/services/profileService.js:272
 msgid "Could not create: Invalid wallet seed"
-msgstr "Ei õnnestu luua: Valed rahakoti seemnesõnad"
+msgstr "Ei õnnestu luua: Valed rahakoti külvisõnad"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
@@ -517,7 +517,7 @@ msgstr "Rahakoti loomine..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr "KUSTUTA SEEMNESÕNAD"
+msgstr "KUSTUTA KÜLVISÕNAD"
 
 #: public/views/walletHome.html:349
 msgid "Data"
@@ -592,7 +592,7 @@ msgstr "Seadme nimi on nähtav teistele seadmetele, millega suhtled."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr "Ära klooni rahakotte, lõpeta selle seemnesõnadega rahakoti kasutamine."
+msgstr "Ära klooni rahakotte, lõpeta selle külvisõnadega rahakoti kasutamine."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
@@ -736,7 +736,7 @@ msgstr "Riistvaraline rahakott"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr "Peida rahakoti seemnesõnad"
+msgstr "Peida rahakoti külvisõnad"
 
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:679
@@ -852,7 +852,7 @@ msgstr "Saada kutse teisele seadmele"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr "Ainult rahakoti seemnesõnadest ei piisa. Seemnesõnadega pole teil võimalik taastada mitme allkirjaga rahakotte ega privaatset vara nagu blackbytes."
+msgstr "Ainult rahakoti külvisõnadest ei piisa. Külvisõnadega pole teil võimalik taastada mitme allkirjaga rahakotte ega privaatset vara nagu blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -930,7 +930,7 @@ msgstr "Võrk"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr "Uued Seemnesõnad"
+msgstr "Uued Külvisõnad"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
@@ -987,7 +987,7 @@ msgstr "Esita leping"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr "Kui sa oled rahakoti seemnesõnad üles kirjutanud, siis on soovitav need kustutada sellest seadmest."
+msgstr "Kui sa oled rahakoti külvisõnad üles kirjutanud, siis on soovitav need kustutada sellest seadmest."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
@@ -1167,7 +1167,7 @@ msgstr "Taasta"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Recovery from seed"
-msgstr "Taastamine seemnesõnadega"
+msgstr "Taastamine külvisõnadega"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1377,7 +1377,7 @@ msgstr "Näita kõiki"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr "Näita Ikkagi Rahakoti Seemnesõnu"
+msgstr "Näita Ikkagi Rahakoti Külvisõnu"
 
 #: src/js/controllers/index.js:456
 msgid "Sign transaction spending  from wallet ?"
@@ -1399,7 +1399,7 @@ msgstr "Rahakott Väikestele Kuludele"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr "Seemnesõnade määramine..."
+msgstr "Külvisõnade määramine..."
 
 #: public/views/preferences.html:63
 #: public/views/preferencesGlobal.html:87
@@ -1682,7 +1682,7 @@ msgstr "HOIATUS: Varukoopia on vajalik"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr "HOIATUS: Need seemnesõnad loodi paroolifraasiga. Selle rahakoti taastamiseks on vaja meeles pidada need sõnad ja paroolifraas."
+msgstr "HOIATUS: Need külvisõnad loodi paroolifraasiga. Selle rahakoti taastamiseks on vaja meeles pidada need sõnad ja paroolifraas."
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
@@ -1736,7 +1736,7 @@ msgstr "Rahakoti nimi"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
-msgstr "Rahakoti seemnesõnad pole saadaval."
+msgstr "Rahakoti külvisõnad pole saadaval."
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
@@ -1808,7 +1808,7 @@ msgstr "Profiili saamiseks pead läbima vastavuse tõendamise. Seda saab teha \"
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr "Rahakoti Seemnesõnad:"
+msgstr "Rahakoti Külvisõnad:"
 
 #: public/views/export.html:33
 msgid "Your export password"
