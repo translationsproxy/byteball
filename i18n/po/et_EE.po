@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-04 22:10-0400\n"
+"PO-Revision-Date: 2018-05-07 16:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -198,11 +198,11 @@ msgstr "Tõendaja:"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr "Automaatne tunnistajate nimekirja uuendamine keskusest"
+msgstr "Automaatne tunnistajate nimekirja uuendamine vahendajalt"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr "Automaatne tunnistajate nimekirja uuendamine sellest keskusest"
+msgstr "Automaatne tunnistajate nimekirja uuendamine sellelt vahendajalt"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -302,7 +302,7 @@ msgstr "Katkesta"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr "Vaheta keskust:"
+msgstr "Vaheta vahendajat:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
@@ -753,11 +753,11 @@ msgstr "Host"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr "Keskus"
+msgstr "Vahendaja"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr "Keskuse URL"
+msgstr "Vahendaja URL"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
@@ -1470,11 +1470,11 @@ msgstr "Tõendatud aadress kuulub:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr "Keskust kasutatakse sõnumite saamiseks teistelt seadmetelt."
+msgstr "Vahendajat kasutatakse sõnumite saamiseks teistelt seadmetelt."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr "Keskus soovitab vahetada järgmised tunnistajad:"
+msgstr "Vahendaja soovitab vahetada järgmised tunnistajad:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
