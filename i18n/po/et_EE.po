@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-09 22:10-0400\n"
+"PO-Revision-Date: 2018-05-11 13:01-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -180,7 +180,7 @@ msgstr "Vara"
 
 #: public/views/walletHome.html:536
 msgid "Attest profile data linked to any Byteball address."
-msgstr "Tõenda profiili andmeid, mis on seotud mõne Byteball aadressiga."
+msgstr "Tõenda konto andmeid, mis on seotud mõne Byteball aadressiga."
 
 #: public/views/walletHome.html:347
 msgid "Attestation"
@@ -238,7 +238,7 @@ msgstr "Varukoopiad"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
-msgstr "Halb profiil"
+msgstr "Vigane konto"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -318,7 +318,7 @@ msgstr "Vali Fail"
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
-msgstr "Vali privaatne profiil"
+msgstr "Vali privaatne konto"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -509,7 +509,7 @@ msgstr "Loodud:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr "Profiili loomine..."
+msgstr "Konto loomine..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
@@ -836,7 +836,7 @@ msgstr "Sisesta minu aadress"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr "Sisesta privaatne profiil"
+msgstr "Sisesta privaatse konto andmed"
 
 #: public/views/walletHome.html:660
 msgid "Invalid"
