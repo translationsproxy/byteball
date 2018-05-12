@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-11 15:00-0400\n"
+"PO-Revision-Date: 2018-05-12 12:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1100,7 +1100,7 @@ msgstr "Postita võti-väärtus andmepaare Byteballi võrku."
 
 #: public/views/walletHome.html:533
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr "Postita väärtusi andmevoogu käsitsi, ole nagu oraakel."
+msgstr "Postita väärtusi käsitsi andmevoogu, ole tõe teataja."
 
 #: public/views/walletHome.html:539
 msgid "Post your profile data, anything you want to say about yourself."
@@ -1928,7 +1928,7 @@ msgstr "pole omaks võetud"
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr "oraakli poolt nimega"
+msgstr "tõe teataja poolt nimega"
 
 #: public/views/walletHome.html:463
 #: public/views/walletHome.html:474
