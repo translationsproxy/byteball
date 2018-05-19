@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-19 09:50-0400\n"
+"PO-Revision-Date: 2018-05-19 10:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -840,11 +840,11 @@ msgstr "Sisesta privaatse konto andmed"
 
 #: public/views/walletHome.html:660
 msgid "Invalid"
-msgstr "Kehtetu"
+msgstr "Sobimatu"
 
 #: src/js/controllers/index.js:1607
 msgid "Invalid Touch ID"
-msgstr "Kehtetu Touch ID"
+msgstr "Sobimatu sõrmejälg"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
@@ -1589,7 +1589,7 @@ msgstr "E-kirjale"
 
 #: public/views/walletHome.html:295
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
-msgstr "Uus aadress genereeritakse automaatselt pärast kasutamist sinu privaatsuse kaitsmiseks."
+msgstr "Sinu privaatsuse kaitsmiseks luuakse automaatselt pärast igat kasutamist uus aadress."
 
 #: public/views/walletHome.html:218
 msgid "Total Locked Balance"
