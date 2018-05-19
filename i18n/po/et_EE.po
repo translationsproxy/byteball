@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-05-19 10:10-0400\n"
+"PO-Revision-Date: 2018-05-19 10:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -638,7 +638,7 @@ msgstr "Luba teatete vastuvõtmine"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr "Sisesta teiselt seadmelt saadud paarituskood või kasuta oma kaamerat (nupp üleval paremas nurgas), et skaneerida QR kood, mis on kuvatud teisel seadmel."
+msgstr "Sisesta teiselt seadmelt saadud sidumiskood või kasuta oma kaamerat (nupp üleval paremas nurgas), et skaneerida QR kood, mis on kuvatud teisel seadmel."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
@@ -898,7 +898,7 @@ msgstr "Kaupmehe sõnum"
 
 #: public/views/walletHome.html:462
 msgid "Merkle proof"
-msgstr "Merkle tõend"
+msgstr "Räsipuu tõend"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
@@ -1003,15 +1003,15 @@ msgstr "Või kopeeri"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr "Paarita"
+msgstr "Ühenda seadmega"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr "Paaritatud seadmed"
+msgstr "Seotud seadmed"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr "Paarituskood"
+msgstr "Sidumiskood"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
@@ -1265,7 +1265,7 @@ msgstr "Otsing lõppes vealise tulemusega"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr "Skaneeri ülevalolev QR kood teise seadmega või saada see paarituskood teisele seadmele:"
+msgstr "Skaneeri ülevalolev QR kood teise seadmega või saada see sidumiskood teisele seadmele:"
 
 #: src/js/controllers/index.js:1600
 msgid "Scan your fingerprint please"
@@ -1907,7 +1907,7 @@ msgstr "kui sündmus on postitatud tõe teataja"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
-msgstr "Merkle puus"
+msgstr "räsipuus"
 
 #: public/views/walletHome.html:167
 msgid "in smart wallets"
