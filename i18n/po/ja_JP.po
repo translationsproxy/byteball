@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2018-03-28 13:00-0400\n"
+"PO-Revision-Date: 2018-05-24 17:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1163,11 +1163,11 @@ msgstr "Wallet Serviceへ再接続しています…"
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr "復元"
+msgstr "回復"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Recovery from seed"
-msgstr "シードから復元"
+msgstr "シードから回復"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1682,7 +1682,7 @@ msgstr "注意：バックアップが必要です"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr "注意：このシードにはパスワードがかかっています。このウォレットを復元するためには、シードとパスワードが必要です。"
+msgstr "注意：このシードにはパスワードがかかっています。このウォレットを回復するためには、シードとパスワードが必要です。"
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
@@ -1824,7 +1824,7 @@ msgstr "バックアップファイル"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr "ウォレットキーが暗号化されます。パスワードは復元できません。忘れないよう書き留めておいてください。"
+msgstr "ウォレットキーが暗号化されます。パスワードは回復できません。忘れないよう書き留めておいてください。"
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
