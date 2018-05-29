@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-05-28 21:30-0400\n"
+"PO-Revision-Date: 2018-05-28 21:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -180,33 +180,33 @@ msgstr "Loại Tài sản"
 
 #: public/views/walletHome.html:536
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "Chứng thực dữ liệu hồ sơ liên quan đến bất kỳ địa chỉ Byteball nào."
 
 #: public/views/walletHome.html:347
 msgid "Attestation"
-msgstr ""
+msgstr "Chứng thực"
 
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr ""
+msgstr "Địa chỉ đã chứng thực:"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "Chứng thực bởi:"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr ""
+msgstr "Tự động cập nhật danh sách người kiểm chứng từ Trung tâm"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr ""
+msgstr "Tự động cập nhật danh sách người kiểm chứng từ Trung tâm này"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr ""
+msgstr "Tài khoản khả dụng"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -218,35 +218,35 @@ msgstr ""
 #: public/views/modals/destination-address.html:9
 #: public/views/modals/tx-details.html:5
 msgid "Back"
-msgstr ""
+msgstr "Trở lại"
 
 #: public/views/walletHome.html:246
 msgid "Backup now"
-msgstr ""
+msgstr "Sao lưu ngay"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "Sao lưu các từ khóa hạt giống"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr ""
+msgstr "Đã xóa từ khóa sao lưu"
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
-msgstr ""
+msgstr "Sao lưu"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
-msgstr ""
+msgstr "Hồ sơ xấu"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "Số dư theo địa chỉ"
 
 #: public/views/walletHome.html:240
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "Trước khi nhận tiền, một lời nhắc nhở quan trọng cho bạn là hãy sao lưu ví."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
