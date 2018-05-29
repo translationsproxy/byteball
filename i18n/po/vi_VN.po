@@ -11,102 +11,102 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-05-04 16:50-0400\n"
+"PO-Revision-Date: 2018-05-28 21:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr ""
+msgstr "'Nhận' tab → 'Yêu cầu ngân qũy sử dụng Tiền Chữ' phía dưới."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr ""
+msgstr "(Trang web sẽ không hiển thị số dư của bạn và không đồng tiền nào sẽ được sử dụng)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr ""
+msgstr "(Ví hiện tại)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my another wallet)"
-msgstr ""
+msgstr "(Ví khác của tôi)"
 
 #: public/views/walletHome.html:667
 msgid "(possible double spend)"
-msgstr ""
+msgstr "(có khả năng đã xảy ra \"Gửi kép\")"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- Lựa chọn cùng ký --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 từ được ngăn cách bởi các dấu gạch ngang"
 
 #: public/views/preferencesGlobal.html:140
 msgid "About Byteball"
-msgstr ""
+msgstr "Giới thiệu về Byteball"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
 #: src/js/controllers/walletHome.js:123
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr ""
+msgstr "Chấp nhận"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
-msgstr ""
+msgstr "Chấp nhận lời mời"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr ""
+msgstr "Chấp nhận lời mời từ một thiết bị khác"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
-msgstr ""
+msgstr "Tài khoản"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Thêm Bot"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
-msgstr ""
+msgstr "Thêm một thiết bị mới"
 
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr ""
+msgstr "Thêm một mục nhập mới"
 
 #: public/views/walletHome.html:572
 msgid "Add fields"
-msgstr ""
+msgstr "Thêm trường"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
-msgstr ""
+msgstr "Tạo thêm một ví"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "Đã Thêm"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
 #: public/views/paymentUri.html:15
 msgid "Address"
-msgstr ""
+msgstr "Địa chỉ"
 
 #: public/views/walletHome.html:547
 msgid "Address to attest"
-msgstr ""
+msgstr "Địa chỉ để chứng thực"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
 msgid "Addressbook"
-msgstr ""
+msgstr "Danh bạ"
 
 #: public/views/preferences.html:59
 msgid "Advanced"
-msgstr ""
+msgstr "Tuỳ chọn nâng cao"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
