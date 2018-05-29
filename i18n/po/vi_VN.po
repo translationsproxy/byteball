@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-05-28 21:20-0400\n"
+"PO-Revision-Date: 2018-05-28 21:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -110,43 +110,43 @@ msgstr "Tuỳ chọn nâng cao"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "Sau khi viết nó xuống, tìm kiếm giao dịch này trong"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
-msgstr ""
+msgstr "Đồng ý"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
-msgstr ""
+msgstr "Bí danh cho <i>{{index.walletName}}</i>"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr ""
+msgstr "Tất cả địa chỉ ví"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr ""
+msgstr "Tất cả những đóng góp phiên dịch cho Byteball đều được hoan nghênh. Đăng ký tại crowdin.com và tham gia dự án Byteball tại"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
-msgstr ""
+msgstr "Đã thanh toán"
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
-msgstr ""
+msgstr "Đã lưu"
 
 #: public/views/walletHome.html:164
 msgid "Also"
-msgstr ""
+msgstr "Cũng có"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "Cũng trong menu cài đặt, bạn sẽ tìm thấy tùy chọn bảo mật như thiết lập một mật khẩu."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "Ngoài ra, đừng quên để xóa các hạt giống của bạn"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -155,28 +155,28 @@ msgstr ""
 #: public/views/paymentUri.html:16
 #: public/views/walletHome.html:381
 msgid "Amount"
-msgstr ""
+msgstr "Số tiền"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
-msgstr ""
+msgstr "Trả lời:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr ""
+msgstr "Chấp nhận ví tạo ra trên các thiết bị khác"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr ""
+msgstr "Bạn có chắc chắn rằng bạn muốn xóa các từ khóa dự phòng không?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn xóa cái ví này không?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr ""
+msgstr "Loại Tài sản"
 
 #: public/views/walletHome.html:536
 msgid "Attest profile data linked to any Byteball address."
