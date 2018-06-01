@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2018-04-25 22:10-0400\n"
+"PO-Revision-Date: 2018-05-31 22:51-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -31,7 +31,7 @@ msgstr "(ang aking isa pang pitaka)"
 
 #: public/views/walletHome.html:667
 msgid "(possible double spend)"
-msgstr "(posible ma double ang gastusin)"
+msgstr "(posible ma doble ang gastusin)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
@@ -58,7 +58,7 @@ msgstr "Tanggapin ang imbitasyon"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr "Tanggapin ang imbitasiyon mula sa kabilang device"
+msgstr "Tanggapin ang imbitasiyon mula sa ibang device"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
@@ -167,7 +167,7 @@ msgstr "Aprubahan ang paglikha ng pitaka sa iba pang devices"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr "Sigurado ka ba na gusto mong burahin ang mga backup na salita?"
+msgstr "Sigurado ka ba na gusto mong burahin ang backup na mga salita?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
@@ -242,11 +242,11 @@ msgstr "Maling profile"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr "I-Balanse base sa Address"
+msgstr "Balanse ayon sa Address"
 
 #: public/views/walletHome.html:240
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "Bago ang pagtanggap ng mga podo, inirerekomenda na i-backup ang iyong mga susi sa pitaka."
+msgstr "Bago ang pagtanggap ng mga podo, ganap na inirerekomenda na i-backup ang iyong mga susi sa wallet."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -264,7 +264,7 @@ msgstr "I-bind ang pagbayad sa isang kondisyon"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr "Ang Bitcoin URI ay hindi balido!"
+msgstr "Ang Bitcoin URI ay HINDI balido!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
@@ -405,7 +405,7 @@ msgstr "Kumpirmahin"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr "Kumpirmahin ang boto"
+msgstr "Ikompirma ang Boto"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -413,7 +413,7 @@ msgstr "Kumpirmahin ang pagbayad"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr "Kumpirmahin ang boto"
+msgstr "Ikompirma ang boto"
 
 #: public/views/modals/tx-details.html:121
 msgid "Confirmed"
@@ -421,7 +421,7 @@ msgstr "Nakumpirma"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr "Mga Kontakt"
+msgstr "Mga Kontak"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:391
@@ -592,11 +592,11 @@ msgstr "Ang pangalan ng device na ito ay makikita sa ibang mga device na makausa
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr "Wag i-clone ang pitaka, ihinto ang paggamit ng orihinal na pitaka na may seed na ito."
+msgstr "Huwag i-clone ang mga pitaka, ihinto ang paggamit sa orihinal na pitaka na may seed na ito."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr "Huwag gamitin upang i-clone ang pitaka."
+msgstr "Huwag itong gamitin para i-clone ang pitaka."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -609,7 +609,7 @@ msgstr "Tapos"
 
 #: public/views/walletHome.html:723
 msgid "Download CSV file"
-msgstr "Mag-download ng mga CSV file"
+msgstr "I-download ang CSV file"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
@@ -704,11 +704,11 @@ msgstr "Ang pondo ay inilipat sa"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
-msgstr "MAKAPAGSIMULA"
+msgstr "MAGSIMULA"
 
 #: src/js/controllers/walletHome.js:420
 msgid "Generate QR Code"
-msgstr "Bumuo ng QR Code"
+msgstr "Gumawa ng QR Code"
 
 #: public/views/walletHome.html:302
 msgid "Generate new address"
@@ -736,7 +736,7 @@ msgstr "Hardware na pitaka"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr "Itago ang seed ng pitaka"
+msgstr "Itago ang Seed ng Pitaka"
 
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:679
