@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2018-05-31 22:51-0400\n"
+"PO-Revision-Date: 2018-05-31 23:01-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -600,7 +600,7 @@ msgstr "Huwag itong gamitin para i-clone ang pitaka."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr "Hindi makita ang iyong wika sa Crowdin? Kontakin ang may-ari sa Crowdin! Gusto namin suportahan ang iyong wika."
+msgstr "Hindi makita ang iyong wika sa Crowdin? Makipag-ugnayan sa May-ari sa loob ng Crowdin! Gusto namin suportahan ang iyong wika."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
@@ -647,7 +647,7 @@ msgstr "Ipasok ang iyong password"
 #: src/js/services/profileService.js:338
 #: src/js/services/profileService.js:390
 msgid "Error creating wallet"
-msgstr "Error sa paglikha ng pitaka"
+msgstr "May problema sa paglikha ng pitaka"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -688,11 +688,11 @@ msgstr "Mula sa"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
-msgstr "Buong tirahan:"
+msgstr "Buong address:"
 
 #: public/views/preferencesGlobal.html:123
 msgid "Full backup"
-msgstr "Puno na pag backup"
+msgstr "Buong backup"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
@@ -700,7 +700,7 @@ msgstr "Natagpuan na pondo"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr "Ang pondo ay inilipat sa"
+msgstr "Ang pondo ay ililipat sa"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
@@ -769,7 +769,7 @@ msgstr "Magbabayad ako"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr "Tumatanggap ako ng bayad na"
+msgstr "Nakatanggap ako ng isa pang bayad na"
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
@@ -789,7 +789,7 @@ msgstr "Kung kahit sino sa iyong kapwa na nagpirma ang hindi makakakita sa pagba
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr "Kung ang condition ay hindi natugunan, maari ko kunin balik ang perang ito"
+msgstr "Kung ang kondisyon ay hindi natugunan, maari kong kunin ang perang ito pabalik"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
