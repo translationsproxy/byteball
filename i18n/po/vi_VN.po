@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-04 10:00-0400\n"
+"PO-Revision-Date: 2018-06-04 10:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -330,23 +330,23 @@ msgstr "Lựa chọn các trường để gửi:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
-msgstr ""
+msgstr "Qũy yêu cầu bồi thường"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Yêu cầu bồi thường tiền bằng textcoin"
 
 #: public/views/walletHome.html:316
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Yêu cầu bồi thường bằng cách sử dụng textcoin"
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr ""
+msgstr "Click vào nút <span ng-if=\"isResend\">re</span>gửi email:"
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "Click vào nút này để tạo ra khoản thanh toán và chia sẻ nó qua tin nhắn riêng trong các ứng dụng chat hoặc tạo một ví giấy."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -367,31 +367,31 @@ msgstr ""
 #: public/views/modals/share.html:13
 #: public/views/modals/vote.html:4
 msgid "Close"
-msgstr ""
+msgstr "Kết thúc"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
-msgstr ""
+msgstr "Người ký tên chung {{$index+ 1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr ""
+msgstr "Người ký tên chung"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr ""
+msgstr "Người ký tên chung cho đa chữ ký"
 
 #: public/views/preferences.html:29
 msgid "Color"
-msgstr ""
+msgstr "Màu sắc"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr ""
+msgstr "Cam kết hash"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
-msgstr ""
+msgstr "Nén các tập tin? (Chậm hơn)"
 
 #: src/js/controllers/copayers.js:10
 #: src/js/controllers/index.js:480
@@ -401,56 +401,56 @@ msgstr ""
 #: src/js/controllers/walletHome.js:1619
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
-msgstr ""
+msgstr "Xác nhận"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr ""
+msgstr "Xác nhận lựa chọn"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
-msgstr ""
+msgstr "Xác nhận thanh toán"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "Xác nhận lựa chọn"
 
 #: public/views/modals/tx-details.html:121
 msgid "Confirmed"
-msgstr ""
+msgstr "Đã xác thực"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr ""
+msgstr "Danh bạ liên hệ"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:391
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "Đã sao chép vào clipboard"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr ""
+msgstr "Sao chép"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr ""
+msgstr "Ngân hàng giao dịch không được khôi phục."
 
 #: src/js/controllers/walletHome.js:689
 msgid "Could not create payment proposal"
-msgstr ""
+msgstr "Không thể tạo ra đề nghị thanh toán"
 
 #: src/js/services/profileService.js:279
 msgid "Could not create using the specified extended private key"
-msgstr ""
+msgstr "Không thể tạo bằng cách sử dụng phím nội bộ mở rộng xác định"
 
 #: src/js/services/profileService.js:289
 msgid "Could not create using the specified extended public key"
-msgstr ""
+msgstr "Không thể tạo bằng cách sử dụng phím công khai mở rộng xác định"
 
 #: src/js/services/profileService.js:272
 msgid "Could not create: Invalid wallet seed"
-msgstr ""
+msgstr "Không thể tạo ra các dữ liệu nền ví không hợp lệ"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
