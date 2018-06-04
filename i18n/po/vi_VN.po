@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-04 11:11-0400\n"
+"PO-Revision-Date: 2018-06-04 11:21-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -745,55 +745,55 @@ msgstr "Lịch sử"
 
 #: src/js/controllers/index.js:667
 msgid "Home"
-msgstr ""
+msgstr "Trang chủ"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr ""
+msgstr "Máy chủ"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr ""
+msgstr "Trung tâm"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr ""
+msgstr "Trung tâm URL"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
-msgstr ""
+msgstr "Tôi khẳng định rằng tôi đã đọc, hiểu và đồng ý với các điều khoản."
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "Tôi thanh toán"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Tôi nhận lại một khoản thanh toán khác"
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
-msgstr ""
+msgstr "Số ID"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
-msgstr ""
+msgstr "Phiên bản ID"
 
 #: src/js/controllers/correspondentDevice.js:1088
 msgid "ID type"
-msgstr ""
+msgstr "Loại ID"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
-msgstr ""
+msgstr "Nếu bất kỳ thiết bị cosigner nào của bạn không thấy thanh toán này, bạn có thể"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "Nếu điều kiện không được đáp ứng, tôi có thể lấy lại khoản tiền này sau khi"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Nếu sự ngang hàng không được thanh toán, tôi có thể lấy lại tiền của mình sau khi"
 
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
