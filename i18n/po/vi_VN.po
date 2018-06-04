@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-04 11:21-0400\n"
+"PO-Revision-Date: 2018-06-04 11:32-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -798,40 +798,41 @@ msgstr "Nếu sự ngang hàng không được thanh toán, tôi có thể lấy
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr ""
+msgstr "Nếu người nhận không thấy thanh toán của bạn, bạn có thể"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Nếu bạn đã di chuyển bản sao lưu này từ một thiết bị khác, ngừng sử dụng nó trên một bản gốc ngay lập tức sau khi tạo bản sao lưu.  Không bao giờ sao chép ví.  Nếu bạn cần truy cập từ nhiều thiết bị, sử dụng đa chữ ký."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Nếu bạn có kế hoạch để khôi phục lại ví trên một thiết bị khác, hiện tại ngừng sử dụng nó trên một  thiết bị ngay lập tức sau khi tạo bản sao lưu.  Không bao giờ sao chép ví.  Nếu bạn cần truy cập từ nhiều thiết bị, sử dụng đa chữ ký."
 
 #: public/views/import.html:40
 msgid "Import"
-msgstr ""
+msgstr "Nhập vào"
 
 #: public/views/add.html:22
 msgid "Import wallet"
-msgstr ""
+msgstr "Nhập vào ví"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr ""
+msgstr "Đang nhập vào ví..."
 
 #: public/views/walletHome.html:137
 msgid "Including pending confirmation"
-msgstr ""
+msgstr "Bao gồm việc chờ xác nhận"
 
 #: public/views/walletHome.html:641
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr ""
+msgstr "Đồng bộ hoá lịch sử giao dịch ban đầu có thể mất một vài phút đối với ví với nhiều giao dịch.<br>\n"
+"          xin vui lòng chờ."
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "Nhập vào địa chỉ của tôi"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
