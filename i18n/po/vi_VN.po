@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-04 10:20-0400\n"
+"PO-Revision-Date: 2018-06-04 10:29-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -454,98 +454,98 @@ msgstr "Không thể tạo ra các dữ liệu nền ví không hợp lệ"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr ""
+msgstr "Không thể giải mã"
 
 #: public/views/walletHome.html:622
 msgid "Could not fetch transaction history"
-msgstr ""
+msgstr "Không thể lấy được lịch sử giao dịch"
 
 #: src/js/services/profileService.js:507
 #: src/js/services/profileService.js:534
 #: src/js/services/profileService.js:556
 msgid "Could not import"
-msgstr ""
+msgstr "Không thể nhập vào"
 
 #: src/js/services/profileService.js:484
 msgid "Could not import. Check input file and password"
-msgstr ""
+msgstr "Không thể nhập vào. Kiểm tra tập tin đầu vào và mật khẩu"
 
 #: src/js/controllers/walletHome.js:53
 msgid "Could not recognize a valid Byteball QR Code"
-msgstr ""
+msgstr "Không thể xác nhận mã QR Byteball hợp lệ"
 
 #: src/js/controllers/walletHome.js:689
 msgid "Could not send payment"
-msgstr ""
+msgstr "Không thể gửi thanh toán"
 
 #: src/js/controllers/correspondentDevice.js:1085
 msgid "Country"
-msgstr ""
+msgstr "Quốc gia"
 
 #: public/views/walletHome.html:44
 msgid "Create"
-msgstr ""
+msgstr "Khởi tạo"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
-msgstr ""
+msgstr "Khởi tạo một ví mới"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
 msgid "Create new wallet"
-msgstr ""
+msgstr "Tạo ví mới"
 
 #: src/js/controllers/index.js:307
 msgid "Create new wallet  together with  ?"
-msgstr ""
+msgstr "Tạo một ví mới chung với?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr ""
+msgstr "Tạo ví {{requiredCopayers}}-of-{{totalCopayers}}"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr ""
+msgstr "Đã tạo:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr ""
+msgstr "Đang tạo hồ sơ..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr ""
+msgstr "Đang tạo ví..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr ""
+msgstr "XÓA CÁC KÝ TỰ"
 
 #: public/views/walletHome.html:349
 msgid "Data"
-msgstr ""
+msgstr "Dữ liệu"
 
 #: public/views/walletHome.html:346
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Dữ liệu trong datafeed"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
-msgstr ""
+msgstr "Ngày tháng"
 
 #: src/js/controllers/correspondentDevice.js:1084
 msgid "Date of birth"
-msgstr ""
+msgstr "Ngày sinh"
 
 #: src/js/controllers/index.js:277
 msgid "Declined"
-msgstr ""
+msgstr "Bị từ chối"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr ""
+msgstr "Giải mã một ví giấy có thể mất khoảng 5 phút trên thiết bị này. Xin vui lòng kiên nhẫn và giữ cho các ứng dụng mở."
 
 #: public/views/walletHome.html:193
 msgid "Definition"
-msgstr ""
+msgstr "Định nghĩa"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
