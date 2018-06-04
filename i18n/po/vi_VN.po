@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-05-28 21:40-0400\n"
+"PO-Revision-Date: 2018-06-04 09:42-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -250,7 +250,7 @@ msgstr "Trước khi nhận tiền, một lời nhắc nhở quan trọng cho b�
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Tốt hơn, sử dụng ví đa chữ ký dư thừa,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
