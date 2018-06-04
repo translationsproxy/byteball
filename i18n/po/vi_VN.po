@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-04 11:02-0400\n"
+"PO-Revision-Date: 2018-06-04 11:11-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -146,7 +146,7 @@ msgstr "Cũng trong menu cài đặt, bạn sẽ tìm thấy tùy chọn bảo m
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr "Ngoài ra, đừng quên để xóa các hạt giống của bạn"
+msgstr "Ngoài ra, đừng quên để xóa dữ liệu nền của bạn"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -226,7 +226,7 @@ msgstr "Sao lưu ngay"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup wallet seed"
-msgstr "Sao lưu các từ khóa hạt giống"
+msgstr "Sao lưu các dữ liệu nền ví"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -442,11 +442,11 @@ msgstr "Không thể tạo ra đề nghị thanh toán"
 
 #: src/js/services/profileService.js:279
 msgid "Could not create using the specified extended private key"
-msgstr "Không thể tạo bằng cách sử dụng phím nội bộ mở rộng xác định"
+msgstr "Không thể tạo bằng cách sử dụng chìa khóa nội bộ mở rộng xác định"
 
 #: src/js/services/profileService.js:289
 msgid "Could not create using the specified extended public key"
-msgstr "Không thể tạo bằng cách sử dụng phím công khai mở rộng xác định"
+msgstr "Không thể tạo bằng cách sử dụng chìa khóa công khai mở rộng xác định"
 
 #: src/js/services/profileService.js:272
 msgid "Could not create: Invalid wallet seed"
@@ -736,12 +736,12 @@ msgstr "Ví cứng"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr ""
+msgstr "Ẩn các dữ liệu nền ví"
 
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:679
 msgid "History"
-msgstr ""
+msgstr "Lịch sử"
 
 #: src/js/controllers/index.js:667
 msgid "Home"
