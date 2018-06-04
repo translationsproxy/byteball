@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-04 10:49-0400\n"
+"PO-Revision-Date: 2018-06-04 10:54-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -630,28 +630,28 @@ msgstr "Email của người tham dự"
 
 #: public/views/preferencesEmailAttestor.html:13
 msgid "Email attestor address"
-msgstr ""
+msgstr "Địa chỉ email của người tham dự"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr ""
+msgstr "Bật thông báo đẩy"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr ""
+msgstr "Nhập vào mã ghép nối nhận được từ thiết bị khác, hoặc sử dụng camera của bạn (biểu tượng ở góc trên bên phải) để quét mã QR được hiển thị trên các thiết bị khác."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr ""
+msgstr "Nhập vào mật khẩu của bạn"
 
 #: src/js/services/profileService.js:338
 #: src/js/services/profileService.js:390
 msgid "Error creating wallet"
-msgstr ""
+msgstr "Lỗi tạo ví"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "Xuất ra"
 
 #: src/js/controllers/export.js:136
 #: src/js/controllers/export.js:161
