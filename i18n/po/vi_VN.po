@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-04 22:00-0400\n"
+"PO-Revision-Date: 2018-06-04 22:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -948,19 +948,19 @@ msgstr "Không"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "Không có mật khẩu nào được đưa ra"
 
 #: public/views/modals/choose-profile.html:67
 msgid "No profiles matching the requested criteria."
-msgstr ""
+msgstr "Khong có hồ sơ nào phù hợp với tiêu chuẩn yêu cầu."
 
 #: public/views/modals/choose-profile.html:68
 msgid "No profiles yet."
-msgstr ""
+msgstr "Không có hồ sơ nào được nêu ra."
 
 #: public/views/walletHome.html:625
 msgid "No transactions yet"
-msgstr ""
+msgstr "Không có giao dịch nào"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
@@ -970,7 +970,7 @@ msgstr ""
 #: public/views/walletHome.html:419
 #: public/views/walletHome.html:552
 msgid "Not valid"
-msgstr ""
+msgstr "Không hợp lệ"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:106
@@ -978,93 +978,93 @@ msgstr ""
 #: public/views/walletHome.html:473
 #: public/views/walletHome.html:688
 msgid "Note"
-msgstr ""
+msgstr "Lưu ý"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
 msgid "Offer a contract"
-msgstr ""
+msgstr "Cung cấp hợp đồng"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr ""
+msgstr "Một khi bạn viết cơ sở sữ liệu nền ví của bạn xuống, nó được khuyến khích để xóa từ thiết bị này."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr ""
+msgstr "Chỉ có ví chữ ký duy nhất được khôi phục."
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "Mở cuộc trò chuyện"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr ""
+msgstr "Hoặc sao chép"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr ""
+msgstr "Ghép nối"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr ""
+msgstr "Thiết bị được ghép nối"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "Mã ghép nối"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr ""
+msgstr "Chìa khóa ví giấy riêng"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr ""
+msgstr "Mật khẩu"
 
 #: src/js/services/profileService.js:672
 msgid "Password needed"
-msgstr ""
+msgstr "Mật khẩu cần thiết"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Mật khẩu không trùng khớp"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr ""
+msgstr "Dán chìa khóa ví giấy của bạn ở đây"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr ""
+msgstr "Thanh toán và quà tặng"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
-msgstr ""
+msgstr "Thanh toán tới địa chỉ này"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr ""
+msgstr "Thanh toán được chấp nhận"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
-msgstr ""
+msgstr "Đề nghị thanh toán được tạo ra"
 
 #: public/views/walletHome.html:210
 msgid "Payment Proposals"
-msgstr ""
+msgstr "Đề nghị thanh toán"
 
 #: public/views/modals/tx-status.html:38
 msgid "Payment Rejected"
-msgstr ""
+msgstr "Thanh toán từ chối"
 
 #: public/views/modals/tx-status.html:5
 msgid "Payment Sent"
-msgstr ""
+msgstr "Đã thanh toán"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "Ngang hàng:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
