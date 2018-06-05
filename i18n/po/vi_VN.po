@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-04 22:30-0400\n"
+"PO-Revision-Date: 2018-06-04 22:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1088,123 +1088,123 @@ msgstr "Vui lòng đặt tên cho thiết bị này"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr ""
+msgstr "Vui lòng chuyển tới ví địa chỉ duy nhất và bạn có thể phải nhập địa chỉ một lần nữa."
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr ""
+msgstr "Cổng"
 
 #: public/views/walletHome.html:542
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Gửi cặp khóa-giá trị tùy ý của dữ liệu vào mạng lưới Byteball."
 
 #: public/views/walletHome.html:533
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Đăng các giá trị vào nguồn cấp dữ liệu theo cách thủ công, trở thành một thẻ."
 
 #: public/views/walletHome.html:539
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Đăng dữ liệu hồ sơ của bạn, bất cứ thứ gì bạn muốn nói về bản thân."
 
 #: public/views/walletHome.html:189
 #: public/views/walletHome.html:47
 msgid "Preferences"
-msgstr ""
+msgstr "Tùy chỉnh"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "Nhấn thêm lần nữa để thoát"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "Tài sản cá nhân (như blackbytes) không được khôi phục."
 
 #: src/js/controllers/walletHome.js:1679
 #: src/js/controllers/walletHome.js:1753
 msgid "Private payloads sent"
-msgstr ""
+msgstr "Dữ liệu riêng đã gửi"
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "Hồ sơ cá nhân"
 
 #: public/views/walletHome.html:348
 msgid "Profile"
-msgstr ""
+msgstr "Hồ sơ"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
-msgstr ""
+msgstr "Mã QR"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr ""
+msgstr "Quét mã QR"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Câu hỏi:"
 
 #: src/js/controllers/index.js:671
 msgid "Receive"
-msgstr ""
+msgstr "Nhận"
 
 #: public/views/walletHome.html:656
 msgid "Received"
-msgstr ""
+msgstr "Đã nhận"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:58
 msgid "Recipients"
-msgstr ""
+msgstr "Người nhận"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
-msgstr ""
+msgstr "Kết nối lại với ví dịch vụ..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr ""
+msgstr "Khôi phục"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Recovery from seed"
-msgstr ""
+msgstr "Khôi phục từ dữ liệu nền"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr ""
+msgstr "Đang tạo ví..."
 
 #: src/js/controllers/index.js:229
 msgid "Refused"
-msgstr ""
+msgstr "Từ chối"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr ""
+msgstr "Thông tin phát hành"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
-msgstr ""
+msgstr "Xóa"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Xóa thiết bị"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
-msgstr ""
+msgstr "Đổi tên:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr ""
+msgstr "Nhập lại mật khẩu"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "Nhập lại mật khẩu"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "Thay thế"
 
 #: public/views/preferencesGlobal.html:91
 msgid "Request Password"
