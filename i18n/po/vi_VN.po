@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-05 01:10-0400\n"
+"PO-Revision-Date: 2018-06-05 03:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1728,15 +1728,15 @@ msgstr "Tên ví (lúc tạo)"
 
 #: src/js/services/profileService.js:453
 msgid "Wallet already in Byteball:"
-msgstr ""
+msgstr "Ví đã có trong Byteball:"
 
 #: public/views/create.html:48
 msgid "Wallet name"
-msgstr ""
+msgstr "Tên ví"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
-msgstr ""
+msgstr "Dữ liệu nền của ví không khả dụng."
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
