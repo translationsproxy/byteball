@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-04 22:20-0400\n"
+"PO-Revision-Date: 2018-06-04 22:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1080,11 +1080,11 @@ msgstr "Vui lòng chọn lượng dữ liệu để lưu trữ trong ví của b
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
-msgstr ""
+msgstr "Vui lòng nhập vào tất cả các trường bắt buộc"
 
 #: public/views/splash.html:82
 msgid "Please name this device"
-msgstr ""
+msgstr "Vui lòng đặt tên cho thiết bị này"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
