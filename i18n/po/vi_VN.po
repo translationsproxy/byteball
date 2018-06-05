@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-04 22:40-0400\n"
+"PO-Revision-Date: 2018-06-04 23:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1208,32 +1208,32 @@ msgstr "Thay thế"
 
 #: public/views/preferencesGlobal.html:91
 msgid "Request Password"
-msgstr ""
+msgstr "Mật khẩu được yêu cầu"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:311
 msgid "Request a specific amount"
-msgstr ""
+msgstr "Yêu cầu một số tiền cụ thể"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr ""
+msgstr "Yêu cầu thanh toán"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
-msgstr ""
+msgstr "Yêu cầu số lượng chữ ký"
 
 #: public/views/preferencesGlobal.html:132
 msgid "Restore from full backup"
-msgstr ""
+msgstr "Khôi phục từ bản sao lưu đầy đủ"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr ""
+msgstr "Đang thử lại..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
-msgstr ""
+msgstr "THIẾT LẬP"
 
 #: public/views/editCorrespondentDevice.html:41
 #: public/views/modals/destination-address.html:132
@@ -1245,11 +1245,11 @@ msgstr ""
 #: public/views/preferencesHub.html:18
 #: public/views/preferencesTor.html:19
 msgid "Save"
-msgstr ""
+msgstr "Lưu"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
-msgstr ""
+msgstr "Đang lưu tùy chọn..."
 
 #: public/views/preferences.html:69
 msgid "Scan Fingerprint"
