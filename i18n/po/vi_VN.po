@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-04 23:40-0400\n"
+"PO-Revision-Date: 2018-06-05 00:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1395,11 +1395,11 @@ msgstr "Ví địa chỉ sẽ không tạo ra các địa chỉ mới đối v�
 
 #: src/js/services/profileService.js:332
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "Ví chi phí nhỏ"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr ""
+msgstr "Dữ liệu nền xác định..."
 
 #: public/views/preferences.html:63
 #: public/views/preferencesGlobal.html:87
