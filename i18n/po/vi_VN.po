@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-06 00:10-0400\n"
+"PO-Revision-Date: 2018-06-06 00:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -442,11 +442,11 @@ msgstr "Không thể tạo ra đề nghị thanh toán"
 
 #: src/js/services/profileService.js:279
 msgid "Could not create using the specified extended private key"
-msgstr "Không thể tạo bằng cách sử dụng chìa khóa nội bộ mở rộng xác định"
+msgstr "Không thể tạo bằng cách sử dụng phím nội bộ mở rộng xác định"
 
 #: src/js/services/profileService.js:289
 msgid "Could not create using the specified extended public key"
-msgstr "Không thể tạo bằng cách sử dụng chìa khóa công khai mở rộng xác định"
+msgstr "Không thể tạo bằng cách sử dụng phím công khai mở rộng xác định"
 
 #: src/js/services/profileService.js:272
 msgid "Could not create: Invalid wallet seed"
@@ -664,7 +664,7 @@ msgstr "Đang xuất ra..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr "Các chìa khóa công khai được mở rộng"
+msgstr "Các phím công khai được mở rộng"
 
 #: public/views/export.html:25
 msgid "Failed to export"
@@ -1015,7 +1015,7 @@ msgstr "Mã ghép nối"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr "Chìa khóa ví giấy riêng"
+msgstr "Phím ví giấy riêng"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
@@ -1096,7 +1096,7 @@ msgstr "Cổng"
 
 #: public/views/walletHome.html:542
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr "Gửi cặp khóa-giá trị tùy ý của dữ liệu vào mạng lưới Byteball."
+msgstr "Gửi cặp phím-giá trị tùy ý của dữ liệu vào mạng lưới Byteball."
 
 #: public/views/walletHome.html:533
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1854,52 +1854,52 @@ msgstr "có thể mở khóa các hợp đồng"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr ""
+msgstr "cơ thể mở khóa các hợp đồng sau khi nó hết hạn"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr ""
+msgstr "hủy bỏ việc tạo ví"
 
 #: public/views/modals/tx-details.html:137
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr ""
+msgstr "tuyên bố bởi {{btx.claimedByMe?'me':'receiver'|translate}}"
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
-msgstr ""
+msgstr "xóa lịch sử trò chuyện"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr ""
+msgstr "đã tạo"
 
 #: public/views/modals/offer-contract.html:108
 msgid "days"
-msgstr ""
+msgstr "ngày"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "ví dụ: 1 hoặc 2 ví cùng với một phím trên thiết bị này và một phím khác trên máy tính của bạn."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "ví dụ 1 hoặc 2 ví cùng với một phím trên thiết bị này và một phím khác trên điện thoại thông minh của bạn."
 
 #: public/views/modals/bind.html:72
 msgid "either way"
-msgstr ""
+msgstr "cách khác"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr ""
+msgstr "xóa tiền chữ"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
-msgstr ""
+msgstr "một cách rõ ràng"
 
 #: public/views/modals/bind.html:79
 #: public/views/modals/offer-contract.html:69
 msgid "hours"
-msgstr ""
+msgstr "giờ"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
