@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2018-06-05 05:30-0400\n"
+"PO-Revision-Date: 2018-06-06 00:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr "'Nhận' tab → 'Yêu cầu ngân qũy sử dụng Tiền Chữ' phía dưới."
+msgstr "Tab 'Nhận' → nút 'Tiền bồi thường bằng cách sử dụng textcoin'."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1824,33 +1824,33 @@ msgstr "Tập tin ví của bạn:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr ""
+msgstr "Chìa khóa ví của bạn sẽ được mã hóa. Mật khẩu không thể phục hồi. Hãy chắc chắn để viết nó ra"
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "Ví của bạn sẽ được tạo trên thiết bị này, giữ nó an toàn. Xem các tùy chọn sao lưu trong danh sách Cài đặt."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr ""
+msgstr "[Thêm thiết bị mới của người cùng ký]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
 msgid "amount"
-msgstr ""
+msgstr "số tiền"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
-msgstr ""
+msgstr "một sự kiện mới được đăng lên bởi một thẻ"
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr ""
+msgstr "và xóa tiền chữ để giữ an toàn từ những kẻ tấn công."
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr ""
+msgstr "có thể mở khóa các hợp đồng"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
