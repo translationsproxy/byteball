@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2018-06-13 02:40-0400\n"
+"PO-Revision-Date: 2018-06-16 13:20-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -268,11 +268,11 @@ msgstr ""
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr ""
+msgstr "Магазин ботів"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Ви і {{correspondent.name}} включені в запис історії локального чату."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -284,12 +284,12 @@ msgstr ""
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr ""
+msgstr "Скасувати"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr ""
+msgstr "Продовжити"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:496
@@ -298,35 +298,35 @@ msgstr ""
 #: src/js/controllers/walletHome.js:124
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr ""
+msgstr "Змінити хаб:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr ""
+msgstr "Зміна псевдоніму гаманця впливає лише на локальне ім'я гаманця."
 
 #: src/js/controllers/index.js:683
 msgid "Chat"
-msgstr ""
+msgstr "Чат"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "Вибрати файл"
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
-msgstr ""
+msgstr "Виберіть приватний профіль"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr ""
+msgstr "Виберіть пристрій для надсилання"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr ""
+msgstr "Виберіть поля, які надсилати:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
