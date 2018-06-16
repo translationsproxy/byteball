@@ -11,23 +11,23 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2018-06-16 13:30-0400\n"
+"PO-Revision-Date: 2018-06-16 13:40-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr ""
+msgstr "Вкладка 'Отримати' → кнопка 'Вимога коштів використовуючи textcoin'."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr ""
+msgstr "(Сайт не буде бачити ваш баланс і не гроші будуть витрачені)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr ""
+msgstr "(поточний гаманець)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my another wallet)"
-msgstr ""
+msgstr "(мій інший гаманець)"
 
 #: public/views/walletHome.html:667
 msgid "(possible double spend)"
@@ -35,11 +35,11 @@ msgstr "(можна двічі витрачати)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- Вибрати співавтора --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 слів, розділених тире"
 
 #: public/views/preferencesGlobal.html:140
 msgid "About Byteball"
@@ -276,11 +276,11 @@ msgstr "Ви і {{correspondent.name}} включені в запис істор
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr ""
+msgstr "Браузер не підтримується"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
-msgstr ""
+msgstr "Byteball адрес"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
@@ -371,15 +371,15 @@ msgstr "Закрити"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
-msgstr ""
+msgstr "Співавтори {{$index+ 1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr ""
+msgstr "Співавтори"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr ""
+msgstr "Співавтори для мультизйомки"
 
 #: public/views/preferences.html:29
 msgid "Color"
@@ -387,11 +387,11 @@ msgstr "Колір"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr ""
+msgstr "Хеш комміту"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
-msgstr ""
+msgstr "Стискання файлів? (Уповільнить)"
 
 #: src/js/controllers/copayers.js:10
 #: src/js/controllers/index.js:480
@@ -442,62 +442,62 @@ msgstr "Не вдалося створити пропозицію оплати"
 
 #: src/js/services/profileService.js:279
 msgid "Could not create using the specified extended private key"
-msgstr ""
+msgstr "Не вдалося створити, використовуючи спеціальний розширений приватний ключ"
 
 #: src/js/services/profileService.js:289
 msgid "Could not create using the specified extended public key"
-msgstr ""
+msgstr "Не вдалося створити, використовуючи спеціальний розширений публічний ключ"
 
 #: src/js/services/profileService.js:272
 msgid "Could not create: Invalid wallet seed"
-msgstr ""
+msgstr "Не вдалося створити: Некоректний гаманець"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr ""
+msgstr "Не вдалося розшифрувати"
 
 #: public/views/walletHome.html:622
 msgid "Could not fetch transaction history"
-msgstr ""
+msgstr "Не вдалося перенести історію транзакцій"
 
 #: src/js/services/profileService.js:507
 #: src/js/services/profileService.js:534
 #: src/js/services/profileService.js:556
 msgid "Could not import"
-msgstr ""
+msgstr "Не вдалося імпортувати"
 
 #: src/js/services/profileService.js:484
 msgid "Could not import. Check input file and password"
-msgstr ""
+msgstr "Не вдалося імпортувати. Провірте вхідний файл і пароль"
 
 #: src/js/controllers/walletHome.js:53
 msgid "Could not recognize a valid Byteball QR Code"
-msgstr ""
+msgstr "Не вдалось розпізнати коректиний Byteball QR код"
 
 #: src/js/controllers/walletHome.js:689
 msgid "Could not send payment"
-msgstr ""
+msgstr "Не вдалось надіслати оплату"
 
 #: src/js/controllers/correspondentDevice.js:1085
 msgid "Country"
-msgstr ""
+msgstr "Країна"
 
 #: public/views/walletHome.html:44
 msgid "Create"
-msgstr ""
+msgstr "Створити"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
-msgstr ""
+msgstr "Створити новий гаманець"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
 msgid "Create new wallet"
-msgstr ""
+msgstr "Створити новий гаманець"
 
 #: src/js/controllers/index.js:307
 msgid "Create new wallet  together with  ?"
-msgstr ""
+msgstr "Створити новий гаманець разом з?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
@@ -505,7 +505,7 @@ msgstr ""
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr ""
+msgstr "Створено:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
