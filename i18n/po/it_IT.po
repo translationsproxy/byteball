@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-06-17 08:40-0400\n"
+"PO-Revision-Date: 2018-06-17 08:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -999,7 +999,7 @@ msgstr "Apri chat"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr ""
+msgstr "Oppure copia"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1036,7 +1036,7 @@ msgstr "Incolla la chiave privata del tuo Paper Wallet qui"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr ""
+msgstr "Paga ed offri"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
@@ -1064,7 +1064,7 @@ msgstr "Pagamento Inviato"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "Peer:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
