@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-06-17 09:40-0400\n"
+"PO-Revision-Date: 2018-06-17 09:50-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1682,7 +1682,7 @@ msgstr "AVVISO: Backup necessario"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr ""
+msgstr "ATTENZIONE: questo seed è stato creato con una frase d'accesso. Per recuperare questo portafoglio sono necessari sia il mnemonico che la frase d'accesso."
 
 #: public/views/import.html:55
 #: public/views/recoveryFromSeed.html:37
@@ -1695,7 +1695,7 @@ msgstr "BENVENUTI SU BYTEBALL"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
-msgstr ""
+msgstr "In attesa dei co-firmatari"
 
 #: public/views/copayers.html:33
 msgid "Waiting..."
@@ -1774,7 +1774,7 @@ msgstr "Witness (Testimoni)"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr ""
+msgstr "Annota questo textcoin su un foglio e conservalo in modo sicuro. Reclamalo indietro in qualsiasi momento del futuro utilizzo"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1791,7 +1791,7 @@ msgstr "Sì"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr ""
+msgstr "Puoi cancellare il textcoin dal tuo portafoglio se lo hai già salvato altrove (ad esempio su portafoglio cartaceo):"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
