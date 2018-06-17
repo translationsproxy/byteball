@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-06-17 10:20-0400\n"
+"PO-Revision-Date: 2018-06-17 10:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -346,7 +346,7 @@ msgstr "Clicca il pulsante per <span ng-if=\"isResend\">re</span>inviare l'email
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr "Clicca questo pulsante per creare il pagamento e condividerlo tramite messaggio privato nelle applicazioni di chat o per creare un portafoglio cartaceo."
+msgstr "Clicca questo pulsante per creare il pagamento e condividerlo tramite messaggio privato nelle applicazioni di chat o per creare un Paper Wallet."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -1020,7 +1020,7 @@ msgstr "Chiave privata del Paper Wallet"
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr "Frase segreta"
+msgstr "Frase d'accesso"
 
 #: src/js/services/profileService.js:672
 msgid "Password needed"
@@ -1427,11 +1427,11 @@ msgstr "Completato"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr "Spazza il Portafoglio"
+msgstr "Spazza Wallet"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr "Spazza il Paper Wallet"
+msgstr "Sweep Paper Wallet"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
@@ -1791,7 +1791,7 @@ msgstr "Sì"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr "Puoi cancellare il textcoin dal tuo portafoglio se lo hai già salvato altrove (ad esempio su portafoglio cartaceo):"
+msgstr "Puoi cancellare il textcoin dal tuo portafoglio se lo hai già salvato altrove (ad esempio su un Paper Wallet):"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
