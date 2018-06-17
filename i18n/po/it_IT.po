@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-06-17 08:50-0400\n"
+"PO-Revision-Date: 2018-06-17 09:00-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -626,11 +626,11 @@ msgstr "E' possibile che tu o {{correspondent.name}} abbiate la registrazione de
 
 #: public/views/preferencesGlobal.html:74
 msgid "Email attestor"
-msgstr ""
+msgstr "Email attestor"
 
 #: public/views/preferencesEmailAttestor.html:13
 msgid "Email attestor address"
-msgstr ""
+msgstr "Indirizzo email attestor"
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -991,7 +991,7 @@ msgstr "Una volte che hai scritto il tuo seed del wallet, è raccomandabile canc
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr "Solo i portafogli con single-sign on possono essere recuperati."
+msgstr "Solo i portafogli con un'unica firma possono essere recuperati."
 
 #: public/views/bot.html:35
 msgid "Open chat"
@@ -1088,7 +1088,7 @@ msgstr "Dai un nome a questo dispositivo"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr ""
+msgstr "Si prega di passare ad un portafoglio ad indirizzo unico e probabilmente dovrai inserire nuovamente il tuo indirizzo."
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1100,7 +1100,7 @@ msgstr "Invia coppie arbitrarie di dati chiave-valore nella rete Byteball."
 
 #: public/views/walletHome.html:533
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Inserisci manualmente i valori nei datafeeds, sii un oracolo."
 
 #: public/views/walletHome.html:539
 msgid "Post your profile data, anything you want to say about yourself."
