@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-06-17 08:20-0400\n"
+"PO-Revision-Date: 2018-06-17 08:30-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -565,7 +565,7 @@ msgstr "Elimina portafoglio"
 
 #: src/js/controllers/walletHome.js:1612
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr ""
+msgstr "L'eliminazione del textcoin toglierà la possibilità di reclamarlo o reinviarlo"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -680,7 +680,7 @@ msgstr "Finalità"
 
 #: src/js/controllers/correspondentDevice.js:1082
 msgid "First name"
-msgstr ""
+msgstr "Nome"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -773,19 +773,19 @@ msgstr "Ricevo un altro pagamento di"
 
 #: src/js/controllers/correspondentDevice.js:1087
 msgid "ID number"
-msgstr ""
+msgstr "Numero ID"
 
 #: src/js/controllers/correspondentDevice.js:1089
 msgid "ID subtype"
-msgstr ""
+msgstr "Sottotipo ID"
 
 #: src/js/controllers/correspondentDevice.js:1088
 msgid "ID type"
-msgstr ""
+msgstr "Tipo ID"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
-msgstr ""
+msgstr "Se uno dei tuoi dispositivi di co-firmatario non vede questo pagamento, tu puoi"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
@@ -798,7 +798,7 @@ msgstr "Se il peer non paga, posso riprendere i miei soldi"
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr ""
+msgstr "Se il destinatario non vede il tuo pagamento, tu puoi"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
