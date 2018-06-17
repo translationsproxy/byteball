@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2018-06-17 10:00-0400\n"
+"PO-Revision-Date: 2018-06-17 10:10-0400\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1878,19 +1878,19 @@ msgstr "giorni"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "es. portafoglio 1-di-2 con una chiave su questo dispositivo ed un'altra chiave sul computer portatile."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "es. portafoglio 1-di-2 con una chiave su questo dispositivo ed un'altra chiave sul tuo smartphone."
 
 #: public/views/modals/bind.html:72
 msgid "either way"
-msgstr ""
+msgstr "in entrambi i casi"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr ""
+msgstr "cancella il textcoin"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
@@ -1915,7 +1915,7 @@ msgstr "negli smart wallet"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr ""
+msgstr "mantieni per me"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -1945,7 +1945,7 @@ msgstr "oppure effettua un backup di tutti i dati Byteball in"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr ""
+msgstr "pagamento di peer"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
@@ -1961,7 +1961,7 @@ msgstr "ri-invia i payload privati ai co-firmatari"
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "invia"
 
 #: src/js/controllers/walletHome.js:750
 msgid "send email"
@@ -1984,15 +1984,15 @@ msgstr "condividi di nuovo"
 
 #: public/views/walletHome.html:449
 msgid "switch to multi-address"
-msgstr ""
+msgstr "passa a multi-indirizzo"
 
 #: public/views/walletHome.html:448
 msgid "switch to single address"
-msgstr ""
+msgstr "passa ad indirizzo unico"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
-msgstr ""
+msgstr "il testo qui sotto ed invialo al destinatario tramite qualsiasi app di messaggistica"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
@@ -2031,7 +2031,7 @@ msgstr "{{cancel_label || 'Annulla'}}"
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
-msgstr ""
+msgstr "{{confirm_label || 'Yes'}}"
 
 #: src/js/controllers/walletHome.js:1794
 msgid "{{fee}} will be deducted for bitcoin networking fees"
