@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2018-06-16 13:40-0400\n"
+"PO-Revision-Date: 2018-06-18T18:30:26+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -206,7 +206,7 @@ msgstr ""
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr ""
+msgstr "Доступний Баланс"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -218,15 +218,15 @@ msgstr ""
 #: public/views/modals/destination-address.html:9
 #: public/views/modals/tx-details.html:5
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #: public/views/walletHome.html:246
 msgid "Backup now"
-msgstr ""
+msgstr "Зробити резервну копію"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "Резервне копіювання гаманця"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -234,11 +234,11 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
-msgstr ""
+msgstr "Резервні копії"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
-msgstr ""
+msgstr "Поганий профіль"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
