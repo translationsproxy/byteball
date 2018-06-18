@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2018-06-18T18:40:21+0000\n"
+"PO-Revision-Date: 2018-06-18T18:50:26+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -226,7 +226,7 @@ msgstr "Зробити резервну копію"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup wallet seed"
-msgstr "Резервне копіювання насіння гаманця"
+msgstr "Резервне копіювання секретного рядка"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -517,7 +517,7 @@ msgstr "Створення гаманця..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr "Видалити слова"
+msgstr "Видалити ключові слова"
 
 #: public/views/walletHome.html:349
 msgid "Data"
@@ -529,15 +529,15 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
 #: src/js/controllers/correspondentDevice.js:1084
 msgid "Date of birth"
-msgstr ""
+msgstr "Дата народження"
 
 #: src/js/controllers/index.js:277
 msgid "Declined"
-msgstr ""
+msgstr "Відхилено"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
@@ -588,28 +588,28 @@ msgstr "Назва пристрою"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr ""
+msgstr "Ім'я пристрою є видимим для інших пристроїв, з якими ви спілкуєтесь."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "Не клонувати гаманці, відмовитися від використання оригінального гаманця з цього секретного рядка."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Не використовуйте це для клонування гаманця."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr ""
+msgstr "Потрібна мова не відображається на Crowdin? Напишіть у службу підтримку на Crowdin! Ми будемо раді підтримувати встановлену мову."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr ""
+msgstr "Готово"
 
 #: public/views/walletHome.html:723
 msgid "Download CSV file"
-msgstr ""
+msgstr "Завантажити CSV файл"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
@@ -724,11 +724,11 @@ msgstr ""
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "Глобальні налаштування"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
-msgstr ""
+msgstr "Повернутися назад"
 
 #: public/views/preferences.html:51
 msgid "Hardware wallet"
@@ -741,11 +741,11 @@ msgstr ""
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:679
 msgid "History"
-msgstr ""
+msgstr "Історія"
 
 #: src/js/controllers/index.js:667
 msgid "Home"
-msgstr ""
+msgstr "Домівка"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
