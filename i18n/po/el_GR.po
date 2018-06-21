@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-21T11:38:35+0000\n"
+"PO-Revision-Date: 2018-06-21T12:00:49+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -189,7 +189,7 @@ msgstr "Πιστοποίηση"
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr ""
+msgstr "Επιβεβαιωμένη διεύθυνση:"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
@@ -238,7 +238,7 @@ msgstr "Αντίγραφα ασφαλείας"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
-msgstr ""
+msgstr "Κακό προφίλ"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -1915,7 +1915,7 @@ msgstr "στα έξυπνα πορτοφόλια"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr ""
+msgstr "κράτα για μένα"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -2031,7 +2031,7 @@ msgstr "{{cancel_label || 'Ακύρωση'}}"
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
-msgstr "{{confirm_label || 'Yes'}}"
+msgstr "{{confirm_label || 'Ναι'}}"
 
 #: src/js/controllers/walletHome.js:1794
 msgid "{{fee}} will be deducted for bitcoin networking fees"
