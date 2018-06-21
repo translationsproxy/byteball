@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-21T12:00:49+0000\n"
+"PO-Revision-Date: 2018-06-21T12:10:31+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -346,7 +346,7 @@ msgstr ""
 
 #: public/views/walletHome.html:517
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "Κάντε κλικ σε αυτό το κουμπί για να δημιουργήσετε πληρωμή και να τη μοιραστείτε μέσω ιδιωτικού μηνύματος σε εφαρμογές chat ή για να δημιουργήσετε χάρτινο πορτοφόλι."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -836,7 +836,7 @@ msgstr "Εισαγωγή της διεύθυνσης μου"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr ""
+msgstr "Εισαγάγετε ιδιωτικό προφίλ"
 
 #: public/views/walletHome.html:660
 msgid "Invalid"
@@ -1621,7 +1621,7 @@ msgstr "Μεταφραστές"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr ""
+msgstr "Έμπιστοι κόμβοι"
 
 #: src/js/controllers/correspondentDevice.js:1086
 msgid "US state"
@@ -1984,11 +1984,11 @@ msgstr "κοινοποιήστε πάλι"
 
 #: public/views/walletHome.html:449
 msgid "switch to multi-address"
-msgstr ""
+msgstr "μεταβείτε σε πολλαπλής διεύθυνσης"
 
 #: public/views/walletHome.html:448
 msgid "switch to single address"
-msgstr ""
+msgstr "μεταβείτε σε μoνής διεύθυνσης"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
