@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-03-19 15:52-0400\n"
+"PO-Revision-Date: 2018-06-21T09:00:35+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -23,11 +23,11 @@ msgstr "(Το site δεν θα βλέπει το υπόλοιπο σας και 
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr ""
+msgstr "(Τρέχων πορτοφόλι)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my another wallet)"
-msgstr ""
+msgstr "(Το άλλο μου πορτοφόλι)"
 
 #: public/views/walletHome.html:667
 msgid "(possible double spend)"
@@ -134,7 +134,7 @@ msgstr "Ήδη πληρωμένο"
 
 #: src/js/controllers/correspondentDevice.js:1129
 msgid "Already saved"
-msgstr ""
+msgstr "Ήδη αποθηκευμένο"
 
 #: public/views/walletHome.html:164
 msgid "Also"
@@ -234,7 +234,7 @@ msgstr "Οι λέξεις αντίγραφου ασφαλείας διαγράφ
 
 #: public/views/preferencesGlobal.html:95
 msgid "Backups"
-msgstr ""
+msgstr "Αντίγραφα ασφαλείας"
 
 #: src/js/controllers/correspondentDevice.js:1114
 msgid "Bad profile"
@@ -318,7 +318,7 @@ msgstr "Επιλέξτε αρχείο"
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
-msgstr ""
+msgstr "Επιλέξτε ιδιωτικό προφίλ"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -326,7 +326,7 @@ msgstr "Επιλέξτε τη συσκευή προς αποστολή"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr ""
+msgstr "Επιλέξτε τα πεδία που θέλετε να στείλετε:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
