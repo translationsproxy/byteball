@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-21T09:20:21+0000\n"
+"PO-Revision-Date: 2018-06-21T11:31:13+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -999,7 +999,7 @@ msgstr "Άνοιγμα συνομιλίας"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr ""
+msgstr "Ή αντιγράψτε"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
