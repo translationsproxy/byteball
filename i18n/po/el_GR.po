@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-22T13:30:35+0000\n"
+"PO-Revision-Date: 2018-06-22T13:40:54+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -284,7 +284,7 @@ msgstr "Το πρόγραμμα περιήγησης δεν υποστηρίζε
 
 #: public/index.html:12
 msgid "Byteball &mdash; smart payments"
-msgstr ""
+msgstr "Byteball &mdash; έξυπνες πληρωμές"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
@@ -548,11 +548,11 @@ msgstr "Δεδομένα σε datafeed"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed name"
-msgstr ""
+msgstr "Datafeed όνομα"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed value"
-msgstr ""
+msgstr "Datafeed αξία"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
@@ -1166,7 +1166,7 @@ msgstr "Πεδία Προφίλ"
 
 #: public/views/walletHome.html:567
 msgid "Profile field value"
-msgstr ""
+msgstr "Tιμή του πεδίου προφίλ"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1520,7 +1520,7 @@ msgstr "Textcoin"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
-msgstr ""
+msgstr "Η επιβεβαιωμένη διεύθυνση ανήκει στο:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
