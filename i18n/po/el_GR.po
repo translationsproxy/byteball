@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-22T13:20:40+0000\n"
+"PO-Revision-Date: 2018-06-22T13:30:35+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr ""
+msgstr "Καρτέλα 'Αποδοχής' → 'Διεκδικήστε κεφάλαια χρησιμοποιώντας textcoin' κουμπί."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -930,7 +930,7 @@ msgstr "Μήνυμα"
 #: public/views/modals/sign-message.html:17
 #: public/views/modals/signed-message.html:17
 msgid "Message:"
-msgstr ""
+msgstr "Μήνυμα:"
 
 #: public/views/walletHome.html:658
 msgid "Moved"
@@ -1162,7 +1162,7 @@ msgstr "Προφίλ"
 
 #: public/views/walletHome.html:567
 msgid "Profile field"
-msgstr ""
+msgstr "Πεδία Προφίλ"
 
 #: public/views/walletHome.html:567
 msgid "Profile field value"
@@ -1679,7 +1679,7 @@ msgstr "Έμπιστοι κόμβοι"
 
 #: src/js/controllers/correspondentDevice.js:1224
 msgid "US state"
-msgstr ""
+msgstr "US πολιτεία"
 
 #: src/js/controllers/walletHome.js:835
 msgid "Unable to send transaction proposal"
@@ -1724,7 +1724,7 @@ msgstr "Τιμές"
 
 #: src/js/controllers/correspondentDevice.js:1246
 msgid "Verifying the profile..."
-msgstr ""
+msgstr "Το προφίλ επαληθεύεται..."
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1833,7 +1833,7 @@ msgstr "Μάρτυρες"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr ""
+msgstr "Σημειώστε αυτό το textcoin σε χαρτί και αποθηκεύστε το σε ασφαλές μέρος. Μπορείτε στο μέλλον να το ανακτήσετε όποτε θέλετε με"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1850,7 +1850,7 @@ msgstr "Ναι"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr ""
+msgstr "Μπορείτε να διαγράψετε το textcoin από το πορτοφόλι σας, εάν το έχετε ήδη αποθηκεύσει αλλού (π.χ. ως ένα χάρτινο πορτοφόλι):"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1905,11 +1905,11 @@ msgstr "ένα γεγονός καταχωρείται από έναν oracle"
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr ""
+msgstr "και διαγράψτε το textcoin για να το κρατήσετε ασφαλές από εισβολείς."
 
 #: public/views/walletHome.html:567
 msgid "available"
-msgstr ""
+msgstr "διαθέσιμο"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1933,7 +1933,7 @@ msgstr "καθαρισμός ιστορικού συνομιλίας"
 
 #: public/views/walletHome.html:567
 msgid "confirmed"
-msgstr ""
+msgstr "επιβεβαιωμένο"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1982,7 +1982,7 @@ msgstr "στα έξυπνα πορτοφόλια"
 
 #: public/views/modals/signed-message.html:29
 msgid "invalid"
-msgstr ""
+msgstr "μη έγκυρο"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
@@ -2064,7 +2064,7 @@ msgstr "μεταβείτε σε μoνής διεύθυνσης"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
-msgstr ""
+msgstr "το κείμενο παρακάτω και στείλτε το στον παραλήπτη μέσω οποιασδήποτε εφαρμογή ανταλλαγής μηνυμάτων"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
@@ -2077,7 +2077,7 @@ msgstr "πάρα πολύ μεγάλο μέγεθος!"
 
 #: public/views/modals/signed-message.html:30
 msgid "valid"
-msgstr ""
+msgstr "έγκυρο"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
