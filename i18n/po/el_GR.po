@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-22T13:51:31+0000\n"
+"PO-Revision-Date: 2018-06-22T14:00:45+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -110,7 +110,7 @@ msgstr "Για προχωρημένους"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "Αφού τη σημειώσετε, βρείτε αυτή τη συναλλαγή σε"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -194,11 +194,11 @@ msgstr "Επιβεβαιωμένη διεύθυνση:"
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "Επιβεβαιώθηκε από:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr ""
+msgstr "Επιβεβαιωμένες διεύθυνσεις"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
