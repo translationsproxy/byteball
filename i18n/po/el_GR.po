@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-22T15:10:45+0000\n"
+"PO-Revision-Date: 2018-06-22T15:20:31+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -358,7 +358,7 @@ msgstr "Κάντε κλικ στο κουμπί για να <span ng-if=\"isRese
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create a payment file and send it to a recipient."
-msgstr ""
+msgstr "Πατήστε αυτό το κουμπί για να δημιουργήσετε ένα αρχείο πληρωμής και να το στείλετε το σε έναν παραλήπτη."
 
 #: public/views/walletHome.html:514
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
@@ -592,7 +592,7 @@ msgstr "Διαγραφή Πορτοφολιού"
 
 #: src/js/controllers/walletHome.js:1709
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr ""
+msgstr "Η διαγραφή του textcoin θα αφαιρέσει τη δυνατότητα να το πάρετε πίσω ή να το ξαναστείλετε"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -821,7 +821,7 @@ msgstr "Αν δεν πληρώσει ο ομότιμος (peer), μπορώ να
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr ""
+msgstr "Εάν ο παραλήπτης δεν βλέπει την πληρωμή σας, μπορείτε να"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -1593,15 +1593,15 @@ msgstr "Το πορτοφόλι αυτό δεν μπορεί να μετατρα
 
 #: public/views/preferences.html:41
 msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
-msgstr ""
+msgstr "Το πορτοφόλι αυτό δεν μπορεί να μετατραπεί σε πορτοφόλι πολλαπλών διευθύνσεων καθώς είναι πορτοφόλι πολλαπλών συσκευών"
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
-msgstr ""
+msgstr "Αυτό το πορτοφόλι δεν μπορεί να μετατραπεί σε πορτοφόλι ενιαίας διεύθυνσης, καθώς ήδη αποτελείται από πολλαπλές διευθύνσεις"
 
 #: public/views/preferences.html:40
 msgid "This wallet cannot be converted to single address wallet as it is multidevice"
-msgstr ""
+msgstr "Το πορτοφόλι αυτό δεν μπορεί να μετατραπεί σε πορτοφόλι μονής διευθύνσης καθώς είναι πορτοφόλι πολλαπλών συσκευών"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
