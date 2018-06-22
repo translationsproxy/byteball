@@ -1216,6 +1216,10 @@ input.ng-invalid-match, input.ng-invalid-match:focus {
 	font-weight: 500;
 	font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif
 }
+.mtab-title.disabled {
+	cursor: not-allowed;
+	color: #C7C7C7;
+}
 .mtab-title.active {
 	color: #8C9EB0;
 	border-color: #8C9EB0;
@@ -1345,6 +1349,14 @@ input.ng-invalid-match, input.ng-invalid-match:focus {
     font-size: 10px;
     font-weight: 300;
     margin-top: -10px;
+    margin-bottom: 5px;
+}
+
+.of-asset-name{
+    font-size: 12px;
+    font-weight: 300;
+    margin-top: -10px;
+    margin-bottom: 5px;
 }
 
 @media (max-width: 360px) {
@@ -1579,4 +1591,8 @@ input.ng-invalid-match, input.ng-invalid-match:focus {
 	cursor: auto !important;
 	overflow: auto;
 	white-space: normal;
+}
+
+form[name="chatForm"] .f-dropdown.drop-top > *:last-child {
+	margin-bottom: -2px;
 }
