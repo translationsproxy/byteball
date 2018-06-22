@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-22T09:24:29+0000\n"
+"PO-Revision-Date: 2018-06-22T13:20:40+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -27,7 +27,7 @@ msgstr "(Τρέχων πορτοφόλι)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other wallet)"
-msgstr ""
+msgstr "(Το άλλο μου πορτοφόλι)"
 
 #: public/views/walletHome.html:666
 msgid "(possible double spend)"
@@ -695,7 +695,7 @@ msgstr "Προμήθεια"
 
 #: public/views/walletHome.html:567
 msgid "Field"
-msgstr ""
+msgstr "Πεδίο"
 
 #: public/views/modals/tx-details.html:116
 msgid "Finality"
@@ -1540,7 +1540,7 @@ msgstr "Ο ομότιμος (peer) λαμβάνει αυτή την πληρωμ
 
 #: public/views/modals/signed-message.html:28
 msgid "The signature is"
-msgstr ""
+msgstr "Η υπογραφή είναι"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -1581,7 +1581,7 @@ msgstr "Η πληρωμή αυτή είναι δεμένη με μια κατά�
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
-msgstr ""
+msgstr "H πληρωμή αυτή μπορεί να γίνει μόνο από πορτοφόλι μονής διεύθυνσης"
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
@@ -1589,7 +1589,7 @@ msgstr "Αυτή η συναλλαγή είναι άκυρη, πιθανόν λ�
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
-msgstr ""
+msgstr "Το πορτοφόλι αυτό δεν μπορεί να μετατραπεί σε πορτοφόλι πολλαπλών διευθύνσεων καθώς έχει ήδη βεβαιώσεις"
 
 #: public/views/preferences.html:41
 msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
@@ -1716,7 +1716,7 @@ msgstr "Γίνεται αναβάθμιση της βάσης δεδομένων
 
 #: public/views/walletHome.html:567
 msgid "Value"
-msgstr ""
+msgstr "Αξία"
 
 #: public/views/walletHome.html:560
 msgid "Values"
