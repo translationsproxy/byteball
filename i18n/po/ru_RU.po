@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-06-22T09:23:54+0000\n"
+"PO-Revision-Date: 2018-06-22T12:21:00+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -27,7 +27,7 @@ msgstr "(текущий кошелек)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other wallet)"
-msgstr ""
+msgstr "(другой мой кошелек)"
 
 #: public/views/walletHome.html:666
 msgid "(possible double spend)"
@@ -198,7 +198,7 @@ msgstr "Аттестовано:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr ""
+msgstr "Адреса аттестовавшего"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -284,7 +284,7 @@ msgstr "Браузер не поддерживается"
 
 #: public/index.html:12
 msgid "Byteball &mdash; smart payments"
-msgstr ""
+msgstr "Byteball &mdash; умные платежи"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
