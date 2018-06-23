@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2018-06-23T18:00:19+0000\n"
+"PO-Revision-Date: 2018-06-23T18:10:25+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1426,16 +1426,16 @@ msgstr "メッセージに署名する"
 
 #: src/js/controllers/index.js:407
 msgid "Sign message \"\" by address ?"
-msgstr ""
+msgstr "アドレスでメッセージ \"\" に署名しますか？"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
-msgstr ""
+msgstr "署名済みメッセージ"
 
 #: public/views/modals/sign-message.html:22
 #: public/views/modals/signed-message.html:22
 msgid "Signing address:"
-msgstr ""
+msgstr "署名アドレス:"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
@@ -1540,7 +1540,7 @@ msgstr "ピアが支払いを受け取るのは"
 
 #: public/views/modals/signed-message.html:28
 msgid "The signature is"
-msgstr ""
+msgstr "署名は"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -1716,7 +1716,7 @@ msgstr "データベースをアップグレードしています、お待ちく
 
 #: public/views/walletHome.html:567
 msgid "Value"
-msgstr ""
+msgstr "値"
 
 #: public/views/walletHome.html:560
 msgid "Values"
@@ -1909,7 +1909,7 @@ msgstr "また、textcoinを消去して攻撃者から安全に守ります。"
 
 #: public/views/walletHome.html:567
 msgid "available"
-msgstr ""
+msgstr "利用可能"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1933,7 +1933,7 @@ msgstr "チャット履歴の削除"
 
 #: public/views/walletHome.html:567
 msgid "confirmed"
-msgstr ""
+msgstr "確認済み"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
