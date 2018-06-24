@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-24T10:20:23+0000\n"
+"PO-Revision-Date: 2018-06-24T10:30:20+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1418,24 +1418,24 @@ msgstr "Εμφάνιση του seed πορτοφολιού ούτως ή άλλ
 
 #: public/views/modals/sign-message.html:46
 msgid "Sign"
-msgstr ""
+msgstr "Υπογράψτε"
 
 #: public/views/modals/sign-message.html:8
 msgid "Sign message"
-msgstr ""
+msgstr "Υπογράψτε το μήνυμα"
 
 #: src/js/controllers/index.js:407
 msgid "Sign message \"\" by address ?"
-msgstr ""
+msgstr "Υπογράψτε το μήνυμα \"\" από τη διεύθυνση ?"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
-msgstr ""
+msgstr "Υπογεγραμμένο μήνυμα"
 
 #: public/views/modals/sign-message.html:22
 #: public/views/modals/signed-message.html:22
 msgid "Signing address:"
-msgstr ""
+msgstr "Διεύθυνση υπογραφής:"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
