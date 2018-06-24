@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-06-23T20:50:34+0000\n"
+"PO-Revision-Date: 2018-06-24T11:30:30+0000\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -202,11 +202,11 @@ msgstr "Tõendaja aadress"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
-msgstr "Automaatne tunnistajate nimekirja uuendamine vahendajalt"
+msgstr "Automaatne tunnistajate nimekirja uuendamine jaotuspunktist"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the witness list from this hub"
-msgstr "Automaatne tunnistajate nimekirja uuendamine sellelt vahendajalt"
+msgstr "Automaatne tunnistajate nimekirja uuendamine sellest jaotuspunktist"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -310,7 +310,7 @@ msgstr "Katkesta"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr "Muuda vahendajat:"
+msgstr "Muuda jaotuspunkti:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
@@ -776,11 +776,11 @@ msgstr "Host"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr "Vahendaja"
+msgstr "Teadete jaotuspunkt"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr "Vahendaja URL"
+msgstr "Jaotuspunkti URL"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
@@ -1524,11 +1524,11 @@ msgstr "Tõendatud aadress kuulub:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr "Vahendajat kasutatakse sõnumite saamiseks teistelt seadmetelt."
+msgstr "Teadete jaotuspunkti kasutatakse sõnumite saamiseks teistelt seadmetelt."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr "Vahendaja soovitab vahetada järgmised tunnistajad:"
+msgstr "Jaotuspunkt soovitab vahetada järgmised tunnistajad:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
