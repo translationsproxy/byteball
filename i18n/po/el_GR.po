@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-25 19:11\n"
+"PO-Revision-Date: 2018-06-25 19:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -816,7 +816,7 @@ msgstr "Αν δεν πληρείται η προϋπόθεση, μπορώ να 
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr "Αν δεν πληρώσει ο ομότιμος (peer), μπορώ να πάρω τα λεφτά μου πίσω μετά από"
+msgstr "Αν ο συναλλασσόμενος δεν πληρώσει, μπορώ να πάρω τα λεφτά μου πίσω μετά από"
 
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
@@ -867,7 +867,7 @@ msgstr "Μη έγκυρο"
 
 #: src/js/controllers/index.js:1631
 msgid "Invalid Touch ID"
-msgstr "Μη έγκυρο αναγνωριστικό αφής"
+msgstr "Λανθασμένο Touch ID"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
@@ -1092,7 +1092,7 @@ msgstr "Πληρωμή Εστάλη"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr "Ομότιμος (peer):"
+msgstr "Συναλλασσόμενος:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -1124,7 +1124,7 @@ msgstr "Θύρα"
 
 #: public/views/walletHome.html:540
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr "Καταχωρήστε αυθαίρετα ζεύγη τιμής-κλειδιού στο δίκτυο Byteball."
+msgstr "Καταχωρήστε αυτόνομα ζεύγη τιμής-κλειδιού στο δίκτυο Byteball."
 
 #: public/views/walletHome.html:531
 msgid "Post values into datafeeds manually, be an oracle."
