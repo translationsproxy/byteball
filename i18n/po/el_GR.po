@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-25 19:21\n"
+"PO-Revision-Date: 2018-06-25 19:33\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -31,7 +31,7 @@ msgstr "(Το άλλο μου πορτοφόλι)"
 
 #: public/views/walletHome.html:666
 msgid "(possible double spend)"
-msgstr "(πιθανή διπλή πληρωμή)"
+msgstr "(πιθανή διπλή συναλλαγή)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
@@ -1553,7 +1553,7 @@ msgstr "Το πορτοφόλι \"{{walletName}}\" διαγράφηκε"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr "Ο πωλητής του πορτοφολιού θα μπορεί να γνωρίζει μερικά από τα υπόλοιπα σας και να δει ποιες συναλλαγές είναι δικές σας, ωστόσο μπορείτε να χρησιμοποιήσετε αμέσως το πορτοφόλι που είναι πλήρως λειτουργικό."
+msgstr "Ο πωλητής του πορτοφολιού θα μπορεί να δει μερικά από τα υπόλοιπα σας και να δει ποιες συναλλαγές είναι δικές σας, ωστόσο μπορείτε να χρησιμοποιήσετε αμέσως το πορτοφόλι που είναι πλήρως λειτουργικό."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
@@ -1585,7 +1585,7 @@ msgstr "H πληρωμή αυτή πρέπει να καταβληθεί μόν�
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr "Αυτή η συναλλαγή είναι άκυρη, πιθανόν λόγω μιας προσπάθειας διπλού ξοδέματος."
+msgstr "Αυτή η συναλλαγή είναι άκυρη, πιθανόν λόγω μιας προσπάθειας διπλής συναλλαγής."
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
