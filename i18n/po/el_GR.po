@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-25 16:03\n"
+"PO-Revision-Date: 2018-06-25 16:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1520,7 +1520,7 @@ msgstr "Textcoin"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
-msgstr "Η επιβεβαιωμένη διεύθυνση ανήκει στο:"
+msgstr "Η επιβεβαιωμένη διεύθυνση ανήκει σε:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1581,7 +1581,7 @@ msgstr "Η πληρωμή αυτή είναι δεμένη με μια κατά�
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
-msgstr "H πληρωμή αυτή μπορεί να γίνει μόνο από πορτοφόλι μονής διεύθυνσης"
+msgstr "H πληρωμή αυτή πρέπει να καταβληθεί μόνο από πορτοφόλι μονής διεύθυνσης"
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
@@ -1589,7 +1589,7 @@ msgstr "Αυτή η συναλλαγή είναι άκυρη, πιθανόν λ�
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
-msgstr "Το πορτοφόλι αυτό δεν μπορεί να μετατραπεί σε πορτοφόλι πολλαπλών διευθύνσεων καθώς έχει ήδη βεβαιώσεις"
+msgstr "Το πορτοφόλι αυτό δεν μπορεί να μετατραπεί σε πορτοφόλι πολλαπλών διευθύνσεων καθώς έχει επιβεβαιωθεί ήδη"
 
 #: public/views/preferences.html:41
 msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
@@ -1597,11 +1597,11 @@ msgstr "Το πορτοφόλι αυτό δεν μπορεί να μετατρα
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
-msgstr "Αυτό το πορτοφόλι δεν μπορεί να μετατραπεί σε πορτοφόλι μονής διεύθυνσης, καθώς ήδη αποτελείται από πολλαπλές διευθύνσεις"
+msgstr "Το πορτοφόλι αυτό δεν μπορεί να μετατραπεί σε πορτοφόλι μονής διεύθυνσης, καθώς ήδη αποτελείται από πολλαπλές διευθύνσεις"
 
 #: public/views/preferences.html:40
 msgid "This wallet cannot be converted to single address wallet as it is multidevice"
-msgstr "Το πορτοφόλι αυτό δεν μπορεί να μετατραπεί σε πορτοφόλι μονής διευθύνσης καθώς είναι πορτοφόλι πολλαπλών συσκευών"
+msgstr "Το πορτοφόλι αυτό δεν μπορεί να μετατραπεί σε πορτοφόλι μονής διεύθυνσης καθώς είναι πορτοφόλι πολλαπλών συσκευών"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
@@ -1833,7 +1833,7 @@ msgstr "Μάρτυρες"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr "Σημειώστε αυτό το textcoin σε χαρτί και αποθηκεύστε το σε ασφαλές μέρος. Μπορείτε στο μέλλον να το ανακτήσετε όποτε θέλετε με"
+msgstr "Σημειώστε αυτό το textcoin σε χαρτί και αποθηκεύστε το σε ασφαλές μέρος. Μπορείτε στο μέλλον να το ανακτήσετε όποτε θέλετε χρησιμοποιώντας"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1850,7 +1850,7 @@ msgstr "Ναι"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr "Μπορείτε να διαγράψετε το textcoin από το πορτοφόλι σας, εάν το έχετε ήδη αποθηκεύσει αλλού (π.χ. ως ένα χάρτινο πορτοφόλι):"
+msgstr "Μπορείτε να διαγράψετε το textcoin από το πορτοφόλι σας εάν το έχετε ήδη αποθηκεύσει αλλού (π.χ. ως ένα χάρτινο πορτοφόλι):"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1862,7 +1862,7 @@ msgstr "Δεν έχετε πορτοφόλι"
 
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
-msgstr "Θα πρέπει να περάσετε από επιβεβαίωση πριν αποκτήσετε ένα προφίλ.  Αναζητήστε για το Bot Επιβεβαίωσης Ονόματος στο κατάστημα με τα Bots."
+msgstr "Θα πρέπει να περάσετε από επιβεβαίωση πριν αποκτήσετε ένα προφίλ.  Αναζητήστε για το Bot Επιβεβαίωσης Πραγματικού Ονόματος στο κατάστημα με τα Bots."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -2060,7 +2060,7 @@ msgstr "μεταβείτε σε πολλαπλής διεύθυνσης"
 
 #: public/views/walletHome.html:445
 msgid "switch to single address"
-msgstr "μεταβείτε σε μoνής διεύθυνσης"
+msgstr "μεταβείτε σε μονής διεύθυνσης"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
