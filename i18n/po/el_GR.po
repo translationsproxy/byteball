@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-25 18:40\n"
+"PO-Revision-Date: 2018-06-25 18:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -180,11 +180,11 @@ msgstr "Περιουσιακό στοιχείο"
 
 #: public/views/walletHome.html:534
 msgid "Attest profile data linked to any Byteball address."
-msgstr "Πιστοποιείστε δεδομένα προφίλ συνδεδεμένα με οποιαδήποτε διεύθυνση Byteball."
+msgstr "Επιβεβαιώστε δεδομένα προφίλ συνδεδεμένα με οποιαδήποτε διεύθυνση Byteball."
 
 #: public/views/walletHome.html:348
 msgid "Attestation"
-msgstr "Πιστοποίηση"
+msgstr "Επιβεβαίωση"
 
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
@@ -250,7 +250,7 @@ msgstr "Υπόλοιπο ανά διεύθυνση"
 
 #: public/views/walletHome.html:241
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "Πρίν λάβετε χρήματα, συνιστάται να δημιουργήσετε αντίγραφα ασφαλείας για τα κλειδιά του πορτοφολιού σας."
+msgstr "Προτού λάβετε χρήματα, συνιστάται να δημιουργήσετε αντίγραφα ασφαλείας για τα κλειδιά του πορτοφολιού σας."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -264,7 +264,7 @@ msgstr "Δέσμευση πληρωμής"
 #: public/views/walletHome.html:439
 #: public/views/walletHome.html:452
 msgid "Bind the payment to a condition"
-msgstr "Δεσμεύστε την πληρωμή σε μία κατάσταση"
+msgstr "Δεσμεύστε την πληρωμή σε μία συνθήκη"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -520,7 +520,7 @@ msgstr "Δημιουργία νέου πορτοφολιού μαζί με ;"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr "Δημιουργία {{requiredCosigners}}- από-{{totalCosigners}} πορτοφολιού"
+msgstr "Δημιουργία {{requiredCosigners}}-από-{{totalCosigners}} πορτοφολιού"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
