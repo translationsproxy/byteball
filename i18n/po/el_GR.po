@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-25 19:33\n"
+"PO-Revision-Date: 2018-06-25 19:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -254,7 +254,7 @@ msgstr "Προτού λάβετε χρήματα, συνιστάται να δη
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr "Ακόμα καλύτερα, χρησιμοποιήστε multisig πορτοφόλι με πλεονασμό,"
+msgstr "Ακόμα καλύτερα, χρησιμοποιήστε multisig πορτοφόλια με λειτουργία εφεδρείας,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
@@ -453,7 +453,7 @@ msgstr "Αντιγραφή"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr "Ανταποκριτές δεν επαναφέρθηκαν."
+msgstr "Οι ανταποκριτές δεν επαναφέρθηκαν."
 
 #: src/js/controllers/walletHome.js:696
 msgid "Could not create payment proposal"
@@ -829,7 +829,7 @@ msgstr "Αν έχετε μετακινήσει αυτό το αντίγραφο 
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Εάν σκοπεύετε να επαναφέρετε το πορτοφόλι σε άλλη συσκευή, διακόψτε τη χρήση του στην τρέχουσα αμέσως μετά τη δημιουργία του αντιγράφου ασφαλείας.  Ποτέ μην κλωνοποιείτε πορτοφόλια.  Εάν χρειάζεστε πρόσβαση από πολλές συσκευές, χρησιμοποιήστε το multisig."
+msgstr "Εάν σκοπεύετε να επαναφέρετε το πορτοφόλι σε άλλη συσκευή, διακόψτε τη χρήση του στην τρέχουσα συσκευή αμέσως μόλις δημιουργήσετε αντίγραφο ασφαλείας.  Ποτέ μην κλωνοποιείτε πορτοφόλια.  Εάν χρειάζεστε πρόσβαση από πολλές συσκευές, χρησιμοποιήστε το multisig."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -1623,7 +1623,7 @@ msgstr "Για να μπορέσετε να επαναφέρετε τα πάντ
 
 #: public/views/walletHome.html:597
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
-msgstr "Για να μπορέσετε να στείλετε αυτόνομα δεδομένα στο δίκτυο Byteball, παρακαλώ μεταβείτε πρώτα σε ένα πορτοφόλι ενιαίας διεύθυνσης ή δημιουργήστε ένα."
+msgstr "Για να μπορέσετε να στείλετε αυτόνομα δεδομένα στο δίκτυο Byteball, παρακαλώ μεταβείτε πρώτα σε ένα πορτοφόλι μονής διεύθυνσης ή δημιουργήστε ένα."
 
 #: public/views/walletHome.html:449
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1712,7 +1712,7 @@ msgstr "Αναβάθμιση σε {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
-msgstr "Γίνεται αναβάθμιση της βάσης δεδομένων, παρακαλώ περιμένετε.  Μερικές φορές διαρκεί αρκετά μερικά λεπτά."
+msgstr "Γίνεται αναβάθμιση της βάσης δεδομένων, παρακαλώ περιμένετε.  Μερικές φορές διαρκεί μερικά λεπτά."
 
 #: public/views/walletHome.html:567
 msgid "Value"
@@ -1854,7 +1854,7 @@ msgstr "Μπορείτε να διαγράψετε το textcoin από το π�
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr "Δεν μπορείτε να συνδέσετε τη συναλλαγή σας με αντίστροφη πληρωμή καθώς είστε σε πορτοφόλι μονής διεύθυνσης.  Χρησιμοποιήστε ένα πορτοφόλι μη μονής διεύθυνσης και στη συνέχεια μεταφέρετε τα χρήματα σε αυτό το πορτοφόλι."
+msgstr "Δεν μπορείτε να δεσμεύσετε τη συναλλαγή σας για αντιστροφή πληρωμής καθώς είστε σε πορτοφόλι μονής διεύθυνσης.  Χρησιμοποιήστε ένα πορτοφόλι μη μονής διεύθυνσης και στη συνέχεια μεταφέρετε τα χρήματα σε αυτό το πορτοφόλι."
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
@@ -2016,7 +2016,7 @@ msgstr "ή δημιουργήστε αντίγραφα ασφαλείας για
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr "ο ομότιμος πληρώνει"
+msgstr "ο συναλλασσόμενος πληρώνει"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
