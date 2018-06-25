@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-25 17:31\n"
+"PO-Revision-Date: 2018-06-25 17:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2111,7 +2111,7 @@ msgstr "{{confirm_label || 'Ναι'}}"
 
 #: src/js/controllers/walletHome.js:1898
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr "{{fee}}, θα προεξοφληθεί ως τέλος του δικτύου bitcoin"
+msgstr "{{fee}} θα προεξοφληθεί ως τέλος του δικτύου bitcoin"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
@@ -2124,7 +2124,7 @@ msgstr "{{index.m}}-του-{{index.n}}"
 
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr "{{item.m}}- του -{{item.n}}"
+msgstr "{{item.m}}-του-{{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
