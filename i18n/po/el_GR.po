@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-24T10:30:20+0000\n"
+"PO-Revision-Date: 2018-06-25 16:03\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -31,7 +31,7 @@ msgstr "(Το άλλο μου πορτοφόλι)"
 
 #: public/views/walletHome.html:666
 msgid "(possible double spend)"
-msgstr "(πιθανό διπλό ξόδεμα)"
+msgstr "(πιθανή διπλή πληρωμή)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
@@ -198,7 +198,7 @@ msgstr "Επιβεβαιώθηκε από:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr "Επιβεβαιωμένες διεύθυνσεις"
+msgstr "Διευθύνσεις μαρτύρων"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -354,7 +354,7 @@ msgstr "Διεκδίκηση..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr "Κάντε κλικ στο κουμπί για να <span ng-if=\"isResend\"> ξανα</span> στείλετε email:"
+msgstr "Κάντε κλικ στο κουμπί για να <span ng-if=\"isResend\"> ξανά</span> στείλετε email:"
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create a payment file and send it to a recipient."
@@ -362,7 +362,7 @@ msgstr "Πατήστε αυτό το κουμπί για να δημιουργή
 
 #: public/views/walletHome.html:514
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr "Κάντε κλικ σε αυτό το κουμπί για να δημιουργήσετε πληρωμή και να τη μοιραστείτε μέσω ιδιωτικού μηνύματος σε εφαρμογές συνομιλίας ή για να δημιουργήσετε χάρτινο πορτοφόλι."
+msgstr "Κάντε κλικ σε αυτό το κουμπί για να δημιουργήσετε πληρωμή και να τη μοιραστείτε μέσω ιδιωτικού μηνύματος σε εφαρμογές συνομιλίας ή για να δημιουργήσετε ένα χάρτινο πορτοφόλι."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -548,11 +548,11 @@ msgstr "Δεδομένα σε datafeed"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed name"
-msgstr "Datafeed όνομα"
+msgstr "Ονομασία ροής δεδομένων"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed value"
-msgstr "Datafeed αξία"
+msgstr "Αξία ροής δεδομένων"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
@@ -592,7 +592,7 @@ msgstr "Διαγραφή Πορτοφολιού"
 
 #: src/js/controllers/walletHome.js:1709
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr "Η διαγραφή του textcoin θα αφαιρέσει τη δυνατότητα να το πάρετε πίσω ή να το ξαναστείλετε"
+msgstr "Η διαγραφή του textcoin θα αφαιρέσει τη δυνατότητα να το επαναφέρετε ή να το ξαναστείλετε"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -703,7 +703,7 @@ msgstr "Οριστικότητα"
 
 #: src/js/controllers/correspondentDevice.js:1220
 msgid "First name"
-msgstr "Μικρό όνομα"
+msgstr "Όνομα"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -1116,7 +1116,7 @@ msgstr "Παρακαλώ ονομάστε αυτή τη συσκευή"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr "Παρακαλούμε μεταβείτε σε ένα πορτοφόλι μονής διεύθυνσης, ίσως χρειάστει να εισαγάγετε ξανά τη διεύθυνσή σας."
+msgstr "Παρακαλούμε μεταβείτε σε ένα πορτοφόλι μονής διεύθυνσης, ίσως χρειαστεί να εισαγάγετε ξανά τη διεύθυνσή σας."
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1166,7 +1166,7 @@ msgstr "Πεδίο Προφίλ"
 
 #: public/views/walletHome.html:567
 msgid "Profile field value"
-msgstr "Tιμή του πεδίου προφίλ"
+msgstr "Τιμή του πεδίου προφίλ"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
