@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-25 16:30\n"
+"PO-Revision-Date: 2018-06-25 16:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1536,7 +1536,7 @@ msgstr "Τα χρήματα είναι αποθηκευμένα σε αυτό τ
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr "Ο ομότιμος (peer) λαμβάνει αυτή την πληρωμή, εάν"
+msgstr "Ο συναλλασσόμενος λαμβάνει αυτή την πληρωμή, εάν"
 
 #: public/views/modals/signed-message.html:28
 msgid "The signature is"
@@ -1544,7 +1544,7 @@ msgstr "Η υπογραφή είναι"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr "Η ψήφος θα υπογραφεί από όλες τις διευθύνσεις σας που χρηματοδοτούνται"
+msgstr "Η ψήφος θα υπογραφεί από όλες τις χρηματοδοτούμενές σας διευθύνσεις"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
@@ -1553,7 +1553,7 @@ msgstr "Το πορτοφόλι \"{{walletName}}\" διαγράφηκε"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr "Ο πωλητής πορτοφολιού θα μπορεί να γνωρίζει μερικά από τα υπόλοιπα σας και να δει ποιες συναλλαγές είναι δικές σας, αλλά μπορείτε να χρησιμοποιείτε αμέσως το πορτοφόλι και είναι πλήρως λειτουργικό."
+msgstr "Ο πωλητής του πορτοφολιού θα μπορεί να γνωρίζει μερικά από τα υπόλοιπα σας και να δει ποιες συναλλαγές είναι δικές σας, ωστόσο μπορείτε να χρησιμοποιήσετε αμέσως το πορτοφόλι που είναι πλήρως λειτουργικό."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
@@ -1573,11 +1573,11 @@ msgstr "Αυτή η επιλογή δεν μπορεί να αλλάξει αρ�
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr "Αυτή η επιλογή είναι καλύτερη για την ιδιωτικότητα, αλλά θα χρειαστεί αρκετά gigabytes για αποθήκευση και ο αρχικός συγχρονισμός θα διαρκέσει αρκετές ημέρες.  Η χρήση του CPU θα είναι υψηλή, κατά τη διάρκεια του συγχρονισμού."
+msgstr "Αυτή η επιλογή είναι καλύτερη από άποψη ιδιωτικότητας, αλλά απαιτεί αρκετά gigabytes για αποθήκευση και ο αρχικός συγχρονισμός θα διαρκέσει αρκετές ημέρες.  Κατά τη διάρκεια του συγχρονισμού η χρήση της CPU θα είναι υψηλή."
 
 #: public/views/walletHome.html:440
 msgid "This payment is bound to a condition"
-msgstr "Η πληρωμή αυτή είναι δεμένη με μια κατάσταση"
+msgstr "Η πληρωμή αυτή είναι συνδεδεμένη με μια συνθήκη"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
