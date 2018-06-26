@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-25 21:10\n"
+"PO-Revision-Date: 2018-06-26 23:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -31,7 +31,7 @@ msgstr "(Το άλλο μου πορτοφόλι)"
 
 #: public/views/walletHome.html:666
 msgid "(possible double spend)"
-msgstr "(πιθανή διπλή συναλλαγή)"
+msgstr "(πιθανή διπλή χρέωση)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
