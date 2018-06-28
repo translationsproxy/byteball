@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-06-26 23:10\n"
+"PO-Revision-Date: 2018-06-28 12:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -254,7 +254,7 @@ msgstr "Προτού λάβετε χρήματα, συνιστάται να δη
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr "Ακόμα καλύτερα, χρησιμοποιήστε multisig πορτοφόλια με λειτουργία εφεδρείας,"
+msgstr "Ακόμα καλύτερα, χρησιμοποιήστε πορτοφόλια πολλαπλών υπογραφών με λειτουργία εφεδρείας,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
@@ -398,7 +398,7 @@ msgstr "Συνυπογράφοντες"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr "Συνυπογράφοντες για την multisig"
+msgstr "Συνυπογράφοντες για τη λειτουργία πολλαπλών υπογραφών"
 
 #: public/views/preferences.html:29
 msgid "Color"
@@ -825,11 +825,11 @@ msgstr "Εάν ο παραλήπτης δεν βλέπει την πληρωμή
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Αν έχετε μετακινήσει αυτό το αντίγραφο ασφαλείας από μια άλλη συσκευή, διακόψτε τη χρήση του στην πρώτη αμέσως μετά τη δημιουργία του αντιγράφου ασφαλείας.  Ποτέ μην κλωνοποιείτε πορτοφόλια.  Εάν χρειάζεστε πρόσβαση από πολλές συσκευές, χρησιμοποιήστε το multisig."
+msgstr "Αν έχετε μετακινήσει αυτό το αντίγραφο ασφαλείας από μια άλλη συσκευή, διακόψτε τη χρήση του στην πρώτη αμέσως μετά τη δημιουργία του αντιγράφου ασφαλείας.  Ποτέ μην κλωνοποιείτε πορτοφόλια.  Εάν χρειάζεστε πρόσβαση από πολλές συσκευές, χρησιμοποιήστε το πολλαπλών υπογραφών."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Εάν σκοπεύετε να επαναφέρετε το πορτοφόλι σε άλλη συσκευή, διακόψτε τη χρήση του στην τρέχουσα συσκευή αμέσως μόλις δημιουργήσετε αντίγραφο ασφαλείας.  Ποτέ μην κλωνοποιείτε πορτοφόλια.  Εάν χρειάζεστε πρόσβαση από πολλές συσκευές, χρησιμοποιήστε το multisig."
+msgstr "Εάν σκοπεύετε να επαναφέρετε το πορτοφόλι σε άλλη συσκευή, διακόψτε τη χρήση του στην τρέχουσα συσκευή αμέσως μόλις δημιουργήσετε αντίγραφο ασφαλείας.  Ποτέ μην κλωνοποιείτε πορτοφόλια.  Εάν χρειάζεστε πρόσβαση από πολλές συσκευές, χρησιμοποιήστε το πολλαπλών υπογραφών."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -875,7 +875,7 @@ msgstr "Προσκαλέστε την άλλη συσκευή"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr "Μόνο το seed πορτοφολιού δεν είναι αρκετό. Με το seed μονάχα, δεν θα μπορέσετε να επαναφέρετε multisig πορτοφόλια και ιδιωτικά περιουσιακά στοιχεία, όπως τα blackbytes."
+msgstr "Μόνο το seed πορτοφολιού δεν είναι αρκετό. Με το seed μονάχα, δεν θα μπορέσετε να επαναφέρετε πορτοφόλια πολλαπλών υπογραφών και ιδιωτικά περιουσιακά στοιχεία, όπως τα blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
