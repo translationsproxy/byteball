@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-07-02 22:30\n"
+"PO-Revision-Date: 2018-07-02 22:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -238,7 +238,7 @@ msgstr "Borradas palabras de la copia de seguridad"
 
 #: public/views/preferencesGlobal.html:94
 msgid "Backups"
-msgstr ""
+msgstr "Copias de seguridad"
 
 #: src/js/controllers/correspondentDevice.js:1252
 msgid "Bad profile"
@@ -326,7 +326,7 @@ msgstr "Elija archivo"
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
-msgstr ""
+msgstr "Elegir perfil privado"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
@@ -334,7 +334,7 @@ msgstr "Elegir dispositivo al que enviar"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr ""
+msgstr "Elegir campos a envar:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
@@ -350,7 +350,7 @@ msgstr "Reclamar fondos mediante texto"
 
 #: public/views/walletHome.html:85
 msgid "Claiming..."
-msgstr ""
+msgstr "Reclamando..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
@@ -695,7 +695,7 @@ msgstr "Comisión"
 
 #: public/views/walletHome.html:567
 msgid "Field"
-msgstr ""
+msgstr "Campo"
 
 #: public/views/modals/tx-details.html:116
 msgid "Finality"
@@ -859,7 +859,7 @@ msgstr "Introducir mi dirección"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr ""
+msgstr "Introducir perfil privado"
 
 #: public/views/walletHome.html:659
 msgid "Invalid"
@@ -1116,7 +1116,7 @@ msgstr "Por favor, dé nombre a este dispositivo"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr ""
+msgstr "Por favor cambiarse a un monedero de dirección única. Probablemente tendrá que introducir su dirección nuevamente."
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1154,7 +1154,7 @@ msgstr "Datos privados enviados"
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "Perfil privado"
 
 #: public/views/walletHome.html:349
 msgid "Profile"
@@ -1162,11 +1162,11 @@ msgstr "Perfil"
 
 #: public/views/walletHome.html:567
 msgid "Profile field"
-msgstr ""
+msgstr "Campo de perfil"
 
 #: public/views/walletHome.html:567
 msgid "Profile field value"
-msgstr ""
+msgstr "Valor de perfil de campo"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
