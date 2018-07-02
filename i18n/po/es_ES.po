@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-07-02 23:30\n"
+"PO-Revision-Date: 2018-07-02 23:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1426,16 +1426,16 @@ msgstr "Firmar mensaje"
 
 #: src/js/controllers/index.js:407
 msgid "Sign message \"\" by address ?"
-msgstr ""
+msgstr "¿Firmar mensaje \"\" a través de dirección?"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
-msgstr ""
+msgstr "Mensaje firmado"
 
 #: public/views/modals/sign-message.html:22
 #: public/views/modals/signed-message.html:22
 msgid "Signing address:"
-msgstr ""
+msgstr "Dirección firmante:"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
@@ -1540,7 +1540,7 @@ msgstr "El corresponsal recibe el pago si"
 
 #: public/views/modals/signed-message.html:28
 msgid "The signature is"
-msgstr ""
+msgstr "La firma es"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -1581,7 +1581,7 @@ msgstr "Este pago está asociado a una condición"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
-msgstr ""
+msgstr "Este pago debe ser pagado exclusivamente a través de monederos de dirección única"
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
@@ -1651,7 +1651,7 @@ msgstr "Balance Total Bloqueado"
 
 #: public/views/walletHome.html:379
 msgid "Total amount"
-msgstr ""
+msgstr "Cantidad total"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
@@ -1675,11 +1675,11 @@ msgstr "Traductores"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr ""
+msgstr "Nodos de confianza"
 
 #: src/js/controllers/correspondentDevice.js:1224
 msgid "US state"
-msgstr ""
+msgstr "Estado en EEUU"
 
 #: src/js/controllers/walletHome.js:835
 msgid "Unable to send transaction proposal"
@@ -1716,7 +1716,7 @@ msgstr "Por favor, espere, actualizando base de datos. Puede durar varios minuto
 
 #: public/views/walletHome.html:567
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 #: public/views/walletHome.html:560
 msgid "Values"
@@ -1724,7 +1724,7 @@ msgstr "Valores"
 
 #: src/js/controllers/correspondentDevice.js:1246
 msgid "Verifying the profile..."
-msgstr ""
+msgstr "Verificando el perfil..."
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1905,11 +1905,11 @@ msgstr "un oráculo publica un evento"
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr ""
+msgstr "y elimine el textcoin para mantenerlo a salvo de ataques."
 
 #: public/views/walletHome.html:567
 msgid "available"
-msgstr ""
+msgstr "disponible"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1933,7 +1933,7 @@ msgstr "limpiar historial de chat"
 
 #: public/views/walletHome.html:567
 msgid "confirmed"
-msgstr ""
+msgstr "confirmado"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1957,7 +1957,7 @@ msgstr "de todos modos"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr ""
+msgstr "eliminar textcoin"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
@@ -1982,11 +1982,11 @@ msgstr "en monederos"
 
 #: public/views/modals/signed-message.html:29
 msgid "invalid"
-msgstr ""
+msgstr "no válido"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr ""
+msgstr "mantenerlo en secreto"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -2032,7 +2032,7 @@ msgstr "reenviar datos privados a co-firmantes"
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "enviar"
 
 #: src/js/controllers/walletHome.js:773
 msgid "send email"
