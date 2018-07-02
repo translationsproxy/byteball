@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-07-02 23:20\n"
+"PO-Revision-Date: 2018-07-02 23:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1027,7 +1027,7 @@ msgstr "Abrir chat"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr ""
+msgstr "O copiar"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1360,7 +1360,7 @@ msgstr "Enviar por correo electrónico"
 
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
-msgstr ""
+msgstr "Enviar este perfil"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
@@ -1418,11 +1418,11 @@ msgstr "Mostrar semilla de todos modos"
 
 #: public/views/modals/sign-message.html:46
 msgid "Sign"
-msgstr ""
+msgstr "Firmar"
 
 #: public/views/modals/sign-message.html:8
 msgid "Sign message"
-msgstr ""
+msgstr "Firmar mensaje"
 
 #: src/js/controllers/index.js:407
 msgid "Sign message \"\" by address ?"
@@ -1466,7 +1466,7 @@ msgstr "Aún no está listo"
 
 #: src/js/controllers/correspondentDevice.js:1269
 msgid "Store"
-msgstr ""
+msgstr "Guardar"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:136
@@ -1532,7 +1532,7 @@ msgstr "El \"hub\" sugiere reemplazar los siguientes testigos:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr ""
+msgstr "Los fondos están guardados en el textcoin:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
@@ -1862,7 +1862,7 @@ msgstr "No tiene ningún monedero"
 
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
-msgstr ""
+msgstr "Debe realizar un proceso de verificación para adquirir un perfil. Busca el bot de Real Name Attestation en la tienda de bots."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
