@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-07-02 23:00\n"
+"PO-Revision-Date: 2018-07-02 23:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -362,7 +362,7 @@ msgstr "Pulse este botón para crear un archivo de pago y enviarlo a un destinat
 
 #: public/views/walletHome.html:514
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "Pulse este botón para crear un pago y compartirlo vía mensaje privado en las aplicaciones de chat o para crear un monedero de papel."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -499,7 +499,7 @@ msgstr "No se pudo enviar el pago"
 
 #: src/js/controllers/correspondentDevice.js:1223
 msgid "Country"
-msgstr ""
+msgstr "País"
 
 #: public/views/walletHome.html:44
 msgid "Create"
@@ -548,11 +548,11 @@ msgstr "Datos en la cadena"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed name"
-msgstr ""
+msgstr "Nombre de fuente de datos"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed value"
-msgstr ""
+msgstr "Valor de fuete de datos"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
@@ -560,7 +560,7 @@ msgstr "Fecha"
 
 #: src/js/controllers/correspondentDevice.js:1222
 msgid "Date of birth"
-msgstr ""
+msgstr "Fecha de nacimiento"
 
 #: src/js/controllers/index.js:276
 msgid "Declined"
@@ -703,7 +703,7 @@ msgstr "Concepto"
 
 #: src/js/controllers/correspondentDevice.js:1220
 msgid "First name"
-msgstr ""
+msgstr "Nombre de pila"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -796,19 +796,19 @@ msgstr "Recibo otro pago de"
 
 #: src/js/controllers/correspondentDevice.js:1225
 msgid "ID number"
-msgstr ""
+msgstr "Número de ID"
 
 #: src/js/controllers/correspondentDevice.js:1227
 msgid "ID subtype"
-msgstr ""
+msgstr "Subtipo de ID"
 
 #: src/js/controllers/correspondentDevice.js:1226
 msgid "ID type"
-msgstr ""
+msgstr "Tipo de ID"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
-msgstr ""
+msgstr "Si alguno de sus dispositivos co-firmantes es incapaz de ver este pago, usted puede"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
@@ -821,7 +821,7 @@ msgstr "Si la otra parte no paga, los fondos retornarán tras"
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr ""
+msgstr "Si el destinatario es incapaz de ver el pago, puedes"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
