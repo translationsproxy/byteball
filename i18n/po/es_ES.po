@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-07-02 22:10\n"
+"PO-Revision-Date: 2018-07-02 22:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -198,7 +198,7 @@ msgstr "Verificado por:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr ""
+msgstr "Direcciones de verificador"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -1520,7 +1520,7 @@ msgstr "Textcoin"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
-msgstr ""
+msgstr "La dirección verificada pertenece a:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
