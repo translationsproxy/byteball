@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-07-02 22:20\n"
+"PO-Revision-Date: 2018-07-02 22:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1589,19 +1589,19 @@ msgstr "Esta transacción se ha invalidado; posiblemente debido a un intento de 
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
-msgstr ""
+msgstr "Este monedero no se puede convertir en un monedero de múltiples direcciones debido a que ha formado parte de procesos de verificación"
 
 #: public/views/preferences.html:41
 msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
-msgstr ""
+msgstr "Este monedero no se puede convertir a un monedero de direcciones múltiples debido a que es del tipo multidispositivo"
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
-msgstr ""
+msgstr "Este monederono no se puede convertir en un monedero de dirección única debido a que ya está conformado por múltiples direcciones"
 
 #: public/views/preferences.html:40
 msgid "This wallet cannot be converted to single address wallet as it is multidevice"
-msgstr ""
+msgstr "Este monedero no se puede convertir en un monedero de dirección única debido a que es del tipo multidispositivo"
 
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
