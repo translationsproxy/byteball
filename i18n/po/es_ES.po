@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-07-02 23:10\n"
+"PO-Revision-Date: 2018-07-02 23:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -449,7 +449,7 @@ msgstr "Copiado al portapapeles"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
@@ -808,7 +808,7 @@ msgstr "Tipo de ID"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
-msgstr "Si alguno de sus dispositivos co-firmantes es incapaz de ver este pago, usted puede"
+msgstr "Si alguno de sus dispositivos co-firmantes es incapaz de ver este pago, puedes"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
@@ -891,7 +891,7 @@ msgstr "Idioma"
 
 #: src/js/controllers/correspondentDevice.js:1221
 msgid "Last name"
-msgstr ""
+msgstr "Apellido"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
@@ -930,7 +930,7 @@ msgstr "Mensaje"
 #: public/views/modals/sign-message.html:17
 #: public/views/modals/signed-message.html:17
 msgid "Message:"
-msgstr ""
+msgstr "Mensaje:"
 
 #: public/views/walletHome.html:658
 msgid "Moved"
@@ -980,7 +980,7 @@ msgstr "No se indicó contraseña"
 
 #: public/views/modals/choose-profile.html:67
 msgid "No profiles matching the requested criteria."
-msgstr ""
+msgstr "No hay perfiles que coincidan con el criterio solicitado."
 
 #: public/views/modals/choose-profile.html:68
 msgid "No profiles yet."
@@ -1850,7 +1850,7 @@ msgstr "Sí"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr ""
+msgstr "Puedes borrar el textcoin en tu monedero en caso de haberlo guardado ya a través de otro medio (por ejemplo en un monedero de papel):"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
