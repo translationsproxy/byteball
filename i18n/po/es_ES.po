@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-07-02 23:50\n"
+"PO-Revision-Date: 2018-07-08 00:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -334,7 +334,7 @@ msgstr "Elegir dispositivo al que enviar"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr "Elegir campos a envar:"
+msgstr "Elegir campos a enviar:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
@@ -1581,7 +1581,7 @@ msgstr "Este pago está asociado a una condición"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
-msgstr "Este pago debe ser pagado exclusivamente a través de monederos de dirección única"
+msgstr "Este pago debe ser realizado exclusivamente a través de monederos de dirección única"
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
@@ -1597,7 +1597,7 @@ msgstr "Este monedero no se puede convertir a un monedero de direcciones múltip
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
-msgstr "Este monederono no se puede convertir en un monedero de dirección única debido a que ya está conformado por múltiples direcciones"
+msgstr "Este monedero no no se puede convertir en un monedero de dirección única debido a que ya está conformado por múltiples direcciones"
 
 #: public/views/preferences.html:40
 msgid "This wallet cannot be converted to single address wallet as it is multidevice"
