@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-07-12 13:10\n"
+"PO-Revision-Date: 2018-07-12 13:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -198,7 +198,7 @@ msgstr "Bevestigd door:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr ""
+msgstr "Adressen van bevestigers"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -284,7 +284,7 @@ msgstr "Browser niet ondersteund"
 
 #: public/index.html:12
 msgid "Byteball &mdash; smart payments"
-msgstr ""
+msgstr "Byteball &mdash; slimme betalingen"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
@@ -350,7 +350,7 @@ msgstr "Eis een bedrag op door middel van textcoin"
 
 #: public/views/walletHome.html:85
 msgid "Claiming..."
-msgstr ""
+msgstr "Aan het claimen..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
@@ -358,7 +358,7 @@ msgstr "Klik op de knop om de mail <span ng-if=\"isResend\">opnieuw</span> te ve
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create a payment file and send it to a recipient."
-msgstr ""
+msgstr "Klik op deze knop om een betalingsbestand maken en stuur het naar een geadresseerde."
 
 #: public/views/walletHome.html:514
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
@@ -548,11 +548,11 @@ msgstr "Gegevens in datafeed"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed name"
-msgstr ""
+msgstr "Naam van data feed"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed value"
-msgstr ""
+msgstr "Waarde van data feed"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
@@ -695,7 +695,7 @@ msgstr "Transactiekosten"
 
 #: public/views/walletHome.html:567
 msgid "Field"
-msgstr ""
+msgstr "Veld"
 
 #: public/views/modals/tx-details.html:116
 msgid "Finality"
@@ -930,7 +930,7 @@ msgstr "Bericht"
 #: public/views/modals/sign-message.html:17
 #: public/views/modals/signed-message.html:17
 msgid "Message:"
-msgstr ""
+msgstr "Bericht:"
 
 #: public/views/walletHome.html:658
 msgid "Moved"
@@ -1162,11 +1162,11 @@ msgstr "Profiel"
 
 #: public/views/walletHome.html:567
 msgid "Profile field"
-msgstr ""
+msgstr "Profielveld"
 
 #: public/views/walletHome.html:567
 msgid "Profile field value"
-msgstr ""
+msgstr "Profielveld waarde"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1418,24 +1418,24 @@ msgstr "Toon alsnog de seed van deze portefeuille"
 
 #: public/views/modals/sign-message.html:46
 msgid "Sign"
-msgstr ""
+msgstr "Ondertekenen"
 
 #: public/views/modals/sign-message.html:8
 msgid "Sign message"
-msgstr ""
+msgstr "Onderteken bericht"
 
 #: src/js/controllers/index.js:407
 msgid "Sign message \"\" by address ?"
-msgstr ""
+msgstr "Onderteken bericht \"\" van adres?"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
-msgstr ""
+msgstr "Ondertekend bericht"
 
 #: public/views/modals/sign-message.html:22
 #: public/views/modals/signed-message.html:22
 msgid "Signing address:"
-msgstr ""
+msgstr "Ondertekenend adres:"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
@@ -1540,7 +1540,7 @@ msgstr "De wederpartij ontvangt deze betaling als"
 
 #: public/views/modals/signed-message.html:28
 msgid "The signature is"
-msgstr ""
+msgstr "De handtekening is"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -1716,7 +1716,7 @@ msgstr "Databases aan het upgraden, even geduld a.u.b. Dit kan soms enkele minut
 
 #: public/views/walletHome.html:567
 msgid "Value"
-msgstr ""
+msgstr "Waarde"
 
 #: public/views/walletHome.html:560
 msgid "Values"
@@ -1909,7 +1909,7 @@ msgstr "en verwijder de textcoin om het te beschermen tegen aanvallers."
 
 #: public/views/walletHome.html:567
 msgid "available"
-msgstr ""
+msgstr "beschikbaar"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1933,7 +1933,7 @@ msgstr "chatgeschiedenis verwijderen"
 
 #: public/views/walletHome.html:567
 msgid "confirmed"
-msgstr ""
+msgstr "bevestigd"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1982,7 +1982,7 @@ msgstr "in slimme portefeuilles"
 
 #: public/views/modals/signed-message.html:29
 msgid "invalid"
-msgstr ""
+msgstr "ongeldig"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
@@ -2077,7 +2077,7 @@ msgstr "te lang!"
 
 #: public/views/modals/signed-message.html:30
 msgid "valid"
-msgstr ""
+msgstr "geldig"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
