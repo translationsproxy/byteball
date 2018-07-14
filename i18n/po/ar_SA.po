@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-14 17:50\n"
+"PO-Revision-Date: 2018-07-14 18:02\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -93,7 +93,7 @@ msgstr "تمت الإضافة"
 #: public/views/modals/destination-address.html:118
 #: public/views/paymentUri.html:15
 msgid "Address"
-msgstr ""
+msgstr "العنوان"
 
 #: public/views/walletHome.html:545
 msgid "Address to attest"
@@ -102,11 +102,11 @@ msgstr ""
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
 msgid "Addressbook"
-msgstr ""
+msgstr "لائحة العناوين"
 
 #: public/views/preferences.html:59
 msgid "Advanced"
-msgstr ""
+msgstr "خيارات متقدمة"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -114,19 +114,19 @@ msgstr ""
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
-msgstr ""
+msgstr "موافق"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
-msgstr ""
+msgstr "اسم مستعار لـ <i>{{index.walletName}}</i>"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr ""
+msgstr "جميع عناوين المحافظ"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr ""
+msgstr "كل المساهمات لترجمة بيتبال مرحب بها. سجل بموقع crowdin.com و انضم إلى مشروع بيتبال على"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
