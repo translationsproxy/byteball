@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-14 14:35\n"
+"PO-Revision-Date: 2018-07-14 14:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -106,7 +106,7 @@ msgstr "주소록"
 
 #: public/views/preferences.html:59
 msgid "Advanced"
-msgstr "고급"
+msgstr "고급 설정"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -114,7 +114,7 @@ msgstr "그것을 쓴다음, 이 트랜잭션을 찾으십시오."
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
-msgstr "동의"
+msgstr "동의합니다"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
