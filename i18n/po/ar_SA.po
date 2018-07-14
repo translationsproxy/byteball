@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-14 12:00\n"
+"PO-Revision-Date: 2018-07-14 17:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -23,11 +23,11 @@ msgstr ""
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr ""
+msgstr "(المحفظة الحالية)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other wallet)"
-msgstr ""
+msgstr "(محفظة أخرى)"
 
 #: public/views/walletHome.html:666
 msgid "(possible double spend)"
@@ -50,7 +50,7 @@ msgstr "حول بيتبال"
 #: src/js/controllers/walletHome.js:123
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr ""
+msgstr "الموافقة"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
@@ -62,11 +62,11 @@ msgstr "قبول الدعوة من جهاز أخر"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
-msgstr ""
+msgstr "الحساب"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "إضافة بوت"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: public/views/walletHome.html:571
 msgid "Add fields"
-msgstr ""
+msgstr "إضافة نطاق جديد"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
@@ -87,7 +87,7 @@ msgstr "أضف محفضة جديدة"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "تمت الإضافة"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:118
