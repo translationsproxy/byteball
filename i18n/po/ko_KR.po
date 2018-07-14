@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-14 15:00\n"
+"PO-Revision-Date: 2018-07-14 15:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -35,7 +35,7 @@ msgstr "(이중 지불 가능성 있음)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr "-- 공동서명인 선택 --"
+msgstr "-- 공동 서명자 선택 --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
@@ -398,7 +398,7 @@ msgstr "공동 서명자"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr "멀티시그에 대한 공동 서명자"
+msgstr "다중 서명을 위한 공동 서명자"
 
 #: public/views/preferences.html:29
 msgid "Color"
@@ -1566,7 +1566,7 @@ msgstr "이 지불을 위한 지갑이 없습니다."
 
 #: public/views/walletHome.html:294
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr ""
+msgstr "이 주소는 {{index.shared_address_cosigners}}와 공유됩니다."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
@@ -1656,7 +1656,7 @@ msgstr "총 합계"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr "전체 공동서명자 수"
+msgstr "총 공동 서명자 수"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
@@ -1892,7 +1892,7 @@ msgstr "당신의 지갑은 이 디바이스에서 생성되어질 것입니다.
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
-msgstr "[ 신규 공동서명자 디바이스 추가]"
+msgstr "[ 새로운 공동 서명자 기기 추가]"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
