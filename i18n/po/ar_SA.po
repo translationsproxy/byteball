@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-14 18:50\n"
+"PO-Revision-Date: 2018-07-14 19:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -250,7 +250,7 @@ msgstr "الرصيد حسب العنوان"
 
 #: public/views/walletHome.html:241
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "قبل أن تقوم بإستقبال المال, يفضل أن تقوم بعمل نسخة إحتياطية لمفاتيح محفظتك."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -280,11 +280,11 @@ msgstr ""
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr ""
+msgstr "متصفحك غير مدعوم حاليا"
 
 #: public/index.html:12
 msgid "Byteball &mdash; smart payments"
-msgstr ""
+msgstr "بيتبال &mdash; الدفع الذكي"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
@@ -432,11 +432,11 @@ msgstr ""
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "قم بالتأكيد على تصويتك"
 
 #: public/views/modals/tx-details.html:121
 msgid "Confirmed"
-msgstr ""
+msgstr "تم التأكيد"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
