@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-14 19:00\n"
+"PO-Revision-Date: 2018-07-14 19:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -445,7 +445,7 @@ msgstr ""
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:391
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "تم النسخ على الحافظة"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
@@ -457,7 +457,7 @@ msgstr ""
 
 #: src/js/controllers/walletHome.js:696
 msgid "Could not create payment proposal"
-msgstr ""
+msgstr "تعذر إنشاء مقترح الدفع"
 
 #: src/js/services/profileService.js:279
 msgid "Could not create using the specified extended private key"
