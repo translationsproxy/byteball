@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-06-24T11:30:30+0000\n"
+"PO-Revision-Date: 2018-07-14 01:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -346,7 +346,7 @@ msgstr "Tekstiliste vahendite omaksvõtmine"
 
 #: public/views/walletHome.html:317
 msgid "Claim funds using textcoin"
-msgstr "Tekstiliste vahendite omaksvõtmine"
+msgstr "Tekstilised vahendid"
 
 #: public/views/walletHome.html:85
 msgid "Claiming..."
@@ -362,7 +362,7 @@ msgstr "Klõpsa seda nuppu, et luua maksefail, mida saab saata makse vastuvõtja
 
 #: public/views/walletHome.html:514
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr "Klõpsa seda nuppu, et luua makse jagamiseks privaatvestluses või paberile kirjutamiseks."
+msgstr "Klõpsa seda nuppu, et luua makse, mida jagada privaatvestluses või kirjutada paberile."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -398,7 +398,7 @@ msgstr "Kaasallkirjastajad"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr "Võimalikud kaasallkirjastajad"
+msgstr "Kaasallkirjastajad"
 
 #: public/views/preferences.html:29
 msgid "Color"
@@ -1516,7 +1516,7 @@ msgstr "Kirjuta sõnum:"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr "Tekstilised vahendid"
+msgstr "Tekstiliste vahendite sõnad"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
