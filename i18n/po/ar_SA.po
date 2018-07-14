@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-14 18:02\n"
+"PO-Revision-Date: 2018-07-14 18:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -142,7 +142,7 @@ msgstr ""
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "كما ستجد في قائمة الإعدادات خيارات أمان مثل إنشاء كلمة المرور."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -155,7 +155,7 @@ msgstr ""
 #: public/views/paymentUri.html:16
 #: public/views/walletHome.html:378
 msgid "Amount"
-msgstr ""
+msgstr "المبلغ"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -234,11 +234,11 @@ msgstr ""
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
-msgstr ""
+msgstr "تم حذف النسخة الاحتياطية من الكلمات"
 
 #: public/views/preferencesGlobal.html:94
 msgid "Backups"
-msgstr ""
+msgstr "النسخة الإحتياطية"
 
 #: src/js/controllers/correspondentDevice.js:1252
 msgid "Bad profile"
@@ -246,7 +246,7 @@ msgstr "بروفيل سيئ"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "الرصيد حسب العنوان"
 
 #: public/views/walletHome.html:241
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
