@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-14 11:50\n"
+"PO-Revision-Date: 2018-07-14 12:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -54,11 +54,11 @@ msgstr ""
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
-msgstr ""
+msgstr "قبول الدعوة"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr ""
+msgstr "قبول الدعوة من جهاز أخر"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
@@ -163,16 +163,16 @@ msgstr ""
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr ""
+msgstr "قبول إنشاء محفظة على أجهزة أخرى"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr ""
+msgstr "هل أنت متأكد من أنك تريد حذف النسخ الإحتياطية من الكلمات؟"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr ""
+msgstr "هل ترغب فعلا في حذف هذه المحفظة؟"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
@@ -210,7 +210,7 @@ msgstr ""
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr ""
+msgstr "الرصيد الحالي"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -222,11 +222,11 @@ msgstr ""
 #: public/views/modals/destination-address.html:9
 #: public/views/modals/tx-details.html:5
 msgid "Back"
-msgstr ""
+msgstr "الرجوع"
 
 #: public/views/walletHome.html:247
 msgid "Backup now"
-msgstr ""
+msgstr "قم بحفض نسخة احتياطية"
 
 #: public/views/preferencesGlobal.html:104
 msgid "Backup wallet seed"
@@ -242,7 +242,7 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:1252
 msgid "Bad profile"
-msgstr ""
+msgstr "بروفيل سيئ"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
