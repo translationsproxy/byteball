@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-11 07:41\n"
+"PO-Revision-Date: 2018-07-14 11:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -43,7 +43,7 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:139
 msgid "About Byteball"
-msgstr ""
+msgstr "حول بيتبال"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
@@ -70,7 +70,7 @@ msgstr ""
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
-msgstr ""
+msgstr "أضف جهاز أخر"
 
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
@@ -83,7 +83,7 @@ msgstr ""
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
-msgstr ""
+msgstr "أضف محفضة جديدة"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
@@ -292,7 +292,7 @@ msgstr ""
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr ""
+msgstr "إلغاء"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
