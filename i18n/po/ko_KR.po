@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-14 14:50\n"
+"PO-Revision-Date: 2018-07-14 15:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -142,7 +142,7 @@ msgstr "또한"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr "셋팅 메뉴에서 역시, 당신은 패스워드 셋팅과 같은 보안 옵션을 찾을 수 있습니다."
+msgstr "설정 메뉴에서 비밀번호 설정같은 보안 옵션을 설정할 수 있습니다."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -155,7 +155,7 @@ msgstr "또한, 당신의 씨드를 삭제하는것을 잊지 마십시오."
 #: public/views/paymentUri.html:16
 #: public/views/walletHome.html:378
 msgid "Amount"
-msgstr "금액"
+msgstr "수량"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -520,7 +520,7 @@ msgstr "새로운 지갑을 함께 만드시겠습니까?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr "{{totalCosigners}} 의 {{requiredCosigners}} 지갑 만들기"
+msgstr "{{requiredCosigners}}/{{totalCosigners}} 지갑 만들기"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
