@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-14 11:20\n"
+"PO-Revision-Date: 2018-07-14 11:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -297,7 +297,7 @@ msgstr "إلغاء"
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr ""
+msgstr "المواصلة"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:493
@@ -318,7 +318,7 @@ msgstr ""
 
 #: src/js/controllers/index.js:681
 msgid "Chat"
-msgstr ""
+msgstr "الدردشة"
 
 #: public/views/import.html:33
 msgid "Choose File"
@@ -386,7 +386,7 @@ msgstr ""
 #: public/views/modals/signed-message.html:4
 #: public/views/modals/vote.html:4
 msgid "Close"
-msgstr ""
+msgstr "إغلاق"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
@@ -402,7 +402,7 @@ msgstr ""
 
 #: public/views/preferences.html:29
 msgid "Color"
-msgstr ""
+msgstr "اللون"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
@@ -420,7 +420,7 @@ msgstr ""
 #: src/js/controllers/walletHome.js:1716
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
-msgstr ""
+msgstr "تأكيد"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
@@ -449,7 +449,7 @@ msgstr ""
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr ""
+msgstr "نسخ"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
@@ -556,11 +556,11 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
-msgstr ""
+msgstr "التاريخ"
 
 #: src/js/controllers/correspondentDevice.js:1222
 msgid "Date of birth"
-msgstr ""
+msgstr "تاريخ الميلاد"
 
 #: src/js/controllers/index.js:276
 msgid "Declined"
