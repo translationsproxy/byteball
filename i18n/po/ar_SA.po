@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-15 19:00\n"
+"PO-Revision-Date: 2018-07-15 19:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -615,7 +615,7 @@ msgstr "اسم الجهاز"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr ""
+msgstr "إسم الجهاز سيكون مرئياً للأجهزة الأخرى التي تقوم بالاتصال معها."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
@@ -627,25 +627,25 @@ msgstr ""
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr ""
+msgstr "لا ترى لغتك موجودة على كرودن؟ قم بالتواصل مع المسؤول على كرودن! إنه لشرف لنا أن نقوم بدعم لغتك."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
 msgid "Done"
-msgstr ""
+msgstr "إنهاء"
 
 #: public/views/walletHome.html:722
 msgid "Download CSV file"
-msgstr ""
+msgstr "تنزيل الملف بصيغة CSV"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "تحميل قاعدة بيانات بيتبال بأكملها"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
-msgstr ""
+msgstr "تعديل"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
