@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-14 19:20\n"
+"PO-Revision-Date: 2018-07-15 18:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -440,7 +440,7 @@ msgstr "تم التأكيد"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr ""
+msgstr "جهات الإتصال"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:391
@@ -461,11 +461,11 @@ msgstr "تعذر إنشاء مقترح الدفع"
 
 #: src/js/services/profileService.js:279
 msgid "Could not create using the specified extended private key"
-msgstr ""
+msgstr "تعذر الإنشاء عن طريق إستعمال المفتاح السري كاملا"
 
 #: src/js/services/profileService.js:289
 msgid "Could not create using the specified extended public key"
-msgstr ""
+msgstr "تعذر الإنشاء عن طريق إستعمال المفتاح العمومي كاملا"
 
 #: src/js/services/profileService.js:272
 msgid "Could not create: Invalid wallet seed"
@@ -477,7 +477,7 @@ msgstr "مشكل في فك التشفير"
 
 #: public/views/walletHome.html:621
 msgid "Could not fetch transaction history"
-msgstr ""
+msgstr "تعذر إستيراد سجل المعاملات"
 
 #: src/js/services/profileService.js:507
 #: src/js/services/profileService.js:534
