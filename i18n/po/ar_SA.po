@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-15 18:50\n"
+"PO-Revision-Date: 2018-07-15 19:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -491,56 +491,56 @@ msgstr "مشكل في الإستيراد. قم بالتحقق من الملف و
 
 #: src/js/controllers/walletHome.js:53
 msgid "Could not recognize a valid Byteball QR Code"
-msgstr ""
+msgstr "لم يتم التعرف على رمز الاستجابة السريع لبيتبال"
 
 #: src/js/controllers/walletHome.js:696
 msgid "Could not send payment"
-msgstr ""
+msgstr "لم يتم إرسال الدفع"
 
 #: src/js/controllers/correspondentDevice.js:1223
 msgid "Country"
-msgstr ""
+msgstr "البلد"
 
 #: public/views/walletHome.html:44
 msgid "Create"
-msgstr ""
+msgstr "إنشاء"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
-msgstr ""
+msgstr "إنشاء محفظة جديدة"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
 msgid "Create new wallet"
-msgstr ""
+msgstr "إنشاء محفظة جديدة"
 
 #: src/js/controllers/index.js:310
 msgid "Create new wallet  together with  ?"
-msgstr ""
+msgstr "إنشاء محفظة جديدة جنبا إلى جنب مع ؟"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr ""
+msgstr "إنشاء {{requiredCosigners}} من {{totalCosigners}} محافظ"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr ""
+msgstr "تم إنشاء:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr ""
+msgstr "إنشاء الملف الشخصي..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr ""
+msgstr "إنشاء المحفظة..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr ""
+msgstr "حذف الكلمات"
 
 #: public/views/walletHome.html:350
 msgid "Data"
-msgstr ""
+msgstr "البيانات"
 
 #: public/views/walletHome.html:347
 msgid "Data into datafeed"
