@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 22:50\n"
+"PO-Revision-Date: 2018-07-16 23:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -987,7 +987,7 @@ msgstr "ليس هناك بروفايل بعد."
 
 #: public/views/walletHome.html:624
 msgid "No transactions yet"
-msgstr ""
+msgstr "ليس هناك أي معاملة بعد"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
@@ -997,7 +997,7 @@ msgstr ""
 #: public/views/walletHome.html:416
 #: public/views/walletHome.html:550
 msgid "Not valid"
-msgstr ""
+msgstr "غير صالح"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:106
@@ -1005,7 +1005,7 @@ msgstr ""
 #: public/views/walletHome.html:470
 #: public/views/walletHome.html:687
 msgid "Note"
-msgstr ""
+msgstr "ملاحظة"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:110
