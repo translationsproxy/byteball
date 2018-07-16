@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 20:10\n"
+"PO-Revision-Date: 2018-07-16 22:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -854,15 +854,15 @@ msgstr ""
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "إدخال عنواني"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr ""
+msgstr "إدخال البروفايل الخاص"
 
 #: public/views/walletHome.html:659
 msgid "Invalid"
-msgstr ""
+msgstr "غير صحيحة"
 
 #: src/js/controllers/index.js:1631
 msgid "Invalid Touch ID"
