@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 08:10\n"
+"PO-Revision-Date: 2018-07-16 08:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -362,7 +362,7 @@ msgstr "إضغط على هذا الزر لإنشاء ملف الدفع و إرس
 
 #: public/views/walletHome.html:514
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "إضغط على هذا الزر لإنشاء الدفع و مشاركته عن طريق رسالة خاصة على تطبيق للمراسلة أو إنشاء محفظة ورقية."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -410,7 +410,7 @@ msgstr ""
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
-msgstr ""
+msgstr "ضغط الملف؟ (يتطلب وقتا أطول)"
 
 #: src/js/controllers/copayers.js:10
 #: src/js/controllers/index.js:520
@@ -424,11 +424,11 @@ msgstr "تأكيد"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr ""
+msgstr "تأكيد التصويت"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
-msgstr ""
+msgstr "تأكيد الدفع"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
@@ -695,7 +695,7 @@ msgstr ""
 
 #: public/views/walletHome.html:567
 msgid "Field"
-msgstr ""
+msgstr "النطاق"
 
 #: public/views/modals/tx-details.html:116
 msgid "Finality"
@@ -703,7 +703,7 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:1220
 msgid "First name"
-msgstr ""
+msgstr "الإسم"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -727,15 +727,15 @@ msgstr "سوف يتم تحويل المال إلى"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
-msgstr ""
+msgstr "البدئ"
 
 #: src/js/controllers/walletHome.js:420
 msgid "Generate QR Code"
-msgstr ""
+msgstr "إحداث رمز الإستجابة السريع"
 
 #: public/views/walletHome.html:303
 msgid "Generate new address"
-msgstr ""
+msgstr "إحداث عنوان جديد"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
