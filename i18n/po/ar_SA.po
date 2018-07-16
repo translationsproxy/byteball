@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 17:00\n"
+"PO-Revision-Date: 2018-07-16 17:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1022,11 +1022,11 @@ msgstr ""
 
 #: public/views/bot.html:35
 msgid "Open chat"
-msgstr ""
+msgstr "فتح الدردشة"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr ""
+msgstr "أو قم بالنسخ"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1136,11 +1136,11 @@ msgstr ""
 #: public/views/walletHome.html:190
 #: public/views/walletHome.html:47
 msgid "Preferences"
-msgstr ""
+msgstr "الإعدادات"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "أعد الضغط للخروج"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
@@ -1153,15 +1153,15 @@ msgstr ""
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "البروفيل الخاص"
 
 #: public/views/walletHome.html:349
 msgid "Profile"
-msgstr ""
+msgstr "البروفيل (الملف الشخصي)"
 
 #: public/views/walletHome.html:567
 msgid "Profile field"
-msgstr ""
+msgstr "نطاق البروفيل"
 
 #: public/views/walletHome.html:567
 msgid "Profile field value"
@@ -1177,15 +1177,15 @@ msgstr ""
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "السؤال:"
 
 #: src/js/controllers/index.js:669
 msgid "Receive"
-msgstr ""
+msgstr "الإستلام"
 
 #: public/views/walletHome.html:655
 msgid "Received"
-msgstr ""
+msgstr "مستلم"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:58
