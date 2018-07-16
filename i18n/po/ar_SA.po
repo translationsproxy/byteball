@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 23:00\n"
+"PO-Revision-Date: 2018-07-16 23:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1014,7 +1014,7 @@ msgstr ""
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr ""
+msgstr "بعد كتابة سيد محفظتك, يفضل أن تقوم بحذفه من جهازك."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
@@ -1030,11 +1030,11 @@ msgstr "أو قم بالنسخ"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
-msgstr ""
+msgstr "زوج"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr ""
+msgstr "الأجهزة المقترنة"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
@@ -1042,7 +1042,7 @@ msgstr ""
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr ""
+msgstr "المفتاح الخاص للمحفظة الورقية"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
@@ -1051,15 +1051,15 @@ msgstr ""
 
 #: src/js/services/profileService.js:672
 msgid "Password needed"
-msgstr ""
+msgstr "كلمة السر ضرورية"
 
 #: src/js/controllers/password.js:36
 msgid "Passwords do not match"
-msgstr ""
+msgstr "كلمة السر خاطئة"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr ""
+msgstr "قم بلصق المفتاح الخاص للمحفظة الورقية هنا"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
@@ -1067,15 +1067,15 @@ msgstr ""
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
-msgstr ""
+msgstr "قم بالدفع لهذا العنوان"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr ""
+msgstr "تم قبول الدفع"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
-msgstr ""
+msgstr "تم إنشاء مقترح الدفع"
 
 #: public/views/walletHome.html:211
 msgid "Payment Proposals"
