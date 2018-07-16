@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-16 00:00\n"
+"PO-Revision-Date: 2018-07-16 04:13\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -75,7 +75,7 @@ msgstr "새로운 기기 추가"
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr "새 항목 추가"
+msgstr "새로운 주소 추가"
 
 #: public/views/walletHome.html:571
 msgid "Add fields"
@@ -892,15 +892,15 @@ msgstr "언어"
 
 #: src/js/controllers/correspondentDevice.js:1221
 msgid "Last name"
-msgstr ""
+msgstr "성"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr "나중에"
+msgstr "기존 버전 사용"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr "불러오는 중..."
+msgstr "로딩중…"
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
