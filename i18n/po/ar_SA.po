@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 16:30\n"
+"PO-Revision-Date: 2018-07-16 16:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -821,7 +821,7 @@ msgstr "إن لم يقم الشخص الأخر بالدفع فبإمكاني س�
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr ""
+msgstr "إن لم يكن بإمكان المستقبل مشاهدة الدفع, فأنت بإستطاعتك"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -829,7 +829,7 @@ msgstr ""
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "إن كنت تريد إستعادة المحفظة على جهاز أخر,توقف عن إستعمالها على المحفظة الحالية بعد إنشاء النسخة الإحتياطية.لا تقم بإستنساخ المحافظ.إن كنت تريد الوصول إلى عدة أجهزة,قم بإستعمال multisig."
 
 #: public/views/import.html:40
 msgid "Import"
