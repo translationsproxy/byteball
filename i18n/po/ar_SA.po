@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 16:40\n"
+"PO-Revision-Date: 2018-07-16 16:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -825,23 +825,23 @@ msgstr "إن لم يكن بإمكان المستقبل مشاهدة الدفع, 
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "إن كنت قد نقلت هته النسخة الإحتياطية من جهاز أخر, توقف عن إستعمالها على الجهاز الأول حالا بعد إنشاء النسخة الإحتياطية. لا تقم بإستنساخ المحافظ. إن كنت تريد الدخول من عدة أجهزة, قم بإستعمال multisig."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "إن كنت تريد إستعادة المحفظة على جهاز أخر,توقف عن إستعمالها على المحفظة الحالية بعد إنشاء النسخة الإحتياطية.لا تقم بإستنساخ المحافظ.إن كنت تريد الوصول إلى عدة أجهزة,قم بإستعمال multisig."
+msgstr "إن كنت تريد إستعادة المحفظة على جهاز أخر, توقف عن إستعمالها على المحفظة الحالية بعد إنشاء النسخة الإحتياطية. لا تقم بإستنساخ المحافظ. إن كنت تريد الدخول من عدة أجهزة, قم بإستعمال multisig."
 
 #: public/views/import.html:40
 msgid "Import"
-msgstr ""
+msgstr "استيراد"
 
 #: public/views/add.html:22
 msgid "Import wallet"
-msgstr ""
+msgstr "استيراد المحفظة"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr ""
+msgstr "استيراد المحفظة..."
 
 #: public/views/walletHome.html:138
 msgid "Including pending confirmation"
@@ -886,37 +886,37 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
-msgstr ""
+msgstr "اللغة"
 
 #: src/js/controllers/correspondentDevice.js:1221
 msgid "Last name"
-msgstr ""
+msgstr "النسب"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr ""
+msgstr "فيما بعد"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr ""
+msgstr "جاري التحميل..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr ""
+msgstr "القيام بالدفع ل"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr ""
+msgstr "ربما في وقت لاحق"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:116
 #: public/views/preferencesInformation.html:76
 msgid "Me"
-msgstr ""
+msgstr "أنا"
 
 #: public/views/modals/tx-details.html:110
 msgid "Merchant message"
-msgstr ""
+msgstr "رسالة التاجر"
 
 #: public/views/walletHome.html:459
 msgid "Merkle proof"
