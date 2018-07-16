@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 22:10\n"
+"PO-Revision-Date: 2018-07-16 22:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -866,11 +866,11 @@ msgstr "غير صحيحة"
 
 #: src/js/controllers/index.js:1631
 msgid "Invalid Touch ID"
-msgstr ""
+msgstr "Touch ID غير صالح"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr ""
+msgstr "قم بدعوة الجهاز الأخر"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
