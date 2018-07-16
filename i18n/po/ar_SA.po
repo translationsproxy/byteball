@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 08:00\n"
+"PO-Revision-Date: 2018-07-16 08:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -326,15 +326,15 @@ msgstr "إختيار الملف"
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
-msgstr ""
+msgstr "إختيار البروفيل الخاص"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr ""
+msgstr "إختيار الجهاز الذي تود الإرسال إليه"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr ""
+msgstr "إختيار النطاق الذي ترغب في إرساله:"
 
 #: src/js/controllers/walletHome.js:490
 msgid "Claim funds"
@@ -350,15 +350,15 @@ msgstr ""
 
 #: public/views/walletHome.html:85
 msgid "Claiming..."
-msgstr ""
+msgstr "جاري المطالبة..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr ""
+msgstr "إضغط على زر <span ng-if=\"isResend\">أعد</span>إرسال البريد الإلكتروني:"
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create a payment file and send it to a recipient."
-msgstr ""
+msgstr "إضغط على هذا الزر لإنشاء ملف الدفع و إرساله إلى المستقبل."
 
 #: public/views/walletHome.html:514
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
