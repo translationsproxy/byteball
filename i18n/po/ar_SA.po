@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 15:30\n"
+"PO-Revision-Date: 2018-07-16 15:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -314,7 +314,7 @@ msgstr "تغيير المرجع:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr ""
+msgstr "تغيير الإسم المستعار للمحفظة سوف يؤثر فقط على إسم المحفظة المحلي."
 
 #: src/js/controllers/index.js:681
 msgid "Chat"
@@ -572,7 +572,7 @@ msgstr "فك تشفير المحفظة الورقية قد يأخد من الو�
 
 #: public/views/walletHome.html:194
 msgid "Definition"
-msgstr ""
+msgstr "التعريف"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
