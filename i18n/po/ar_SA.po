@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 16:10\n"
+"PO-Revision-Date: 2018-07-16 16:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -661,25 +661,25 @@ msgstr ""
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr ""
+msgstr "قم بإدخال كلمة السر"
 
 #: src/js/services/profileService.js:338
 #: src/js/services/profileService.js:390
 msgid "Error creating wallet"
-msgstr ""
+msgstr "تعذر إنشاء المحفظة"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "حفظ"
 
 #: src/js/controllers/export.js:136
 #: src/js/controllers/export.js:161
 msgid "Export completed successfully"
-msgstr ""
+msgstr "تم الحفظ بنجاح"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "جاري الحفظ..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
