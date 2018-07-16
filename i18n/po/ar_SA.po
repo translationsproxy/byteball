@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 23:20\n"
+"PO-Revision-Date: 2018-07-16 23:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1115,11 +1115,11 @@ msgstr "قم بوضع إسم لهذا الجهاز"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr ""
+msgstr "قم بالتحول إلى المحفظة ذات عنوان واحد و قم بإدخال عنوانك مرة أخرى."
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr ""
+msgstr "المنفذ"
 
 #: public/views/walletHome.html:540
 msgid "Post arbitrary key-value pairs of data into Byteball network."
@@ -1165,7 +1165,7 @@ msgstr "نطاق البروفيل"
 
 #: public/views/walletHome.html:567
 msgid "Profile field value"
-msgstr ""
+msgstr "قيمة نطاق البروفيل"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1328,38 +1328,38 @@ msgstr ""
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "قم بإختيار هويتك"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:496
 #: public/views/walletHome.html:586
 #: src/js/controllers/index.js:673
 msgid "Send"
-msgstr ""
+msgstr "إرسال"
 
 #: public/views/walletHome.html:334
 msgid "Send All"
-msgstr ""
+msgstr "إرسال الكل"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr ""
+msgstr "إرسال الدفع"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr ""
+msgstr "إرسال العناوين بالبريد الإلكتروني"
 
 #: public/views/walletHome.html:380
 msgid "Send all"
-msgstr ""
+msgstr "إرسال الكل"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
-msgstr ""
+msgstr "إرسال عن طريق البريد الإلكتروني"
 
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
-msgstr ""
+msgstr "إرسال هذا البروفايل"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
