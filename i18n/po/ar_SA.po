@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-16 08:30\n"
+"PO-Revision-Date: 2018-07-16 15:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -19,7 +19,7 @@ msgstr ""
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr ""
+msgstr "(الموقع لن يرى رصيدك الحالي و لن يكون بإمكانه إنفاق أي من أموالك)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
@@ -31,7 +31,7 @@ msgstr "(محفظة أخرى)"
 
 #: public/views/walletHome.html:666
 msgid "(possible double spend)"
-msgstr ""
+msgstr "(إنفاق مزدوج محتمل)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
