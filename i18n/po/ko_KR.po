@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-17 07:22\n"
+"PO-Revision-Date: 2018-07-17 08:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -250,7 +250,7 @@ msgstr "주소 보유 잔액"
 
 #: public/views/walletHome.html:241
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "자금을 받기 전에 지갑의 키를 백업하길 강력히 권장합니다."
+msgstr "자금을 받기 전에 지갑 키를 백업해 둘 것을 강력히 권장합니다."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
