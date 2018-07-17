@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-17 15:40\n"
+"PO-Revision-Date: 2018-07-17 16:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -875,7 +875,7 @@ msgstr "قم بدعوة الجهاز الأخر"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr "إن سيد(seed) المحفظة لوحده لا يكفي. بالسيد لوحده, لن تتمكن من إسترجاع المحفظة multisig و المدخرات الخاصة مثل blackbytes."
+msgstr "إن بذرة المحفظة لوحدها لا تكفي. فالبذرة وحدها, لن تتمكن من إسترجاع المحفظة multisig و المدخرات الخاصة مثل blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -1015,7 +1015,7 @@ msgstr "تقديم عقد"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr "بعد كتابة سيد محفظتك, يفضل أن تقوم بحذفه من جهازك."
+msgstr "بعد كتابة بذرة محفظتك, يفضل أن تقوم بحذفها من جهازك."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
