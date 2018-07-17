@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-17 22:50\n"
+"PO-Revision-Date: 2018-07-17 23:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1875,7 +1875,7 @@ msgstr "كلمة السر للحفظ"
 
 #: public/views/includes/password.html:18
 msgid "Your password"
-msgstr ""
+msgstr "كلمة السر الخاصة بك"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
@@ -2020,7 +2020,7 @@ msgstr ""
 
 #: public/views/modals/bind.html:60
 msgid "posted"
-msgstr ""
+msgstr "تم النشر"
 
 #: public/views/modals/tx-details.html:151
 msgid "re-send private payloads"
@@ -2032,7 +2032,7 @@ msgstr ""
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "إرسال"
 
 #: src/js/controllers/walletHome.js:773
 msgid "send email"
