@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-17 19:10\n"
+"PO-Revision-Date: 2018-07-17 20:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1508,11 +1508,11 @@ msgstr ""
 #: public/views/disclaimer.html:12
 #: public/views/preferencesAbout.html:30
 msgid "Terms of Use"
-msgstr ""
+msgstr "شروط الإستخدام"
 
 #: public/views/correspondentDevice.html:347
 msgid "Text message to"
-msgstr ""
+msgstr "إرسال رسالة إلى"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
@@ -1520,27 +1520,27 @@ msgstr ""
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
-msgstr ""
+msgstr "العنوان المعني ينتمي إلى:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr ""
+msgstr "هذا هو المرجع الذي يستعمل من أجل إستقبال الرسائل من أجهزة أخرى."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr ""
+msgstr "إن المرجع يقترح تغيير الشهود التالية أسمائهم:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr ""
+msgstr "إن المال مخزن في هذه الtextcoin:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "المتلقي سيتوصل بالمال في حالة"
 
 #: public/views/modals/signed-message.html:28
 msgid "The signature is"
-msgstr ""
+msgstr "التوقيع هو"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
