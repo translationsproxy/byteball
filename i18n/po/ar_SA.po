@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-17 19:00\n"
+"PO-Revision-Date: 2018-07-17 19:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2056,15 +2056,15 @@ msgstr "شارك مرة أخرى"
 
 #: public/views/walletHome.html:446
 msgid "switch to multi-address"
-msgstr ""
+msgstr "قم بالتبديل إلى متعدد العناوين"
 
 #: public/views/walletHome.html:445
 msgid "switch to single address"
-msgstr ""
+msgstr "قم بالتبديل إلى عنوان واحد"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
-msgstr ""
+msgstr "النص أدناه وإرساله إلى المستلم عبر أي تطبيق مراسلاتي"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
@@ -2077,7 +2077,7 @@ msgstr "طويل جدا!"
 
 #: public/views/modals/signed-message.html:30
 msgid "valid"
-msgstr ""
+msgstr "صالحة"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
