@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-17 16:00\n"
+"PO-Revision-Date: 2018-07-17 17:28\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -921,7 +921,7 @@ msgstr "رسالة التاجر"
 
 #: public/views/walletHome.html:459
 msgid "Merkle proof"
-msgstr ""
+msgstr "دليل ميركيل"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
@@ -2036,7 +2036,7 @@ msgstr ""
 
 #: src/js/controllers/walletHome.js:773
 msgid "send email"
-msgstr ""
+msgstr "ارسل بريد الكتروني"
 
 #: src/js/controllers/walletHome.js:1087
 #: src/js/controllers/walletHome.js:1142
@@ -2048,7 +2048,7 @@ msgstr ""
 #: src/js/controllers/walletHome.js:955
 #: src/js/controllers/walletHome.js:991
 msgid "sending"
-msgstr ""
+msgstr "جاري الارسال"
 
 #: public/views/modals/tx-details.html:145
 msgid "share again"
