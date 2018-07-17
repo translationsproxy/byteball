@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2018-07-17 17:40\n"
+"PO-Revision-Date: 2018-07-17 17:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -27,7 +27,7 @@ msgstr "(bieżący portfel)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other wallet)"
-msgstr ""
+msgstr "(mój inny portfel)"
 
 #: public/views/walletHome.html:666
 msgid "(possible double spend)"
@@ -198,7 +198,7 @@ msgstr "Poświadczony przez:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr ""
+msgstr "Adresy poświadczającego"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -284,7 +284,7 @@ msgstr "Niewspierana przeglądarka"
 
 #: public/index.html:12
 msgid "Byteball &mdash; smart payments"
-msgstr ""
+msgstr "Byteball &mdash; inteligentne płatności"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
@@ -350,7 +350,7 @@ msgstr "Odbierz środki przy użyciu textcoin"
 
 #: public/views/walletHome.html:85
 msgid "Claiming..."
-msgstr ""
+msgstr "Pobieranie..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
@@ -358,7 +358,7 @@ msgstr "Kliknij przycisk, aby <span ng-if=\"isResend\"> ponownie</span> wysłać
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create a payment file and send it to a recipient."
-msgstr ""
+msgstr "Kliknij ten przycisk, aby utworzyć plik płatności i wysłać go do adresata."
 
 #: public/views/walletHome.html:514
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
@@ -548,11 +548,11 @@ msgstr "Dane w źródle danych"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed name"
-msgstr ""
+msgstr "Nazwa źródła danych"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed value"
-msgstr ""
+msgstr "Wartość źródła danych"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
@@ -695,7 +695,7 @@ msgstr "Prowizja"
 
 #: public/views/walletHome.html:567
 msgid "Field"
-msgstr ""
+msgstr "Pole"
 
 #: public/views/modals/tx-details.html:116
 msgid "Finality"
@@ -930,7 +930,7 @@ msgstr "Wiadomość"
 #: public/views/modals/sign-message.html:17
 #: public/views/modals/signed-message.html:17
 msgid "Message:"
-msgstr ""
+msgstr "Wiadomość:"
 
 #: public/views/walletHome.html:658
 msgid "Moved"
@@ -1162,11 +1162,11 @@ msgstr "Profil"
 
 #: public/views/walletHome.html:567
 msgid "Profile field"
-msgstr ""
+msgstr "Pole profilu"
 
 #: public/views/walletHome.html:567
 msgid "Profile field value"
-msgstr ""
+msgstr "Wartość pola profilu"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1418,24 +1418,24 @@ msgstr "Pokaż słowa źródłowe portfela mimo to"
 
 #: public/views/modals/sign-message.html:46
 msgid "Sign"
-msgstr ""
+msgstr "Podpisz"
 
 #: public/views/modals/sign-message.html:8
 msgid "Sign message"
-msgstr ""
+msgstr "Podpisz wiadomość"
 
 #: src/js/controllers/index.js:407
 msgid "Sign message \"\" by address ?"
-msgstr ""
+msgstr "Podpisać wiadomość \"\" adresem?"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
-msgstr ""
+msgstr "Podpisana wiadomość"
 
 #: public/views/modals/sign-message.html:22
 #: public/views/modals/signed-message.html:22
 msgid "Signing address:"
-msgstr ""
+msgstr "Adres podpisu:"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
@@ -1540,7 +1540,7 @@ msgstr "Kontrahent otrzyma tę płatność, gdy"
 
 #: public/views/modals/signed-message.html:28
 msgid "The signature is"
-msgstr ""
+msgstr "Podpis jest"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -1716,7 +1716,7 @@ msgstr "Uaktualnianie bazy danych, proszę czekać.  Czasami zajmuje to kilka mi
 
 #: public/views/walletHome.html:567
 msgid "Value"
-msgstr ""
+msgstr "Wartość"
 
 #: public/views/walletHome.html:560
 msgid "Values"
