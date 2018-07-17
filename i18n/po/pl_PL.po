@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2018-06-22T09:23:58+0000\n"
+"PO-Revision-Date: 2018-07-17 17:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1909,7 +1909,7 @@ msgstr "i usuń textcoin, aby zabezpieczyć go przed atakami hackerów."
 
 #: public/views/walletHome.html:567
 msgid "available"
-msgstr ""
+msgstr "dostępne"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1933,7 +1933,7 @@ msgstr "wyczyść historię czatu"
 
 #: public/views/walletHome.html:567
 msgid "confirmed"
-msgstr ""
+msgstr "potwierdzone"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1982,7 +1982,7 @@ msgstr "w inteligentnych portfelach"
 
 #: public/views/modals/signed-message.html:29
 msgid "invalid"
-msgstr ""
+msgstr "niepoprawne"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
@@ -2077,7 +2077,7 @@ msgstr "za długie!"
 
 #: public/views/modals/signed-message.html:30
 msgid "valid"
-msgstr ""
+msgstr "poprawne"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
