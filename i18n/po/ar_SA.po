@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-17 12:50\n"
+"PO-Revision-Date: 2018-07-17 14:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1039,7 +1039,7 @@ msgstr "الأجهزة المقترنة"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "كود الإقتران"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
@@ -1064,7 +1064,7 @@ msgstr "قم بلصق المفتاح الخاص للمحفظة الورقية ه
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr ""
+msgstr "الدفع و العرض"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
@@ -1108,7 +1108,7 @@ msgstr "قم بإختيار كمية البيانات التي تريد تخزي
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
-msgstr ""
+msgstr "المرجو ملئ كافة النطاقات المطلوبة"
 
 #: public/views/splash.html:82
 msgid "Please name this device"
@@ -1249,11 +1249,11 @@ msgstr "قم بطلب كلمة المرور"
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:312
 msgid "Request a specific amount"
-msgstr ""
+msgstr "قم بطلب مبلغ معين"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr ""
+msgstr "طلب الدفع"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
@@ -1265,11 +1265,11 @@ msgstr ""
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr ""
+msgstr "إعادة المحاولة..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
-msgstr ""
+msgstr "التطبيق"
 
 #: public/views/editCorrespondentDevice.html:41
 #: public/views/modals/destination-address.html:132
@@ -1372,7 +1372,7 @@ msgstr "إرسال..."
 
 #: public/views/walletHome.html:657
 msgid "Sent"
-msgstr ""
+msgstr "أرسلت"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
