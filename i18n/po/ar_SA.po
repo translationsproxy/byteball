@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-17 14:20\n"
+"PO-Revision-Date: 2018-07-17 14:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -487,7 +487,7 @@ msgstr "مشكل في الإستيراد"
 
 #: src/js/services/profileService.js:484
 msgid "Could not import. Check input file and password"
-msgstr "مشكل في الإستيراد. قم بالتحقق من الملف و كلمة السر"
+msgstr "مشكل في الإستيراد. قم بالتحقق من الملف وكلمة السر"
 
 #: src/js/controllers/walletHome.js:53
 msgid "Could not recognize a valid Byteball QR Code"
@@ -1380,37 +1380,37 @@ msgstr ""
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "تحديد كلمة السر"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr ""
+msgstr "تحديد كلمة السر"
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "الإعدادات"
 
 #: public/views/modals/share.html:17
 msgid "Share"
-msgstr ""
+msgstr "مشاركة"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:290
 msgid "Share address"
-msgstr ""
+msgstr "مشاركة العنوان"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "مشاركة عنوان هذه المحفظة من أجل إستلام الدفع."
 
 #: public/views/walletHome.html:395
 #: public/views/walletHome.html:516
 msgid "Share via message"
-msgstr ""
+msgstr "مشاركة عن طريق رسالة"
 
 #: public/views/walletHome.html:714
 msgid "Show all"
-msgstr ""
+msgstr "إظهار الكل"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
@@ -1418,19 +1418,19 @@ msgstr ""
 
 #: public/views/modals/sign-message.html:46
 msgid "Sign"
-msgstr ""
+msgstr "التوقيع"
 
 #: public/views/modals/sign-message.html:8
 msgid "Sign message"
-msgstr ""
+msgstr "توقيع الرسالة"
 
 #: src/js/controllers/index.js:407
 msgid "Sign message \"\" by address ?"
-msgstr ""
+msgstr "توقيع الرسالة \"\" عن طريق العنوان ؟"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
-msgstr ""
+msgstr "تم توقيع الرسالة"
 
 #: public/views/modals/sign-message.html:22
 #: public/views/modals/signed-message.html:22
@@ -1440,7 +1440,7 @@ msgstr ""
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "محفظة ذات عنوان واحد"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
@@ -1462,11 +1462,11 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:100
 msgid "Still not done"
-msgstr ""
+msgstr "لم ينجز العمل بعد"
 
 #: src/js/controllers/correspondentDevice.js:1269
 msgid "Store"
-msgstr ""
+msgstr "المتجر"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:136
@@ -1477,7 +1477,7 @@ msgstr ""
 #: src/js/controllers/walletHome.js:1783
 #: src/js/controllers/walletHome.js:1857
 msgid "Success"
-msgstr ""
+msgstr "تم بنجاح"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
@@ -1581,11 +1581,11 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
-msgstr ""
+msgstr "هذا الدفع يجب أن يتم فقط عن طريق المحفظة ذات عنوان واحد"
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr ""
+msgstr "هذا الدفع لم يعد ممكنا نظرا لإحتمال وجود إنفاق مزدوج."
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
