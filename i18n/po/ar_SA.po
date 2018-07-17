@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-17 14:41\n"
+"PO-Revision-Date: 2018-07-17 15:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -649,7 +649,7 @@ msgstr "تعديل"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr "يبدو أن تسجيل سجل المحادثات لديك أو لدى {{correspondent.name}} معطل.التسجيل غير محفوظ لدى كلاكما."
+msgstr "يبدو أن تسجيل سجل المحادثات لديك أو لدى {{correspondent.name}} معطل. التسجيل غير محفوظ لدى كلاكما."
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -812,7 +812,7 @@ msgstr ""
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr "إن لم يتحقق الشرط ,يمكنني سحب مالي فيما بعد"
+msgstr "إن لم يتحقق الشرط, يمكنني سحب مالي فيما بعد"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
@@ -821,7 +821,7 @@ msgstr "إن لم يقم الشخص الأخر بالدفع فبإمكاني س�
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr "إن لم يكن بإمكان المستقبل مشاهدة الدفع, فأنت بإستطاعتك"
+msgstr "إن لم يكن بإمكان المتلقي مشاهدة الدفع, فأنت بإستطاعتك"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
