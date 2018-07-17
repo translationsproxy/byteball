@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2018-07-17 17:50\n"
+"PO-Revision-Date: 2018-07-17 18:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -97,7 +97,7 @@ msgstr "Adres"
 
 #: public/views/walletHome.html:545
 msgid "Address to attest"
-msgstr "Adres do poświadczenia"
+msgstr "Adres poświadczenia"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
