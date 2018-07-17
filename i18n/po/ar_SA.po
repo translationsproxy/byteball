@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-17 15:20\n"
+"PO-Revision-Date: 2018-07-17 15:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -850,8 +850,8 @@ msgstr ""
 #: public/views/walletHome.html:640
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr "إن مزامنة تاريخ المعاملات الأولي قد يتطلب بعضا من الوقت بالنسبة للمحافظ ذات عدد كبير من المعاملات.<br>\n"
-"          المرجو الإنتضار."
+msgstr "إن مزامنة تاريخ المعاملات الأولي قد يتطلب بعضا من الوقت بالنسبة للمحافظ ذات العدد الكبير من المعاملات.<br>\n"
+"المرجو الإنتضار."
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
@@ -879,7 +879,7 @@ msgstr "إن سيد(seed) المحفظة لوحده لا يكفي. بالسيد 
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr "قم بالإبقاء فقط على البيانات ذات أهمية لك"
+msgstr "قم فقط بالإبقاء على البيانات المهمة لك"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
@@ -903,7 +903,7 @@ msgstr "جاري التحميل..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr "القيام بالدفع ل"
+msgstr "القيام بالدفع لـ"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
@@ -934,7 +934,7 @@ msgstr "الرسالة:"
 
 #: public/views/walletHome.html:658
 msgid "Moved"
-msgstr "ثم النقل"
+msgstr "تم النقل"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
