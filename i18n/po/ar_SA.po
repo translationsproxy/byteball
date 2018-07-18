@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 22:20\n"
+"PO-Revision-Date: 2018-07-18 22:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -683,7 +683,7 @@ msgstr "جاري الحفظ..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr ""
+msgstr "المفاتيح العامة كاملة"
 
 #: public/views/export.html:25
 msgid "Failed to export"
@@ -800,7 +800,7 @@ msgstr "رقم التعريف"
 
 #: src/js/controllers/correspondentDevice.js:1227
 msgid "ID subtype"
-msgstr ""
+msgstr "النوع الفرعي للتعريف"
 
 #: src/js/controllers/correspondentDevice.js:1226
 msgid "ID type"
@@ -1124,7 +1124,7 @@ msgstr "المنفذ"
 
 #: public/views/walletHome.html:540
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "قم بنشر قيم للمفاتيح بشكل عشوائي على شبكة البيتبال."
 
 #: public/views/walletHome.html:531
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1215,7 +1215,7 @@ msgstr "تم الرفض"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr ""
+msgstr "معلومات حول الإصدار"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
@@ -1445,7 +1445,7 @@ msgstr "محفظة ذات عنوان واحد"
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "المحافظ ذات عنوان واحد لن تقوم بوضع عناوين جديدة لكل معاملة، التغيير سوف يمس فقط العناوين الموجودة بالمحفظة."
 
 #: src/js/services/profileService.js:332
 msgid "Small Expenses Wallet"
@@ -1481,11 +1481,11 @@ msgstr "تم بنجاح"
 
 #: public/views/paperWallet.html:64
 msgid "Sweep Wallet"
-msgstr ""
+msgstr "تطهير المحفظة"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr ""
+msgstr "تطهير المحفظة الورقية"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
@@ -1999,7 +1999,7 @@ msgstr "لم يتم المطالبة بها"
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "في إسم المستجدات"
 
 #: public/views/walletHome.html:460
 #: public/views/walletHome.html:471
