@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 20:50\n"
+"PO-Revision-Date: 2018-07-18 21:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1655,7 +1655,7 @@ msgstr "المبلغ الإجمالي"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr ""
+msgstr "إجمالي عدد المشتركين"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
@@ -1692,11 +1692,11 @@ msgstr "غير مؤكدة"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr ""
+msgstr "وحدة من الblackbytes"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr ""
+msgstr "وحدة من الbytes"
 
 #: public/views/walletHome.html:212
 msgid "Unsent transactions"
