@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-17 08:30\n"
+"PO-Revision-Date: 2018-07-18 09:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -27,7 +27,7 @@ msgstr "(현재 지갑)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other wallet)"
-msgstr ""
+msgstr "(나의 다른 지갑)"
 
 #: public/views/walletHome.html:666
 msgid "(possible double spend)"
@@ -97,7 +97,7 @@ msgstr "주소"
 
 #: public/views/walletHome.html:545
 msgid "Address to attest"
-msgstr "입증할 주소"
+msgstr "인증하려는 주소"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -110,7 +110,7 @@ msgstr "고급 설정"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr "그것을 쓴다음, 이 트랜잭션을 찾으십시오."
+msgstr "별도로 기록한 다음 이곳에서 이 트랜잭션을 찾으세요."
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -163,16 +163,16 @@ msgstr "답변:"
 
 #: public/views/copayers.html:19
 msgid "Approve wallet creation on other devices"
-msgstr "다른 장치에서의 지갑 생성에 승인"
+msgstr "다른 장치에서 지갑 생성하기 승인"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
-msgstr "정말로 백업 단어를 삭제 하시겠습니까?"
+msgstr "백업 단어를 삭제하시겠습니까?"
 
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this wallet?"
-msgstr "정말로 지갑을 삭제하시겠습니까?"
+msgstr "이 지갑을 삭제하시겠습니까?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
