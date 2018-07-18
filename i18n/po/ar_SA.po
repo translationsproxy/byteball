@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 12:40\n"
+"PO-Revision-Date: 2018-07-18 14:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1532,7 +1532,7 @@ msgstr "إن المرجع يقترح تغيير الشهود التالية أس
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr "إن المال مخزن في هذه الtextcoin:"
+msgstr "إن المال مخزن في هذه الـtextcoin:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
