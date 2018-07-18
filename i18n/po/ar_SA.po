@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 15:00\n"
+"PO-Revision-Date: 2018-07-18 17:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -715,7 +715,7 @@ msgstr "العنوان الكامل:"
 
 #: public/views/preferencesGlobal.html:122
 msgid "Full backup"
-msgstr ""
+msgstr "نسخة احتياطية كاملة"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
