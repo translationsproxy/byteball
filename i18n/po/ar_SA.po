@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 12:35\n"
+"PO-Revision-Date: 2018-07-18 12:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2012,7 +2012,7 @@ msgstr "أو"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "أو قم بنسخ احتياطي لجميع بيانات الByteball في"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
