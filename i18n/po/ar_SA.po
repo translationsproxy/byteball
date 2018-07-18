@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 20:30\n"
+"PO-Revision-Date: 2018-07-18 20:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -97,7 +97,7 @@ msgstr "العنوان"
 
 #: public/views/walletHome.html:545
 msgid "Address to attest"
-msgstr ""
+msgstr "العناوين التي يجب تأكيدها"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -146,7 +146,7 @@ msgstr "كما ستجد في قائمة الإعدادات خيارات أمان
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr ""
+msgstr "و لا تنسى أن تقوم بحذف الseed الخاص بك"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -230,7 +230,7 @@ msgstr "قم بحفض نسخة احتياطية"
 
 #: public/views/preferencesGlobal.html:104
 msgid "Backup wallet seed"
-msgstr ""
+msgstr "seed المحفظة الإحتياطية"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -390,15 +390,15 @@ msgstr "إغلاق"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
-msgstr ""
+msgstr "المشارك {{$index+1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr ""
+msgstr "المشاركين"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr ""
+msgstr "المشاركين في الmultisig"
 
 #: public/views/preferences.html:29
 msgid "Color"
