@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 22:00\n"
+"PO-Revision-Date: 2018-07-18 22:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -776,11 +776,11 @@ msgstr "المضيف / Host"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr ""
+msgstr "المرجع"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr ""
+msgstr "رابط المرجع"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
@@ -1048,7 +1048,7 @@ msgstr "المفتاح الخاص للمحفظة الورقية"
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
-msgstr ""
+msgstr "جملة المرور"
 
 #: src/js/services/profileService.js:672
 msgid "Password needed"
@@ -1092,7 +1092,7 @@ msgstr "تم إرسال الدفع"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "المتلقي:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
@@ -1203,7 +1203,7 @@ msgstr "إسترجاع"
 
 #: public/views/preferencesGlobal.html:113
 msgid "Recovery from seed"
-msgstr ""
+msgstr "الإسترجاع من الseed"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1325,7 +1325,7 @@ msgstr "قم بإختيار محفظة"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr ""
+msgstr "قم بإختيار المحفظة الثانوية"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1376,7 +1376,7 @@ msgstr "أرسلت"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr ""
+msgstr "سجل الدخول و الخروج"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
@@ -1458,7 +1458,7 @@ msgstr "تحديد الseed..."
 #: public/views/preferences.html:63
 #: public/views/preferencesGlobal.html:86
 msgid "Spending Restrictions"
-msgstr ""
+msgstr "القيود على الإنفاق"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Still not done"
@@ -1753,7 +1753,7 @@ msgstr "مرحبا بك في بيتبال"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
-msgstr ""
+msgstr "جاري إنتظار المشاركين"
 
 #: public/views/copayers.html:33
 msgid "Waiting..."
@@ -1794,7 +1794,7 @@ msgstr "إسم المحفظة"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
-msgstr ""
+msgstr "Seed المحفظة غير متوفر."
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
