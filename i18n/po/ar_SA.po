@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 11:30\n"
+"PO-Revision-Date: 2018-07-18 11:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1573,7 +1573,7 @@ msgstr "هذا الخيار لا يمكن تغييره فيما بعد"
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "هذا الخيار هو أحسن لخصوصيتك لكنه يتطلب مساحة كبيرة للتخزين و المزامنة قد تتطلب بضعة أيام. كما أن وحدة المعالجة المركزية ستشتغل بكثرة خلال المزامنة."
 
 #: public/views/walletHome.html:440
 msgid "This payment is bound to a condition"
@@ -1606,7 +1606,7 @@ msgstr "هذه المحفظة لا يمكن أن تتحول إلى محفظة أ
 #: public/views/import.html:57
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
-msgstr ""
+msgstr "هذا سينتج عنه حذف كل المحافظ الموجودة!"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
