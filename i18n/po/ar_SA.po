@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 14:40\n"
+"PO-Revision-Date: 2018-07-18 14:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -592,7 +592,7 @@ msgstr "حذف المحفظة"
 
 #: src/js/controllers/walletHome.js:1709
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr "إن قمت بحذف الtextcoin فلن تتمكن من المطالبة به من جديد أو إعادة إرساله"
+msgstr "إن قمت بحذف الـ textcoin فلن تتمكن من المطالبة به من جديد أو إعادة إرساله"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -1573,7 +1573,7 @@ msgstr "هذا الخيار لا يمكن تغييره فيما بعد"
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr "هذا الخيار هو أحسن لخصوصيتك لكنه يتطلب مساحة كبيرة للتخزين و المزامنة قد تتطلب بضعة أيام. كما أن وحدة المعالجة المركزية ستشتغل بكثرة خلال المزامنة."
+msgstr "هذا الخيار هو أحسن لخصوصيتك لكنه يتطلب مساحة كبيرة للتخزين والمزامنة قد تتطلب بضعة أيام. كما أن المعالج سيشتغل بكثرة أثناء عملية المزامنة."
 
 #: public/views/walletHome.html:440
 msgid "This payment is bound to a condition"
@@ -1663,11 +1663,11 @@ msgstr "المعاملة"
 
 #: public/views/walletHome.html:646
 msgid "Transactions<br> Downloaded"
-msgstr ""
+msgstr "تم تحميل <br> المعاملات"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
-msgstr ""
+msgstr "قائمة المترجمين"
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
@@ -1811,7 +1811,7 @@ msgstr ""
 
 #: public/views/walletHome.html:343
 msgid "What to send"
-msgstr ""
+msgstr "ما الذي يجب إرساله"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:111
@@ -1821,7 +1821,7 @@ msgstr ""
 #: public/views/walletHome.html:509
 #: public/views/walletHome.html:578
 msgid "Who signs:"
-msgstr ""
+msgstr "من الذي يجب أن يوقع:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
@@ -1917,7 +1917,7 @@ msgstr "يمكن فتح العقد"
 
 #: public/views/modals/offer-contract.html:106
 msgid "can unlock the contract after it expires in"
-msgstr "يمكنه فتح العقد بعد انتهاء صلاحيته"
+msgstr "يمكنه فتح العقد بعد انتهاء صلاحيته في"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -2103,11 +2103,11 @@ msgstr ""
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
-msgstr "{cancel_label || 'Cancel'}"
+msgstr "{{cancel_label || 'Cancel'}}"
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
-msgstr "{confirm_label || 'Yes'}"
+msgstr "{{confirm_label || 'Yes'}}"
 
 #: src/js/controllers/walletHome.js:1898
 msgid "{{fee}} will be deducted for bitcoin networking fees"
