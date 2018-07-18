@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 17:50\n"
+"PO-Revision-Date: 2018-07-18 20:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr ""
+msgstr "تبويبة ‘الإستلام‘ ⟵ المطالبة بالرصيد عن طريق زر الtextcoin."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -75,7 +75,7 @@ msgstr "أضف جهاز أخر"
 #: public/views/modals/destination-address.html:106
 #: public/views/modals/destination-address.html:99
 msgid "Add a new entry"
-msgstr ""
+msgstr "أضف جهة إتصال جديدة"
 
 #: public/views/walletHome.html:571
 msgid "Add fields"
@@ -110,7 +110,7 @@ msgstr "خيارات متقدمة"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "بعد كتابتها في مكان أمن, يمكنك العثور على هذه المعاملة في"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -180,7 +180,7 @@ msgstr "الممتلكات"
 
 #: public/views/walletHome.html:534
 msgid "Attest profile data linked to any Byteball address."
-msgstr ""
+msgstr "قم بالتحقق من بيانات بروفايل جميع عناوين البيتبال."
 
 #: public/views/walletHome.html:348
 msgid "Attestation"
@@ -189,12 +189,12 @@ msgstr "شهادة"
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr ""
+msgstr "العناوين الصحيحة:"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "مفحوصة من طرف:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
