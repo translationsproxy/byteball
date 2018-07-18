@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 21:40\n"
+"PO-Revision-Date: 2018-07-18 22:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -35,7 +35,7 @@ msgstr "(إنفاق مزدوج محتمل)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- قم بإختيار المشارك--"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
@@ -198,7 +198,7 @@ msgstr "مفحوصة من طرف:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr ""
+msgstr "عنوان المدقق"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -406,7 +406,7 @@ msgstr "اللون"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr ""
+msgstr "تنفيذ الهاش"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
@@ -544,15 +544,15 @@ msgstr "البيانات"
 
 #: public/views/walletHome.html:347
 msgid "Data into datafeed"
-msgstr ""
+msgstr "البيانات على سجل المستجدات"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed name"
-msgstr ""
+msgstr "إسم سجل المستجدات"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed value"
-msgstr ""
+msgstr "قيم سجل المستجدات"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
@@ -596,7 +596,7 @@ msgstr "إن قمت بحذف الـ textcoin فلن تتمكن من المطال
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
-msgstr ""
+msgstr "إستراتجية الإشتقاق"
 
 #: public/views/modals/customized-amount.html:29
 #: public/views/modals/multi-payment.html:17
@@ -699,7 +699,7 @@ msgstr "النطاق"
 
 #: public/views/modals/tx-details.html:116
 msgid "Finality"
-msgstr ""
+msgstr "النهائي"
 
 #: src/js/controllers/correspondentDevice.js:1220
 msgid "First name"
@@ -759,7 +759,7 @@ msgstr "المحفظة المادية"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr ""
+msgstr "إخفاء seed المحفظة"
 
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:677
