@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 14:30\n"
+"PO-Revision-Date: 2018-07-18 14:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -657,7 +657,7 @@ msgstr "السماح بإظهار التنبيهات"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr ""
+msgstr "قم بإدخال كود الإقتران الذي تلقيته من الجهاز الأخر, أو قم باستعمال الكاميرا (الأيقونة في الأعلى على اليمين) من أجل مسح رمز الإستجابة السريع الذي يوجد على الجهاز الأخر."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
@@ -747,7 +747,7 @@ msgstr "الحصول على عنوان للمحفظة {{selectedWalletName}}..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "الإعدادت العامة"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
@@ -755,7 +755,7 @@ msgstr "الرجوع"
 
 #: public/views/preferences.html:51
 msgid "Hardware wallet"
-msgstr ""
+msgstr "المحفظة المادية"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -772,7 +772,7 @@ msgstr "الرئيسية"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr ""
+msgstr "المضيف / Host"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
@@ -792,11 +792,11 @@ msgstr ""
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "أتلقى دفعا أخر من"
 
 #: src/js/controllers/correspondentDevice.js:1225
 msgid "ID number"
-msgstr ""
+msgstr "رقم التعريف"
 
 #: src/js/controllers/correspondentDevice.js:1227
 msgid "ID subtype"
@@ -804,7 +804,7 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:1226
 msgid "ID type"
-msgstr ""
+msgstr "نوع التعريف"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
@@ -1207,7 +1207,7 @@ msgstr ""
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr ""
+msgstr "إعادة إنشاء المحفظة..."
 
 #: src/js/controllers/index.js:228
 msgid "Refused"
@@ -1577,7 +1577,7 @@ msgstr "هذا الخيار هو أحسن لخصوصيتك لكنه يتطلب �
 
 #: public/views/walletHome.html:440
 msgid "This payment is bound to a condition"
-msgstr ""
+msgstr "إن هذا الدفع ملزم بشرط"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
@@ -1619,7 +1619,7 @@ msgstr "إلى"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr ""
+msgstr "من أجل أن تقوم باسترجاع كل شيئ, قم بإنشاء نسخة إحتياطية كاملة(ستجد هذا الخيار في القائمة)"
 
 #: public/views/walletHome.html:597
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
@@ -1833,7 +1833,7 @@ msgstr "الشهود"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr "قم بالإحتفاظ بهذا الtextcoin على ورقة في مكان أمن. وقم بالمطالبة به وقتما شئت باستعمال"
+msgstr "قم بالإحتفاظ بهذا الـ textcoin على ورقة في مكان آمن. وقم بالمطالبة به وقتما شئت باستعمال"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1957,7 +1957,7 @@ msgstr "وفي كلتا الحالتين"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr "محو الtextcoin"
+msgstr "محو الـ textcoin"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
@@ -2012,7 +2012,7 @@ msgstr "أو"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr "أو قم بنسخ احتياطي لجميع بيانات الByteball في"
+msgstr "أو قم بنسخ احتياطي لجميع بيانات الـ Byteball في"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
@@ -2056,11 +2056,11 @@ msgstr "شارك مرة أخرى"
 
 #: public/views/walletHome.html:446
 msgid "switch to multi-address"
-msgstr "قم بالتبديل إلى متعدد العناوين"
+msgstr "قم بالتغيير إلى متعدد العناوين"
 
 #: public/views/walletHome.html:445
 msgid "switch to single address"
-msgstr "قم بالتبديل إلى عنوان واحد"
+msgstr "قم بالتغيير إلى عنوان واحد"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2089,7 +2089,7 @@ msgstr "مع القيمة المتوقعة"
 
 #: public/views/modals/bind.html:58
 msgid "with expected value of"
-msgstr "مع القيمة المتوقعة ل"
+msgstr "مع القيمة المتوقعة لـ"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
