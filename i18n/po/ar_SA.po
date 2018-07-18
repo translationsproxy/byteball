@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 17:40\n"
+"PO-Revision-Date: 2018-07-18 17:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -176,7 +176,7 @@ msgstr "هل ترغب فعلا في حذف هذه المحفظة؟"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr ""
+msgstr "الممتلكات"
 
 #: public/views/walletHome.html:534
 msgid "Attest profile data linked to any Byteball address."
@@ -254,7 +254,7 @@ msgstr "قبل أن تقوم بإستقبال المال, يفضل أن تقوم
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "و من الأفضل أن تستعمل المحفظة multisig عدة مرات"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
@@ -268,7 +268,7 @@ msgstr "ربط الدفع مع شروط"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr ""
+msgstr "عنوان البتكوين خاطئ!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
@@ -1132,7 +1132,7 @@ msgstr ""
 
 #: public/views/walletHome.html:537
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "قم بوضع بيانات حول بروفايلك, أكتب أي شيئ تريد حول نفسك."
 
 #: public/views/walletHome.html:190
 #: public/views/walletHome.html:47
@@ -1145,7 +1145,7 @@ msgstr "أعد الضغط للخروج"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "الممتلكات الخاصة(مثل blackbytes) لايمكن إسترجاعها."
 
 #: src/js/controllers/walletHome.js:1783
 #: src/js/controllers/walletHome.js:1857
@@ -1195,7 +1195,7 @@ msgstr "المستلمين"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
-msgstr ""
+msgstr "إعادة الإتصال بخدمة المحفظة..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
