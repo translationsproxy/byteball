@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 20:00\n"
+"PO-Revision-Date: 2018-07-18 20:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -453,7 +453,7 @@ msgstr "نسخ"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr ""
+msgstr "تعذر إسترجاع المراسلين."
 
 #: src/js/controllers/walletHome.js:696
 msgid "Could not create payment proposal"
@@ -619,11 +619,11 @@ msgstr "إسم الجهاز سيكون مرئياً للأجهزة الأخرى 
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr ""
+msgstr "لا تقم باستنساخ المحافظ, توقف عن استعمال المحفظة الأصلية مع هذا الseed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "لا تقم باستعماله لإستنساخ المحفظة."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
