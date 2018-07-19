@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2018-07-19 12:10\n"
+"PO-Revision-Date: 2018-07-19 12:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -362,7 +362,7 @@ msgstr "Натисніть цю кнопку, щоб створити файл �
 
 #: public/views/walletHome.html:514
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "Натисніть цю кнопку, щоб створити платіж та поділиться ним через приватні повідомлення у додатку або створити паперовий гаманець."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -520,7 +520,7 @@ msgstr "Створити новий гаманець разом з?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr ""
+msgstr "Створити {{requiredCosigners}}- 3 -{{totalCosigners}} гаманців"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -568,11 +568,11 @@ msgstr "Відхилено"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr ""
+msgstr "Дешифрування паперового гаманець може зайняти близько 5 хвилин на цьому пристрої. Будь ласка, будьте терплячі і залишити додаток відкритим."
 
 #: public/views/walletHome.html:194
 msgid "Definition"
-msgstr ""
+msgstr "Визначення"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -743,7 +743,7 @@ msgstr ""
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
-msgstr ""
+msgstr "Отримання адреси для гаманця {{selectedWalletName}}..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
@@ -784,7 +784,7 @@ msgstr ""
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
-msgstr ""
+msgstr "Я підтверджую, що я прочитав, зрозумів і згодний з цими умовами."
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
@@ -792,7 +792,7 @@ msgstr ""
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Я отримую інший платіж з"
 
 #: src/js/controllers/correspondentDevice.js:1225
 msgid "ID number"
@@ -837,11 +837,11 @@ msgstr ""
 
 #: public/views/add.html:22
 msgid "Import wallet"
-msgstr ""
+msgstr "Імпорт гаманця"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr ""
+msgstr "Імпортування гаманця..."
 
 #: public/views/walletHome.html:138
 msgid "Including pending confirmation"
@@ -854,11 +854,11 @@ msgstr ""
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "Вставити мій адрес"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr ""
+msgstr "Вставити приватний профіль"
 
 #: public/views/walletHome.html:659
 msgid "Invalid"
