@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-19 08:30\n"
+"PO-Revision-Date: 2018-07-19 08:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -825,11 +825,11 @@ msgstr ""
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "이 백업 파일을 다른 기기에서 가져왔다면, 백업으로 지갑을 복구하고 나면 기존 기기에 설치된 앱은 즉각 사용을 중지해야 합니다. 복제된 지갑을 만들지 마세요.  여러 기기에서 지갑을 이용하고 싶다면 다중 서명 지갑을 사용하세요."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "다른 기기에서 지갑을 복구할 계획이라면 백업을 이용해 지갑을 복구하고 나면 이 기기에 설치된 앱은 즉각 사용을 중지해야 합니다. 복제된 지갑을 만들지 마세요. 여러 기기에서 지갑을 이용하고 싶다면 다중 서명 지갑을 사용하세요."
 
 #: public/views/import.html:40
 msgid "Import"
