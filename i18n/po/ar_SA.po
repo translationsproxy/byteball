@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-18 22:30\n"
+"PO-Revision-Date: 2018-07-19 11:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr "تبويبة ‘الإستلام‘ ⟵ المطالبة بالرصيد عن طريق زر الtextcoin."
+msgstr "تبويبة ‘الإستلام‘ ⟵ المطالبة بالرصيد عن طريق زر الـ textcoin."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
