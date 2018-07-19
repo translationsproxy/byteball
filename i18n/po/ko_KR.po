@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-19 05:50\n"
+"PO-Revision-Date: 2018-07-19 08:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -110,7 +110,7 @@ msgstr "고급 설정"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr "별도로 기록한 다음 이곳에서 이 트랜잭션을 찾으세요."
+msgstr "텍스트코인 정보를 별도로 기록한 후 이곳에서 트랜잭션을 확인할 수 있습니다"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -812,11 +812,11 @@ msgstr ""
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "조건이 충족되지 않으면, 이후에 이 돈을 돌려 받을 수 있습니다."
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "상대방이 결제하지 않으면 이후에 내 돈을 돌려받을 수 있습니다"
 
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
