@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-19 12:30\n"
+"PO-Revision-Date: 2018-07-19 12:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -146,7 +146,7 @@ msgstr "كما ستجد في قائمة الإعدادات خيارات أمان
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr "و لا تنسى أن تقوم بحذف الseed الخاص بك"
+msgstr "و لا تنسى أن تقوم بحذف الـ seed الخاص بك"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -619,7 +619,7 @@ msgstr "إسم الجهاز سيكون مرئياً للأجهزة الأخرى 
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr "لا تقم باستنساخ المحافظ, توقف عن استعمال المحفظة الأصلية مع هذا الseed."
+msgstr "لا تقم باستنساخ المحافظ, توقف عن استعمال المحفظة الأصلية مع هذا الـ seed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
@@ -875,7 +875,7 @@ msgstr "قم بدعوة الجهاز الأخر"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr "إن بذرة المحفظة(كلمات الأمان) لوحدها لا تكفي. فالبذرة وحدها, لن تتمكن من إسترجاع المحفظة multisig و المدخرات الخاصة مثل blackbytes."
+msgstr "إن seed المحفظة(كلمات الأمان) لوحدها لا تكفي. فـ seed وحدها, لن تتمكن من إسترجاع المحفظة multisig و المدخرات الخاصة مثل blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -1203,7 +1203,7 @@ msgstr "إسترجاع"
 
 #: public/views/preferencesGlobal.html:113
 msgid "Recovery from seed"
-msgstr "الإسترجاع من الseed"
+msgstr "الإسترجاع من الـ seed"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1453,7 +1453,7 @@ msgstr "المحفظة ذات النفقات الصغيرة"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr "تحديد الseed..."
+msgstr "تحديد الـ seed..."
 
 #: public/views/preferences.html:63
 #: public/views/preferencesGlobal.html:86
