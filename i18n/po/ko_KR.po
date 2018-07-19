@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-19 05:30\n"
+"PO-Revision-Date: 2018-07-19 05:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -764,7 +764,7 @@ msgstr "지갑 씨앗 숨김"
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:677
 msgid "History"
-msgstr "내역"
+msgstr "거래내역"
 
 #: src/js/controllers/index.js:665
 msgid "Home"
@@ -1930,7 +1930,7 @@ msgstr "{{btx.claimedByMe?'me':'수신자'|translate}}로 요청 되었습니다
 
 #: public/views/editCorrespondentDevice.html:49
 msgid "clear chat history"
-msgstr "채팅 기록 삭제"
+msgstr "채팅 내역 삭제"
 
 #: public/views/walletHome.html:567
 msgid "confirmed"
