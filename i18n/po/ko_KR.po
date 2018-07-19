@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-19 09:00\n"
+"PO-Revision-Date: 2018-07-19 14:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2033,11 +2033,11 @@ msgstr ""
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "보내기"
 
 #: src/js/controllers/walletHome.js:773
 msgid "send email"
-msgstr ""
+msgstr "이메일 보내기"
 
 #: src/js/controllers/walletHome.js:1087
 #: src/js/controllers/walletHome.js:1142
@@ -2053,15 +2053,15 @@ msgstr "보내기"
 
 #: public/views/modals/tx-details.html:145
 msgid "share again"
-msgstr ""
+msgstr "다시 공유하기"
 
 #: public/views/walletHome.html:446
 msgid "switch to multi-address"
-msgstr ""
+msgstr "다중 주소 입력 모드로 전환"
 
 #: public/views/walletHome.html:445
 msgid "switch to single address"
-msgstr ""
+msgstr "단일 주소 입력 모드로 전환"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2104,7 +2104,7 @@ msgstr ""
 
 #: public/views/modals/confirmation.html:11
 msgid "{{cancel_label || 'Cancel'}}"
-msgstr ""
+msgstr "{{cancel_label || '취소'}}"
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
@@ -2112,7 +2112,7 @@ msgstr "{{confirm_label || '네'}}"
 
 #: src/js/controllers/walletHome.js:1898
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr ""
+msgstr "{{fee}} 만큼의 비트코인 네트워킹 수수료가 공제됩니다."
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
@@ -2129,5 +2129,5 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr ""
+msgstr "{{prefGlobal.torEnabled?'활성화':'비활성화'}}"
 
