@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2018-06-22T09:24:32+0000\n"
+"PO-Revision-Date: 2018-07-19 12:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -142,7 +142,7 @@ msgstr "Також"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
-msgstr ""
+msgstr "Також у меню Параметри, ви знайдете параметри безпеки, такі як встановлення паролю."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -358,7 +358,7 @@ msgstr "Натисніть на кнопку <span ng-if=\"isResend\">повто
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create a payment file and send it to a recipient."
-msgstr ""
+msgstr "Натисніть цю кнопку, щоб створити файл оплати та надіслати його одержувачу."
 
 #: public/views/walletHome.html:514
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
@@ -645,7 +645,7 @@ msgstr ""
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
-msgstr ""
+msgstr "Редагувати"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
@@ -653,7 +653,7 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr ""
+msgstr "Увімкнути push сповіщення"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
@@ -661,41 +661,41 @@ msgstr ""
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr ""
+msgstr "Введіть Ваш пароль"
 
 #: src/js/services/profileService.js:338
 #: src/js/services/profileService.js:390
 msgid "Error creating wallet"
-msgstr ""
+msgstr "Помилка створення гаманця"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "Експортувати"
 
 #: src/js/controllers/export.js:136
 #: src/js/controllers/export.js:161
 msgid "Export completed successfully"
-msgstr ""
+msgstr "Експорт успішно закінчений"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "Експортування..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr ""
+msgstr "Розширений публічний ключ"
 
 #: public/views/export.html:25
 msgid "Failed to export"
-msgstr ""
+msgstr "Не вдалось експортувати"
 
 #: public/views/modals/tx-details.html:98
 msgid "Fee"
-msgstr ""
+msgstr "Комісія"
 
 #: public/views/walletHome.html:567
 msgid "Field"
-msgstr ""
+msgstr "Поле"
 
 #: public/views/modals/tx-details.html:116
 msgid "Finality"
@@ -703,19 +703,19 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:1220
 msgid "First name"
-msgstr ""
+msgstr "Ім'я"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
-msgstr ""
+msgstr "Від"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
-msgstr ""
+msgstr "Повна адреса:"
 
 #: public/views/preferencesGlobal.html:122
 msgid "Full backup"
-msgstr ""
+msgstr "Повне резервне копіювання"
 
 #: public/views/paperWallet.html:58
 msgid "Funds found"
