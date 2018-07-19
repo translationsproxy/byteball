@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-19 12:00\n"
+"PO-Revision-Date: 2018-07-19 12:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -398,7 +398,7 @@ msgstr "المشاركين"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr "المشاركين في الmultisig"
+msgstr "المشاركين في الـ multisig"
 
 #: public/views/preferences.html:29
 msgid "Color"
@@ -1019,7 +1019,7 @@ msgstr "بعد تدوين بذرة(كلمات الأمان) محفظتك, يفض
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr "فقط يمكنك إسترجاع المحفظات ذات توقيع واحد."
+msgstr "يمكنك فقط إسترجاع المَحَافِظ ذات التوقيع الواحد."
 
 #: public/views/bot.html:35
 msgid "Open chat"
@@ -1445,7 +1445,7 @@ msgstr "محفظة ذات عنوان واحد"
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr "المحافظ ذات عنوان واحد لن تقوم بوضع عناوين جديدة لكل معاملة، التغيير سوف يمس فقط العناوين الموجودة بالمحفظة."
+msgstr "المحافظ ذات عنوان واحد لن تقوم بوضع عناوين جديدة لكل معاملة، التغيير سوف يمس فقط العناوين الموجودة في المحفظة."
 
 #: src/js/services/profileService.js:332
 msgid "Small Expenses Wallet"
@@ -1692,11 +1692,11 @@ msgstr "غير مؤكدة"
 
 #: public/views/preferencesGlobal.html:53
 msgid "Unit for blackbytes"
-msgstr "وحدة من الblackbytes"
+msgstr "وحدة من الـ blackbytes"
 
 #: public/views/preferencesGlobal.html:46
 msgid "Unit for bytes"
-msgstr "وحدة من الbytes"
+msgstr "وحدة من الـ bytes"
 
 #: public/views/walletHome.html:212
 msgid "Unsent transactions"
