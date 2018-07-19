@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-19 05:10\n"
+"PO-Revision-Date: 2018-07-19 05:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -410,7 +410,7 @@ msgstr "커밋 해시"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
-msgstr "파일을 압축하시겠습니까?(더 느립니다.)"
+msgstr "파일을 압축하시겠습니까?(약간의 시간 필요)"
 
 #: src/js/controllers/copayers.js:10
 #: src/js/controllers/index.js:520
@@ -420,11 +420,11 @@ msgstr "파일을 압축하시겠습니까?(더 느립니다.)"
 #: src/js/controllers/walletHome.js:1716
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
-msgstr "확인하기"
+msgstr "확인"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr "보트 확인해 주십시오."
+msgstr "투표 확인"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
@@ -432,11 +432,11 @@ msgstr "결제 확인"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr "보트 확인해 주십시오."
+msgstr "투표 확인"
 
 #: public/views/modals/tx-details.html:121
 msgid "Confirmed"
-msgstr "확인됨."
+msgstr "확인됨"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
@@ -845,7 +845,7 @@ msgstr "지갑 가져오는 중..."
 
 #: public/views/walletHome.html:138
 msgid "Including pending confirmation"
-msgstr "지연 중인 컨펌 포함하기"
+msgstr "확인 보류 중 포함"
 
 #: public/views/walletHome.html:640
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
@@ -1934,7 +1934,7 @@ msgstr "채팅 기록 삭제"
 
 #: public/views/walletHome.html:567
 msgid "confirmed"
-msgstr ""
+msgstr "확인됨"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -2108,7 +2108,7 @@ msgstr ""
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
-msgstr ""
+msgstr "{{confirm_label || '네'}}"
 
 #: src/js/controllers/walletHome.js:1898
 msgid "{{fee}} will be deducted for bitcoin networking fees"
