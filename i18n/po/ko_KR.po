@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-19 01:20\n"
+"PO-Revision-Date: 2018-07-19 01:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -254,7 +254,7 @@ msgstr "자금을 받기 전에 지갑 키를 백업해 둘 것을 강력히 권
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr "더 좋은건, 여분의 다른 지급을 사용하십시오."
+msgstr "더 좋은 선택은 좀 더 유연하게 관리할 수 있는 다중 서명 지갑을 사용하는 것입니다."
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
@@ -264,7 +264,7 @@ msgstr "결제 연결하기"
 #: public/views/walletHome.html:439
 #: public/views/walletHome.html:452
 msgid "Bind the payment to a condition"
-msgstr "조건부로 지불 묶어두기"
+msgstr "조건부 계약과 결제 연결하기"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
