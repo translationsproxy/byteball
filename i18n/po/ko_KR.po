@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-07-19 14:20\n"
+"PO-Revision-Date: 2018-07-19 14:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -856,11 +856,11 @@ msgstr "초기 거래 내역을 동기화 하는데 지갑에 많은 트랜잭�
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr "나의 주소 넣기"
+msgstr "내 주소 삽입"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr "개인 프로필 입력"
+msgstr "개인 프로필 삽입"
 
 #: public/views/walletHome.html:659
 msgid "Invalid"
@@ -931,7 +931,7 @@ msgstr "메시지"
 #: public/views/modals/sign-message.html:17
 #: public/views/modals/signed-message.html:17
 msgid "Message:"
-msgstr ""
+msgstr "메시지:"
 
 #: public/views/walletHome.html:658
 msgid "Moved"
@@ -951,7 +951,7 @@ msgstr "나의 기록 기본 설정"
 
 #: public/views/modals/destination-address.html:121
 msgid "Name of the contact"
-msgstr ""
+msgstr "계약 이름"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
@@ -985,7 +985,7 @@ msgstr ""
 
 #: public/views/modals/choose-profile.html:68
 msgid "No profiles yet."
-msgstr ""
+msgstr "아직 프로필이 없습니다."
 
 #: public/views/walletHome.html:624
 msgid "No transactions yet"
@@ -1040,7 +1040,7 @@ msgstr "페어링 된 장치"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr ""
+msgstr "페어링 코드"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
@@ -1069,7 +1069,7 @@ msgstr "지불 및 제공"
 
 #: src/js/services/correspondentListService.js:110
 msgid "Pay to this address"
-msgstr ""
+msgstr "이 주소에 지급하기"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
@@ -1105,7 +1105,7 @@ msgstr "일반 지갑"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr ""
+msgstr "지갑에 저장할 데이터 양을 선택하세요."
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
@@ -1117,7 +1117,7 @@ msgstr "장치 이름을 입력 바랍니다."
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr ""
+msgstr "단일 주소 지갑으로 전환해서 내 주소를 다시 삽입해주세요."
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1159,15 +1159,15 @@ msgstr ""
 
 #: public/views/walletHome.html:349
 msgid "Profile"
-msgstr ""
+msgstr "프로필"
 
 #: public/views/walletHome.html:567
 msgid "Profile field"
-msgstr ""
+msgstr "프로필 필드"
 
 #: public/views/walletHome.html:567
 msgid "Profile field value"
-msgstr ""
+msgstr "프로필 필드 값"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1179,7 +1179,7 @@ msgstr "QR스캐너"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "질문:"
 
 #: src/js/controllers/index.js:669
 msgid "Receive"
@@ -1419,11 +1419,11 @@ msgstr "어쨌든 지갑 주소 보여주기"
 
 #: public/views/modals/sign-message.html:46
 msgid "Sign"
-msgstr ""
+msgstr "서명"
 
 #: public/views/modals/sign-message.html:8
 msgid "Sign message"
-msgstr ""
+msgstr "메시지 서명하기"
 
 #: src/js/controllers/index.js:407
 msgid "Sign message \"\" by address ?"
