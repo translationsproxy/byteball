@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2018-07-19 19:30\n"
+"PO-Revision-Date: 2018-07-19 19:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -584,11 +584,11 @@ msgstr ""
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
-msgstr ""
+msgstr "Видалити гаманець"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete wallet"
-msgstr ""
+msgstr "Видалення гаманця"
 
 #: src/js/controllers/walletHome.js:1709
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
@@ -1654,11 +1654,11 @@ msgstr ""
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
-msgstr ""
+msgstr "Загальна кількість співвласників"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
-msgstr ""
+msgstr "Транзакція"
 
 #: public/views/walletHome.html:646
 msgid "Transactions<br> Downloaded"
@@ -1756,15 +1756,15 @@ msgstr ""
 
 #: public/views/copayers.html:33
 msgid "Waiting..."
-msgstr ""
+msgstr "Очікування..."
 
 #: public/views/preferencesDeleteWallet.html:12
 msgid "Wallet"
-msgstr ""
+msgstr "Гаманець"
 
 #: public/views/preferences.html:20
 msgid "Wallet Alias"
-msgstr ""
+msgstr "Назва гаманця"
 
 #: public/views/preferencesInformation.html:27
 msgid "Wallet Configuration (m-n)"
@@ -1772,24 +1772,24 @@ msgstr ""
 
 #: public/views/preferencesInformation.html:20
 msgid "Wallet Id"
-msgstr ""
+msgstr "Id Гаманця"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
 msgid "Wallet Information"
-msgstr ""
+msgstr "Інформація про гаманець"
 
 #: public/views/preferencesInformation.html:12
 msgid "Wallet Name (at creation)"
-msgstr ""
+msgstr "Назва гаманця (при створенні)"
 
 #: src/js/services/profileService.js:453
 msgid "Wallet already in Byteball:"
-msgstr ""
+msgstr "Гаманець вже у Byteball:"
 
 #: public/views/create.html:48
 msgid "Wallet name"
-msgstr ""
+msgstr "Ім'я гаманця"
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
@@ -1798,11 +1798,11 @@ msgstr ""
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Wallets"
-msgstr ""
+msgstr "Гаманці"
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
-msgstr ""
+msgstr "Попередження!"
 
 #: public/views/modals/tx-details.html:129
 msgid "Was claimed?"
@@ -1845,7 +1845,7 @@ msgstr ""
 #: public/views/authConfirmation.html:17
 #: src/js/controllers/index.js:518
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
@@ -1874,7 +1874,7 @@ msgstr ""
 
 #: public/views/includes/password.html:18
 msgid "Your password"
-msgstr ""
+msgstr "Ваш пароль"
 
 #: public/views/import.html:31
 msgid "Your wallet file:"
@@ -1896,7 +1896,7 @@ msgstr ""
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
 msgid "amount"
-msgstr ""
+msgstr "сума"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
@@ -1908,7 +1908,7 @@ msgstr ""
 
 #: public/views/walletHome.html:567
 msgid "available"
-msgstr ""
+msgstr "доступно"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
