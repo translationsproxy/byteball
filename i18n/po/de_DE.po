@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-07-22 13:00\n"
+"PO-Revision-Date: 2018-07-22 13:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -198,7 +198,7 @@ msgstr "Bestätigt von:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr "Adresse des Begläubigers"
+msgstr "Adresse des Beglaubigers"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
