@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-07-22 19:50\n"
+"PO-Revision-Date: 2018-07-22 20:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -548,11 +548,11 @@ msgstr "البيانات على سجل المستجدات"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed name"
-msgstr "إسم سجل المستجدات"
+msgstr "إسم عملية التحديث"
 
 #: public/views/walletHome.html:567
 msgid "Datafeed value"
-msgstr "قيم عمليات التحديث"
+msgstr "قيم عملية التحديث"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
