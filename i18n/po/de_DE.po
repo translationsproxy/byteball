@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-07-24 13:07\n"
+"PO-Revision-Date: 2018-07-24 13:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -259,12 +259,12 @@ msgstr "Besser noch, verwenden Sie MultiSig Wallets mit Redundanz,"
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr "Zahlungsbedingungen"
+msgstr "Zahlungsmodalitäten"
 
 #: public/views/walletHome.html:439
 #: public/views/walletHome.html:452
 msgid "Bind the payment to a condition"
-msgstr "Zahlung an Bedingung binden"
+msgstr "Zahlung an eine Bedingung binden"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -284,7 +284,7 @@ msgstr "Der eingesetzte Browser wird nicht unterstützt"
 
 #: public/index.html:12
 msgid "Byteball &mdash; smart payments"
-msgstr "Byteball &mdash; smart payments"
+msgstr "Byteball &mdash; smarte Zahlungsmethoden"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
@@ -292,12 +292,12 @@ msgstr "Byteball Adresse"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr "Abbrechen"
+msgstr "ABBRECHEN"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr "Weiter"
+msgstr "WEITER"
 
 #: public/views/modals/destination-address.html:127
 #: public/views/walletHome.html:493
@@ -350,7 +350,7 @@ msgstr "Gelder durch Textcoin beanspruchen"
 
 #: public/views/walletHome.html:85
 msgid "Claiming..."
-msgstr "Fordern..."
+msgstr "Einfordern..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
@@ -358,7 +358,7 @@ msgstr "Klicke den Button, um die Email <span ng-if=\"isResend\">erneut </span> 
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create a payment file and send it to a recipient."
-msgstr "Pressen Sie diese Taste um eine Zahlungsunterlage zu erstellen und an einen Empfänger zu senden."
+msgstr "Klicken Sie auf diese Schaltfläche, um eine Zahlungsdatei zu erstellen und an einen Empfänger zu senden."
 
 #: public/views/walletHome.html:514
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
