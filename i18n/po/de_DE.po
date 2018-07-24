@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-07-24 13:30\n"
+"PO-Revision-Date: 2018-07-24 13:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1127,11 +1127,11 @@ msgstr "Senden von willkürlichen Schlüssel-Wert-Paaren in das Byteball Netzwer
 
 #: public/views/walletHome.html:531
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr "Manuelles Senden von Werten als Datenquelle, sei ein Orakel."
+msgstr "Manuelles Senden von Werten in Daten-Feeds, seien Sie ein Orakel."
 
 #: public/views/walletHome.html:537
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr "Sende deine Profildaten, alles was du über dich selbst sagen willst."
+msgstr "Senden Sie Ihre Profildaten, alles was Sie über sich selbst sagen möchten."
 
 #: public/views/walletHome.html:190
 #: public/views/walletHome.html:47
@@ -1214,7 +1214,7 @@ msgstr "Abgelehnt"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr "Release-Informationen"
+msgstr "Informationen veröffentlichen"
 
 #: public/views/modals/destination-address.html:84
 msgid "Remove"
@@ -1222,7 +1222,7 @@ msgstr "Entfernen"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr "Geräte entfernen"
+msgstr "Gerät entfernen"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
@@ -1260,7 +1260,7 @@ msgstr "Erforderliche Anzahl an Signaturen"
 
 #: public/views/preferencesGlobal.html:131
 msgid "Restore from full backup"
-msgstr "Backup wiederherstellen"
+msgstr "Wiederherstellen aus dem Komplett-Backup"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
@@ -1304,7 +1304,7 @@ msgstr "Scannen Sie den obigen QR-Code mit Ihrem anderen Gerät oder senden Sie 
 
 #: src/js/controllers/index.js:1624
 msgid "Scan your fingerprint please"
-msgstr "Scanne bitte deinen Fingerabdruck"
+msgstr "Scannen Sie bitte Ihren Fingerabdruck"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
@@ -1324,7 +1324,7 @@ msgstr "Wallet wählen"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr "Selektiere Unter-Wallet"
+msgstr "Sub-Wallet wählen"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1400,7 +1400,7 @@ msgstr "Adresse teilen"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
-msgstr "Nutzen Sie diese Adresse um Zahlungen zu erhalten."
+msgstr "Teilen Sie diese Adresse, um Zahlungen zu erhalten."
 
 #: public/views/walletHome.html:395
 #: public/views/walletHome.html:516
@@ -1413,7 +1413,7 @@ msgstr "Zeige alles"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr "Wallet-Seed anzeigen"
+msgstr "Wallet-Seed trotzdem anzeigen"
 
 #: public/views/modals/sign-message.html:46
 msgid "Sign"
@@ -1439,20 +1439,20 @@ msgstr "Unterzeichnungs-Adresse:"
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr "Wallet mit Einzeladdresse"
+msgstr "Single-Address-Wallet"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr "Wallets mit Einzeladdressen werden keine neue Addressen für jede Transaktion erzeugen, Wechselbeträge werden immer zu dieser alleinigen Addresse gesendet."
+msgstr "Single-Address-Wallets werden keine neue Adressen für jede Transaktion erzeugen, Wechselbeträge werden immer zu dieser alleinigen Adresse gesendet."
 
 #: src/js/services/profileService.js:332
 msgid "Small Expenses Wallet"
-msgstr "Standard Wallet"
+msgstr "Standard-Wallet"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr "Spezifischer Seed"
+msgstr "Seed festlegen..."
 
 #: public/views/preferences.html:63
 #: public/views/preferencesGlobal.html:86
@@ -1484,7 +1484,7 @@ msgstr "Wallet löschen"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr "Paperwallet reinigen"
+msgstr "Paper-Wallet löschen"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
@@ -1543,12 +1543,12 @@ msgstr "Die Unterschrift ist"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr "Die Abstimmung wird von allen deinen Adressen bestätigt"
+msgstr "Die Abstimmung wird von allen Ihren finanzierten Adressen bestätigt"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The wallet \"{{walletName}}\" was deleted"
-msgstr "Wallet \"{{walletName}}\" wurde gelöscht"
+msgstr "Das Wallet \"{{walletName}}\" wurde gelöscht"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
@@ -1580,11 +1580,11 @@ msgstr "Diese Zahlung ist an eine Bedingung gebunden"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
-msgstr "Diese Zahlung darf nur von einer Single-Address Wallet gemacht werden"
+msgstr "Diese Zahlung darf nur von einem Single-Address-Wallet gemacht werden"
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr "Diese Transaktion ist ungültig; dies kann durch eine versuchte Doppelzahlung verursacht worden sein."
+msgstr "Diese Transaktion ist ungültig geworden; dies kann durch eine versuchte Doppelzahlung verursacht worden sein."
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
@@ -1592,7 +1592,7 @@ msgstr "Diese Wallet kann nicht in ein Multi-Address-Wallet konvertiert werden, 
 
 #: public/views/preferences.html:41
 msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
-msgstr "Diese Wallet kann nicht in ein Multi-Address-Wallet konvertiert werden, da es ein Multidevice Wallet ist"
+msgstr "Dieses Wallet kann nicht in ein Multi-Address-Wallet konvertiert werden, da es Multidevice-Wallet ist"
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
