@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-07-24 13:21\n"
+"PO-Revision-Date: 2018-07-24 13:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -808,11 +808,11 @@ msgstr "Ausweistyp"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
-msgstr "Wenn eines Ihrer Cosigner Geräte diese Zahlung nicht sieht, können Sie"
+msgstr "Wenn eines Ihrer Mitunterzeichner-Geräte diese Zahlung nicht sieht, können Sie"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr "Wenn die Bedingung nicht erfüllt wird, kann ich den Einsatz zurücknehmen."
+msgstr "Wenn die Bedingung nicht erfüllt wird, kann ich das Geld danach zurücknehmen"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
@@ -825,11 +825,11 @@ msgstr "Wenn der Empfänger Ihre Zahlung nicht sehen kann, können Sie"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Wenn Sie dieses Backup von einem anderen Gerät haben, benutzen Sie das andere Gerät ab sofort nicht mehr nachdem Sie das Backup erstellt haben. Kopieren Sie niemals eine Wallet. Wenn Sie Zugang von verschiedenen Geräten brauchen, benutzen Sie MultiSig."
+msgstr "Wenn Sie dieses Backup von einem anderen Gerät übertragen haben, hören Sie sofort nach dem Erstellen des Backups auf, dieses auf dem Originalgerät zu verwenden. Klonen Sie niemals Wallets. Wenn Sie Zugriff über mehrere Geräte benötigen, verwenden Sie MultiSig."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Wenn Sie vorhaben, diese Wallet auf einem anderen Gerät wiederherzustellen, benutzen Sie diese Wallet auf diesem Gerät nach der Erstellung des Backups nicht mehr. Kopieren Sie niemals eine Wallet. Wenn Sie Zugriff von verschiedenen Geräten brauchen, benutzen Sie MultiSig."
+msgstr "Wenn Sie planen, das Wallet auf einem anderen Gerät wiederherzustellen, hören Sie sofort nach der Erstellung des Backups auf, es auf dem aktuellen Gerät zu verwenden. Klonen Sie niemals Wallets. Wenn Sie Zugriff über mehrere Geräte benötigen, verwenden Sie MultiSig."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -878,7 +878,7 @@ msgstr "Der Wallet-Seed allein reicht nicht aus, um etwa Multisig-Wallets oder p
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr "Behalte nur für dich wichtige Informationen"
+msgstr "Nur für Sie relevante Daten aufbewahren"
 
 #: public/views/modals/destination-address.html:120
 msgid "Label"
@@ -983,11 +983,11 @@ msgstr "Keine Profile entsprechen den gewünschten Kriterien."
 
 #: public/views/modals/choose-profile.html:68
 msgid "No profiles yet."
-msgstr "Keine Profile vorhanden."
+msgstr "Noch keine Profile vorhanden."
 
 #: public/views/walletHome.html:624
 msgid "No transactions yet"
-msgstr "Keine Transaktionen vorhanden"
+msgstr "Noch keine Transaktionen vorhanden"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
@@ -1026,7 +1026,7 @@ msgstr "Öffne Chat"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr "Oder kopieren"
+msgstr "Oder kopieren Sie"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1038,11 +1038,11 @@ msgstr "Verbundene Geräte"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
-msgstr "Kopplungs-Code"
+msgstr "Verknüpfungscode"
 
 #: public/views/paperWallet.html:30
 msgid "Paper Wallet Private Key"
-msgstr "Privater Schlüssel des Papier-Wallets"
+msgstr "Privater Schlüssel des Paper-Wallets"
 
 #: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
@@ -1059,7 +1059,7 @@ msgstr "Passwörter stimmen nicht überein"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr "Privaten Schlüssel des Paperwallets hier einfügen"
+msgstr "Privaten Schlüssel des Paper-Wallets hier einfügen"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
@@ -1103,19 +1103,19 @@ msgstr "Standard Wallet"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr "Bitte wähle, welche Menge an Daten du in deiner Wallet speichern willst"
+msgstr "Bitte wählen Sie, welche Menge an Daten Sie in Ihrem Wallet speichern möchten"
 
 #: src/js/controllers/create.js:97
 msgid "Please enter the required fields"
-msgstr "Bitte die benötigten Felder ausfüllen"
+msgstr "Bitte füllen Sie die benötigten Felder aus"
 
 #: public/views/splash.html:82
 msgid "Please name this device"
-msgstr "Vergeben Sie einen Name für das Gerät"
+msgstr "Bitte geben Sie dem Gerät einen Namen"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr "Bitte wechseln Sie zu einem Single-Address Wallet. Die Eingabe Ihrer Adresse ist wahrscheinlich erneut erforderlich."
+msgstr "Bitte wechseln Sie zu einem Single-Address-Wallet. Die Eingabe Ihrer Adresse ist wahrscheinlich erneut erforderlich."
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1123,7 +1123,7 @@ msgstr "Port"
 
 #: public/views/walletHome.html:540
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr "Senden von Schlüssel-Wert Paaren in das Byteball Netzwerk."
+msgstr "Senden von willkürlichen Schlüssel-Wert-Paaren in das Byteball Netzwerk."
 
 #: public/views/walletHome.html:531
 msgid "Post values into datafeeds manually, be an oracle."
