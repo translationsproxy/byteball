@@ -11,23 +11,23 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-07-23 02:00\n"
+"PO-Revision-Date: 2018-07-24 13:07\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr "‘Empfangen’ -> Button ‘Textcoin einlösen’."
+msgstr "‘Empfangen’-Tab → ‘Gelder mittels Textcoin einlösen '-Button."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr "(Diese Seite sieht nicht dein Guthaben und kein Geld wird überwiesen.)"
+msgstr "(Diese Seite wird Ihr Guthaben nicht sehen und kein Geld wird ausgegeben)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr "(aktuelle Wallet)"
+msgstr "(aktuelles Wallet)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other wallet)"
-msgstr "(meine anderes Wallet)"
+msgstr "(mein anderes Wallet)"
 
 #: public/views/walletHome.html:666
 msgid "(possible double spend)"
@@ -110,7 +110,7 @@ msgstr "Erweitert"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr "Nach dem Sie diese aufgeschrieben haben, finden Sie diese Transaktion in"
+msgstr "Nachdem Sie diese aufgeschrieben haben, finden Sie die Transaktion in"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -126,7 +126,7 @@ msgstr "Alle Adressen dieses Wallets"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr "Beiträge zur Byteball Übersetzung sind gern willkommen. Meldet euch bei crowdin.com an und tretet dem Byteball Projekt bei."
+msgstr "Sämtliche Beiträge zur Übersetzung von Byteball sind willkommen. Melden Sie sich auf crowdin.com an und treten Sie dem Byteball Projekt bei"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -176,11 +176,11 @@ msgstr "Soll das Wallet wirklich gelöscht werden?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr "Einheit"
+msgstr "Guthaben"
 
 #: public/views/walletHome.html:534
 msgid "Attest profile data linked to any Byteball address."
-msgstr "Beglaubigung/Bestätigung von Profildaten, die mit einer Byteball Addresse verbunden/verlinkt sind."
+msgstr "Bestätigung von Profildaten, die mit einer Byteball-Adresse verlinkt sind."
 
 #: public/views/walletHome.html:348
 msgid "Attestation"
@@ -198,7 +198,7 @@ msgstr "Bestätigt von:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr "Adresse des Beglaubigers"
+msgstr "Gutachteradressen"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -238,11 +238,11 @@ msgstr "Sicherungsworte gelöscht"
 
 #: public/views/preferencesGlobal.html:94
 msgid "Backups"
-msgstr "Sicherheitskopie"
+msgstr "Sicherheitskopien"
 
 #: src/js/controllers/correspondentDevice.js:1252
 msgid "Bad profile"
-msgstr "Defektes Profil"
+msgstr "Ungültiges Profil"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -250,11 +250,11 @@ msgstr "Guthaben nach Adresse"
 
 #: public/views/walletHome.html:241
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "Bevor Beträge empfangen werden, wird dringend empfohlen die Wallet Schlüssel zu sichern."
+msgstr "Bevor Gelder empfangen werden, wird dringend empfohlen die Wallet-Schlüssel zu sichern."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr "Besser noch, verwenden Sie Multisig Brieftaschen mit Redundanz,"
+msgstr "Besser noch, verwenden Sie MultiSig Wallets mit Redundanz,"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
