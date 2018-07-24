@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-07-24 13:10\n"
+"PO-Revision-Date: 2018-07-24 13:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -250,7 +250,7 @@ msgstr "Guthaben nach Adresse"
 
 #: public/views/walletHome.html:241
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "Bevor Gelder empfangen werden, wird dringend empfohlen die Wallet-Schlüssel zu sichern."
+msgstr "Bevor Beträge empfangen werden, wird dringend empfohlen die Wallet-Schlüssel zu sichern."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -362,7 +362,7 @@ msgstr "Klicken Sie auf diese Schaltfläche, um eine Zahlungsdatei zu erstellen 
 
 #: public/views/walletHome.html:514
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr "Klicken Sie diesen Button um eine Zahlung zu erstellen welche Sie per Chatnachricht teilen können oder um ein Paper Wallet zu erzeugen."
+msgstr "Klicken Sie diesen Button, um eine Zahlung zu erstellen, welche Sie via Privatnachricht in Chat-Apps teilen können, oder um ein Paper-Wallet zu erstellen."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -398,7 +398,7 @@ msgstr "Mitunterzeichner"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr "Mitunterzeichner bei Mehrfachsignaturen"
+msgstr "Mitunterzeichner für MultiSig"
 
 #: public/views/preferences.html:29
 msgid "Color"
@@ -453,23 +453,23 @@ msgstr "Kopieren"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr "Chatteilnehmer werden nicht wiederhergestellt."
+msgstr "Korrespondenten werden nicht wiederhergestellt."
 
 #: src/js/controllers/walletHome.js:696
 msgid "Could not create payment proposal"
-msgstr "Es kann kein Zahlungsvorschlag erzeugt werden"
+msgstr "Zahlungsvorschlag konnte nicht erstellt werden"
 
 #: src/js/services/profileService.js:279
 msgid "Could not create using the specified extended private key"
-msgstr "Erzeugung mit dem erweiterten privaten Schlüssel nicht möglich"
+msgstr "Erstellung mit dem angegebenen erweiterten privaten Schlüssel nicht möglich"
 
 #: src/js/services/profileService.js:289
 msgid "Could not create using the specified extended public key"
-msgstr "Erzeugung mit dem angegebenen erweiterten öffentlichen Schlüssel nicht möglich"
+msgstr "Erstellung mit dem angegebenen erweiterten öffentlichen Schlüssel nicht möglich"
 
 #: src/js/services/profileService.js:272
 msgid "Could not create: Invalid wallet seed"
-msgstr "Erzeugung nicht möglich: Ungültiger Wallet-Seed"
+msgstr "Erstellung nicht möglich: Ungültiger Wallet-Seed"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
@@ -487,7 +487,7 @@ msgstr "Import nicht möglich"
 
 #: src/js/services/profileService.js:484
 msgid "Could not import. Check input file and password"
-msgstr "Import nicht möglich. Bitte Datei und Passwort überprüfen"
+msgstr "Import nicht möglich. Bitte Eingabedatei und Passwort überprüfen"
 
 #: src/js/controllers/walletHome.js:53
 msgid "Could not recognize a valid Byteball QR Code"
@@ -568,7 +568,7 @@ msgstr "Abgelehnt"
 
 #: public/views/paperWallet.html:40
 msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr "Das Entschlüsseln eines Paperwallets kann auf diesem Gerät bis zu 5 Minuten dauern. Bitte abwarten und die App nicht beenden."
+msgstr "Das Entschlüsseln eines Paper-Wallets kann auf diesem Gerät bis zu 5 Minuten dauern. Bitte haben Sie Geduld und lassen Sie die App geöffnet."
 
 #: public/views/walletHome.html:194
 msgid "Definition"
@@ -619,7 +619,7 @@ msgstr "Der Gerätename ist während der Kommunikation mit anderen Geräten sich
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr "Klone niemals Wallets, verwende die ursprüngliche Wallet mit diesem Seed nicht mehr."
+msgstr "Klonen Sie niemals Wallets, verwenden Sie das ursprüngliche Wallet nicht mit diesem Seed."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
@@ -627,7 +627,7 @@ msgstr "Nicht verwenden um das Wallet klonen."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr "Wird deine Sprache auf Crowdin nicht angezeigt? Kontaktiere den Support von Crowdin, denn wir würden deine Sprache gerne hinzufügen."
+msgstr "Wird Ihre Sprache auf Crowdin nicht angezeigt? Kontaktieren Sie den Eigentümer auf Crowdin! Wir würden Ihr Sprache gerne hinzufügen."
 
 #: public/views/inviteCorrespondentDevice.html:28
 #: public/views/modals/destination-address.html:41
@@ -640,7 +640,7 @@ msgstr ".csv-Datei herunterladen"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr "Lade die gesamte Byteball-Datenbank"
+msgstr "Die gesamte Byteball-Datenbank herunterladen"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -649,7 +649,7 @@ msgstr "Ändern"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr "Entweder du oder {{correspondent.name}} hat den Chat-Verlauf deaktiviert. Der Verlauf wird daher für niemanden gespeichert."
+msgstr "Entweder Sie oder {{correspondent.name}} hat die Aufnahme des Chatverlaufs deaktiviert. Der Verlauf wird daher für niemanden gespeichert."
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -723,7 +723,7 @@ msgstr "Beträge gefunden"
 
 #: public/views/paperWallet.html:74
 msgid "Funds will be transferred to"
-msgstr "Betrag wird überwiesen an"
+msgstr "Gelder werden überwiesen an"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
