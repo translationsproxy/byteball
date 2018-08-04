@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-08-04 04:20\n"
+"PO-Revision-Date: 2018-08-04 04:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -821,7 +821,7 @@ msgstr "상대방이 결제하지 않으면 이후에 내 돈을 돌려받을 �
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr ""
+msgstr "수신자가 당신이 보낸 결제대금를 확인할 수 없다면, 당신은"
 
 #: public/views/import.html:58
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -876,7 +876,7 @@ msgstr "다른 장치 초대"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "지갑 시드만으로는 부족합니다. 시드를 이용한 복구 방법은 다중서명 지갑과 블랙바이트와 같은 비공개 자산을 복구할 수 없습니다."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -1133,7 +1133,7 @@ msgstr ""
 
 #: public/views/walletHome.html:537
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "자신에 대해 말하고 싶은 내용을 담은 프로필 데이터를 게시합니다."
 
 #: public/views/walletHome.html:190
 #: public/views/walletHome.html:47
