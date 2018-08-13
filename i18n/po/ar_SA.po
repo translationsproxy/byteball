@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-08-13 13:22\n"
+"PO-Revision-Date: 2018-08-13 13:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -254,7 +254,7 @@ msgstr "قبل أن تقوم بإستقبال المال, يفضل أن تقوم
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr "و من الأفضل أن تستعمل المحفظة multisig عدة مرات"
+msgstr "أفضل من ذلك، إستعمال محافظ multisig بكثرة،"
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
@@ -264,11 +264,11 @@ msgstr "ربط الدفع"
 #: public/views/walletHome.html:439
 #: public/views/walletHome.html:452
 msgid "Bind the payment to a condition"
-msgstr "ربط الدفع مع شروط"
+msgstr "ربط عملية الدفع بشرط"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr "عنوان البتكوين خاطئ!"
+msgstr "عنوان(URI) البتكوين خاطئ!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
