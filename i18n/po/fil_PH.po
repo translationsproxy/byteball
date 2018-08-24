@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2018-06-22T09:24:40+0000\n"
+"PO-Revision-Date: 2018-08-24 18:02\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -29,7 +29,7 @@ msgstr "(kasalukuyang pitaka)"
 msgid "(my other wallet)"
 msgstr ""
 
-#: public/views/walletHome.html:666
+#: public/views/walletHome.html:676
 msgid "(possible double spend)"
 msgstr "(posible ma doble ang gastusin)"
 
@@ -77,7 +77,11 @@ msgstr "Magdagdag ng bagong device"
 msgid "Add a new entry"
 msgstr "Magdagdag ng bagong entry"
 
-#: public/views/walletHome.html:571
+#: public/views/walletHome.html:577
+msgid "Add answer"
+msgstr ""
+
+#: public/views/walletHome.html:577
 msgid "Add fields"
 msgstr "Magdagdag ng mga patlang"
 
@@ -95,7 +99,7 @@ msgstr "Idinagdag"
 msgid "Address"
 msgstr "Address"
 
-#: public/views/walletHome.html:545
+#: public/views/walletHome.html:549
 msgid "Address to attest"
 msgstr "Mensahe upang maipagtunay"
 
@@ -153,9 +157,13 @@ msgstr "Gayundin, huwag kalimutan na burahin ang iyong seed"
 #: public/views/modals/customized-amount.html:59
 #: public/views/modals/customized-amount.html:62
 #: public/views/paymentUri.html:16
-#: public/views/walletHome.html:378
+#: public/views/walletHome.html:379
 msgid "Amount"
 msgstr "Halaga"
+
+#: public/views/walletHome.html:577
+msgid "Answer"
+msgstr ""
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -178,7 +186,7 @@ msgstr "Sigurado ka ba na gusto mong burahin ang pitakang ito?"
 msgid "Asset"
 msgstr "Ari-arian"
 
-#: public/views/walletHome.html:534
+#: public/views/walletHome.html:535
 msgid "Attest profile data linked to any Byteball address."
 msgstr "I-Attest ang profile data na naka-link sa anumang Byteball address."
 
@@ -261,8 +269,8 @@ msgstr "Mas mabuti pa, gamitin ang multisig na mga pitaka na may kalabisan,"
 msgid "Bind payment"
 msgstr "Bind payment"
 
-#: public/views/walletHome.html:439
-#: public/views/walletHome.html:452
+#: public/views/walletHome.html:440
+#: public/views/walletHome.html:453
 msgid "Bind the payment to a condition"
 msgstr "I-bind ang pagbayad sa isang kondisyon"
 
@@ -300,7 +308,7 @@ msgid "CONTINUE"
 msgstr "MAGPATULOY"
 
 #: public/views/modals/destination-address.html:127
-#: public/views/walletHome.html:493
+#: public/views/walletHome.html:494
 #: src/js/controllers/copayers.js:9
 #: src/js/controllers/preferencesDelete.js:10
 #: src/js/controllers/walletHome.js:124
@@ -316,7 +324,7 @@ msgstr "Magpalit ng hub:"
 msgid "Changing wallet alias only affects the local wallet name."
 msgstr "Ang lokal na pitaka lamang ang naapektohan kapag binago ang palayaw ng pinataka."
 
-#: src/js/controllers/index.js:681
+#: src/js/controllers/index.js:680
 msgid "Chat"
 msgstr "Chat"
 
@@ -336,7 +344,7 @@ msgstr "Pumili ng device na papadalhan"
 msgid "Choose which fields to send:"
 msgstr "Piliin kung aling mga patlang ang ipapadala:"
 
-#: src/js/controllers/walletHome.js:490
+#: src/js/controllers/walletHome.js:491
 msgid "Claim funds"
 msgstr "Angkinin ang pondo"
 
@@ -356,11 +364,11 @@ msgstr ""
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
 msgstr "I-click ang button para <span ng-if=\"isResend\">ipadala ulit</span> ang email:"
 
-#: public/views/walletHome.html:515
+#: public/views/walletHome.html:516
 msgid "Click this button to create a payment file and send it to a recipient."
 msgstr ""
 
-#: public/views/walletHome.html:514
+#: public/views/walletHome.html:515
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
 msgstr "I-click ang button na ito para makagawa ng pagbayad at ibahagi ito sa pamamagitan ng isang pribadong mensahe sa loob ng mga chat na app o para makalikha ng papel na pitaka."
 
@@ -413,11 +421,11 @@ msgid "Compress the file? (Slower)"
 msgstr "I-Compress ang file? (Mas mabagal)"
 
 #: src/js/controllers/copayers.js:10
-#: src/js/controllers/index.js:520
+#: src/js/controllers/index.js:519
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:125
-#: src/js/controllers/walletHome.js:1712
-#: src/js/controllers/walletHome.js:1716
+#: src/js/controllers/walletHome.js:1742
+#: src/js/controllers/walletHome.js:1746
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "Kumpirmahin"
@@ -443,7 +451,7 @@ msgid "Contacts"
 msgstr "Mga Kontak"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
-#: src/js/controllers/walletHome.js:391
+#: src/js/controllers/walletHome.js:392
 msgid "Copied to clipboard"
 msgstr "Kinopya sa clipboard"
 
@@ -455,19 +463,19 @@ msgstr "Kopya"
 msgid "Correspondents are not restored."
 msgstr "Wala naibalik ang mga Correspondents."
 
-#: src/js/controllers/walletHome.js:696
+#: src/js/controllers/walletHome.js:700
 msgid "Could not create payment proposal"
 msgstr "Hindi malikha ang panukala ng Pagbabayad"
 
-#: src/js/services/profileService.js:279
+#: src/js/services/profileService.js:281
 msgid "Could not create using the specified extended private key"
 msgstr "Hindi makalikha gamit ang tinukoy na mahabang pribadong susi"
 
-#: src/js/services/profileService.js:289
+#: src/js/services/profileService.js:291
 msgid "Could not create using the specified extended public key"
 msgstr "Hindi makalikha gamit ang tinukoy na mahabang pampublikong susi"
 
-#: src/js/services/profileService.js:272
+#: src/js/services/profileService.js:274
 msgid "Could not create: Invalid wallet seed"
 msgstr "Hindi mailikha: Imbalido ang seed ng pitaka"
 
@@ -475,25 +483,21 @@ msgstr "Hindi mailikha: Imbalido ang seed ng pitaka"
 msgid "Could not decrypt"
 msgstr "Hindi ma i-decrypt"
 
-#: public/views/walletHome.html:621
+#: public/views/walletHome.html:631
 msgid "Could not fetch transaction history"
 msgstr "Hindi nakuha ang kasaysayan na transaksyon"
 
-#: src/js/services/profileService.js:507
-#: src/js/services/profileService.js:534
-#: src/js/services/profileService.js:556
+#: src/js/services/profileService.js:510
+#: src/js/services/profileService.js:537
+#: src/js/services/profileService.js:559
 msgid "Could not import"
 msgstr "Hindi maaring maimport"
 
-#: src/js/services/profileService.js:484
+#: src/js/services/profileService.js:487
 msgid "Could not import. Check input file and password"
 msgstr "Hindi maaring mainport. Suriin ang input file at password"
 
-#: src/js/controllers/walletHome.js:53
-msgid "Could not recognize a valid Byteball QR Code"
-msgstr "Hindi nakilala ang isang balidong Byteball QR Code"
-
-#: src/js/controllers/walletHome.js:696
+#: src/js/controllers/walletHome.js:700
 msgid "Could not send payment"
 msgstr "Hindi maipadala ang bayad"
 
@@ -546,11 +550,11 @@ msgstr "Datos"
 msgid "Data into datafeed"
 msgstr "Datos sa datafeed"
 
-#: public/views/walletHome.html:567
+#: public/views/walletHome.html:577
 msgid "Datafeed name"
 msgstr ""
 
-#: public/views/walletHome.html:567
+#: public/views/walletHome.html:577
 msgid "Datafeed value"
 msgstr ""
 
@@ -590,7 +594,7 @@ msgstr "Burahin ang Pitaka"
 msgid "Delete wallet"
 msgstr "Burahin ang pitaka"
 
-#: src/js/controllers/walletHome.js:1709
+#: src/js/controllers/walletHome.js:1739
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr "Ang pagbura sa textcoin ay magtatanggal sa abilidad para kunin ito pabalik o ipadala ulit"
 
@@ -629,12 +633,12 @@ msgstr "Huwag itong gamitin para i-clone ang pitaka."
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
 msgstr "Hindi makita ang iyong wika sa Crowdin? Makipag-ugnayan sa May-ari sa loob ng Crowdin! Gusto namin suportahan ang iyong wika."
 
-#: public/views/inviteCorrespondentDevice.html:28
+#: public/views/inviteCorrespondentDevice.html:34
 #: public/views/modals/destination-address.html:41
 msgid "Done"
 msgstr "Tapos"
 
-#: public/views/walletHome.html:722
+#: public/views/walletHome.html:732
 msgid "Download CSV file"
 msgstr "I-download ang CSV file"
 
@@ -663,8 +667,8 @@ msgstr "Ipasok ang code na pagpares na natanggap mula sa kabilang device, o gami
 msgid "Enter your password"
 msgstr "Ipasok ang iyong password"
 
-#: src/js/services/profileService.js:338
-#: src/js/services/profileService.js:390
+#: src/js/services/profileService.js:341
+#: src/js/services/profileService.js:393
 msgid "Error creating wallet"
 msgstr "May problema sa paglikha ng pitaka"
 
@@ -672,8 +676,8 @@ msgstr "May problema sa paglikha ng pitaka"
 msgid "Export"
 msgstr "I-export"
 
-#: src/js/controllers/export.js:136
-#: src/js/controllers/export.js:161
+#: src/js/controllers/export.js:141
+#: src/js/controllers/export.js:166
 msgid "Export completed successfully"
 msgstr "Matagumpay na nakompleto ang pag-export"
 
@@ -693,7 +697,7 @@ msgstr "Nabigo ang pag-export"
 msgid "Fee"
 msgstr "Bayarin"
 
-#: public/views/walletHome.html:567
+#: public/views/walletHome.html:577
 msgid "Field"
 msgstr ""
 
@@ -729,7 +733,7 @@ msgstr "Ang pondo ay ililipat sa"
 msgid "GET STARTED"
 msgstr "MAGSIMULA"
 
-#: src/js/controllers/walletHome.js:420
+#: src/js/controllers/walletHome.js:421
 msgid "Generate QR Code"
 msgstr "Gumawa ng QR Code"
 
@@ -762,11 +766,11 @@ msgid "Hide the Wallet Seed"
 msgstr "Itago ang Seed ng Pitaka"
 
 #: public/views/modals/share.html:43
-#: src/js/controllers/index.js:677
+#: src/js/controllers/index.js:676
 msgid "History"
 msgstr "Kasaysayan"
 
-#: src/js/controllers/index.js:665
+#: src/js/controllers/index.js:664
 msgid "Home"
 msgstr "Home"
 
@@ -823,7 +827,7 @@ msgstr "Kung hindi magbabayad ang mga peer, matatanggap ko ang aking pera pagkat
 msgid "If the recipient doesn't see your payment, you can"
 msgstr "Kung ang pinapadalhan ay hindi makakakita sa iyong bayad, maaari mo itong makita"
 
-#: public/views/import.html:58
+#: public/views/import.html:47
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
 msgstr "Kung nilipat mo itong backup na ito mula sa ibang device, itigil ang paggamit nito sa orihinal na device pagkatapos ng paglikha ng device. Hindi kailanman i-clone ang mga pitaka. Kung kailangan mo ng access mula sa ilang devices, gumamit ng multisig."
 
@@ -847,7 +851,7 @@ msgstr "Ini-import ang pitaka..."
 msgid "Including pending confirmation"
 msgstr "Kabilang ang mga nakabinbin na kumpirmasyon"
 
-#: public/views/walletHome.html:640
+#: public/views/walletHome.html:650
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
 msgstr "Singkronisasyon ng kasaysayan ng unang transaksyon ay maaaring tumagal ng ilang minuto para sa pitaka na may maraming transaksyon. <br> Please stand by."
@@ -860,11 +864,11 @@ msgstr "Ilagay ang aking address"
 msgid "Insert private profile"
 msgstr "Ilagay ang pribadong profile"
 
-#: public/views/walletHome.html:659
+#: public/views/walletHome.html:669
 msgid "Invalid"
 msgstr "Imbalido"
 
-#: src/js/controllers/index.js:1631
+#: src/js/controllers/index.js:1630
 msgid "Invalid Touch ID"
 msgstr "Imbalidong Touch ID"
 
@@ -918,7 +922,7 @@ msgstr "Ako"
 msgid "Merchant message"
 msgstr "Mensahe ng nagtitinda"
 
-#: public/views/walletHome.html:459
+#: public/views/walletHome.html:460
 msgid "Merkle proof"
 msgstr "Merkle proof"
 
@@ -931,7 +935,7 @@ msgstr "Mensahe"
 msgid "Message:"
 msgstr ""
 
-#: public/views/walletHome.html:658
+#: public/views/walletHome.html:668
 msgid "Moved"
 msgstr "Lumipat"
 
@@ -968,8 +972,8 @@ msgid "New witnesses"
 msgstr "Bagong saksi"
 
 #: public/views/authConfirmation.html:22
-#: src/js/controllers/index.js:519
-#: src/js/controllers/walletHome.js:1724
+#: src/js/controllers/index.js:518
+#: src/js/controllers/walletHome.js:1754
 msgid "No"
 msgstr "Hindi"
 
@@ -985,30 +989,34 @@ msgstr "Walang profile ang tumugma sa hininging batayan."
 msgid "No profiles yet."
 msgstr "Walang pang mga profile."
 
-#: public/views/walletHome.html:624
+#: public/views/walletHome.html:634
 msgid "No transactions yet"
 msgstr "Wala pang mga transaksyon"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
 #: public/views/modals/destination-address.html:112
-#: public/views/walletHome.html:370
-#: public/views/walletHome.html:407
-#: public/views/walletHome.html:416
-#: public/views/walletHome.html:550
+#: public/views/walletHome.html:371
+#: public/views/walletHome.html:408
+#: public/views/walletHome.html:417
+#: public/views/walletHome.html:554
 msgid "Not valid"
 msgstr "Hindi balido"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:106
 #: public/views/modals/tx-details.html:81
-#: public/views/walletHome.html:470
-#: public/views/walletHome.html:687
+#: public/views/walletHome.html:471
+#: public/views/walletHome.html:697
 msgid "Note"
 msgstr "Tala"
 
+#: src/js/controllers/export.js:88
+msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
+msgstr ""
+
 #: public/views/modals/offer-contract.html:33
-#: src/js/services/correspondentListService.js:110
+#: src/js/services/correspondentListService.js:113
 msgid "Offer a contract"
 msgstr "Mag-alok ng isang kontrata"
 
@@ -1023,6 +1031,10 @@ msgstr "Single-sig na pitaka lamang ang mababawi."
 #: public/views/bot.html:35
 msgid "Open chat"
 msgstr "Bukas na chat"
+
+#: public/views/walletHome.html:577
+msgid "Options for answering"
+msgstr ""
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
@@ -1049,7 +1061,7 @@ msgstr "Pribadong susi ng papel na pitaka"
 msgid "Passphrase"
 msgstr "Passphrase"
 
-#: src/js/services/profileService.js:672
+#: src/js/services/profileService.js:675
 msgid "Password needed"
 msgstr "Kailangan ng password"
 
@@ -1065,7 +1077,7 @@ msgstr "Ilagay dito ang pribadong susi ng papel na pitaka mo"
 msgid "Pay and offer"
 msgstr "Bayaran at mag-alok"
 
-#: src/js/services/correspondentListService.js:110
+#: src/js/services/correspondentListService.js:113
 msgid "Pay to this address"
 msgstr "Bayaran itong address"
 
@@ -1105,7 +1117,7 @@ msgstr "Simpleng Pitaka"
 msgid "Please choose how much data to store in your wallet"
 msgstr "Mangyaring pumili kung gaano ka raming data ang itago sa iyong pitaka"
 
-#: src/js/controllers/create.js:97
+#: src/js/controllers/create.js:99
 msgid "Please enter the required fields"
 msgstr "Mangyaring ipasok ang mga kailangang fields"
 
@@ -1117,19 +1129,27 @@ msgstr "Mangyaring pangalanan ang device na ito"
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
 msgstr "Mangyaring lumipat sa isang solong-address na pitaka at marahil kakailanganin mong ilakip muli ang iyong address."
 
+#: public/views/walletHome.html:351
+msgid "Poll"
+msgstr ""
+
 #: public/views/preferencesTor.html:16
 msgid "Port"
 msgstr "Port"
 
-#: public/views/walletHome.html:540
+#: public/views/walletHome.html:544
+msgid "Post a poll into Byteball network that users can vote on with Poll bot."
+msgstr ""
+
+#: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Byteball network."
 msgstr "Mag-post ng mga pares ng makatwirang halaga ng susi ng mga datos sa Byteball newtork."
 
-#: public/views/walletHome.html:531
+#: public/views/walletHome.html:532
 msgid "Post values into datafeeds manually, be an oracle."
 msgstr "Manu-mano i-post ang mga values sa datafeed, maging tagapagsalita."
 
-#: public/views/walletHome.html:537
+#: public/views/walletHome.html:538
 msgid "Post your profile data, anything you want to say about yourself."
 msgstr "I-post ang iyong profile data, anumang bagay na nais mong sabihin tungkol sa iyong sarili."
 
@@ -1146,8 +1166,8 @@ msgstr "Pindutin muli upang mag exit"
 msgid "Private assets (such as blackbytes) are not recovered."
 msgstr "Pribadong ari-arian (tulad ng blackbytes) ay hindi mababawi."
 
-#: src/js/controllers/walletHome.js:1783
-#: src/js/controllers/walletHome.js:1857
+#: src/js/controllers/walletHome.js:1813
+#: src/js/controllers/walletHome.js:1889
 msgid "Private payloads sent"
 msgstr "Naipadala ang mga pribadong payload"
 
@@ -1159,11 +1179,11 @@ msgstr "Pribadong Profile"
 msgid "Profile"
 msgstr "Profile"
 
-#: public/views/walletHome.html:567
+#: public/views/walletHome.html:577
 msgid "Profile field"
 msgstr ""
 
-#: public/views/walletHome.html:567
+#: public/views/walletHome.html:577
 msgid "Profile field value"
 msgstr ""
 
@@ -1175,15 +1195,19 @@ msgstr "QR Code"
 msgid "QR-Scanner"
 msgstr "QR-Scanner"
 
+#: public/views/walletHome.html:564
+msgid "Question to be voted on"
+msgstr ""
+
 #: public/views/modals/vote.html:17
 msgid "Question:"
 msgstr "Tanong:"
 
-#: src/js/controllers/index.js:669
+#: src/js/controllers/index.js:668
 msgid "Receive"
 msgstr "Tumanggap"
 
-#: public/views/walletHome.html:655
+#: public/views/walletHome.html:665
 msgid "Received"
 msgstr "Natanggap"
 
@@ -1302,7 +1326,7 @@ msgstr "Magsuri ng katayuan na natapos pero may mali"
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
 msgstr "I-scan ang QR code sa itaas gamit ang ibang device, o ipadala itong pagpares na code sa ibang device:"
 
-#: src/js/controllers/index.js:1624
+#: src/js/controllers/index.js:1623
 msgid "Scan your fingerprint please"
 msgstr "Pakiusap na i-scan ang iyong fingerprint"
 
@@ -1331,9 +1355,9 @@ msgid "Select your identity"
 msgstr "Piliin ang iyong pagkakakilanlan"
 
 #: public/views/includes/transaction.html:10
-#: public/views/walletHome.html:496
-#: public/views/walletHome.html:586
-#: src/js/controllers/index.js:673
+#: public/views/walletHome.html:497
+#: public/views/walletHome.html:596
+#: src/js/controllers/index.js:672
 msgid "Send"
 msgstr "Ipadala"
 
@@ -1349,7 +1373,7 @@ msgstr "Ipadala ang Kabayaran"
 msgid "Send addresses by email"
 msgstr "Ipadala ang address sa pamamagitan ng email"
 
-#: public/views/walletHome.html:380
+#: public/views/walletHome.html:381
 msgid "Send all"
 msgstr "Ipadala lahat"
 
@@ -1369,7 +1393,7 @@ msgstr "Nagpapadala ng mga pondo..."
 msgid "Sending..."
 msgstr "Nagpapadala..."
 
-#: public/views/walletHome.html:657
+#: public/views/walletHome.html:667
 msgid "Sent"
 msgstr "Naipadala"
 
@@ -1398,16 +1422,20 @@ msgstr "Ibahagi"
 msgid "Share address"
 msgstr "Ibahagi ang address"
 
+#: public/views/inviteCorrespondentDevice.html:27
+msgid "Share the code"
+msgstr ""
+
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
 msgstr "Ibahagi ang wallet address upang makatanggap ng mga pagbabayad."
 
-#: public/views/walletHome.html:395
-#: public/views/walletHome.html:516
+#: public/views/walletHome.html:396
+#: public/views/walletHome.html:517
 msgid "Share via message"
 msgstr "Ibahagi sa pamamagitan ng mensahe"
 
-#: public/views/walletHome.html:714
+#: public/views/walletHome.html:724
 msgid "Show all"
 msgstr "Ipakita lahat"
 
@@ -1446,7 +1474,7 @@ msgstr "Nag iisang address na pitaka"
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
 msgstr "Mga pitaka na nag iisang address ay hindi gagawa ng mga bagong address para sa bawat transaksyon, Ang change ay laging pupunta sa isa at naglalaman lamang na address ng pitaka."
 
-#: src/js/services/profileService.js:332
+#: src/js/services/profileService.js:335
 msgid "Small Expenses Wallet"
 msgstr "Maliit na gastusin na pitaka"
 
@@ -1468,13 +1496,13 @@ msgid "Store"
 msgstr "Tindahan"
 
 #: src/js/controllers/copayers.js:76
-#: src/js/controllers/export.js:136
-#: src/js/controllers/export.js:161
+#: src/js/controllers/export.js:141
+#: src/js/controllers/export.js:166
 #: src/js/controllers/index.js:265
 #: src/js/controllers/index.js:293
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:1783
-#: src/js/controllers/walletHome.js:1857
+#: src/js/controllers/walletHome.js:1813
+#: src/js/controllers/walletHome.js:1889
 msgid "Success"
 msgstr "Tagumpay"
 
@@ -1500,7 +1528,7 @@ msgstr "TOR"
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
-#: public/views/walletHome.html:622
+#: public/views/walletHome.html:632
 msgid "Tap to retry"
 msgstr "I-tap upang ulitin"
 
@@ -1574,7 +1602,7 @@ msgstr "Ang pasiyang ito hindi mababago sa susunod"
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
 msgstr "Ang opsyon na ito ay mas mahusay para sa privacy pero ay tumagal ng ilang gigabytes ng imbakan at ang paunang sync ay tumagal ng ilang araw.  CPU load ay magiging mataas sa singk."
 
-#: public/views/walletHome.html:440
+#: public/views/walletHome.html:441
 msgid "This payment is bound to a condition"
 msgstr "Ang pagbabayad na ito ay tiyak na isang kundisyon"
 
@@ -1602,7 +1630,7 @@ msgstr "Ang pitakang ito ay hindi maaarming gawing isang solong address na pitak
 msgid "This wallet cannot be converted to single address wallet as it is multidevice"
 msgstr "Ang pitakang ito ay hindi maaaring gawing isang solong address na pitaka dahil ito ay isang multidevice"
 
-#: public/views/import.html:57
+#: public/views/import.html:46
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing wallets!"
 msgstr "Ito ay permanente nang magtanggal ng lahat ng iyong mga umiiral na pitaka!"
@@ -1611,8 +1639,8 @@ msgstr "Ito ay permanente nang magtanggal ng lahat ng iyong mga umiiral na pitak
 #: public/views/includes/transaction.html:19
 #: public/views/modals/tx-details.html:36
 #: public/views/modals/tx-details.html:71
-#: public/views/walletHome.html:689
-#: src/js/controllers/index.js:1431
+#: public/views/walletHome.html:699
+#: src/js/controllers/index.js:1430
 msgid "To"
 msgstr "Upang"
 
@@ -1620,23 +1648,19 @@ msgstr "Upang"
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
 msgstr "Upang maibalik ang lahat na bagay, mangyaring lumikha ng isang buong backup (hanapin sa mga pagpipilian sa menu)"
 
-#: public/views/walletHome.html:597
+#: public/views/walletHome.html:607
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
 msgstr "Upang magagawang magpadala ng mga di-makatwirang datos sa Byteball network, mangyaring lumipat sa isang solong-address na pitaka muna o lumikha ng isa."
 
-#: public/views/walletHome.html:449
+#: public/views/walletHome.html:450
 msgid "To bind the payment to a condition, please click the peer's address in chat"
 msgstr "Upang ma-bind ang pagbabayad sa isang kondisyon, paki-click ang peer address sa chat"
 
-#: public/views/walletHome.html:402
+#: public/views/walletHome.html:403
 msgid "To byteball address"
 msgstr "Patungo sa byteball address"
 
-#: public/views/walletHome.html:394
-msgid "To byteball address or email"
-msgstr "Patungo sa byteball address o email"
-
-#: src/js/controllers/index.js:1434
+#: src/js/controllers/index.js:1433
 msgid "To email"
 msgstr "Patungo sa email"
 
@@ -1648,7 +1672,7 @@ msgstr "Upang protektahan ang iyong pagkaprobido, Bagong mga address ay awtomati
 msgid "Total Locked Balance"
 msgstr "Kabuuang naka-lock na balanse"
 
-#: public/views/walletHome.html:379
+#: public/views/walletHome.html:380
 msgid "Total amount"
 msgstr "Kabuuang halaga"
 
@@ -1660,7 +1684,7 @@ msgstr "Kabuuang bilang ng mga lumalagda"
 msgid "Transaction"
 msgstr "Transaksyon"
 
-#: public/views/walletHome.html:646
+#: public/views/walletHome.html:656
 msgid "Transactions<br> Downloaded"
 msgstr "Transaksyon <br>na na-download"
 
@@ -1680,12 +1704,12 @@ msgstr "Pinagkatiwalaang mga node"
 msgid "US state"
 msgstr "Estado ng U.S."
 
-#: src/js/controllers/walletHome.js:835
+#: src/js/controllers/walletHome.js:846
 msgid "Unable to send transaction proposal"
 msgstr "Hindi maipadala ang panukala ng transaksyon"
 
 #: public/views/modals/tx-details.html:118
-#: public/views/walletHome.html:677
+#: public/views/walletHome.html:687
 msgid "Unconfirmed"
 msgstr "Hindi nakumpirma"
 
@@ -1713,11 +1737,11 @@ msgstr "Mag-upgrade sa {{version}}"
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
 msgstr "Nagtataas ng uri ng database, maghintay lamang.  Paminsan ito ay tumatagal ng ilang minuto."
 
-#: public/views/walletHome.html:567
+#: public/views/walletHome.html:577
 msgid "Value"
 msgstr ""
 
-#: public/views/walletHome.html:560
+#: public/views/walletHome.html:577
 msgid "Values"
 msgstr "Mga Halaga"
 
@@ -1741,7 +1765,7 @@ msgstr "Babala: Kailangan ng backup"
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
 msgstr "BABALA: Ang seed na ito ang nilikha gamit ng pasphrase. Upang mabawi ang pitakang ito ang mnemonic at passphrase ay kinakailangan."
 
-#: public/views/import.html:55
+#: public/views/import.html:44
 #: public/views/recoveryFromSeed.html:37
 msgid "WARNINGS:"
 msgstr "MGA BABALA:"
@@ -1783,7 +1807,7 @@ msgstr "Impormasyon ng pitaka"
 msgid "Wallet Name (at creation)"
 msgstr "Pangalan ng Pitaka (sa paglikha)"
 
-#: src/js/services/profileService.js:453
+#: src/js/services/profileService.js:456
 msgid "Wallet already in Byteball:"
 msgstr "Pitaka na nasa Byteball na:"
 
@@ -1816,9 +1840,9 @@ msgstr "Ano ang dapat ipadala"
 #: public/views/modals/offer-contract.html:111
 #: public/views/modals/sign-message.html:28
 #: public/views/modals/vote.html:28
-#: public/views/walletHome.html:485
-#: public/views/walletHome.html:509
-#: public/views/walletHome.html:578
+#: public/views/walletHome.html:486
+#: public/views/walletHome.html:510
+#: public/views/walletHome.html:588
 msgid "Who signs:"
 msgstr "Sino ang lalagda:"
 
@@ -1838,12 +1862,12 @@ msgstr "Isulat ang textcoin na ito sa papel at maingat itong itago. Kunin ito ul
 msgid "Write it down and keep it somewhere safe."
 msgstr "Isulat ang mga ito at panatilihin ito sa isang lugar na ligtas."
 
-#: src/js/services/profileService.js:682
+#: src/js/services/profileService.js:685
 msgid "Wrong password"
 msgstr "Mali ang password"
 
 #: public/views/authConfirmation.html:17
-#: src/js/controllers/index.js:518
+#: src/js/controllers/index.js:517
 msgid "Yes"
 msgstr "Oo"
 
@@ -1906,7 +1930,7 @@ msgstr "isang pangyayari ay nai-post sa pamamagitan ng oracle"
 msgid "and erase the textcoin to keep it safe from attackers."
 msgstr "at burahin ang textcoin upang panatilihin itong ligtas mula sa mga umaatake."
 
-#: public/views/walletHome.html:567
+#: public/views/walletHome.html:577
 msgid "available"
 msgstr ""
 
@@ -1930,7 +1954,7 @@ msgstr "inaangkin ni {{btx.claimedByMe?' akin ': 'receiver' | isalin}}"
 msgid "clear chat history"
 msgstr "burahin ang kasaysayan ng chat"
 
-#: public/views/walletHome.html:567
+#: public/views/walletHome.html:577
 msgid "confirmed"
 msgstr ""
 
@@ -2000,8 +2024,8 @@ msgstr "hindi naangkin"
 msgid "on feed name"
 msgstr "sa pangalan ng feed"
 
-#: public/views/walletHome.html:460
-#: public/views/walletHome.html:471
+#: public/views/walletHome.html:461
+#: public/views/walletHome.html:472
 msgid "optional"
 msgstr "opsiyonal"
 
@@ -2033,19 +2057,19 @@ msgstr "muling ipadala ang payloads ng mga cosigners"
 msgid "send"
 msgstr "ipadala"
 
-#: src/js/controllers/walletHome.js:773
+#: src/js/controllers/walletHome.js:777
 msgid "send email"
 msgstr "ipadala ang email"
 
-#: src/js/controllers/walletHome.js:1087
-#: src/js/controllers/walletHome.js:1142
-#: src/js/controllers/walletHome.js:1280
-#: src/js/controllers/walletHome.js:1311
-#: src/js/controllers/walletHome.js:1318
-#: src/js/controllers/walletHome.js:908
-#: src/js/controllers/walletHome.js:914
-#: src/js/controllers/walletHome.js:955
-#: src/js/controllers/walletHome.js:991
+#: src/js/controllers/walletHome.js:1002
+#: src/js/controllers/walletHome.js:1098
+#: src/js/controllers/walletHome.js:1153
+#: src/js/controllers/walletHome.js:1299
+#: src/js/controllers/walletHome.js:1336
+#: src/js/controllers/walletHome.js:1343
+#: src/js/controllers/walletHome.js:919
+#: src/js/controllers/walletHome.js:954
+#: src/js/controllers/walletHome.js:989
 msgid "sending"
 msgstr "ipinapadala"
 
@@ -2053,11 +2077,11 @@ msgstr "ipinapadala"
 msgid "share again"
 msgstr "ibahagi ulit"
 
-#: public/views/walletHome.html:446
+#: public/views/walletHome.html:447
 msgid "switch to multi-address"
 msgstr "lumipat sa multi-address"
 
-#: public/views/walletHome.html:445
+#: public/views/walletHome.html:446
 msgid "switch to single address"
 msgstr "lumipat sa isang address"
 
@@ -2069,8 +2093,8 @@ msgstr "ang teksto sa baba at ipadala ito sa papadalhan sa pamamagitan ng kahit 
 msgid "to"
 msgstr "upang"
 
-#: public/views/walletHome.html:461
-#: public/views/walletHome.html:472
+#: public/views/walletHome.html:462
+#: public/views/walletHome.html:473
 msgid "too long!"
 msgstr "masyadong matagal!"
 
@@ -2108,13 +2132,17 @@ msgstr "{{cancel_label || 'Cancel'}}"
 msgid "{{confirm_label || 'Yes'}}"
 msgstr "{{confirm_label || 'Oo'}}"
 
-#: src/js/controllers/walletHome.js:1898
+#: src/js/controllers/walletHome.js:1930
 msgid "{{fee}} will be deducted for bitcoin networking fees"
 msgstr "Ang {{fee}} ay babawasin sa bitcoin networking ng mga bayad"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
 msgstr "maaaring gumugol ng {{hrd.destinationAddress}} kung:"
+
+#: public/views/walletHome.html:395
+msgid "{{index.arrBalances[index.assetIndex].is_private ? 'To my other wallet' : 'To byteball address or email or username'}}"
+msgstr ""
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
