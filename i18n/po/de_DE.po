@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-08-24 18:01\n"
+"PO-Revision-Date: 2018-08-25 09:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -79,7 +79,7 @@ msgstr "Einen neuen Eintrag hinzufügen"
 
 #: public/views/walletHome.html:577
 msgid "Add answer"
-msgstr ""
+msgstr "Add answer"
 
 #: public/views/walletHome.html:577
 msgid "Add fields"
@@ -163,7 +163,7 @@ msgstr "Betrag"
 
 #: public/views/walletHome.html:577
 msgid "Answer"
-msgstr ""
+msgstr "Antwort"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -1013,7 +1013,7 @@ msgstr "Notiz"
 
 #: src/js/controllers/export.js:88
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
-msgstr ""
+msgstr "Nun müssen Sie diese Datei irgendwo hinschicken, um sie später wiederherzustellen (\"In Dateien speichern\", an sich selbst mit Hilfe von Chat-Apps senden, usw.)"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:113
@@ -1034,7 +1034,7 @@ msgstr "Öffne Chat"
 
 #: public/views/walletHome.html:577
 msgid "Options for answering"
-msgstr ""
+msgstr "Optionen für die Beantwortung"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
@@ -1131,7 +1131,7 @@ msgstr "Bitte wechseln Sie zu einem Single-Address-Wallet. Die Eingabe Ihrer Adr
 
 #: public/views/walletHome.html:351
 msgid "Poll"
-msgstr ""
+msgstr "Umfrage"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1139,7 +1139,7 @@ msgstr "Port"
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Byteball network that users can vote on with Poll bot."
-msgstr ""
+msgstr "Posten Sie eine Umfrage im Byteball Netzwerk, in der die Benutzer mit einem Umfrage-Bot abstimmen können."
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Byteball network."
@@ -1197,7 +1197,7 @@ msgstr "QR-Scanner"
 
 #: public/views/walletHome.html:564
 msgid "Question to be voted on"
-msgstr ""
+msgstr "Frage zur Abstimmung"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
@@ -1424,7 +1424,7 @@ msgstr "Adresse teilen"
 
 #: public/views/inviteCorrespondentDevice.html:27
 msgid "Share the code"
-msgstr ""
+msgstr "Den Code teilen"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
@@ -2142,7 +2142,7 @@ msgstr "{{hrd.destinationAddress}} kann ausgegeben werden, wenn:"
 
 #: public/views/walletHome.html:395
 msgid "{{index.arrBalances[index.assetIndex].is_private ? 'To my other wallet' : 'To byteball address or email or username'}}"
-msgstr ""
+msgstr "{{index.arrBalances[index.assetIndex].is_private ? 'An meine andere Wallet' : 'An Byteball-Adresse oder E-Mail oder Benutzername'}}"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
