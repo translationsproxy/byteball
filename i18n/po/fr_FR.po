@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-08-25 17:00\n"
+"PO-Revision-Date: 2018-08-25 17:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2143,7 +2143,7 @@ msgstr "{{hrd.destinationAddress}} peut être dépensé si :"
 
 #: public/views/walletHome.html:395
 msgid "{{index.arrBalances[index.assetIndex].is_private ? 'To my other wallet' : 'To byteball address or email or username'}}"
-msgstr ""
+msgstr "{{index.arrBalances[index.assetIndex].is_private ? 'Vers mon autre portefeuille' : 'Vers l'adresse du mail ou au nom d'utilisateur'}}"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
