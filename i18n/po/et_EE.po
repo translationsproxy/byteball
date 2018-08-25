@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-08-24 18:02\n"
+"PO-Revision-Date: 2018-08-25 00:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -79,7 +79,7 @@ msgstr "Lisa uus kirje"
 
 #: public/views/walletHome.html:577
 msgid "Add answer"
-msgstr ""
+msgstr "Lisa vastus"
 
 #: public/views/walletHome.html:577
 msgid "Add fields"
@@ -163,7 +163,7 @@ msgstr "Summa"
 
 #: public/views/walletHome.html:577
 msgid "Answer"
-msgstr ""
+msgstr "Vastus"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -1035,7 +1035,7 @@ msgstr "Ava vestlus"
 
 #: public/views/walletHome.html:577
 msgid "Options for answering"
-msgstr ""
+msgstr "Valikvastused"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
@@ -1132,7 +1132,7 @@ msgstr "Palun muuda ühe aadressiga rahakoti peale ja tõenäoliselt pead sa sis
 
 #: public/views/walletHome.html:351
 msgid "Poll"
-msgstr ""
+msgstr "Küsitlused"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1425,7 +1425,7 @@ msgstr "Jaga aadressi"
 
 #: public/views/inviteCorrespondentDevice.html:27
 msgid "Share the code"
-msgstr ""
+msgstr "Jaga koodi"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
