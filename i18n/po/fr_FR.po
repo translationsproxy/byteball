@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-08-24 18:01\n"
+"PO-Revision-Date: 2018-08-25 17:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -27,7 +27,7 @@ msgstr "(portefeuille actuel)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other wallet)"
-msgstr ""
+msgstr "(mon autre portefeuille)"
 
 #: public/views/walletHome.html:676
 msgid "(possible double spend)"
@@ -79,7 +79,7 @@ msgstr "Ajouter une nouvelle entrée"
 
 #: public/views/walletHome.html:577
 msgid "Add answer"
-msgstr ""
+msgstr "Ajouter une réponse"
 
 #: public/views/walletHome.html:577
 msgid "Add fields"
@@ -163,7 +163,7 @@ msgstr "Montant"
 
 #: public/views/walletHome.html:577
 msgid "Answer"
-msgstr ""
+msgstr "Réponse"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -206,7 +206,7 @@ msgstr "Attestée par :"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr ""
+msgstr "Adresses attestor"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -292,7 +292,7 @@ msgstr "Navigateur non supporté"
 
 #: public/index.html:12
 msgid "Byteball &mdash; smart payments"
-msgstr ""
+msgstr "Byteball &mdash; paiements intelligents"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
@@ -358,7 +358,7 @@ msgstr "Demander un montant via textcoin"
 
 #: public/views/walletHome.html:85
 msgid "Claiming..."
-msgstr ""
+msgstr "Réclamer..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
@@ -366,7 +366,7 @@ msgstr "Cliquez sur le bouton pour <span ng-if=\"isResend\">re</span>envoyer un 
 
 #: public/views/walletHome.html:516
 msgid "Click this button to create a payment file and send it to a recipient."
-msgstr ""
+msgstr "Cliquez sur ce bouton pour créer un fichier de paiement et l’envoyer à un destinataire."
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
@@ -552,11 +552,11 @@ msgstr "Données dans le flux de données"
 
 #: public/views/walletHome.html:577
 msgid "Datafeed name"
-msgstr ""
+msgstr "Nom du flux de données"
 
 #: public/views/walletHome.html:577
 msgid "Datafeed value"
-msgstr ""
+msgstr "Valeur du flux de données"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
@@ -1014,7 +1014,7 @@ msgstr "Note"
 
 #: src/js/controllers/export.js:88
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
-msgstr ""
+msgstr "Maintenant, il faut envoyer ce fichier quelque part pour le restaurer plus tard (\"Enregistrer dans des fichiers\", envoyer à vous-même à l’aide des apps de chat, etc.)"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:113
@@ -1035,7 +1035,7 @@ msgstr "Tchat ouvert"
 
 #: public/views/walletHome.html:577
 msgid "Options for answering"
-msgstr ""
+msgstr "Options pour répondre"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
@@ -1132,7 +1132,7 @@ msgstr "Veuillez passer à un portefeuille à adresse unique et vous devrez prob
 
 #: public/views/walletHome.html:351
 msgid "Poll"
-msgstr ""
+msgstr "Sondage"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1140,7 +1140,7 @@ msgstr "Port"
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Byteball network that users can vote on with Poll bot."
-msgstr ""
+msgstr "Poster un sondage sur le réseau Byteball pour les utilisateurs puissent voter avec le robot de sondage."
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Byteball network."
@@ -1198,7 +1198,7 @@ msgstr "QR-Scanner"
 
 #: public/views/walletHome.html:564
 msgid "Question to be voted on"
-msgstr ""
+msgstr "Question de vote"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
@@ -1425,7 +1425,7 @@ msgstr "Partager l'adresse"
 
 #: public/views/inviteCorrespondentDevice.html:27
 msgid "Share the code"
-msgstr ""
+msgstr "Partagez le code"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
