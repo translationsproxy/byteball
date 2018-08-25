@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-08-25 00:20\n"
+"PO-Revision-Date: 2018-08-25 00:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1014,7 +1014,7 @@ msgstr "Märkused"
 
 #: src/js/controllers/export.js:88
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
-msgstr ""
+msgstr "Nüüd peaksid saatma selle faili kuhugi mujale, et saaksid sellest hiljem taastada (\"Salvesta\" ja saada see endale näiteks vestlusrakenduse kaudu)"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:113
@@ -1132,7 +1132,7 @@ msgstr "Palun muuda ühe aadressiga rahakoti peale ja tõenäoliselt pead sa sis
 
 #: public/views/walletHome.html:351
 msgid "Poll"
-msgstr "Küsitlused"
+msgstr "Küsitlus"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1140,7 +1140,7 @@ msgstr "Port"
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Byteball network that users can vote on with Poll bot."
-msgstr ""
+msgstr "Postita küsitlus Byteball andmebaasi selleks, et kasutajad saaksid Poll vestlusroboti kaudu hääletada."
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Byteball network."
@@ -1198,7 +1198,7 @@ msgstr "QR koodi skaneerija"
 
 #: public/views/walletHome.html:564
 msgid "Question to be voted on"
-msgstr ""
+msgstr "Küsimus hääletamiseks"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
@@ -2143,7 +2143,7 @@ msgstr "{{hrd.destinationAddress}} saab kulutada kui:"
 
 #: public/views/walletHome.html:395
 msgid "{{index.arrBalances[index.assetIndex].is_private ? 'To my other wallet' : 'To byteball address or email or username'}}"
-msgstr ""
+msgstr "{{index.arrBalances[index.assetIndex].is_private ? 'Minu teisele rahakotile' : 'Byteballi, e-kirja aadressile või kasutajanimele'}}"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
