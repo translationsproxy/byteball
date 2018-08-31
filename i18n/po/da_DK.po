@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-08-24 18:01\n"
+"PO-Revision-Date: 2018-08-31 07:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -79,7 +79,7 @@ msgstr "Tilføj ny post"
 
 #: public/views/walletHome.html:577
 msgid "Add answer"
-msgstr ""
+msgstr "Tilføj svar"
 
 #: public/views/walletHome.html:577
 msgid "Add fields"
@@ -163,7 +163,7 @@ msgstr "Beløb"
 
 #: public/views/walletHome.html:577
 msgid "Answer"
-msgstr ""
+msgstr "Svar"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -1014,7 +1014,7 @@ msgstr "Note"
 
 #: src/js/controllers/export.js:88
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
-msgstr ""
+msgstr "Du skal nu sende filen til et andet sted for at kunne gendanne fra den senere (\"Gem til filer\", send til dig selv via chat apps, mail osv.)"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:113
@@ -1035,7 +1035,7 @@ msgstr "Åbn chat"
 
 #: public/views/walletHome.html:577
 msgid "Options for answering"
-msgstr ""
+msgstr "Indstillinger for svar"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
@@ -1132,7 +1132,7 @@ msgstr "Skift til en single-address wallet og så skal du sandsynligvis indsætt
 
 #: public/views/walletHome.html:351
 msgid "Poll"
-msgstr ""
+msgstr "Afstemning"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1140,7 +1140,7 @@ msgstr "Port"
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Byteball network that users can vote on with Poll bot."
-msgstr ""
+msgstr "Post en afstemning til Byteball-netværket som brugere kan stemme på via Poll Bot."
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Byteball network."
@@ -1198,7 +1198,7 @@ msgstr "QR-scanner"
 
 #: public/views/walletHome.html:564
 msgid "Question to be voted on"
-msgstr ""
+msgstr "Spørgsmål der skal stemmes om"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
@@ -1425,7 +1425,7 @@ msgstr "Del adresse"
 
 #: public/views/inviteCorrespondentDevice.html:27
 msgid "Share the code"
-msgstr ""
+msgstr "Del koden"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
