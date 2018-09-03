@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-09-03 14:10\n"
+"PO-Revision-Date: 2018-09-03 14:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr "接收，使用文本字符收款"
+msgstr "'接收'选项→'使用textcoin申领资金'按钮。"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -23,7 +23,7 @@ msgstr "(站点不会看到你的钱包金额，也无需花费任何费用)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr "当前所在钱包"
+msgstr "(当前钱包)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other wallet)"
@@ -804,7 +804,7 @@ msgstr "身份证号码"
 
 #: src/js/controllers/correspondentDevice.js:1227
 msgid "ID subtype"
-msgstr ""
+msgstr "证件子类型"
 
 #: src/js/controllers/correspondentDevice.js:1226
 msgid "ID type"
@@ -1957,7 +1957,7 @@ msgstr "清除聊天记录"
 
 #: public/views/walletHome.html:577
 msgid "confirmed"
-msgstr ""
+msgstr "确认"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1981,7 +1981,7 @@ msgstr "无论哪种方式"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr ""
+msgstr "擦除 textcoin"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
@@ -2006,11 +2006,11 @@ msgstr "在智能钱包"
 
 #: public/views/modals/signed-message.html:29
 msgid "invalid"
-msgstr ""
+msgstr "无效"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr ""
+msgstr "为自己保留"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -2080,15 +2080,15 @@ msgstr "重新分享"
 
 #: public/views/walletHome.html:447
 msgid "switch to multi-address"
-msgstr ""
+msgstr "切换到多地址"
 
 #: public/views/walletHome.html:446
 msgid "switch to single address"
-msgstr ""
+msgstr "切换到单个地址"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
-msgstr ""
+msgstr "下面的文字，并通过任何消息应用程序发送给收件人"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
@@ -2101,7 +2101,7 @@ msgstr "太长！"
 
 #: public/views/modals/signed-message.html:30
 msgid "valid"
-msgstr ""
+msgstr "有效"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
@@ -2131,7 +2131,7 @@ msgstr "{{cancel_label || 'Cancel'}}"
 
 #: public/views/modals/confirmation.html:6
 msgid "{{confirm_label || 'Yes'}}"
-msgstr ""
+msgstr "{{confirm_label || '是'}}"
 
 #: src/js/controllers/walletHome.js:1930
 msgid "{{fee}} will be deducted for bitcoin networking fees"
@@ -2143,7 +2143,7 @@ msgstr "可以花了 {{hrd.destinationAddress}}，如果："
 
 #: public/views/walletHome.html:395
 msgid "{{index.arrBalances[index.assetIndex].is_private ? 'To my other wallet' : 'To byteball address or email or username'}}"
-msgstr ""
+msgstr "{{index.arrBalances[index.assetIndex].is_private ? '到我的另一个钱包' : '到byteball地址或邮件地址或用户名'}}"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
