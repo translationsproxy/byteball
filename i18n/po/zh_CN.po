@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-09-03 13:51\n"
+"PO-Revision-Date: 2018-09-03 14:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1454,16 +1454,16 @@ msgstr "签署消息"
 
 #: src/js/controllers/index.js:407
 msgid "Sign message \"\" by address ?"
-msgstr ""
+msgstr "是否使用地址对 \"\" 的消息进行签署？"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
-msgstr ""
+msgstr "签名消息"
 
 #: public/views/modals/sign-message.html:22
 #: public/views/modals/signed-message.html:22
 msgid "Signing address:"
-msgstr ""
+msgstr "签名地址："
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
@@ -1494,7 +1494,7 @@ msgstr "未完成"
 
 #: src/js/controllers/correspondentDevice.js:1269
 msgid "Store"
-msgstr ""
+msgstr "确认并提交"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:141
@@ -1548,7 +1548,7 @@ msgstr "文本币"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
-msgstr ""
+msgstr "证明的地址属于:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1560,7 +1560,7 @@ msgstr "该Hub建议更换以下证人："
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr ""
+msgstr "这笔钱存储在这个 textcoin 上:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
