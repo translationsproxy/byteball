@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-09-03 14:20\n"
+"PO-Revision-Date: 2018-09-03 14:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -197,7 +197,7 @@ msgstr "认证"
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr "见证地址:"
+msgstr "证明地址："
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
@@ -984,11 +984,11 @@ msgstr "没有设置密码"
 
 #: public/views/modals/choose-profile.html:67
 msgid "No profiles matching the requested criteria."
-msgstr ""
+msgstr "没有与您的条件匹配的个人资料。"
 
 #: public/views/modals/choose-profile.html:68
 msgid "No profiles yet."
-msgstr ""
+msgstr "还没有个人资料。"
 
 #: public/views/walletHome.html:634
 msgid "No transactions yet"
@@ -1174,7 +1174,7 @@ msgstr "发送私人匿名资产"
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "私人档案"
 
 #: public/views/walletHome.html:349
 msgid "Profile"
@@ -1182,11 +1182,11 @@ msgstr "个人资料"
 
 #: public/views/walletHome.html:577
 msgid "Profile field"
-msgstr ""
+msgstr "档案领域"
 
 #: public/views/walletHome.html:577
 msgid "Profile field value"
-msgstr ""
+msgstr "配置文件字段值"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1384,7 +1384,7 @@ msgstr "邮件发送"
 
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
-msgstr ""
+msgstr "发送此个人资料"
 
 #: public/views/paperWallet.html:19
 msgid "Sending funds..."
