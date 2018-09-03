@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-09-03 13:41\n"
+"PO-Revision-Date: 2018-09-03 13:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -895,7 +895,7 @@ msgstr "语言设定"
 
 #: src/js/controllers/correspondentDevice.js:1221
 msgid "Last name"
-msgstr ""
+msgstr "姓氏"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
@@ -934,7 +934,7 @@ msgstr "消息"
 #: public/views/modals/sign-message.html:17
 #: public/views/modals/signed-message.html:17
 msgid "Message:"
-msgstr ""
+msgstr "消息："
 
 #: public/views/walletHome.html:668
 msgid "Moved"
@@ -1014,7 +1014,7 @@ msgstr "注意"
 
 #: src/js/controllers/export.js:88
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
-msgstr ""
+msgstr "现在, 您必须将此文件发送到某个地方, 以便以后从它还原 (\"保存到文件\", 使用聊天应用程序发送给自己)。"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:113
@@ -1035,11 +1035,11 @@ msgstr "启用聊天"
 
 #: public/views/walletHome.html:577
 msgid "Options for answering"
-msgstr ""
+msgstr "应答选项"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
-msgstr ""
+msgstr "或复制"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1128,11 +1128,11 @@ msgstr "请为此设备命名"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr ""
+msgstr "请切换到单地址钱包, 您可能需要再次插入您的地址。"
 
 #: public/views/walletHome.html:351
 msgid "Poll"
-msgstr ""
+msgstr "投票"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1140,7 +1140,7 @@ msgstr "端口："
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Byteball network that users can vote on with Poll bot."
-msgstr ""
+msgstr "用户可使用投票机器人(Poll bot)投票，并将选票结果发布到Byteball网络。"
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Byteball network."
@@ -1198,7 +1198,7 @@ msgstr "QR-扫描"
 
 #: public/views/walletHome.html:564
 msgid "Question to be voted on"
-msgstr ""
+msgstr "要投票的问题"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
@@ -1446,11 +1446,11 @@ msgstr "无论如何显示钱包口令私匙"
 
 #: public/views/modals/sign-message.html:46
 msgid "Sign"
-msgstr ""
+msgstr "签署"
 
 #: public/views/modals/sign-message.html:8
 msgid "Sign message"
-msgstr ""
+msgstr "签署消息"
 
 #: src/js/controllers/index.js:407
 msgid "Sign message \"\" by address ?"
