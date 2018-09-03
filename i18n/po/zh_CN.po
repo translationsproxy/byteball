@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-09-03 13:31\n"
+"PO-Revision-Date: 2018-09-03 13:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -292,7 +292,7 @@ msgstr "浏览器不支持"
 
 #: public/index.html:12
 msgid "Byteball &mdash; smart payments"
-msgstr ""
+msgstr "Byteball &mdash; 智能付款变得简单"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
@@ -342,7 +342,7 @@ msgstr "选择要发送到的设备"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr ""
+msgstr "选择要发送的字段:"
 
 #: src/js/controllers/walletHome.js:491
 msgid "Claim funds"
@@ -362,15 +362,15 @@ msgstr ""
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr ""
+msgstr "单击按钮 <span ng-if=\"isResend\">重新</span>发送电子邮件:"
 
 #: public/views/walletHome.html:516
 msgid "Click this button to create a payment file and send it to a recipient."
-msgstr ""
+msgstr "单击此按钮可创建付款文件并将其发送到收件人。"
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr ""
+msgstr "单击此按钮以创建付款并通过私人邮件在聊天应用程序中共享它或创建一个纸钱包。"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -503,7 +503,7 @@ msgstr "无法发送交易"
 
 #: src/js/controllers/correspondentDevice.js:1223
 msgid "Country"
-msgstr ""
+msgstr "国家/地区"
 
 #: public/views/walletHome.html:44
 msgid "Create"
@@ -552,7 +552,7 @@ msgstr "数据导入datafeed"
 
 #: public/views/walletHome.html:577
 msgid "Datafeed name"
-msgstr ""
+msgstr "数据源名称"
 
 #: public/views/walletHome.html:577
 msgid "Datafeed value"
@@ -596,7 +596,7 @@ msgstr "删除钱包"
 
 #: src/js/controllers/walletHome.js:1739
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr ""
+msgstr "删除 textcoin 将删除收回或重新发送的能力"
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
@@ -707,7 +707,7 @@ msgstr "最终"
 
 #: src/js/controllers/correspondentDevice.js:1220
 msgid "First name"
-msgstr ""
+msgstr "名字"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
@@ -808,11 +808,11 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:1226
 msgid "ID type"
-msgstr ""
+msgstr "证件类型"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
-msgstr ""
+msgstr "如果您的任何共同签署人设备没有看到此付款, 您可以"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
@@ -825,7 +825,7 @@ msgstr "如果对方不支付，我可以在这个时间后收回我的钱"
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr ""
+msgstr "如果收件人看不到您的付款, 您可以"
 
 #: public/views/import.html:47
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
