@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-09-03 14:00\n"
+"PO-Revision-Date: 2018-09-03 14:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1568,7 +1568,7 @@ msgstr "对方收到此付款，如果："
 
 #: public/views/modals/signed-message.html:28
 msgid "The signature is"
-msgstr ""
+msgstr "签名是"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -1609,7 +1609,7 @@ msgstr "此款项被绑定支付条件"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
-msgstr ""
+msgstr "此付款必须仅从单地址钱包中支付"
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
@@ -1617,19 +1617,19 @@ msgstr "此交易已失效，可能由于尝试双重支付导致。"
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
-msgstr ""
+msgstr "此钱包无法转换为多地址钱包，因为它已有证明"
 
 #: public/views/preferences.html:41
 msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
-msgstr ""
+msgstr "此钱包无法转换为多地址钱包，因为它是多设备"
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
-msgstr ""
+msgstr "此钱包无法转换为单个地址钱包，因为它已包含多个地址"
 
 #: public/views/preferences.html:40
 msgid "This wallet cannot be converted to single address wallet as it is multidevice"
-msgstr ""
+msgstr "此钱包无法转换为单地址钱包，因为它是多设备使用"
 
 #: public/views/import.html:46
 #: public/views/recoveryFromSeed.html:39
@@ -1675,7 +1675,7 @@ msgstr "锁定总余额"
 
 #: public/views/walletHome.html:380
 msgid "Total amount"
-msgstr ""
+msgstr "总量"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
@@ -1703,7 +1703,7 @@ msgstr "受信任节点"
 
 #: src/js/controllers/correspondentDevice.js:1224
 msgid "US state"
-msgstr ""
+msgstr "美国政府"
 
 #: src/js/controllers/walletHome.js:846
 msgid "Unable to send transaction proposal"
@@ -1748,7 +1748,7 @@ msgstr "值"
 
 #: src/js/controllers/correspondentDevice.js:1246
 msgid "Verifying the profile..."
-msgstr ""
+msgstr "正在验证配置文件..."
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1857,7 +1857,7 @@ msgstr "见证人"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr ""
+msgstr "在纸上写下这个textcoin并安全地存储，使用时可以在任何时候将其声明回来。"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1874,7 +1874,7 @@ msgstr "是的"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr ""
+msgstr "如果您已将其保存在其他地方（例如作为纸质钱包），您可以从钱包中删除 textcoin："
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1886,7 +1886,7 @@ msgstr "您没有钱包"
 
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
-msgstr ""
+msgstr "你需要通过一个认证来获得个人资料。 在机器人商店(Bot Store)寻找真实名称认证机器人(Real Name Attestation bot)。"
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -1929,11 +1929,11 @@ msgstr "事件是由 oracle 发布："
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr ""
+msgstr "并擦除textcoin以保护其免受攻击者的攻击。"
 
 #: public/views/walletHome.html:577
 msgid "available"
-msgstr ""
+msgstr "可用"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
