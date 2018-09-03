@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-09-03 14:41\n"
+"PO-Revision-Date: 2018-09-03 14:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -39,7 +39,7 @@ msgstr "-- 选择多重签名账户 --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr "用破折号隔开的12个单词"
+msgstr "用连接号(-)隔开的12个单词"
 
 #: public/views/preferencesGlobal.html:139
 msgid "About Byteball"
@@ -346,11 +346,11 @@ msgstr "选择要发送的字段:"
 
 #: src/js/controllers/walletHome.js:491
 msgid "Claim funds"
-msgstr "取回存款"
+msgstr "取回资金"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr "通过文本币取回存款"
+msgstr "通过文本币取回资金"
 
 #: public/views/walletHome.html:317
 msgid "Claim funds using textcoin"
@@ -1878,7 +1878,7 @@ msgstr "如果您已将其保存在其他地方（例如作为纸质钱包），
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr "由于您处于单地址钱包，您不能将您的交易绑定到反向支付。 使用非单地址钱包, 然后把钱转移到这个钱包。"
+msgstr "您无法将交易绑定到反向付款，因为您在单个地址钱包中。 使用非单一地址钱包，然后将钱转移到此钱包。"
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
