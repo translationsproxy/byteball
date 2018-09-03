@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-09-03 14:31\n"
+"PO-Revision-Date: 2018-09-03 14:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -292,7 +292,7 @@ msgstr "浏览器不支持"
 
 #: public/index.html:12
 msgid "Byteball &mdash; smart payments"
-msgstr "Byteball &mdash; 智能付款变得简单"
+msgstr "Byteball &mdash; 智能支付"
 
 #: public/views/modals/destination-address.html:119
 msgid "Byteball address"
@@ -370,7 +370,7 @@ msgstr "单击此按钮可创建付款文件并将其发送到收件人。"
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr "单击此按钮以创建付款并通过私人邮件在聊天应用程序中共享它或创建一个纸钱包。"
+msgstr "单击此按钮可创建付款并通过聊天应用中的私人消息进行分享或创建纸质钱包。"
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
@@ -800,7 +800,7 @@ msgstr "我收到另一笔款项其数额为"
 
 #: src/js/controllers/correspondentDevice.js:1225
 msgid "ID number"
-msgstr "身份证号码"
+msgstr "身份号码"
 
 #: src/js/controllers/correspondentDevice.js:1227
 msgid "ID subtype"
@@ -988,7 +988,7 @@ msgstr "没有与您的条件匹配的个人资料。"
 
 #: public/views/modals/choose-profile.html:68
 msgid "No profiles yet."
-msgstr "还没有个人资料。"
+msgstr "暂无档案。"
 
 #: public/views/walletHome.html:634
 msgid "No transactions yet"
@@ -1014,7 +1014,7 @@ msgstr "注意"
 
 #: src/js/controllers/export.js:88
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
-msgstr "现在, 您必须将此文件发送到某个地方, 以便以后从它还原 (\"保存到文件\", 使用聊天应用程序发送给自己)。"
+msgstr "现在你必须将此文件发送到某处以便稍后从中恢复（“保存到文件”，使用聊天应用程序发送给自己等）"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:113
@@ -1035,7 +1035,7 @@ msgstr "启用聊天"
 
 #: public/views/walletHome.html:577
 msgid "Options for answering"
-msgstr "应答选项"
+msgstr "回答选项"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
@@ -1454,11 +1454,11 @@ msgstr "签署消息"
 
 #: src/js/controllers/index.js:407
 msgid "Sign message \"\" by address ?"
-msgstr "是否使用地址对 \"\" 的消息进行签署？"
+msgstr "通过地址签署消息？"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
-msgstr "签名消息"
+msgstr "签名的消息"
 
 #: public/views/modals/sign-message.html:22
 #: public/views/modals/signed-message.html:22
@@ -1675,7 +1675,7 @@ msgstr "锁定总余额"
 
 #: public/views/walletHome.html:380
 msgid "Total amount"
-msgstr "总量"
+msgstr "总金额"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
@@ -1748,7 +1748,7 @@ msgstr "值"
 
 #: src/js/controllers/correspondentDevice.js:1246
 msgid "Verifying the profile..."
-msgstr "正在验证配置文件..."
+msgstr "验证个人资料......"
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
