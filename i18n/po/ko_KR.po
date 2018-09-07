@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-09-07 16:10\n"
+"PO-Revision-Date: 2018-09-07 16:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2118,7 +2118,7 @@ msgstr "기대되는 값"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
-msgstr "해당 조건을 만족하면 {{address}} 에서 자금을 사용할 수 있습니다:"
+msgstr "해당 조건을 만족하면 {{address}}의 자금을 사용할 수 있습니다:"
 
 #: public/views/modals/accept-profile.html:41
 #: public/views/modals/claim-textcoin.html:36
@@ -2140,20 +2140,20 @@ msgstr "{{fee}} 만큼의 비트코인 네트워킹 수수료가 공제됩니다
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr "해당 조건을 만족하면 {{hrd.destinationAddress}} 에서 자금을 사용할 수 있습니다:"
+msgstr "해당 조건을 만족하면 {{hrd.destinationAddress}}의 자금을 사용할 수 있습니다:"
 
 #: public/views/walletHome.html:395
 msgid "{{index.arrBalances[index.assetIndex].is_private ? 'To my other wallet' : 'To byteball address or email or username'}}"
-msgstr ""
+msgstr "{{index.arrBalances[index.assetIndex].is_private ? '내 다른 지갑' : '바이트볼 주소 또는 이메일, 사용자이름'}}"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
 msgid "{{index.m}}-of-{{index.n}}"
-msgstr ""
+msgstr "{{index.m} / {{index.n}}"
 
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr ""
+msgstr "{{item.m} / {{item.n}}"
 
 #: public/views/preferencesGlobal.html:29
 msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
