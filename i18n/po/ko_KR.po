@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-09-07 14:11\n"
+"PO-Revision-Date: 2018-09-07 15:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1199,7 +1199,7 @@ msgstr "QR스캐너"
 
 #: public/views/walletHome.html:564
 msgid "Question to be voted on"
-msgstr ""
+msgstr "설문 조사 질문"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
@@ -1455,7 +1455,7 @@ msgstr "메시지 서명하기"
 
 #: src/js/controllers/index.js:407
 msgid "Sign message \"\" by address ?"
-msgstr ""
+msgstr "이 주소로 메시지 \"\"를 서명하시겠습니까?"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
@@ -1464,7 +1464,7 @@ msgstr "서명된 메시지"
 #: public/views/modals/sign-message.html:22
 #: public/views/modals/signed-message.html:22
 msgid "Signing address:"
-msgstr ""
+msgstr "서명 주소:"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
@@ -1474,7 +1474,7 @@ msgstr "단일 주소 지갑"
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "단일 주소 지갑은 트랜잭션마다 새로운 주소를 생성하지 않으며, 변동 사항은 지갑에 담긴 하나의 주소에 모두 기록될 것입니다."
 
 #: src/js/services/profileService.js:335
 msgid "Small Expenses Wallet"
@@ -1518,7 +1518,7 @@ msgstr "종이 지갑 스윕"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
-msgstr ""
+msgstr "동기화 중... {{index.count_unhandled_private_payments}} 비공개 결제가 남았음"
 
 #: public/views/walletHome.html:82
 msgid "Syncing... {{index.syncProgress}}"
@@ -1541,7 +1541,7 @@ msgstr "이용약관"
 
 #: public/views/correspondentDevice.html:347
 msgid "Text message to"
-msgstr ""
+msgstr "문자 메시지 대상"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
