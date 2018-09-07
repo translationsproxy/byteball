@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-09-07 13:30\n"
+"PO-Revision-Date: 2018-09-07 13:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1141,7 +1141,7 @@ msgstr "포트"
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Byteball network that users can vote on with Poll bot."
-msgstr ""
+msgstr "이용자가 설문 조사 봇을 이용해 투표할 수 있게 바이트볼 네트워크에 설문조사를 보냅니다."
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Byteball network."
