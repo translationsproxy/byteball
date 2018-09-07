@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-09-07 16:00\n"
+"PO-Revision-Date: 2018-09-07 16:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1618,19 +1618,19 @@ msgstr "이 거래는 효력이 없어졌습니다; 아마도 이중 지불 시�
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
-msgstr ""
+msgstr "이 지갑은 이미 인증되었기 때문에 다중 주소 지갑으로 변환할 수 없습니다"
 
 #: public/views/preferences.html:41
 msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
-msgstr ""
+msgstr "이 지갑은 여러 기기에서 이용하고 있으므로 다중 주소 지갑으로 변환할 수 없습니다."
 
 #: public/views/preferences.html:39
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
-msgstr ""
+msgstr "이 지갑은 이미 다중 주소로 구성되어 있기 때문에 단일 주소 지갑으로 변환할 수 없습니다."
 
 #: public/views/preferences.html:40
 msgid "This wallet cannot be converted to single address wallet as it is multidevice"
-msgstr ""
+msgstr "이 지갑은 여러 기기에서 이용하고 있으므로 단일 주소 지갑으로 변환할 수 없습니다."
 
 #: public/views/import.html:46
 #: public/views/recoveryFromSeed.html:39
@@ -2011,7 +2011,7 @@ msgstr "유효하지 않음"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr ""
+msgstr "잘 보관하세요"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -2019,12 +2019,12 @@ msgstr "결제 대기 중인 것은 잠겨있습니다"
 
 #: public/views/modals/tx-details.html:131
 msgid "not claimed"
-msgstr ""
+msgstr "요청되지 않음"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "피드 이름"
 
 #: public/views/walletHome.html:461
 #: public/views/walletHome.html:472
@@ -2033,27 +2033,27 @@ msgstr "선택사항"
 
 #: public/views/modals/offer-contract.html:99
 msgid "or"
-msgstr ""
+msgstr "또는"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "또는 모든 바이트볼 데이터를 이곳에 백업합니다"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr ""
+msgstr "개별 결제"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
-msgstr ""
+msgstr "보냈음"
 
 #: public/views/modals/tx-details.html:151
 msgid "re-send private payloads"
-msgstr ""
+msgstr "비공개 페이로드 재전송"
 
 #: public/views/modals/tx-details.html:154
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "공동 서명자에게 비공개 페이로드 재전송"
 
 #: public/views/modals/share.html:35
 msgid "send"
@@ -2093,7 +2093,7 @@ msgstr "메시지 앱을 이용해 아래 문자를 수신자에게 보내세요
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
-msgstr ""
+msgstr "수신자"
 
 #: public/views/walletHome.html:462
 #: public/views/walletHome.html:473
@@ -2102,23 +2102,23 @@ msgstr "너무 깁니다!"
 
 #: public/views/modals/signed-message.html:30
 msgid "valid"
-msgstr ""
+msgstr "유효함"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "와"
 
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
-msgstr ""
+msgstr "원하는 값"
 
 #: public/views/modals/bind.html:58
 msgid "with expected value of"
-msgstr ""
+msgstr "기대되는 값"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
-msgstr ""
+msgstr "해당 조건을 만족하면 {{address}} 에서 자금을 사용할 수 있습니다:"
 
 #: public/views/modals/accept-profile.html:41
 #: public/views/modals/claim-textcoin.html:36
@@ -2140,7 +2140,7 @@ msgstr "{{fee}} 만큼의 비트코인 네트워킹 수수료가 공제됩니다
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "해당 조건을 만족하면 {{hrd.destinationAddress}} 에서 자금을 사용할 수 있습니다:"
 
 #: public/views/walletHome.html:395
 msgid "{{index.arrBalances[index.assetIndex].is_private ? 'To my other wallet' : 'To byteball address or email or username'}}"
