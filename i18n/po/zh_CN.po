@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-09-03 14:51\n"
+"PO-Revision-Date: 2018-09-08 02:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1140,7 +1140,7 @@ msgstr "端口："
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Byteball network that users can vote on with Poll bot."
-msgstr "用户可使用投票机器人(Poll bot)投票，并将选票结果发布到Byteball网络。"
+msgstr "用户使用投票机器人(Poll bot)投票，并将选票结果发布到Byteball网络。"
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Byteball network."
