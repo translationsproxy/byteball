@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-09-10 05:20\n"
+"PO-Revision-Date: 2018-09-10 05:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -114,7 +114,7 @@ msgstr "고급 설정"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr "텍스트코인 정보를 별도로 기록한 후 이곳에서 트랜잭션을 확인할 수 있습니다"
+msgstr "텍스트코인 정보를 별도로 기록하세요. 관련 트랜잭션은 이곳에서 확인할 수 있습니다"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -1930,7 +1930,7 @@ msgstr "이벤트는 오라클에 의해 게시됩니다."
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr "그리고 공격자로부터 그것을 안전하게 지키기 위해 텍스트코인을 지우십시오."
+msgstr "그리고 공격자로부터 안전하게 자금을 지키려면 텍스트코인을 삭제하세요."
 
 #: public/views/walletHome.html:577
 msgid "available"
@@ -1982,7 +1982,7 @@ msgstr "어느 쪽이 든"
 
 #: public/views/modals/tx-details.html:148
 msgid "erase textcoin"
-msgstr "텍스트코인을 삭제하십시오"
+msgstr "텍스트코인 삭제하기"
 
 #: public/views/modals/bind.html:64
 msgid "explicitly"
@@ -2011,7 +2011,7 @@ msgstr "유효하지 않음"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr "잘 보관하세요"
+msgstr "스스로 보관하기"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
