@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-09-07 16:20\n"
+"PO-Revision-Date: 2018-09-10 05:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -596,7 +596,7 @@ msgstr "지갑 삭제"
 
 #: src/js/controllers/walletHome.js:1739
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
-msgstr "텍스트코인을 삭제하는 것은 다시 요청하거나 재전송할 수 있는 능력을 제거할 것입니다."
+msgstr "텍스트코인을 삭제하면 자금을 되찾거나 재전송할 수 있는 능력도 함께 사라집니다."
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
