@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2018-09-20 15:20\n"
+"PO-Revision-Date: 2018-09-20 15:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1425,7 +1425,7 @@ msgstr "مشاركة العنوان"
 
 #: public/views/inviteCorrespondentDevice.html:27
 msgid "Share the code"
-msgstr ""
+msgstr "مشاركة الرمز"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
