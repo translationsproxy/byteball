@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2018-09-24 22:10\n"
+"PO-Revision-Date: 2018-09-24 22:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr "'Võta vastu' sakk → 'Tekstiliste vahendite omaksvõtmine' nuppu."
+msgstr "'Võta vastu' vaheleht → 'Tekstiliste vahendite omaksvõtmine' nuppu."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -1048,7 +1048,7 @@ msgstr "Sidumiskood"
 
 #: public/views/paperWallet.html:79
 msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
-msgstr ""
+msgstr "Paberile üleskirjutatud lähtesõnad on nagu tekstilised vahendid. Skaneeri paberilt QR kood kasutades nuppu üleval paremal nurgas või sisesta 12 tekstiliste vahendite lähtesõna käsitsi \"Võta vastu\" vahelehelt."
 
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
@@ -1506,7 +1506,7 @@ msgstr "TOR anonüümsusvõrgustik"
 
 #: public/views/preferencesTor.html:12
 msgid "TOR enabled"
-msgstr ""
+msgstr "TOR kasutamine"
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
@@ -2094,7 +2094,7 @@ msgstr "sobiv"
 
 #: src/js/controllers/walletHome.js:879
 msgid "wait for sync to complete before sending payments"
-msgstr ""
+msgstr "enne maksete saatmist oota sünkroniseerimise lõpuni"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
