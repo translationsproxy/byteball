@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-08-24 18:01\n"
+"PO-Revision-Date: 2018-09-24 22:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -72,8 +72,8 @@ msgstr "Добавить бота"
 msgid "Add a new device"
 msgstr "Добавить новое устройство"
 
-#: public/views/modals/destination-address.html:106
-#: public/views/modals/destination-address.html:99
+#: public/views/modals/destination-address.html:100
+#: public/views/modals/destination-address.html:107
 msgid "Add a new entry"
 msgstr "Добавить новую запись"
 
@@ -94,7 +94,7 @@ msgid "Added"
 msgstr "Добавлен"
 
 #: public/views/modals/customized-amount.html:32
-#: public/views/modals/destination-address.html:118
+#: public/views/modals/destination-address.html:119
 #: public/views/paymentUri.html:15
 msgid "Address"
 msgstr "Адрес"
@@ -108,7 +108,7 @@ msgstr "Какой адрес атттестовать"
 msgid "Addressbook"
 msgstr "Адресная книга"
 
-#: public/views/preferences.html:59
+#: public/views/preferences.html:66
 msgid "Advanced"
 msgstr "Подробнее"
 
@@ -136,7 +136,7 @@ msgstr "Любой вклад в перевод Byteball приветствую�
 msgid "Already Paid"
 msgstr "Уже оплачено"
 
-#: src/js/controllers/correspondentDevice.js:1267
+#: src/js/controllers/correspondentDevice.js:1271
 msgid "Already saved"
 msgstr "Уже сохранено"
 
@@ -248,7 +248,7 @@ msgstr "Мнемоника удалена"
 msgid "Backups"
 msgstr "Резервные копии"
 
-#: src/js/controllers/correspondentDevice.js:1252
+#: src/js/controllers/correspondentDevice.js:1256
 msgid "Bad profile"
 msgstr "Неверный профиль"
 
@@ -294,7 +294,7 @@ msgstr "Браузер не поддерживается"
 msgid "Byteball &mdash; smart payments"
 msgstr "Byteball &mdash; умные платежи"
 
-#: public/views/modals/destination-address.html:119
+#: public/views/modals/destination-address.html:120
 msgid "Byteball address"
 msgstr "Byteball адрес"
 
@@ -307,7 +307,7 @@ msgstr "ОТМЕНА"
 msgid "CONTINUE"
 msgstr "ПРОДОЛЖИТЬ"
 
-#: public/views/modals/destination-address.html:127
+#: public/views/modals/destination-address.html:128
 #: public/views/walletHome.html:494
 #: src/js/controllers/copayers.js:9
 #: src/js/controllers/preferencesDelete.js:10
@@ -324,7 +324,7 @@ msgstr "Изменить хаб:"
 msgid "Changing wallet alias only affects the local wallet name."
 msgstr "Изменение псевдонима кошелька влияет только на название локального кошелька."
 
-#: src/js/controllers/index.js:680
+#: src/js/controllers/index.js:681
 msgid "Chat"
 msgstr "Чат"
 
@@ -344,7 +344,7 @@ msgstr "Выберите устройство куда отправить"
 msgid "Choose which fields to send:"
 msgstr "Выбрать поля для отправки:"
 
-#: src/js/controllers/walletHome.js:491
+#: src/js/controllers/walletHome.js:494
 msgid "Claim funds"
 msgstr "Запросить деньги"
 
@@ -421,11 +421,11 @@ msgid "Compress the file? (Slower)"
 msgstr "Сжать файл? (медленнее)"
 
 #: src/js/controllers/copayers.js:10
-#: src/js/controllers/index.js:519
+#: src/js/controllers/index.js:520
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:125
-#: src/js/controllers/walletHome.js:1742
-#: src/js/controllers/walletHome.js:1746
+#: src/js/controllers/walletHome.js:1759
+#: src/js/controllers/walletHome.js:1763
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "Подтвердить"
@@ -451,7 +451,7 @@ msgid "Contacts"
 msgstr "Контакты"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
-#: src/js/controllers/walletHome.js:392
+#: src/js/controllers/walletHome.js:395
 msgid "Copied to clipboard"
 msgstr "Скопировано в буфер обмена"
 
@@ -463,7 +463,7 @@ msgstr "Копировать"
 msgid "Correspondents are not restored."
 msgstr "Корреспонденты не восстанавливаются."
 
-#: src/js/controllers/walletHome.js:700
+#: src/js/controllers/walletHome.js:705
 msgid "Could not create payment proposal"
 msgstr "Не удалось создать предложение платежа"
 
@@ -497,11 +497,11 @@ msgstr "Не удалось импортировать"
 msgid "Could not import. Check input file and password"
 msgstr "Не удалось импортировать. Проверьте входной файл и пароль"
 
-#: src/js/controllers/walletHome.js:700
+#: src/js/controllers/walletHome.js:705
 msgid "Could not send payment"
 msgstr "Не удалось отправить платеж"
 
-#: src/js/controllers/correspondentDevice.js:1223
+#: src/js/controllers/correspondentDevice.js:1227
 msgid "Country"
 msgstr "Страна"
 
@@ -515,12 +515,9 @@ msgstr "Создать новый кошелек"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
+#: src/js/controllers/index.js:311
 msgid "Create new wallet"
 msgstr "Создать новый кошелек"
-
-#: src/js/controllers/index.js:310
-msgid "Create new wallet  together with  ?"
-msgstr "Создать новый кошелек вместе с?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
@@ -562,17 +559,13 @@ msgstr "Значение в датафиде"
 msgid "Date"
 msgstr "Дата"
 
-#: src/js/controllers/correspondentDevice.js:1222
+#: src/js/controllers/correspondentDevice.js:1226
 msgid "Date of birth"
 msgstr "Дата рождения"
 
-#: src/js/controllers/index.js:276
+#: src/js/controllers/index.js:277
 msgid "Declined"
 msgstr "Отклонено"
-
-#: public/views/paperWallet.html:40
-msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr "Расшифровка бумажного кошелька может занять до пяти минут на этом устройстве. Пожалуйста, будьте терпеливы и держите приложение открытым."
 
 #: public/views/walletHome.html:194
 msgid "Definition"
@@ -594,7 +587,7 @@ msgstr "Удалить кошелек"
 msgid "Delete wallet"
 msgstr "Удалить кошелек"
 
-#: src/js/controllers/walletHome.js:1739
+#: src/js/controllers/walletHome.js:1756
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr "Удаление этого textcoin не позволить получить его обратно или отправить повторно"
 
@@ -676,8 +669,8 @@ msgstr "Ошибка создания кошелька"
 msgid "Export"
 msgstr "Экспорт"
 
-#: src/js/controllers/export.js:141
-#: src/js/controllers/export.js:166
+#: src/js/controllers/export.js:142
+#: src/js/controllers/export.js:167
 msgid "Export completed successfully"
 msgstr "Экспорт завершен успешно"
 
@@ -705,7 +698,7 @@ msgstr "Поле"
 msgid "Finality"
 msgstr "Завершенность"
 
-#: src/js/controllers/correspondentDevice.js:1220
+#: src/js/controllers/correspondentDevice.js:1224
 msgid "First name"
 msgstr "Имя"
 
@@ -721,19 +714,11 @@ msgstr "Полный адрес"
 msgid "Full backup"
 msgstr "Полное резервное копирование"
 
-#: public/views/paperWallet.html:58
-msgid "Funds found"
-msgstr "Средства найдены"
-
-#: public/views/paperWallet.html:74
-msgid "Funds will be transferred to"
-msgstr "Средства будут переведены на"
-
 #: public/views/splash.html:92
 msgid "GET STARTED"
 msgstr "НАЧАТЬ"
 
-#: src/js/controllers/walletHome.js:421
+#: src/js/controllers/walletHome.js:424
 msgid "Generate QR Code"
 msgstr "Сгенерировать QR-код"
 
@@ -761,16 +746,20 @@ msgstr "Вернуться"
 msgid "Hardware wallet"
 msgstr "Аппаратный кошелек"
 
+#: public/views/preferences.html:59
+msgid "Hidden assets"
+msgstr ""
+
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
 msgstr "Скрыть мнемонику (seed)"
 
 #: public/views/modals/share.html:43
-#: src/js/controllers/index.js:676
+#: src/js/controllers/index.js:677
 msgid "History"
 msgstr "История"
 
-#: src/js/controllers/index.js:664
+#: src/js/controllers/index.js:665
 msgid "Home"
 msgstr "Главная"
 
@@ -798,15 +787,19 @@ msgstr "Я плачу"
 msgid "I receive another payment of"
 msgstr "я получаю другой платёж"
 
-#: src/js/controllers/correspondentDevice.js:1225
+#: public/views/modals/tx-details.html:102
+msgid "ID"
+msgstr ""
+
+#: src/js/controllers/correspondentDevice.js:1229
 msgid "ID number"
 msgstr "ID номер"
 
-#: src/js/controllers/correspondentDevice.js:1227
+#: src/js/controllers/correspondentDevice.js:1231
 msgid "ID subtype"
 msgstr "ID подтип"
 
-#: src/js/controllers/correspondentDevice.js:1226
+#: src/js/controllers/correspondentDevice.js:1230
 msgid "ID type"
 msgstr "ID тип"
 
@@ -868,7 +861,7 @@ msgstr "Вставить приватный профиль"
 msgid "Invalid"
 msgstr "Недействительно"
 
-#: src/js/controllers/index.js:1630
+#: src/js/controllers/index.js:1658
 msgid "Invalid Touch ID"
 msgstr "Недействительный Touch ID"
 
@@ -884,7 +877,7 @@ msgstr "Сохранение только мнемофразы (seed) может
 msgid "Keep only data relevant to you"
 msgstr "Хранить только данные, относящиеся к Вам"
 
-#: public/views/modals/destination-address.html:120
+#: public/views/modals/destination-address.html:121
 msgid "Label"
 msgstr "Ярлык"
 
@@ -892,7 +885,7 @@ msgstr "Ярлык"
 msgid "Language"
 msgstr "Язык"
 
-#: src/js/controllers/correspondentDevice.js:1221
+#: src/js/controllers/correspondentDevice.js:1225
 msgid "Last name"
 msgstr "Фамилия"
 
@@ -951,7 +944,7 @@ msgstr "Мой Byteball адрес"
 msgid "My recording preference"
 msgstr "Мой выбор о сохранении чата"
 
-#: public/views/modals/destination-address.html:121
+#: public/views/modals/destination-address.html:122
 msgid "Name of the contact"
 msgstr "Имя контакта"
 
@@ -972,8 +965,8 @@ msgid "New witnesses"
 msgstr "Новые свидетели"
 
 #: public/views/authConfirmation.html:22
-#: src/js/controllers/index.js:518
-#: src/js/controllers/walletHome.js:1754
+#: src/js/controllers/index.js:519
+#: src/js/controllers/walletHome.js:1771
 msgid "No"
 msgstr "Нет"
 
@@ -995,7 +988,7 @@ msgstr "Транзакций пока не было"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
-#: public/views/modals/destination-address.html:112
+#: public/views/modals/destination-address.html:113
 #: public/views/walletHome.html:371
 #: public/views/walletHome.html:408
 #: public/views/walletHome.html:417
@@ -1011,12 +1004,12 @@ msgstr "Не действительно"
 msgid "Note"
 msgstr "Примечание"
 
-#: src/js/controllers/export.js:88
+#: src/js/controllers/export.js:89
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
 msgstr ""
 
 #: public/views/modals/offer-contract.html:33
-#: src/js/services/correspondentListService.js:113
+#: src/js/services/correspondentListService.js:117
 msgid "Offer a contract"
 msgstr "Предложить контракт"
 
@@ -1052,11 +1045,10 @@ msgstr "Спаренные устройства"
 msgid "Pairing code"
 msgstr "Код сопряжения"
 
-#: public/views/paperWallet.html:30
-msgid "Paper Wallet Private Key"
-msgstr "Закрытый ключ бумажного кошелька"
+#: public/views/paperWallet.html:79
+msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
+msgstr ""
 
-#: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
 msgstr "Ключевая фраза"
@@ -1077,7 +1069,7 @@ msgstr "Вставьте закрытый ключ бумажного кошел
 msgid "Pay and offer"
 msgstr "Заплатить и предложить"
 
-#: src/js/services/correspondentListService.js:113
+#: src/js/services/correspondentListService.js:117
 msgid "Pay to this address"
 msgstr "Заплатить на этот адрес"
 
@@ -1166,8 +1158,8 @@ msgstr "Нажмите еще раз для выхода"
 msgid "Private assets (such as blackbytes) are not recovered."
 msgstr "Частные активы (например, blackbytes) не восстанавливаются."
 
-#: src/js/controllers/walletHome.js:1813
-#: src/js/controllers/walletHome.js:1889
+#: src/js/controllers/walletHome.js:1825
+#: src/js/controllers/walletHome.js:1901
 msgid "Private payloads sent"
 msgstr "Приватная информация отправлена"
 
@@ -1203,7 +1195,7 @@ msgstr ""
 msgid "Question:"
 msgstr "Вопрос:"
 
-#: src/js/controllers/index.js:668
+#: src/js/controllers/index.js:669
 msgid "Receive"
 msgstr "Получить"
 
@@ -1232,7 +1224,7 @@ msgstr "Восстановление из мнемоники (seed)"
 msgid "Recreating Wallet..."
 msgstr "Воссоздаю кошелек..."
 
-#: src/js/controllers/index.js:228
+#: src/js/controllers/index.js:229
 msgid "Refused"
 msgstr "Отказано"
 
@@ -1240,7 +1232,7 @@ msgstr "Отказано"
 msgid "Release Information"
 msgstr "Информация о выпуске"
 
-#: public/views/modals/destination-address.html:84
+#: public/views/modals/destination-address.html:85
 msgid "Remove"
 msgstr "Удалить"
 
@@ -1295,7 +1287,7 @@ msgid "SET"
 msgstr "УСТАНОВИТЬ"
 
 #: public/views/editCorrespondentDevice.html:41
-#: public/views/modals/destination-address.html:132
+#: public/views/modals/destination-address.html:133
 #: public/views/preferencesAlias.html:14
 #: public/views/preferencesDeviceName.html:14
 #: public/views/preferencesEditAttestorAddress.html:14
@@ -1310,13 +1302,9 @@ msgstr "Сохранить"
 msgid "Saving preferences..."
 msgstr "Сохранение настроек..."
 
-#: public/views/preferences.html:69
+#: public/views/preferences.html:76
 msgid "Scan Fingerprint"
 msgstr "Сканирование отпечатка пальца"
-
-#: public/views/paperWallet.html:44
-msgid "Scan Wallet Funds"
-msgstr "Сканирование кошелька"
 
 #: public/views/walletHome.html:121
 msgid "Scan status finished with error"
@@ -1326,7 +1314,7 @@ msgstr "Сканирование завершено с ошибкой"
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
 msgstr "Отсканируйте приведенный выше QR-код с помощью другого устройства или отправьте этот код сопряжения на другое устройство:"
 
-#: src/js/controllers/index.js:1623
+#: src/js/controllers/index.js:1651
 msgid "Scan your fingerprint please"
 msgstr "Пожалуйста, отсканируйте Ваш отпечаток пальца"
 
@@ -1338,10 +1326,6 @@ msgstr "Сканирование средств кошелька..."
 msgid "Scanning for addresses..."
 msgstr "Сканирование адресов кошелька..."
 
-#: public/views/paperWallet.html:18
-msgid "Scanning wallet funds..."
-msgstr "Сканирование адресов кошелька..."
-
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
 msgstr "Выберите кошелек"
@@ -1350,6 +1334,10 @@ msgstr "Выберите кошелек"
 msgid "Select subwallet"
 msgstr "Выберите подкошелек"
 
+#: public/views/preferencesHiddenAssets.html:29
+msgid "Select the assets to hide in the wallet"
+msgstr ""
+
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
 msgstr "Выберите аккаунт"
@@ -1357,7 +1345,7 @@ msgstr "Выберите аккаунт"
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:497
 #: public/views/walletHome.html:596
-#: src/js/controllers/index.js:672
+#: src/js/controllers/index.js:673
 msgid "Send"
 msgstr "Отправить"
 
@@ -1384,10 +1372,6 @@ msgstr "Отправить по электронной почте"
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
 msgstr "Отправить этот профиль"
-
-#: public/views/paperWallet.html:19
-msgid "Sending funds..."
-msgstr "Отправка средств..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
@@ -1448,12 +1432,9 @@ msgid "Sign"
 msgstr "Подписать"
 
 #: public/views/modals/sign-message.html:8
+#: src/js/controllers/index.js:408
 msgid "Sign message"
 msgstr "Подписать сообщение"
-
-#: src/js/controllers/index.js:407
-msgid "Sign message \"\" by address ?"
-msgstr "Подписание сообщение \"адресом\"?"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
@@ -1482,7 +1463,7 @@ msgstr "Кошелёк малых расходов"
 msgid "Specify Seed..."
 msgstr "Укажите мнемонику (seed)..."
 
-#: public/views/preferences.html:63
+#: public/views/preferences.html:70
 #: public/views/preferencesGlobal.html:86
 msgid "Spending Restrictions"
 msgstr "Ограничение расходов"
@@ -1491,24 +1472,20 @@ msgstr "Ограничение расходов"
 msgid "Still not done"
 msgstr "Все еще не завершено"
 
-#: src/js/controllers/correspondentDevice.js:1269
+#: src/js/controllers/correspondentDevice.js:1273
 msgid "Store"
 msgstr "Хранить"
 
 #: src/js/controllers/copayers.js:76
-#: src/js/controllers/export.js:141
-#: src/js/controllers/export.js:166
-#: src/js/controllers/index.js:265
-#: src/js/controllers/index.js:293
+#: src/js/controllers/export.js:142
+#: src/js/controllers/export.js:167
+#: src/js/controllers/index.js:266
+#: src/js/controllers/index.js:294
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:1813
-#: src/js/controllers/walletHome.js:1889
+#: src/js/controllers/walletHome.js:1825
+#: src/js/controllers/walletHome.js:1901
 msgid "Success"
 msgstr "Успешно"
-
-#: public/views/paperWallet.html:64
-msgid "Sweep Wallet"
-msgstr "Считать кошелек"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
@@ -1525,6 +1502,10 @@ msgstr "Синхронизация... {{index.syncProgress}}"
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
 msgstr "TOR"
+
+#: public/views/preferencesTor.html:12
+msgid "TOR enabled"
+msgstr ""
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
@@ -1640,7 +1621,7 @@ msgstr "Все ваши существующие кошельки будут б�
 #: public/views/modals/tx-details.html:36
 #: public/views/modals/tx-details.html:71
 #: public/views/walletHome.html:699
-#: src/js/controllers/index.js:1430
+#: src/js/controllers/index.js:1458
 msgid "To"
 msgstr "Кому"
 
@@ -1660,7 +1641,7 @@ msgstr "Чтобы привязать платеж к условию, клика
 msgid "To byteball address"
 msgstr "На адрес Byteball"
 
-#: src/js/controllers/index.js:1433
+#: src/js/controllers/index.js:1461
 msgid "To email"
 msgstr "На email"
 
@@ -1700,11 +1681,11 @@ msgstr "Переводчики"
 msgid "Trusted nodes"
 msgstr "Доверенный узлы"
 
-#: src/js/controllers/correspondentDevice.js:1224
+#: src/js/controllers/correspondentDevice.js:1228
 msgid "US state"
 msgstr "Штат США"
 
-#: src/js/controllers/walletHome.js:846
+#: src/js/controllers/walletHome.js:851
 msgid "Unable to send transaction proposal"
 msgstr "Не удается отправить предложение транзакции"
 
@@ -1745,7 +1726,7 @@ msgstr ""
 msgid "Values"
 msgstr "Значения"
 
-#: src/js/controllers/correspondentDevice.js:1246
+#: src/js/controllers/correspondentDevice.js:1250
 msgid "Verifying the profile..."
 msgstr "Подтверждение профиля..."
 
@@ -1867,7 +1848,7 @@ msgid "Wrong password"
 msgstr "Неверный пароль"
 
 #: public/views/authConfirmation.html:17
-#: src/js/controllers/index.js:517
+#: src/js/controllers/index.js:518
 msgid "Yes"
 msgstr "Да"
 
@@ -1932,6 +1913,10 @@ msgstr "и удалите tectcoin для защиты от атак."
 
 #: public/views/walletHome.html:577
 msgid "available"
+msgstr ""
+
+#: src/js/controllers/index.js:408
+msgid "by address"
 msgstr ""
 
 #: public/views/modals/offer-contract.html:77
@@ -2057,19 +2042,19 @@ msgstr "переотправить приватное содержание со�
 msgid "send"
 msgstr "отправить"
 
-#: src/js/controllers/walletHome.js:777
+#: src/js/controllers/walletHome.js:782
 msgid "send email"
 msgstr "отправить email"
 
-#: src/js/controllers/walletHome.js:1002
-#: src/js/controllers/walletHome.js:1098
-#: src/js/controllers/walletHome.js:1153
-#: src/js/controllers/walletHome.js:1299
-#: src/js/controllers/walletHome.js:1336
-#: src/js/controllers/walletHome.js:1343
-#: src/js/controllers/walletHome.js:919
-#: src/js/controllers/walletHome.js:954
-#: src/js/controllers/walletHome.js:989
+#: src/js/controllers/walletHome.js:1010
+#: src/js/controllers/walletHome.js:1106
+#: src/js/controllers/walletHome.js:1161
+#: src/js/controllers/walletHome.js:1307
+#: src/js/controllers/walletHome.js:1344
+#: src/js/controllers/walletHome.js:1351
+#: src/js/controllers/walletHome.js:927
+#: src/js/controllers/walletHome.js:962
+#: src/js/controllers/walletHome.js:997
 msgid "sending"
 msgstr "отправка"
 
@@ -2093,6 +2078,10 @@ msgstr "texcoin ниже и отправите его через любой ме
 msgid "to"
 msgstr "на"
 
+#: src/js/controllers/index.js:311
+msgid "together with"
+msgstr ""
+
 #: public/views/walletHome.html:462
 #: public/views/walletHome.html:473
 msgid "too long!"
@@ -2100,6 +2089,10 @@ msgstr "Слишком длинно!"
 
 #: public/views/modals/signed-message.html:30
 msgid "valid"
+msgstr ""
+
+#: src/js/controllers/walletHome.js:879
+msgid "wait for sync to complete before sending payments"
 msgstr ""
 
 #: public/views/modals/select-subwallet.html:37
@@ -2124,25 +2117,13 @@ msgstr "{{address}} может быть потрачен, если:"
 msgid "{{buttonLabel}}"
 msgstr ""
 
-#: public/views/modals/confirmation.html:11
-msgid "{{cancel_label || 'Cancel'}}"
-msgstr "{{cancel_label || 'Отмена'}}"
-
-#: public/views/modals/confirmation.html:6
-msgid "{{confirm_label || 'Yes'}}"
-msgstr "{{confirm_label || 'Да'}}"
-
-#: src/js/controllers/walletHome.js:1930
+#: src/js/controllers/walletHome.js:1942
 msgid "{{fee}} will be deducted for bitcoin networking fees"
 msgstr "{{fee}} будет использовано для оплаты комиссии"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
 msgstr "{{hrd.destinationAddress}} могут быть потрачены, если:"
-
-#: public/views/walletHome.html:395
-msgid "{{index.arrBalances[index.assetIndex].is_private ? 'To my other wallet' : 'To byteball address or email or username'}}"
-msgstr ""
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
@@ -2153,7 +2134,7 @@ msgstr "{{index.m}}-из-{{index.n}}"
 msgid "{{item.m}}-of-{{item.n}}"
 msgstr "{{item.m}}-из-{{item.n}}"
 
-#: public/views/preferencesGlobal.html:29
-msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr "{{prefGlobal.torEnabled?'Вкл.':'Выкл.'}}"
+#: public/views/modals/destination-address.html:73
+msgid "{{w.m}} of {{w.n}}"
+msgstr ""
 
