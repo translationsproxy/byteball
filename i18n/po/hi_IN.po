@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2018-08-24 18:01\n"
+"PO-Revision-Date: 2018-09-24 22:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -72,8 +72,8 @@ msgstr "बॉट जोड़ें"
 msgid "Add a new device"
 msgstr "नया डिवाइस जोड़ें"
 
-#: public/views/modals/destination-address.html:106
-#: public/views/modals/destination-address.html:99
+#: public/views/modals/destination-address.html:100
+#: public/views/modals/destination-address.html:107
 msgid "Add a new entry"
 msgstr "नयी टीम जोड़ें"
 
@@ -94,7 +94,7 @@ msgid "Added"
 msgstr "संकलित"
 
 #: public/views/modals/customized-amount.html:32
-#: public/views/modals/destination-address.html:118
+#: public/views/modals/destination-address.html:119
 #: public/views/paymentUri.html:15
 msgid "Address"
 msgstr "पता"
@@ -108,7 +108,7 @@ msgstr "निवेदन / पता हस्ताक्षर करने 
 msgid "Addressbook"
 msgstr "पता पुस्तिका"
 
-#: public/views/preferences.html:59
+#: public/views/preferences.html:66
 msgid "Advanced"
 msgstr "विकसित"
 
@@ -136,7 +136,7 @@ msgstr "सभी योगदानों का स्वागत है ब�
 msgid "Already Paid"
 msgstr "पहले ही भुगतान हो गया है"
 
-#: src/js/controllers/correspondentDevice.js:1267
+#: src/js/controllers/correspondentDevice.js:1271
 msgid "Already saved"
 msgstr ""
 
@@ -248,7 +248,7 @@ msgstr "बैकअप अक्षरों को नष्ट किया �
 msgid "Backups"
 msgstr ""
 
-#: src/js/controllers/correspondentDevice.js:1252
+#: src/js/controllers/correspondentDevice.js:1256
 msgid "Bad profile"
 msgstr ""
 
@@ -294,7 +294,7 @@ msgstr "निराधार ब्राउज़र"
 msgid "Byteball &mdash; smart payments"
 msgstr ""
 
-#: public/views/modals/destination-address.html:119
+#: public/views/modals/destination-address.html:120
 msgid "Byteball address"
 msgstr "बाईटबॉल पता"
 
@@ -307,7 +307,7 @@ msgstr "रद्द करें"
 msgid "CONTINUE"
 msgstr "बने रहें"
 
-#: public/views/modals/destination-address.html:127
+#: public/views/modals/destination-address.html:128
 #: public/views/walletHome.html:494
 #: src/js/controllers/copayers.js:9
 #: src/js/controllers/preferencesDelete.js:10
@@ -324,7 +324,7 @@ msgstr "केंद्र बदलें:"
 msgid "Changing wallet alias only affects the local wallet name."
 msgstr "सिर्फ वटुवे का उपनाम बदलने से स्थानीय वटुवा का नाम प्रभवित हो जाता है|"
 
-#: src/js/controllers/index.js:680
+#: src/js/controllers/index.js:681
 msgid "Chat"
 msgstr "बातचीत"
 
@@ -344,7 +344,7 @@ msgstr "को भेजने के लिए उपकरण चुने"
 msgid "Choose which fields to send:"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:491
+#: src/js/controllers/walletHome.js:494
 msgid "Claim funds"
 msgstr "धन लें"
 
@@ -421,11 +421,11 @@ msgid "Compress the file? (Slower)"
 msgstr "क्या फाइल को छोटा करना है? (धीरे)"
 
 #: src/js/controllers/copayers.js:10
-#: src/js/controllers/index.js:519
+#: src/js/controllers/index.js:520
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:125
-#: src/js/controllers/walletHome.js:1742
-#: src/js/controllers/walletHome.js:1746
+#: src/js/controllers/walletHome.js:1759
+#: src/js/controllers/walletHome.js:1763
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "पुष्टि करें"
@@ -451,7 +451,7 @@ msgid "Contacts"
 msgstr "ताल्लुकात"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
-#: src/js/controllers/walletHome.js:392
+#: src/js/controllers/walletHome.js:395
 msgid "Copied to clipboard"
 msgstr "क्लिपबोर्ड में प्रतिलिपि/कॉपी हुआ"
 
@@ -463,7 +463,7 @@ msgstr ""
 msgid "Correspondents are not restored."
 msgstr "संवाददाता नवनीकरण नहीं हुवे हैं|"
 
-#: src/js/controllers/walletHome.js:700
+#: src/js/controllers/walletHome.js:705
 msgid "Could not create payment proposal"
 msgstr "भुगतान का प्रस्ताव नहीं बन सका"
 
@@ -497,11 +497,11 @@ msgstr "आयात नहीं हो सका"
 msgid "Could not import. Check input file and password"
 msgstr "आयात नहीं हो सका| निवेश फाइल और पासवर्ड की जाँच करें"
 
-#: src/js/controllers/walletHome.js:700
+#: src/js/controllers/walletHome.js:705
 msgid "Could not send payment"
 msgstr "भुगतान भेज नहीं सका"
 
-#: src/js/controllers/correspondentDevice.js:1223
+#: src/js/controllers/correspondentDevice.js:1227
 msgid "Country"
 msgstr ""
 
@@ -515,12 +515,9 @@ msgstr "नया बटुवा तैयार करें"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
+#: src/js/controllers/index.js:311
 msgid "Create new wallet"
 msgstr "नया बटुवा तैयार करें"
-
-#: src/js/controllers/index.js:310
-msgid "Create new wallet  together with  ?"
-msgstr "क्या नया बटुवा तैयार करना है  को मिलाकर ?"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
@@ -562,17 +559,13 @@ msgstr ""
 msgid "Date"
 msgstr "दिनांक"
 
-#: src/js/controllers/correspondentDevice.js:1222
+#: src/js/controllers/correspondentDevice.js:1226
 msgid "Date of birth"
 msgstr ""
 
-#: src/js/controllers/index.js:276
+#: src/js/controllers/index.js:277
 msgid "Declined"
 msgstr "इंकार किया"
-
-#: public/views/paperWallet.html:40
-msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
-msgstr "पेपर बटुवे को डिक्रीप्ट होने ५ मिनट्स लग सकते है इस यन्त्र में, कृपया धैर्य रखें और एप्प को खुला रखें|"
 
 #: public/views/walletHome.html:194
 msgid "Definition"
@@ -594,7 +587,7 @@ msgstr "वटुवा को मिटा दें"
 msgid "Delete wallet"
 msgstr "वटुवा को मिटा दें"
 
-#: src/js/controllers/walletHome.js:1739
+#: src/js/controllers/walletHome.js:1756
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr ""
 
@@ -676,8 +669,8 @@ msgstr "वॉलेट तैयार करते समय त्रुट�
 msgid "Export"
 msgstr "निर्यात करें"
 
-#: src/js/controllers/export.js:141
-#: src/js/controllers/export.js:166
+#: src/js/controllers/export.js:142
+#: src/js/controllers/export.js:167
 msgid "Export completed successfully"
 msgstr "निर्यात सफलतापूर्वक पूर्ण"
 
@@ -705,7 +698,7 @@ msgstr ""
 msgid "Finality"
 msgstr "अंतिम स्थिति"
 
-#: src/js/controllers/correspondentDevice.js:1220
+#: src/js/controllers/correspondentDevice.js:1224
 msgid "First name"
 msgstr ""
 
@@ -721,19 +714,11 @@ msgstr "पूरा पता:"
 msgid "Full backup"
 msgstr "पूरा बैकअप"
 
-#: public/views/paperWallet.html:58
-msgid "Funds found"
-msgstr "धन मिला"
-
-#: public/views/paperWallet.html:74
-msgid "Funds will be transferred to"
-msgstr "को धन स्थान्तरित किये जायेंगे"
-
 #: public/views/splash.html:92
 msgid "GET STARTED"
 msgstr "शुरू करें"
 
-#: src/js/controllers/walletHome.js:421
+#: src/js/controllers/walletHome.js:424
 msgid "Generate QR Code"
 msgstr "QR/क्यूआर कोड उत्पन्न करें"
 
@@ -761,16 +746,20 @@ msgstr "पीछे जाएँ"
 msgid "Hardware wallet"
 msgstr "हार्डवेयर वटुवा"
 
+#: public/views/preferences.html:59
+msgid "Hidden assets"
+msgstr ""
+
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
 msgstr "वटुवा बीज को छुपा दें"
 
 #: public/views/modals/share.html:43
-#: src/js/controllers/index.js:676
+#: src/js/controllers/index.js:677
 msgid "History"
 msgstr "इतिहास/विवरण"
 
-#: src/js/controllers/index.js:664
+#: src/js/controllers/index.js:665
 msgid "Home"
 msgstr "घर"
 
@@ -798,15 +787,19 @@ msgstr "मैं भुगतान करता हूँ"
 msgid "I receive another payment of"
 msgstr "का मैं दूसरा भुगतान प्राप्त करता हूँ"
 
-#: src/js/controllers/correspondentDevice.js:1225
+#: public/views/modals/tx-details.html:102
+msgid "ID"
+msgstr ""
+
+#: src/js/controllers/correspondentDevice.js:1229
 msgid "ID number"
 msgstr ""
 
-#: src/js/controllers/correspondentDevice.js:1227
+#: src/js/controllers/correspondentDevice.js:1231
 msgid "ID subtype"
 msgstr ""
 
-#: src/js/controllers/correspondentDevice.js:1226
+#: src/js/controllers/correspondentDevice.js:1230
 msgid "ID type"
 msgstr ""
 
@@ -869,7 +862,7 @@ msgstr ""
 msgid "Invalid"
 msgstr "अमान्य"
 
-#: src/js/controllers/index.js:1630
+#: src/js/controllers/index.js:1658
 msgid "Invalid Touch ID"
 msgstr "अमान्य स्पर्श आईडी"
 
@@ -885,7 +878,7 @@ msgstr "अकेले वटुवा का बीज काफी नही�
 msgid "Keep only data relevant to you"
 msgstr "वही डेटा रखें जो आपके लिए उपयुक्त हो"
 
-#: public/views/modals/destination-address.html:120
+#: public/views/modals/destination-address.html:121
 msgid "Label"
 msgstr "लेबल करें"
 
@@ -893,7 +886,7 @@ msgstr "लेबल करें"
 msgid "Language"
 msgstr "भाषा"
 
-#: src/js/controllers/correspondentDevice.js:1221
+#: src/js/controllers/correspondentDevice.js:1225
 msgid "Last name"
 msgstr ""
 
@@ -952,7 +945,7 @@ msgstr "मेरा बाईटबॉल पता"
 msgid "My recording preference"
 msgstr "मेरा रिकॉर्डिंग प्रथिमिकताएँ"
 
-#: public/views/modals/destination-address.html:121
+#: public/views/modals/destination-address.html:122
 msgid "Name of the contact"
 msgstr "संबंध का नाम"
 
@@ -973,8 +966,8 @@ msgid "New witnesses"
 msgstr "नए गवाह"
 
 #: public/views/authConfirmation.html:22
-#: src/js/controllers/index.js:518
-#: src/js/controllers/walletHome.js:1754
+#: src/js/controllers/index.js:519
+#: src/js/controllers/walletHome.js:1771
 msgid "No"
 msgstr "नहीं"
 
@@ -996,7 +989,7 @@ msgstr "अभी तक कोई लेन-देन नहीं"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
-#: public/views/modals/destination-address.html:112
+#: public/views/modals/destination-address.html:113
 #: public/views/walletHome.html:371
 #: public/views/walletHome.html:408
 #: public/views/walletHome.html:417
@@ -1012,12 +1005,12 @@ msgstr "अमान्य"
 msgid "Note"
 msgstr "नोट करें"
 
-#: src/js/controllers/export.js:88
+#: src/js/controllers/export.js:89
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
 msgstr ""
 
 #: public/views/modals/offer-contract.html:33
-#: src/js/services/correspondentListService.js:113
+#: src/js/services/correspondentListService.js:117
 msgid "Offer a contract"
 msgstr "एक अनुबंध पेश करें"
 
@@ -1053,11 +1046,10 @@ msgstr "जुड़े उपकरनें"
 msgid "Pairing code"
 msgstr "युग्मन संकेत"
 
-#: public/views/paperWallet.html:30
-msgid "Paper Wallet Private Key"
-msgstr "पेपर बटुवे की निजी कुंजी"
+#: public/views/paperWallet.html:79
+msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
+msgstr ""
 
-#: public/views/paperWallet.html:37
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
 msgstr "पासफ्रेज"
@@ -1078,7 +1070,7 @@ msgstr "अपना पेपर बटुवे की निजी कुं�
 msgid "Pay and offer"
 msgstr "भुगतान और प्रस्ताव"
 
-#: src/js/services/correspondentListService.js:113
+#: src/js/services/correspondentListService.js:117
 msgid "Pay to this address"
 msgstr "इस पता में भुगतान करें"
 
@@ -1167,8 +1159,8 @@ msgstr "फिर से दबाएं बाहर आने के लिए
 msgid "Private assets (such as blackbytes) are not recovered."
 msgstr "निजी सम्पतियाँ (जैसे ब्लैकबाइटस) पुनः प्राप्त नहीं हुवा|"
 
-#: src/js/controllers/walletHome.js:1813
-#: src/js/controllers/walletHome.js:1889
+#: src/js/controllers/walletHome.js:1825
+#: src/js/controllers/walletHome.js:1901
 msgid "Private payloads sent"
 msgstr "निजी भार भेजा गया"
 
@@ -1204,7 +1196,7 @@ msgstr ""
 msgid "Question:"
 msgstr "सवाल:"
 
-#: src/js/controllers/index.js:668
+#: src/js/controllers/index.js:669
 msgid "Receive"
 msgstr "ग्रहण करें"
 
@@ -1233,7 +1225,7 @@ msgstr "बीज से पुनः प्राप्ती"
 msgid "Recreating Wallet..."
 msgstr "वटुवा फिर से तैयार हो रहा है..."
 
-#: src/js/controllers/index.js:228
+#: src/js/controllers/index.js:229
 msgid "Refused"
 msgstr "अस्वीकृत हुवा"
 
@@ -1241,7 +1233,7 @@ msgstr "अस्वीकृत हुवा"
 msgid "Release Information"
 msgstr "जानकारी प्रकाशित"
 
-#: public/views/modals/destination-address.html:84
+#: public/views/modals/destination-address.html:85
 msgid "Remove"
 msgstr "हटाएँ"
 
@@ -1296,7 +1288,7 @@ msgid "SET"
 msgstr "व्यवस्थित करना"
 
 #: public/views/editCorrespondentDevice.html:41
-#: public/views/modals/destination-address.html:132
+#: public/views/modals/destination-address.html:133
 #: public/views/preferencesAlias.html:14
 #: public/views/preferencesDeviceName.html:14
 #: public/views/preferencesEditAttestorAddress.html:14
@@ -1311,13 +1303,9 @@ msgstr "सहेजें"
 msgid "Saving preferences..."
 msgstr "बचत प्रथिमिकताएँ..."
 
-#: public/views/preferences.html:69
+#: public/views/preferences.html:76
 msgid "Scan Fingerprint"
 msgstr "अंगुली-चिन्ह स्कैन करें"
-
-#: public/views/paperWallet.html:44
-msgid "Scan Wallet Funds"
-msgstr "वटुवे का धन स्कैन करें"
 
 #: public/views/walletHome.html:121
 msgid "Scan status finished with error"
@@ -1327,7 +1315,7 @@ msgstr "स्कैन अवस्था त्रुटि के साथ �
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
 msgstr "ऊपर वाली क्यू॰आर॰ संकेत को स्कैन करें दुशरे उपकरण से, या जुड़ने वाली संकेत को भेजें दुशरे उपकरण को:"
 
-#: src/js/controllers/index.js:1623
+#: src/js/controllers/index.js:1651
 msgid "Scan your fingerprint please"
 msgstr "कृपया अपना अंगुली-चिन्ह स्कैन करें"
 
@@ -1339,10 +1327,6 @@ msgstr "स्कैन हो रहा है बटुवे का धन...
 msgid "Scanning for addresses..."
 msgstr "पत्तों की स्कैन हो रही है..."
 
-#: public/views/paperWallet.html:18
-msgid "Scanning wallet funds..."
-msgstr "बटुवे में धन की स्कैन हो रही है..."
-
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
 msgstr "एक वटुवा चुनें"
@@ -1351,6 +1335,10 @@ msgstr "एक वटुवा चुनें"
 msgid "Select subwallet"
 msgstr "उप वटुवा चुनें"
 
+#: public/views/preferencesHiddenAssets.html:29
+msgid "Select the assets to hide in the wallet"
+msgstr ""
+
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
 msgstr "अपनी पहचान चुनें"
@@ -1358,7 +1346,7 @@ msgstr "अपनी पहचान चुनें"
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:497
 #: public/views/walletHome.html:596
-#: src/js/controllers/index.js:672
+#: src/js/controllers/index.js:673
 msgid "Send"
 msgstr "भेजें"
 
@@ -1385,10 +1373,6 @@ msgstr "ईमेल द्वारा भेजें"
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
 msgstr ""
-
-#: public/views/paperWallet.html:19
-msgid "Sending funds..."
-msgstr "धन भेज रहे हैं..."
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
@@ -1449,11 +1433,8 @@ msgid "Sign"
 msgstr ""
 
 #: public/views/modals/sign-message.html:8
+#: src/js/controllers/index.js:408
 msgid "Sign message"
-msgstr ""
-
-#: src/js/controllers/index.js:407
-msgid "Sign message \"\" by address ?"
 msgstr ""
 
 #: public/views/modals/signed-message.html:8
@@ -1483,7 +1464,7 @@ msgstr "छोटी खर्च वाली वटुवा"
 msgid "Specify Seed..."
 msgstr "उल्लेखित बीजें..."
 
-#: public/views/preferences.html:63
+#: public/views/preferences.html:70
 #: public/views/preferencesGlobal.html:86
 msgid "Spending Restrictions"
 msgstr "खर्च करने की पाबंदियाँ"
@@ -1492,24 +1473,20 @@ msgstr "खर्च करने की पाबंदियाँ"
 msgid "Still not done"
 msgstr "अभी भी नहीं हुआ"
 
-#: src/js/controllers/correspondentDevice.js:1269
+#: src/js/controllers/correspondentDevice.js:1273
 msgid "Store"
 msgstr ""
 
 #: src/js/controllers/copayers.js:76
-#: src/js/controllers/export.js:141
-#: src/js/controllers/export.js:166
-#: src/js/controllers/index.js:265
-#: src/js/controllers/index.js:293
+#: src/js/controllers/export.js:142
+#: src/js/controllers/export.js:167
+#: src/js/controllers/index.js:266
+#: src/js/controllers/index.js:294
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:1813
-#: src/js/controllers/walletHome.js:1889
+#: src/js/controllers/walletHome.js:1825
+#: src/js/controllers/walletHome.js:1901
 msgid "Success"
 msgstr "सफल"
-
-#: public/views/paperWallet.html:64
-msgid "Sweep Wallet"
-msgstr "वटुवा खली कर दें"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
@@ -1526,6 +1503,10 @@ msgstr "संकालन हो रहा है... {{index.syncProgress}}"
 #: public/views/preferencesGlobal.html:32
 msgid "TOR"
 msgstr "टोर"
+
+#: public/views/preferencesTor.html:12
+msgid "TOR enabled"
+msgstr ""
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
@@ -1641,7 +1622,7 @@ msgstr "पहले के सभी बटुवे को यह हमेश
 #: public/views/modals/tx-details.html:36
 #: public/views/modals/tx-details.html:71
 #: public/views/walletHome.html:699
-#: src/js/controllers/index.js:1430
+#: src/js/controllers/index.js:1458
 msgid "To"
 msgstr "को"
 
@@ -1661,7 +1642,7 @@ msgstr "भुगतान को सशर्त करने के लिए,
 msgid "To byteball address"
 msgstr "बाइटबॉल पता में"
 
-#: src/js/controllers/index.js:1433
+#: src/js/controllers/index.js:1461
 msgid "To email"
 msgstr "ईमेल में"
 
@@ -1702,11 +1683,11 @@ msgstr "अनुवादक"
 msgid "Trusted nodes"
 msgstr ""
 
-#: src/js/controllers/correspondentDevice.js:1224
+#: src/js/controllers/correspondentDevice.js:1228
 msgid "US state"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:846
+#: src/js/controllers/walletHome.js:851
 msgid "Unable to send transaction proposal"
 msgstr "लेन-देन प्रस्ताव भेजने में असमर्थ"
 
@@ -1747,7 +1728,7 @@ msgstr ""
 msgid "Values"
 msgstr "मूल्यों"
 
-#: src/js/controllers/correspondentDevice.js:1246
+#: src/js/controllers/correspondentDevice.js:1250
 msgid "Verifying the profile..."
 msgstr ""
 
@@ -1869,7 +1850,7 @@ msgid "Wrong password"
 msgstr "गलत पासवर्ड"
 
 #: public/views/authConfirmation.html:17
-#: src/js/controllers/index.js:517
+#: src/js/controllers/index.js:518
 msgid "Yes"
 msgstr "हाँ"
 
@@ -1934,6 +1915,10 @@ msgstr ""
 
 #: public/views/walletHome.html:577
 msgid "available"
+msgstr ""
+
+#: src/js/controllers/index.js:408
+msgid "by address"
 msgstr ""
 
 #: public/views/modals/offer-contract.html:77
@@ -2059,19 +2044,19 @@ msgstr "फिर से भेजें निजी भार को सह-�
 msgid "send"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:777
+#: src/js/controllers/walletHome.js:782
 msgid "send email"
 msgstr "ईमेल भेजें"
 
-#: src/js/controllers/walletHome.js:1002
-#: src/js/controllers/walletHome.js:1098
-#: src/js/controllers/walletHome.js:1153
-#: src/js/controllers/walletHome.js:1299
-#: src/js/controllers/walletHome.js:1336
-#: src/js/controllers/walletHome.js:1343
-#: src/js/controllers/walletHome.js:919
-#: src/js/controllers/walletHome.js:954
-#: src/js/controllers/walletHome.js:989
+#: src/js/controllers/walletHome.js:1010
+#: src/js/controllers/walletHome.js:1106
+#: src/js/controllers/walletHome.js:1161
+#: src/js/controllers/walletHome.js:1307
+#: src/js/controllers/walletHome.js:1344
+#: src/js/controllers/walletHome.js:1351
+#: src/js/controllers/walletHome.js:927
+#: src/js/controllers/walletHome.js:962
+#: src/js/controllers/walletHome.js:997
 msgid "sending"
 msgstr "भेज रहे है"
 
@@ -2095,6 +2080,10 @@ msgstr ""
 msgid "to"
 msgstr "को"
 
+#: src/js/controllers/index.js:311
+msgid "together with"
+msgstr ""
+
 #: public/views/walletHome.html:462
 #: public/views/walletHome.html:473
 msgid "too long!"
@@ -2102,6 +2091,10 @@ msgstr "बहुत लंबा!"
 
 #: public/views/modals/signed-message.html:30
 msgid "valid"
+msgstr ""
+
+#: src/js/controllers/walletHome.js:879
+msgid "wait for sync to complete before sending payments"
 msgstr ""
 
 #: public/views/modals/select-subwallet.html:37
@@ -2126,25 +2119,13 @@ msgstr "{{address}} खर्च हो सकता है यदि:"
 msgid "{{buttonLabel}}"
 msgstr "{{buttonLabel}}"
 
-#: public/views/modals/confirmation.html:11
-msgid "{{cancel_label || 'Cancel'}}"
-msgstr "{{cancel_label || 'Cancel'}}"
-
-#: public/views/modals/confirmation.html:6
-msgid "{{confirm_label || 'Yes'}}"
-msgstr ""
-
-#: src/js/controllers/walletHome.js:1930
+#: src/js/controllers/walletHome.js:1942
 msgid "{{fee}} will be deducted for bitcoin networking fees"
 msgstr "{{fee}} काट लिया जायेगा बिटकॉइन नेटवर्किंग के एवज में"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
 msgstr "{{hrd.destinationAddress}} खर्च हो सकता है यदि:"
-
-#: public/views/walletHome.html:395
-msgid "{{index.arrBalances[index.assetIndex].is_private ? 'To my other wallet' : 'To byteball address or email or username'}}"
-msgstr ""
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
@@ -2155,7 +2136,7 @@ msgstr "{{index.m}}-का-{{index.n}}"
 msgid "{{item.m}}-of-{{item.n}}"
 msgstr "{{item.m}}-का-{{item.n}}"
 
-#: public/views/preferencesGlobal.html:29
-msgid "{{prefGlobal.torEnabled?'On':'Off'}}"
-msgstr "{{prefGlobal.torEnabled?'On':'Off'}}"
+#: public/views/modals/destination-address.html:73
+msgid "{{w.m}} of {{w.n}}"
+msgstr ""
 
