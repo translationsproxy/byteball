@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-09-24 22:01\n"
+"PO-Revision-Date: 2018-09-25 07:33\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -748,7 +748,7 @@ msgstr "Portefeuille matériel"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr ""
+msgstr "Actifs cachés"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -789,7 +789,7 @@ msgstr "Je reçois un autre paiement de"
 
 #: public/views/modals/tx-details.html:102
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: src/js/controllers/correspondentDevice.js:1229
 msgid "ID number"
@@ -1048,7 +1048,7 @@ msgstr "Code d’appairage"
 
 #: public/views/paperWallet.html:79
 msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
-msgstr ""
+msgstr "Les portefeuilles papier sont simplement des textcoins. Scannez le code QR du portefeuille papier à l’aide de l’icône de caméra dans le coin supérieur droit ou saisissez les 12 mots du textcoin manuellement sur l’onglet « Recevoir »."
 
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
@@ -1337,7 +1337,7 @@ msgstr "Sélectionnez un sous-portefeuille"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the wallet"
-msgstr ""
+msgstr "Sélectionnez l’actif à cacher du portefeuille"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1506,7 +1506,7 @@ msgstr "TOR"
 
 #: public/views/preferencesTor.html:12
 msgid "TOR enabled"
-msgstr ""
+msgstr "TOR activé"
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
@@ -1918,7 +1918,7 @@ msgstr "disponible"
 
 #: src/js/controllers/index.js:408
 msgid "by address"
-msgstr ""
+msgstr "par adresse"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2081,7 +2081,7 @@ msgstr "à"
 
 #: src/js/controllers/index.js:311
 msgid "together with"
-msgstr ""
+msgstr "en collaboration avec"
 
 #: public/views/walletHome.html:462
 #: public/views/walletHome.html:473
@@ -2094,7 +2094,7 @@ msgstr "valide"
 
 #: src/js/controllers/walletHome.js:879
 msgid "wait for sync to complete before sending payments"
-msgstr ""
+msgstr "attendez la synchronisation complète avant d’envoyer des paiements"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
@@ -2137,5 +2137,5 @@ msgstr "{{item.m}}-sur-{{item.n}}"
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
-msgstr ""
+msgstr "{{w.m}} sur {{w.n}}"
 
