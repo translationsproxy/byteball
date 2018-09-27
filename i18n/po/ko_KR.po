@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-09-24 22:02\n"
+"PO-Revision-Date: 2018-09-27 00:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -789,7 +789,7 @@ msgstr "나는 다른 지불을 받습니다."
 
 #: public/views/modals/tx-details.html:102
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: src/js/controllers/correspondentDevice.js:1229
 msgid "ID number"
@@ -1338,7 +1338,7 @@ msgstr "보조 지갑 선택하기"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the wallet"
-msgstr ""
+msgstr "지갑에서 숨기고 싶은 자산을 선택하세요"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1507,7 +1507,7 @@ msgstr "TOR"
 
 #: public/views/preferencesTor.html:12
 msgid "TOR enabled"
-msgstr ""
+msgstr "TOR 활성화됨"
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
@@ -2095,7 +2095,7 @@ msgstr "유효함"
 
 #: src/js/controllers/walletHome.js:879
 msgid "wait for sync to complete before sending payments"
-msgstr ""
+msgstr "결제 대금을 보내기 전에 동기화가 완료될 때까지 기다리세요"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
