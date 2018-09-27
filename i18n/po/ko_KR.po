@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-09-27 00:30\n"
+"PO-Revision-Date: 2018-09-27 00:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -748,7 +748,7 @@ msgstr "하드웨어 지갑"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr ""
+msgstr "숨겨진 자산"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -1049,7 +1049,7 @@ msgstr "페어링 코드"
 
 #: public/views/paperWallet.html:79
 msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
-msgstr ""
+msgstr "종이 지갑(paper wallet)은 텍스트코인입니다. 우측 상단의 카메라 아이콘을 사용해 종이 지갑 QR 코드를 스캔하거나 \"받기\" 탭에서 텍스트코인 12 개 단어를 직접 입력하세요."
 
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
@@ -2138,5 +2138,5 @@ msgstr "{{item.m} / {{item.n}}"
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
-msgstr ""
+msgstr "{{w.m}} / {{w.n}}"
 
