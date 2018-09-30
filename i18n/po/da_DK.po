@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2018-09-30 21:20\n"
+"PO-Revision-Date: 2018-09-30 21:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1048,7 +1048,7 @@ msgstr "Parringskode"
 
 #: public/views/paperWallet.html:79
 msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
-msgstr ""
+msgstr "Paper wallets er ligesom textcoins. Scan en paper wallets QR-kode med kameraet ved at klikke på ikonet øverst til højre, eller indtast de 12 ord fra textcoin'en manuelt i \"Modtag\"-vinduet i din wallet."
 
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
@@ -1337,7 +1337,7 @@ msgstr "Vælg under-wallet"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the wallet"
-msgstr ""
+msgstr "Vælg en token du vil skjule i din wallet"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1506,7 +1506,7 @@ msgstr "TOR"
 
 #: public/views/preferencesTor.html:12
 msgid "TOR enabled"
-msgstr ""
+msgstr "TOR slået til"
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
@@ -1918,7 +1918,7 @@ msgstr "tilgængelig"
 
 #: src/js/controllers/index.js:408
 msgid "by address"
-msgstr ""
+msgstr "per adresse"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2081,7 +2081,7 @@ msgstr "til"
 
 #: src/js/controllers/index.js:311
 msgid "together with"
-msgstr ""
+msgstr "sammen med"
 
 #: public/views/walletHome.html:462
 #: public/views/walletHome.html:473
@@ -2094,7 +2094,7 @@ msgstr "gyldig"
 
 #: src/js/controllers/walletHome.js:879
 msgid "wait for sync to complete before sending payments"
-msgstr ""
+msgstr "vent med at sende betalinger til synkroniseringen er fuldført"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
@@ -2137,5 +2137,5 @@ msgstr "{{item.m}}-af-{{item.n}}"
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
-msgstr ""
+msgstr "{{w.m}} af {{w.n}}"
 
