@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-10-03 12:30\n"
+"PO-Revision-Date: 2018-10-03 12:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -871,7 +871,7 @@ msgstr "Пригласить другое устройство"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr "Сохранение только мнемофразы (seed) может быть недостаточно. Если резервируете только мнемофраза, вы не сможете восстановить кошелёк с мультиподписью и приватные активы (токены), такие как тёмные байты."
+msgstr "Сохранение только мнемофразы (seed) может быть недостаточно. При резервировании только мнемофразы, вы не сможете восстановить кошелёк с мультиподписью и приватные активы (токены), такие как Black Bytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -1656,7 +1656,7 @@ msgstr "Всего заблокировано средств"
 
 #: public/views/walletHome.html:380
 msgid "Total amount"
-msgstr "Полная сумма"
+msgstr "Итого"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
@@ -2086,7 +2086,7 @@ msgstr "вместе с"
 #: public/views/walletHome.html:462
 #: public/views/walletHome.html:473
 msgid "too long!"
-msgstr "Слишком длинно!"
+msgstr "содержание слишком длинное!"
 
 #: public/views/modals/signed-message.html:30
 msgid "valid"
