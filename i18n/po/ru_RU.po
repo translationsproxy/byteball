@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-10-03 10:51\n"
+"PO-Revision-Date: 2018-10-03 11:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -163,7 +163,7 @@ msgstr "Сумма"
 
 #: public/views/walletHome.html:577
 msgid "Answer"
-msgstr ""
+msgstr "Ответ"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -748,7 +748,7 @@ msgstr "Аппаратный кошелек"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr ""
+msgstr "Не отображать скрытые активы"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -789,7 +789,7 @@ msgstr "я получаю другой платёж"
 
 #: public/views/modals/tx-details.html:102
 msgid "ID"
-msgstr ""
+msgstr "Идентификатор (ID)"
 
 #: src/js/controllers/correspondentDevice.js:1229
 msgid "ID number"
