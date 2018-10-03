@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-10-03 12:40\n"
+"PO-Revision-Date: 2018-10-03 12:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1144,7 +1144,7 @@ msgstr "Вставить данные в фид вручную как ораку
 
 #: public/views/walletHome.html:538
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr "Опубликовать свои произвольные данные, всё что вы хотите сказать."
+msgstr "Опубликуйте данные о себе, всё чем вы хотели бы поделиться."
 
 #: public/views/walletHome.html:190
 #: public/views/walletHome.html:47
@@ -1628,7 +1628,7 @@ msgstr "Кому"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr "Полная резервная копия позволит сохранить и восстановить все данные - баланс байтов и приватных активов, таких как тёмные байты"
+msgstr "Полная резервная копия позволит сохранить и восстановить абсолютно все данные (выберете эту опцию в меню)"
 
 #: public/views/walletHome.html:607
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
@@ -1729,7 +1729,7 @@ msgstr "Значения"
 
 #: src/js/controllers/correspondentDevice.js:1250
 msgid "Verifying the profile..."
-msgstr "Подтверждение профиля..."
+msgstr "Идёт подтверждение профиля..."
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1838,7 +1838,7 @@ msgstr "Свидетели"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr "Запишите мнемофразу этого textcoin и надёжно храните её. Сможете вернуть его в любое время, используя"
+msgstr "Запишите мнемофразу этого textcoin и надёжно храните её. Вы сможете вернуть его в любое время, используя"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1867,7 +1867,7 @@ msgstr "У вас нет кошелька"
 
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
-msgstr "Вам нужно пройти аттестацию для получения профиля. Воспользуйтесь Ботом Аттестации реальных имён с магазине ботов."
+msgstr "Вам нужно пройти аттестацию для получения профиля. Воспользуйтесь Ботом Аттестации реальных имён в Bot Store."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -1892,7 +1892,8 @@ msgstr "Ключ вашего кошелька будет зашифрован. 
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr "На этом устройстве будет создан ваш кошелёк, храните его данные. Выполните резервное копирование - доступно в меню Настройки."
+msgstr "На этом устройстве будет создан ваш кошелёк, храните его в безопасности. \n"
+"Мы настоятельно рекомендуем выполнить резервное копирование - выберете нужную опцию в меню Настройки."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
@@ -1910,7 +1911,7 @@ msgstr "событие зарегистрировано оракулом"
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr "и удалите tectcoin для защиты от атак."
+msgstr "и удалите tectcoin чтобы обезопасить его от атак."
 
 #: public/views/walletHome.html:577
 msgid "available"
@@ -2061,7 +2062,7 @@ msgstr "отправка"
 
 #: public/views/modals/tx-details.html:145
 msgid "share again"
-msgstr "передать снова"
+msgstr "отправить снова"
 
 #: public/views/walletHome.html:447
 msgid "switch to multi-address"
