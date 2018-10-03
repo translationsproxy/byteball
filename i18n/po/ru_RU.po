@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-10-03 12:00\n"
+"PO-Revision-Date: 2018-10-03 12:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1541,7 +1541,7 @@ msgstr "Хаб предлагает заменить следующих свид
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr "Деньги, хранятся в этом textcoin:"
+msgstr "Деньги хранятся в этом textcoin:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
@@ -2090,11 +2090,11 @@ msgstr "Слишком длинно!"
 
 #: public/views/modals/signed-message.html:30
 msgid "valid"
-msgstr ""
+msgstr "допустимое значение"
 
 #: src/js/controllers/walletHome.js:879
 msgid "wait for sync to complete before sending payments"
-msgstr ""
+msgstr "дождитесь завершения синхронизации перед тем как отправлять платеж"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
@@ -2137,5 +2137,5 @@ msgstr "{{item.m}}-из-{{item.n}}"
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
-msgstr ""
+msgstr "{{w.m}} из {{w.n}}"
 
