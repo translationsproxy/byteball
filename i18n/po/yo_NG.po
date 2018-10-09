@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-09 20:20\n"
+"PO-Revision-Date: 2018-10-09 20:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -658,41 +658,41 @@ msgstr "Te oro sisopo ti o gba lati owo ero keji, tabi ko lo ayaworan (aami to w
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr ""
+msgstr "Te oro igbawole re"
 
 #: src/js/services/profileService.js:341
 #: src/js/services/profileService.js:393
 msgid "Error creating wallet"
-msgstr ""
+msgstr "Asise nigba siseda apamowo"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "Firanse"
 
 #: src/js/controllers/export.js:142
 #: src/js/controllers/export.js:167
 msgid "Export completed successfully"
-msgstr ""
+msgstr "Ifiranse ti pari ni ifijise"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "Fifiranse..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr ""
+msgstr "Kokoro gbagba ti a fagun"
 
 #: public/views/export.html:25
 msgid "Failed to export"
-msgstr ""
+msgstr "Ko le firanse"
 
 #: public/views/modals/tx-details.html:98
 msgid "Fee"
-msgstr ""
+msgstr "Owo"
 
 #: public/views/walletHome.html:577
 msgid "Field"
-msgstr ""
+msgstr "Papa"
 
 #: public/views/modals/tx-details.html:116
 msgid "Finality"
