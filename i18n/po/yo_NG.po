@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-09 13:10\n"
+"PO-Revision-Date: 2018-10-09 13:29\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -398,27 +398,27 @@ msgstr "Pa"
 
 #: public/views/create.html:90
 msgid "Co-signer {{$index+1}}:"
-msgstr ""
+msgstr "Eni ti ajo fowo siwe {{$index+1}}:"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
-msgstr ""
+msgstr "Awon ti ajo fowo siwe"
 
 #: public/views/includes/sidebar.html:36
 msgid "Co-signers for multisig"
-msgstr ""
+msgstr "Awon ti ajo fowo siwe fun multisig"
 
 #: public/views/preferences.html:29
 msgid "Color"
-msgstr ""
+msgstr "Awo"
 
 #: public/views/preferencesAbout.html:18
 msgid "Commit hash"
-msgstr ""
+msgstr "Da hash"
 
 #: public/views/export.html:45
 msgid "Compress the file? (Slower)"
-msgstr ""
+msgstr "Sunki apo iwe na? (die die)"
 
 #: src/js/controllers/copayers.js:10
 #: src/js/controllers/index.js:520
@@ -428,52 +428,52 @@ msgstr ""
 #: src/js/controllers/walletHome.js:1763
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
-msgstr ""
+msgstr "Jerisi"
 
 #: public/views/modals/vote.html:46
 msgid "Confirm Vote"
-msgstr ""
+msgstr "Jerisi ibo"
 
 #: public/views/modals/multi-payment.html:8
 msgid "Confirm payment"
-msgstr ""
+msgstr "Jerisi isanwo"
 
 #: public/views/modals/vote.html:8
 msgid "Confirm vote"
-msgstr ""
+msgstr "Jerisi ibo"
 
 #: public/views/modals/tx-details.html:121
 msgid "Confirmed"
-msgstr ""
+msgstr "Fidimule"
 
 #: public/views/correspondentDevices.html:35
 msgid "Contacts"
-msgstr ""
+msgstr "Awon olubasoro"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
 #: src/js/controllers/walletHome.js:395
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "Daako si ori iwe alabode"
 
 #: public/views/modals/share.html:39
 msgid "Copy"
-msgstr ""
+msgstr "Daako"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr ""
+msgstr "Kosi idapada awon oniroyin."
 
 #: src/js/controllers/walletHome.js:705
 msgid "Could not create payment proposal"
-msgstr ""
+msgstr "A kole se idakale imoran isanwo"
 
 #: src/js/services/profileService.js:281
 msgid "Could not create using the specified extended private key"
-msgstr ""
+msgstr "Kole dale nipase kokoro ikoko pato ti a fagun"
 
 #: src/js/services/profileService.js:291
 msgid "Could not create using the specified extended public key"
-msgstr ""
+msgstr "Kole dasile nipase kokoro gbangba pato ti a fagun"
 
 #: src/js/services/profileService.js:274
 msgid "Could not create: Invalid wallet seed"
