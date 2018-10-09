@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-09 12:30\n"
+"PO-Revision-Date: 2018-10-09 12:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -477,7 +477,7 @@ msgstr ""
 
 #: src/js/services/profileService.js:274
 msgid "Could not create: Invalid wallet seed"
-msgstr ""
+msgstr "Uuu"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
