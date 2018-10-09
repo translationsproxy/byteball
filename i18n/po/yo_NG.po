@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-09 19:20\n"
+"PO-Revision-Date: 2018-10-09 19:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -485,55 +485,55 @@ msgstr "Kole gbo gbin"
 
 #: public/views/walletHome.html:631
 msgid "Could not fetch transaction history"
-msgstr ""
+msgstr "Ko ri itan idunadura"
 
 #: src/js/services/profileService.js:510
 #: src/js/services/profileService.js:537
 #: src/js/services/profileService.js:559
 msgid "Could not import"
-msgstr ""
+msgstr "Kole gbe wole"
 
 #: src/js/services/profileService.js:487
 msgid "Could not import. Check input file and password"
-msgstr ""
+msgstr "Kole gbe wole. Ye faili tite ati oro igbaniwole"
 
 #: src/js/controllers/walletHome.js:705
 msgid "Could not send payment"
-msgstr ""
+msgstr "Kole fi isan owo ranse"
 
 #: src/js/controllers/correspondentDevice.js:1227
 msgid "Country"
-msgstr ""
+msgstr "Ilu"
 
 #: public/views/walletHome.html:44
 msgid "Create"
-msgstr ""
+msgstr "Seda"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
-msgstr ""
+msgstr "Seda apamowo titun"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
 #: src/js/controllers/index.js:311
 msgid "Create new wallet"
-msgstr ""
+msgstr "Da apamowo titun"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr ""
+msgstr "Da {{requiredCosigners}}-ti-{{totalCosigners}} apamowo"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr ""
+msgstr "Da:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr ""
+msgstr "Siseda awori..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr ""
+msgstr "Siseda apamowo..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
