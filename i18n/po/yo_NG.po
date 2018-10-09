@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-09 20:01\n"
+"PO-Revision-Date: 2018-10-09 20:13\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -633,24 +633,24 @@ msgstr "Oti se"
 
 #: public/views/walletHome.html:732
 msgid "Download CSV file"
-msgstr "Gba ako iwe lati ayelujara"
+msgstr "Gba ako iwe CSV lati ayelujara"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr ""
+msgstr "Gba gbogbo apo iwe Byteball ti ile ipamo"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
-msgstr ""
+msgstr "Se atunse"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr ""
+msgstr "Yala iwo tabi {{correspondent.name}}ti pa akosile itan oro. Ko si akosile itan fun enikeni nisin."
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
-msgstr ""
+msgstr "Gbalaye iwifunni titu"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
