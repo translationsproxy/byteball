@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-09 19:30\n"
+"PO-Revision-Date: 2018-10-09 19:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -537,47 +537,47 @@ msgstr "Siseda apamowo..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr ""
+msgstr "PA AWON ORO RE"
 
 #: public/views/walletHome.html:350
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: public/views/walletHome.html:347
 msgid "Data into datafeed"
-msgstr ""
+msgstr "Data sinu datafeed"
 
 #: public/views/walletHome.html:577
 msgid "Datafeed name"
-msgstr ""
+msgstr "Oruko datafeed"
 
 #: public/views/walletHome.html:577
 msgid "Datafeed value"
-msgstr ""
+msgstr "Iye Datafeed"
 
 #: public/views/modals/tx-details.html:91
 msgid "Date"
-msgstr ""
+msgstr "Ojo"
 
 #: src/js/controllers/correspondentDevice.js:1226
 msgid "Date of birth"
-msgstr ""
+msgstr "Ojo ibi"
 
 #: src/js/controllers/index.js:277
 msgid "Declined"
-msgstr ""
+msgstr "Ko sile"
 
 #: public/views/walletHome.html:194
 msgid "Definition"
-msgstr ""
+msgstr "Itumo"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
-msgstr ""
+msgstr "Itumo ti adiresi to jafafa"
 
 #: public/views/modals/multi-payment.html:25
 msgid "Definitions of addresses"
-msgstr ""
+msgstr "Awon itunmo ti awon adiresi"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Wallet"
