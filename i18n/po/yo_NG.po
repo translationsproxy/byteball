@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-09-24 22:01\n"
+"PO-Revision-Date: 2018-10-09 12:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -250,7 +250,7 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:1256
 msgid "Bad profile"
-msgstr ""
+msgstr "Awori Buruku"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
