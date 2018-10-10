@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-10 10:10\n"
+"PO-Revision-Date: 2018-10-10 10:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -712,27 +712,27 @@ msgstr "Adiresi lekun rere:"
 
 #: public/views/preferencesGlobal.html:122
 msgid "Full backup"
-msgstr ""
+msgstr "Afeyinti pipe"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
-msgstr ""
+msgstr "Oya Bere"
 
 #: src/js/controllers/walletHome.js:424
 msgid "Generate QR Code"
-msgstr ""
+msgstr "Pilese koodu QR"
 
 #: public/views/walletHome.html:303
 msgid "Generate new address"
-msgstr ""
+msgstr "Pilese adiresi tuntun"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
-msgstr ""
+msgstr "Pilese apo iwe .cvs..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
-msgstr ""
+msgstr "Gbigba adiresi fun apamowo {{selectedWalletName}} ..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
