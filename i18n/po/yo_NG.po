@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-10 11:15\n"
+"PO-Revision-Date: 2018-10-10 11:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -927,31 +927,31 @@ msgstr "Ifiranse"
 #: public/views/modals/sign-message.html:17
 #: public/views/modals/signed-message.html:17
 msgid "Message:"
-msgstr ""
+msgstr "Ifiranse:"
 
 #: public/views/walletHome.html:668
 msgid "Moved"
-msgstr ""
+msgstr "O tu sun"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr ""
+msgstr "Apamowo ero olona"
 
 #: public/views/walletHome.html:255
 msgid "My Byteball address"
-msgstr ""
+msgstr "Adiresi byteball mi"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
-msgstr ""
+msgstr "Igbasile aayo mi"
 
 #: public/views/modals/destination-address.html:122
 msgid "Name of the contact"
-msgstr ""
+msgstr "Oruko olubasoro"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
-msgstr ""
+msgstr "Netiwoki"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
