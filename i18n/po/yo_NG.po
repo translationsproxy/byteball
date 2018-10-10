@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-10 10:40\n"
+"PO-Revision-Date: 2018-10-10 11:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -826,76 +826,77 @@ msgstr "Ti o ba ti sun ifeyinti lati ero miran, ye ma lo lori ti ojulowo leyin t
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Ti o bafe se idapada apamowo lori ero omiran, jawo kuro lati ma lo lori eleyi toun lo lowolowo lesekese leyin to ba seda ifeyinti. Mase seda apamowo kan na. To ba nilo wiwole lati ori ero to po, lo multisig."
 
 #: public/views/import.html:40
 msgid "Import"
-msgstr ""
+msgstr "Gbe wole"
 
 #: public/views/add.html:22
 msgid "Import wallet"
-msgstr ""
+msgstr "Gbe apamowo wole"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr ""
+msgstr "Gigbe apamowo wole..."
 
 #: public/views/walletHome.html:138
 msgid "Including pending confirmation"
-msgstr ""
+msgstr "Pelu akoko imuduro Imudaju"
 
 #: public/views/walletHome.html:650
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr ""
+msgstr "Isopo itan idunadura akoko le gba iseju die fun apamowo oni idunadura pupo. <br>\n"
+"          Jowo duro."
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "Fi adiresi mi si"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr ""
+msgstr "Fi awori ikoko si"
 
 #: public/views/walletHome.html:669
 msgid "Invalid"
-msgstr ""
+msgstr "Aifesemule"
 
 #: src/js/controllers/index.js:1658
 msgid "Invalid Touch ID"
-msgstr ""
+msgstr "Aifesemule idanimo ifowokan"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr ""
+msgstr "Pe ero ikeji"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Irugbin apamowo nikan o to. Pelu irugbin nikan, ooni le dapada apamowo multisig pelue dukia ikoko bi blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Fi data to tan mo ara e nikan pamo"
 
 #: public/views/modals/destination-address.html:121
 msgid "Label"
-msgstr ""
+msgstr "Aami"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
-msgstr ""
+msgstr "Ede"
 
 #: src/js/controllers/correspondentDevice.js:1225
 msgid "Last name"
-msgstr ""
+msgstr "Oruko idile"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr ""
+msgstr "Nigbami"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr ""
+msgstr "O n gbera..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
@@ -1115,7 +1116,7 @@ msgstr ""
 
 #: public/views/splash.html:82
 msgid "Please name this device"
-msgstr ""
+msgstr "Jowo so ero yi loruko"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
