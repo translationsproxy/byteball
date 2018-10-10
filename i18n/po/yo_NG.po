@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-10 10:20\n"
+"PO-Revision-Date: 2018-10-10 10:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -736,68 +736,68 @@ msgstr "Gbigba adiresi fun apamowo {{selectedWalletName}} ..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "Asansile agbaye"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
-msgstr ""
+msgstr "Pada losehin"
 
 #: public/views/preferences.html:51
 msgid "Hardware wallet"
-msgstr ""
+msgstr "Apamowo to le gbamu"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr ""
+msgstr "Dukia ikoko"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr ""
+msgstr "Fi irugbin apamowo pamo"
 
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:677
 msgid "History"
-msgstr ""
+msgstr "Itan"
 
 #: src/js/controllers/index.js:665
 msgid "Home"
-msgstr ""
+msgstr "Ile"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr ""
+msgstr "Agbalejo"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr ""
+msgstr "Ibudo"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr ""
+msgstr "Ibudo URL"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
-msgstr ""
+msgstr "Mo jeri daju pe moti ka, la kaye, mosi faramo awon ofin yi."
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "Mo san owo"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Mo gba owo miran ti"
 
 #: public/views/modals/tx-details.html:102
 msgid "ID"
-msgstr ""
+msgstr "Idanimo"
 
 #: src/js/controllers/correspondentDevice.js:1229
 msgid "ID number"
-msgstr ""
+msgstr "Nomba idanimo"
 
 #: src/js/controllers/correspondentDevice.js:1231
 msgid "ID subtype"
-msgstr ""
+msgstr "Omiran Idanimo"
 
 #: src/js/controllers/correspondentDevice.js:1230
 msgid "ID type"
