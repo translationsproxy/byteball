@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-10 10:30\n"
+"PO-Revision-Date: 2018-10-10 10:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -801,28 +801,28 @@ msgstr "Omiran Idanimo"
 
 #: src/js/controllers/correspondentDevice.js:1230
 msgid "ID type"
-msgstr ""
+msgstr "Iru idanimo"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
-msgstr ""
+msgstr "Ti ikan kan lara ero awon ajofowo bo iwe re o ba ri isan owo yi, o le"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "Ti o ba se imuse ileri, mo le gba owo yi pada leyin"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Ti elegbe koba san owo, mo le gba owo mi pada leyin"
 
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr ""
+msgstr "Ti olugba o ba ri isanowo re, o le"
 
 #: public/views/import.html:47
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Ti o ba ti sun ifeyinti lati ero miran, ye ma lo lori ti ojulowo leyin to ba ti seda ifeyinti. Mase seda apamowo omiran. To ba nilo wiwole lato ri ero omiran, lo multisig."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
