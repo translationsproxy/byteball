@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-10 12:11\n"
+"PO-Revision-Date: 2018-10-11 16:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -305,7 +305,7 @@ msgstr "Fagile"
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr "Tesiwaju"
+msgstr "TESIWAJU"
 
 #: public/views/modals/destination-address.html:128
 #: public/views/walletHome.html:494
