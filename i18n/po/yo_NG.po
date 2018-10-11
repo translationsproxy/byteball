@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-11 16:20\n"
+"PO-Revision-Date: 2018-10-11 16:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -342,7 +342,7 @@ msgstr "Yan ero iranse si"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr "Yan apa to fe firanse:"
+msgstr "Yan awon apa to fe firanse:"
 
 #: src/js/controllers/walletHome.js:494
 msgid "Claim funds"
