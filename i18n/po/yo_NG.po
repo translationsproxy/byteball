@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-11 16:10\n"
+"PO-Revision-Date: 2018-10-11 16:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -300,7 +300,7 @@ msgstr "Adiresi byteball"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr "Fagile"
+msgstr "FAGILEE"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
@@ -314,7 +314,7 @@ msgstr "TESIWAJU"
 #: src/js/controllers/walletHome.js:124
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
-msgstr "Fagile"
+msgstr "Fagilee"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
