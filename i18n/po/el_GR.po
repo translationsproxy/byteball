@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2018-09-24 22:01\n"
+"PO-Revision-Date: 2018-10-11 21:37\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr "Καρτέλα 'Αποδοχής' → 'Διεκδικήστε κεφάλαια χρησιμοποιώντας το textcoin' κουμπί."
+msgstr "Καρτέλα 'Λήψη' → 'Διεκδικήστε κεφάλαια χρησιμοποιώντας το textcoin' κουμπί."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
@@ -79,7 +79,7 @@ msgstr "Προσθήκη νέας καταχώρησης"
 
 #: public/views/walletHome.html:577
 msgid "Add answer"
-msgstr ""
+msgstr "Προσθήκη απάντησης"
 
 #: public/views/walletHome.html:577
 msgid "Add fields"
@@ -163,7 +163,7 @@ msgstr "Ποσό"
 
 #: public/views/walletHome.html:577
 msgid "Answer"
-msgstr ""
+msgstr "Απάντηση"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -748,7 +748,7 @@ msgstr "Υλικό πορτοφόλι"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr ""
+msgstr "Κρυφά περιουσιακά στοιχεία"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -789,7 +789,7 @@ msgstr "Λαμβάνω άλλη πληρωμή ύψους"
 
 #: public/views/modals/tx-details.html:102
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: src/js/controllers/correspondentDevice.js:1229
 msgid "ID number"
@@ -1007,7 +1007,7 @@ msgstr "Σημείωση"
 
 #: src/js/controllers/export.js:89
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
-msgstr ""
+msgstr "Τώρα πρέπει να στείλετε αυτό το αρχείο κάπου ώστε να μπορείτε να κάνετε επαναφορά του αργότερα (\"Αποθήκευση σε Αρχεία\", αποστολή σε εσάς τον ίδιο μέσω εφαρμογών συνομιλίας, κλπ.)"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:117
@@ -1028,7 +1028,7 @@ msgstr "Άνοιγμα συνομιλίας"
 
 #: public/views/walletHome.html:577
 msgid "Options for answering"
-msgstr ""
+msgstr "Επιλογές απαντήσεων"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
@@ -1048,7 +1048,7 @@ msgstr "Κωδικός σύζευξης"
 
 #: public/views/paperWallet.html:79
 msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
-msgstr ""
+msgstr "Τα χάρτινα πορτοφόλια είναι απλά textcoin. Σκανάρετε τον κωδικό QR του πορτοφολιού σας, χρησιμοποιώντας το εικονίδιο της κάμερας στην επάνω δεξιά γωνία ή εισάγετε τις 12 λέξεις του textcoin χειροκίνητα στην καρτέλα \"Λήψη\"."
 
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
@@ -1124,7 +1124,7 @@ msgstr "Παρακαλούμε μεταβείτε σε ένα πορτοφόλι
 
 #: public/views/walletHome.html:351
 msgid "Poll"
-msgstr ""
+msgstr "Δημοσκόπηση"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1132,7 +1132,7 @@ msgstr "Θύρα"
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Byteball network that users can vote on with Poll bot."
-msgstr ""
+msgstr "Δημοσιεύστε μια δημοσκόπηση στο δίκτυο του Byteball όπου οι χρήστες θα μπορούν να ψηφίσουν με το bot Ψηφοφορίας."
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Byteball network."
@@ -1190,7 +1190,7 @@ msgstr "Σαρωτής QR"
 
 #: public/views/walletHome.html:564
 msgid "Question to be voted on"
-msgstr ""
+msgstr "Ερώτηση προς ψήφιση"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
@@ -1337,7 +1337,7 @@ msgstr "Επιλέξτε ένα υπο-πορτοφόλι"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the wallet"
-msgstr ""
+msgstr "Επιλογή των στοιχείων προς απόκρυψη στο πορτοφόλι"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1409,7 +1409,7 @@ msgstr "Κοινοποιήστε τη διεύθυνση"
 
 #: public/views/inviteCorrespondentDevice.html:27
 msgid "Share the code"
-msgstr ""
+msgstr "Κοινοποίηση του κωδικού"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
@@ -1506,7 +1506,7 @@ msgstr "TOR"
 
 #: public/views/preferencesTor.html:12
 msgid "TOR enabled"
-msgstr ""
+msgstr "Το TOR ενεργοποιήθηκε"
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
@@ -1918,7 +1918,7 @@ msgstr "διαθέσιμο"
 
 #: src/js/controllers/index.js:408
 msgid "by address"
-msgstr ""
+msgstr "από τη διεύθυνση"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2081,7 +2081,7 @@ msgstr "προς"
 
 #: src/js/controllers/index.js:311
 msgid "together with"
-msgstr ""
+msgstr "μαζί με"
 
 #: public/views/walletHome.html:462
 #: public/views/walletHome.html:473
@@ -2094,7 +2094,7 @@ msgstr "έγκυρο"
 
 #: src/js/controllers/walletHome.js:879
 msgid "wait for sync to complete before sending payments"
-msgstr ""
+msgstr "περιμένετε να ολοκληρωθεί ο συγχρονισμός προτού αποστείλετε πληρωμές"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
@@ -2137,5 +2137,5 @@ msgstr "{{item.m}}-του-{{item.n}}"
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
-msgstr ""
+msgstr "{{w.m}} από {{w.n}}"
 
