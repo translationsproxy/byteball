@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-12 14:41\n"
+"PO-Revision-Date: 2018-10-12 14:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -672,7 +672,7 @@ msgstr "Firanse"
 #: src/js/controllers/export.js:142
 #: src/js/controllers/export.js:167
 msgid "Export completed successfully"
-msgstr "Ifiranse ti pari ni ifijise"
+msgstr "Ifiranse ti pari laseyori"
 
 #: public/views/export.html:19
 msgid "Exporting..."
