@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-12 15:00\n"
+"PO-Revision-Date: 2018-10-12 15:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -838,7 +838,7 @@ msgstr "Gbe apamowo wole"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr "Gigbe apamowo wole..."
+msgstr "Gbigbe apamowo wole..."
 
 #: public/views/walletHome.html:138
 msgid "Including pending confirmation"
@@ -1007,8 +1007,8 @@ msgstr "Kiyesi"
 
 #: src/js/controllers/export.js:89
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
-msgstr "Niisin, o nilo lati fi apo iwe yi ranse si ibikan lati se idapada lati oori e nigbami \n"
-"(\"Fipamo si iwe apo\", fi ranse si ara re nipa ifilole iwiregbe, ati bebe lo)"
+msgstr "Niisin, o nilo lati fi faili yi ranse si ibikan lati se idapada lati oori e nigbami \n"
+"(\"Fipamo si Awon faili\", fi ranse si ara re nipa lilo awon apps iwiregbe, ati bebe lo)"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:117
@@ -1041,7 +1041,7 @@ msgstr "Sopo"
 
 #: public/views/includes/sidebar.html:34
 msgid "Paired devices"
-msgstr "Ero to ti sopo"
+msgstr "Awon ero to ti sopo"
 
 #: public/views/acceptCorrespondentInvitation.html:49
 msgid "Pairing code"
