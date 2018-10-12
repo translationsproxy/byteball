@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-11 16:50\n"
+"PO-Revision-Date: 2018-10-12 07:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -366,11 +366,11 @@ msgstr "Te botini lati <span ng-if=\"isResend\">tun </span> fi imeli ranse:"
 
 #: public/views/walletHome.html:516
 msgid "Click this button to create a payment file and send it to a recipient."
-msgstr "Te botini eleyi lati da apo isanwo sile ati lati firanse losi odo'lugba."
+msgstr "Te botini eleyi lati seda faili apo isanwo ati lati firanse losi odo'lugba."
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr "Te botini yi lati bere isanwo ati pipin re latipase awon ifiranse ikoko ninu ohun elo iwiregbe tabi lati sheda apamowo oni iwe."
+msgstr "Te botini yi lati seda apo isanwo ati pipin re latipase awon ifiranse ikoko ninu ohun elo iwiregbe tabi lati seda apamowo oni iwe."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
