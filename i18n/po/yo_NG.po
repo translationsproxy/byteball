@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-15 18:31\n"
+"PO-Revision-Date: 2018-10-16 23:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1141,49 +1141,49 @@ msgstr "Ko kokoron alainidi ti kokoro oniye ti isopo data sinu networki Byteball
 
 #: public/views/walletHome.html:532
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Ko awon iye sinu awon datafeeds pelu owo re, je orisha."
 
 #: public/views/walletHome.html:538
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Ko data awori re, ohun ko hun to ba fe so nipa arare."
 
 #: public/views/walletHome.html:190
 #: public/views/walletHome.html:47
 msgid "Preferences"
-msgstr ""
+msgstr "Awon aayo"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "Te lekan si lati jade"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "Awon dukia ikoko (bi ti blackbyyes) no le ri dapada."
 
 #: src/js/controllers/walletHome.js:1825
 #: src/js/controllers/walletHome.js:1901
 msgid "Private payloads sent"
-msgstr ""
+msgstr "Awon eru sisan ikoko ti lo"
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "Awori ikoko"
 
 #: public/views/walletHome.html:349
 msgid "Profile"
-msgstr ""
+msgstr "Awori"
 
 #: public/views/walletHome.html:577
 msgid "Profile field"
-msgstr ""
+msgstr "Apa awori"
 
 #: public/views/walletHome.html:577
 msgid "Profile field value"
-msgstr ""
+msgstr "Iye apa Awori"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
-msgstr ""
+msgstr "Koodu QR"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
