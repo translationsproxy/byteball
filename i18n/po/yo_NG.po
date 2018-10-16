@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-16 23:40\n"
+"PO-Revision-Date: 2018-10-16 23:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1187,60 +1187,60 @@ msgstr "Koodu QR"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr ""
+msgstr "Aseda awora-QR"
 
 #: public/views/walletHome.html:564
 msgid "Question to be voted on"
-msgstr ""
+msgstr "Ibere ta dibo lori"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Ibere:"
 
 #: src/js/controllers/index.js:669
 msgid "Receive"
-msgstr ""
+msgstr "Gba"
 
 #: public/views/walletHome.html:665
 msgid "Received"
-msgstr ""
+msgstr "Ti gba"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:58
 msgid "Recipients"
-msgstr ""
+msgstr "Awon olugba"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
-msgstr ""
+msgstr "Sisopo si ise apamowo..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr ""
+msgstr "Gba pada"
 
 #: public/views/preferencesGlobal.html:113
 msgid "Recovery from seed"
-msgstr ""
+msgstr "Gba pada lati odo irugbin"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr ""
+msgstr "Atunda apamowo..."
 
 #: src/js/controllers/index.js:229
 msgid "Refused"
-msgstr ""
+msgstr "Ko"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr ""
+msgstr "Fi alaye sile"
 
 #: public/views/modals/destination-address.html:85
 msgid "Remove"
-msgstr ""
+msgstr "Yọ kúrò"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Yo ero kan kuro"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
