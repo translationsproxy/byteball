@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-17 10:20\n"
+"PO-Revision-Date: 2018-10-17 10:29\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1377,53 +1377,53 @@ msgstr "Fi awori yii ranse"
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
-msgstr ""
+msgstr "Fifiranse..."
 
 #: public/views/walletHome.html:667
 msgid "Sent"
-msgstr ""
+msgstr "Firanse"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr ""
+msgstr "Sáà àkọsílẹ̀ iṣẹ́"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "Seto Oro-agbaniwole kan"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr ""
+msgstr "Seto oro agbaniwole kan"
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "Awon iseto"
 
 #: public/views/modals/share.html:17
 msgid "Share"
-msgstr ""
+msgstr "Pin"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:290
 msgid "Share address"
-msgstr ""
+msgstr "Pin adiresi"
 
 #: public/views/inviteCorrespondentDevice.html:27
 msgid "Share the code"
-msgstr ""
+msgstr "Pin koodu naa"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "Pin adiresi apamowo yi lati gba awon isan owo."
 
 #: public/views/walletHome.html:396
 #: public/views/walletHome.html:517
 msgid "Share via message"
-msgstr ""
+msgstr "Pin nipase ifiranse"
 
 #: public/views/walletHome.html:724
 msgid "Show all"
-msgstr ""
+msgstr "Fi gbogbo e ran"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
