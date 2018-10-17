@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-17 14:11\n"
+"PO-Revision-Date: 2018-10-17 19:16\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1889,11 +1889,11 @@ msgstr "Apo iwe apamowo re:"
 
 #: public/views/includes/password.html:40
 msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
-msgstr ""
+msgstr "Kokoro apamowo re yio je aroko. Oro igbaniwole re kole pada mo. Kiyesi pe o kosile"
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr ""
+msgstr "Aseda apamowo re lori ero yi, mu pamo dada. Re awon asayan edà àbọ̀-ábá re ni ajoko awon iseto."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
