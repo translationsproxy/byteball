@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-17 21:30\n"
+"PO-Revision-Date: 2018-10-17 21:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2000,53 +2000,53 @@ msgstr "fipamo fun ara re"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
-msgstr ""
+msgstr "ti tipa nipase awon imuduro isanwo"
 
 #: public/views/modals/tx-details.html:131
 msgid "not claimed"
-msgstr ""
+msgstr "ko reni gba"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "lori oruko feedi"
 
 #: public/views/walletHome.html:461
 #: public/views/walletHome.html:472
 msgid "optional"
-msgstr ""
+msgstr "èyí tí ó wu ni"
 
 #: public/views/modals/offer-contract.html:99
 msgid "or"
-msgstr ""
+msgstr "tabi"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "tabi se eda abo-aba gbogbo deta Byteball ni"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr ""
+msgstr "awon elegbe san owo"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
-msgstr ""
+msgstr "ti ko"
 
 #: public/views/modals/tx-details.html:151
 msgid "re-send private payloads"
-msgstr ""
+msgstr "tu fi se afiranse awon eru sisan ikoko"
 
 #: public/views/modals/tx-details.html:154
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "tun se ifiranse awon eru sisan ikokonsi awon ajo fowo bowe"
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "firanse"
 
 #: src/js/controllers/walletHome.js:782
 msgid "send email"
-msgstr ""
+msgstr "fi email ranse"
 
 #: src/js/controllers/walletHome.js:1010
 #: src/js/controllers/walletHome.js:1106
@@ -2058,15 +2058,15 @@ msgstr ""
 #: src/js/controllers/walletHome.js:962
 #: src/js/controllers/walletHome.js:997
 msgid "sending"
-msgstr ""
+msgstr "fifiranse"
 
 #: public/views/modals/tx-details.html:145
 msgid "share again"
-msgstr ""
+msgstr "tun pin"
 
 #: public/views/walletHome.html:447
 msgid "switch to multi-address"
-msgstr ""
+msgstr "yipada si adiresi opo"
 
 #: public/views/walletHome.html:446
 msgid "switch to single address"
