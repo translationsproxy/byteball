@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-17 11:50\n"
+"PO-Revision-Date: 2018-10-17 13:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1534,7 +1534,7 @@ msgstr "Adiresi ti a ti fi han je ti tani:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr ""
+msgstr "Ibudo dun gigba ise lati ori awon ero miran."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
@@ -1681,11 +1681,11 @@ msgstr "Awon olutumo"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr ""
+msgstr "Àwọn Ojú-Ìpàdé Tí A Gbẹ́Kẹ̀Lé"
 
 #: src/js/controllers/correspondentDevice.js:1228
 msgid "US state"
-msgstr ""
+msgstr "Orilede US"
 
 #: src/js/controllers/walletHome.js:851
 msgid "Unable to send transaction proposal"
