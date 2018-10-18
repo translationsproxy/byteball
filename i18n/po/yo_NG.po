@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-18 11:00\n"
+"PO-Revision-Date: 2018-10-18 11:11\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1310,7 +1310,7 @@ msgstr "Yaworan ila owo"
 
 #: public/views/walletHome.html:121
 msgid "Scan status finished with error"
-msgstr "Yaworan ipo to pari pelu asise"
+msgstr "Yaworan ipo ti pari pelu asise"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
@@ -1389,11 +1389,11 @@ msgstr "Sáà àkọsílẹ̀ iṣẹ́"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr "Seto Oro-agbaniwole kan"
+msgstr "Seto Oro-igbaniwole kan"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr "Seto oro agbaniwole kan"
+msgstr "Seto oro igbaniwole kan"
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
