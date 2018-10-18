@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-18 07:36\n"
+"PO-Revision-Date: 2018-10-18 07:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1187,7 +1187,7 @@ msgstr "Koodu QR"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr "Aseda awora-QR"
+msgstr "Aseda aworan-QR"
 
 #: public/views/walletHome.html:564
 msgid "Question to be voted on"
