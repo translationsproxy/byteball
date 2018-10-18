@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-18 11:22\n"
+"PO-Revision-Date: 2018-10-18 11:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1526,7 +1526,7 @@ msgstr "Iṣẹ́ àyọkà si"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr "Owo-ayoka"
+msgstr "Textcoin"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
@@ -1534,15 +1534,15 @@ msgstr "Adiresi ti a ti fi han je ti tani:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr "Ibudo dun gigba ise lati ori awon ero miran."
+msgstr "Ibudo fun gbigba ise lati ori awon ero miran."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr "Ibudo na daba sise àfirọ́pò awon olugeri yi:"
+msgstr "Ibudo na daba sise àfirọ́pò awon olujeri yi:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr "Owo na was ni afipamo ninu ayoka-owo yi:"
+msgstr "Owo na wa ni afipamo ninu textcoin:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
