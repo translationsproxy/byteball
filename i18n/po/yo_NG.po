@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-18 07:41\n"
+"PO-Revision-Date: 2018-10-18 11:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1191,7 +1191,7 @@ msgstr "Aseda aworan-QR"
 
 #: public/views/walletHome.html:564
 msgid "Question to be voted on"
-msgstr "Ibere ta dibo lori"
+msgstr "Ibere ti aa dibo lori"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
@@ -1224,7 +1224,7 @@ msgstr "Gba pada lati odo irugbin"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr "Atunda apamowo..."
+msgstr "Atunda Apamowo..."
 
 #: src/js/controllers/index.js:229
 msgid "Refused"
