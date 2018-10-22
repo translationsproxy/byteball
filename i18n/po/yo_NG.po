@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-22 16:10\n"
+"PO-Revision-Date: 2018-10-22 16:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -126,11 +126,11 @@ msgstr "Aliasi fun <i>{{index.walletName}}</i>"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr "Gbogbo Awon Adiresi Adamowo"
+msgstr "Gbogbo Awon Adiresi Apamowo"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
-msgstr "Awon afikun si itumo Byteballu je itewogba. Wole pelu wa ni crowdin.com ki o si darapo mo ise Atele nipase"
+msgstr "Awon afikun si itumo Byteballu je itewogba. Wole pelu wa ni crowdin.com ki o si darapo mo ise Byteball ni"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -477,7 +477,7 @@ msgstr "Kole dasile nipase kokoro gbangba pato ti a fagun"
 
 #: src/js/services/profileService.js:274
 msgid "Could not create: Invalid wallet seed"
-msgstr "Uuu"
+msgstr "Ko le seda: Irugbin apamowo ko dara"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
