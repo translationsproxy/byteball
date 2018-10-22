@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2018-10-18 11:52\n"
+"PO-Revision-Date: 2018-10-22 16:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -43,7 +43,7 @@ msgstr "Awon oro mejila ti a yato nipase awon apon"
 
 #: public/views/preferencesGlobal.html:139
 msgid "About Byteball"
-msgstr "Nipa Byteballu"
+msgstr "Nipa Byteball"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
@@ -1839,7 +1839,7 @@ msgstr "Awon eleri"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr "Ko owo-ayoka yi sile lori iwe kosi fipamo dada. Gba pada nigbakugba ni ojo iwaju nipa lilo"
+msgstr "Ko textcoin yi sile lori iwe kosi fipamo dada. Gba pada nigbakugba ni ojo iwaju nipa lilo"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -1856,7 +1856,7 @@ msgstr "Beeni"
 
 #: public/views/modals/tx-details.html:148
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
-msgstr "Ole pa owo-ayoka re kuro ninu apamowo re to ba ti fipamo si ibomiran tele. (bi apamowo oni iwe):"
+msgstr "Ole pa textcoin re kuro ninu apamowo re to ba ti fipamo si ibomiran tele. (bi apamowo oni iwe):"
 
 #: public/views/modals/bind.html:91
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
@@ -1911,7 +1911,7 @@ msgstr "orisa loman ko Isele"
 
 #: public/views/modals/share.html:43
 msgid "and erase the textcoin to keep it safe from attackers."
-msgstr "ati pa owo-ayoka na re lati fi pamo fun awon eyan buburu."
+msgstr "ati pa textcoin na re lati fi pamo fun awon eyan buburu."
 
 #: public/views/walletHome.html:577
 msgid "available"
