@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-10-25 08:01\n"
+"PO-Revision-Date: 2018-10-25 08:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1746,7 +1746,7 @@ msgstr "경고: 백업이 필요합니다"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr "경고: 이 씨드는 패스프레이즈로 생성되었습니다. 이 지갑을 복구하기 위해서 연상기호와 패스프레이즈 둘다 필요합니다."
+msgstr "경고: 이 시드는 비밀번호와 함께 생성되었습니다. 이 지갑을 복구하려면 니모닉과 비밀번호 둘 다 필요합니다."
 
 #: public/views/import.html:44
 #: public/views/recoveryFromSeed.html:37
@@ -1873,7 +1873,7 @@ msgstr "프로필을 얻기 위해 당신은 입증을 고려해야합니다. �
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr "당신의 지갑 시드:"
+msgstr "지갑 시드:"
 
 #: public/views/export.html:33
 msgid "Your export password"
