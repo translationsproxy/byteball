@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-10-25 08:10\n"
+"PO-Revision-Date: 2018-10-25 08:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -461,7 +461,7 @@ msgstr "복사"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr "이전 거래 상대자는 복구 되지 않습니다."
+msgstr "연동한 기기는 복구되지 않습니다."
 
 #: src/js/controllers/walletHome.js:705
 msgid "Could not create payment proposal"
@@ -477,7 +477,7 @@ msgstr "특정한 확장된 개인 키를 사용하여 만들 수 없습니다."
 
 #: src/js/services/profileService.js:274
 msgid "Could not create: Invalid wallet seed"
-msgstr "만들 수 없습니다: 유효하지 않은 지갑 시드"
+msgstr "만들 수 없습니다: 지갑 시드가 올바르지 않습니다"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
@@ -752,7 +752,7 @@ msgstr "숨겨진 자산"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr "지갑 씨앗 숨김"
+msgstr "지갑 시드 숨기기"
 
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:677
@@ -1017,11 +1017,11 @@ msgstr "계약 제공"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr "지갑의 Seed를 적어두었을 경우, 이 장치에서 지우는 것을 추천합니다."
+msgstr "지갑 시드를 다른 곳에 기록한 뒤에는 이 기기에서 시드를 삭제할 것을 권장합니다."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig wallets can be recovered."
-msgstr "오직 싱글시그 지갑만 복구될 수 있습니다."
+msgstr "단일 서명 지갑만 복구될 수 있습니다."
 
 #: public/views/bot.html:35
 msgid "Open chat"
@@ -1158,7 +1158,7 @@ msgstr "한번 더 누르면 종료됩니다."
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr "블랙바이트와 같은 개인 자산은 복구되지 않습니다."
+msgstr "블랙바이트와 같은 비공개 자산은 복구되지 않습니다."
 
 #: src/js/controllers/walletHome.js:1825
 #: src/js/controllers/walletHome.js:1901
@@ -1216,11 +1216,11 @@ msgstr "지갑 서비스에 다시 연결..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr "복구"
+msgstr "복구하기"
 
 #: public/views/preferencesGlobal.html:113
 msgid "Recovery from seed"
-msgstr "시드로부터 복구"
+msgstr "시드를 이용해 복구하기"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1326,7 +1326,7 @@ msgstr "지갑 자금 스캔중..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr "주소 검색 중..."
+msgstr "주소 스캔 중..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1463,7 +1463,7 @@ msgstr "소액 지출용 지갑"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr "시드 구체화 중..."
+msgstr "시드 생성 중..."
 
 #: public/views/preferences.html:70
 #: public/views/preferencesGlobal.html:86
