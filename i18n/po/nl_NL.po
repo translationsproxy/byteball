@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2018-09-24 22:01\n"
+"PO-Revision-Date: 2018-10-26 23:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -748,7 +748,7 @@ msgstr "Hardware portefeuille"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr ""
+msgstr "Verborgen bezit"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -789,7 +789,7 @@ msgstr "Ik ontvang een andere betaling van"
 
 #: public/views/modals/tx-details.html:102
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: src/js/controllers/correspondentDevice.js:1229
 msgid "ID number"
@@ -1048,7 +1048,7 @@ msgstr "Koppelingscode"
 
 #: public/views/paperWallet.html:79
 msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
-msgstr ""
+msgstr "Papieren portefeuilles zijn slechts tekstcoins. Scan de QR code van de papieren portefeuille met behulp van het camera-icoontje in de rechter bovenhoek, of vul de 12 woorden van de tekstcoin handmatig in op het \"Ontvangen\" tabblad."
 
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
@@ -1337,7 +1337,7 @@ msgstr "Selecteer een sub-portefeuille"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the wallet"
-msgstr ""
+msgstr "Selecteer het bezit om te verbergen in de portefeuille"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1506,7 +1506,7 @@ msgstr "TOR"
 
 #: public/views/preferencesTor.html:12
 msgid "TOR enabled"
-msgstr ""
+msgstr "TOR ingeschakeld"
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
@@ -1918,7 +1918,7 @@ msgstr "beschikbaar"
 
 #: src/js/controllers/index.js:408
 msgid "by address"
-msgstr ""
+msgstr "per adres"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2081,7 +2081,7 @@ msgstr "aan"
 
 #: src/js/controllers/index.js:311
 msgid "together with"
-msgstr ""
+msgstr "samen met"
 
 #: public/views/walletHome.html:462
 #: public/views/walletHome.html:473
@@ -2094,7 +2094,7 @@ msgstr "geldig"
 
 #: src/js/controllers/walletHome.js:879
 msgid "wait for sync to complete before sending payments"
-msgstr ""
+msgstr "wacht totdat de synchronisatie compleet is voor het versturen van betalingen"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
@@ -2137,5 +2137,5 @@ msgstr "{{item.m}}-van-{{item.n}}"
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
-msgstr ""
+msgstr "{{w.m}} of {{w.n}}"
 
