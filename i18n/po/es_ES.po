@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-11-01 18:00\n"
+"PO-Revision-Date: 2018-11-01 18:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -748,7 +748,7 @@ msgstr "Monedero Hardware"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr "Tokens ocultos"
+msgstr "Activos ocultos"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
