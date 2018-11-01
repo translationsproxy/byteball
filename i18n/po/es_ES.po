@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-11-01 17:50\n"
+"PO-Revision-Date: 2018-11-01 18:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -789,7 +789,7 @@ msgstr "Recibo otro pago de"
 
 #: public/views/modals/tx-details.html:102
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: src/js/controllers/correspondentDevice.js:1229
 msgid "ID number"
@@ -1048,7 +1048,7 @@ msgstr "Código de enlace"
 
 #: public/views/paperWallet.html:79
 msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
-msgstr ""
+msgstr "Una cartera de papel es un textcoin. Escanea el QR de la cartera de papel usando el icono del lector en la esquina superior derecha o introduce manualmente las 12 palabras del textcoin en la pestaña \"Recibir\"."
 
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
@@ -1190,7 +1190,7 @@ msgstr "Lector QR"
 
 #: public/views/walletHome.html:564
 msgid "Question to be voted on"
-msgstr ""
+msgstr "Pregunta"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
@@ -1337,7 +1337,7 @@ msgstr "Seleccionar submonedero"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the wallet"
-msgstr ""
+msgstr "Seleccionar los activos a ocultar en la cartera"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1409,7 +1409,7 @@ msgstr "Compartir dirección"
 
 #: public/views/inviteCorrespondentDevice.html:27
 msgid "Share the code"
-msgstr ""
+msgstr "Compartir código"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
@@ -1506,7 +1506,7 @@ msgstr "TOR"
 
 #: public/views/preferencesTor.html:12
 msgid "TOR enabled"
-msgstr ""
+msgstr "TOR activado"
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
@@ -1918,7 +1918,7 @@ msgstr "disponible"
 
 #: src/js/controllers/index.js:408
 msgid "by address"
-msgstr ""
+msgstr "por dirección"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2081,7 +2081,7 @@ msgstr "a"
 
 #: src/js/controllers/index.js:311
 msgid "together with"
-msgstr ""
+msgstr "junto con"
 
 #: public/views/walletHome.html:462
 #: public/views/walletHome.html:473
@@ -2094,7 +2094,7 @@ msgstr "válido"
 
 #: src/js/controllers/walletHome.js:879
 msgid "wait for sync to complete before sending payments"
-msgstr ""
+msgstr "espere a que la sincronización termine antes de realizar transacciones"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
@@ -2137,5 +2137,5 @@ msgstr "{{item.m}}-de-{{item.n}}"
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
-msgstr ""
+msgstr "{{w.m}} de {{w.n}}"
 
