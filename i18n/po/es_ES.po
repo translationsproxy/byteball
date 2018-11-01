@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2018-11-01 17:40\n"
+"PO-Revision-Date: 2018-11-01 17:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -79,7 +79,7 @@ msgstr "Añadir entrada nueva"
 
 #: public/views/walletHome.html:577
 msgid "Add answer"
-msgstr ""
+msgstr "Añadir respuesta"
 
 #: public/views/walletHome.html:577
 msgid "Add fields"
@@ -163,7 +163,7 @@ msgstr "Importe"
 
 #: public/views/walletHome.html:577
 msgid "Answer"
-msgstr ""
+msgstr "Respuesta"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -748,7 +748,7 @@ msgstr "Monedero Hardware"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr ""
+msgstr "Tokens ocultos"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -1007,7 +1007,7 @@ msgstr "Nota"
 
 #: src/js/controllers/export.js:89
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
-msgstr ""
+msgstr "Ahora tienes que enviar este fichero para restaurar desde él más adelante (guardar en dispositivo, enviar mail a uno mismo, etc...)"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:117
@@ -1028,7 +1028,7 @@ msgstr "Abrir chat"
 
 #: public/views/walletHome.html:577
 msgid "Options for answering"
-msgstr ""
+msgstr "Opciones para responder"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
@@ -1132,7 +1132,7 @@ msgstr "Puerto"
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Byteball network that users can vote on with Poll bot."
-msgstr ""
+msgstr "Publicar una encuesta en la red byteball que los usuarios pueden votar con el Poll bot."
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Byteball network."
