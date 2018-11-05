@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-05 15:11\n"
+"PO-Revision-Date: 2018-11-05 15:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -23,110 +23,110 @@ msgstr "(Sajt neće videti stanje na Vašem računu i novac neće moći da se tr
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
-msgstr ""
+msgstr "(novčanik koji se trenutno koristi)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other wallet)"
-msgstr ""
+msgstr "(moj drugi novčanik)"
 
 #: public/views/walletHome.html:676
 msgid "(possible double spend)"
-msgstr ""
+msgstr "(mogućnost dvostrukog trošenja)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr ""
+msgstr "-- Odaberite drugog potpisnika --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
-msgstr ""
+msgstr "12 reči odvojenih crticama"
 
 #: public/views/preferencesGlobal.html:139
 msgid "About Byteball"
-msgstr ""
+msgstr "O Byteball-u"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
 #: src/js/controllers/walletHome.js:123
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
-msgstr ""
+msgstr "Prihvati"
 
 #: public/views/acceptCorrespondentInvitation.html:23
 msgid "Accept invitation"
-msgstr ""
+msgstr "Prihvati pozivnicu"
 
 #: public/views/addCorrespondentDevice.html:22
 msgid "Accept invitation from the other device"
-msgstr ""
+msgstr "Prihvatite pozivnicu sa drugog uređaja"
 
 #: public/views/preferencesInformation.html:65
 msgid "Account"
-msgstr ""
+msgstr "Nalog"
 
 #: public/views/bot.html:36
 msgid "Add Bot"
-msgstr ""
+msgstr "Dodajte Bota"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
-msgstr ""
+msgstr "Dodaj novi uređaj"
 
 #: public/views/modals/destination-address.html:100
 #: public/views/modals/destination-address.html:107
 msgid "Add a new entry"
-msgstr ""
+msgstr "Dodaj novu stavku"
 
 #: public/views/walletHome.html:577
 msgid "Add answer"
-msgstr ""
+msgstr "Dodaj odgovor"
 
 #: public/views/walletHome.html:577
 msgid "Add fields"
-msgstr ""
+msgstr "Dodaj polje"
 
 #: public/views/includes/sidebar.html:24
 msgid "Add wallet"
-msgstr ""
+msgstr "Dodaj novčanik"
 
 #: public/views/correspondentDevices.html:89
 msgid "Added"
-msgstr ""
+msgstr "Dodato"
 
 #: public/views/modals/customized-amount.html:32
 #: public/views/modals/destination-address.html:119
 #: public/views/paymentUri.html:15
 msgid "Address"
-msgstr ""
+msgstr "Adresa"
 
 #: public/views/walletHome.html:549
 msgid "Address to attest"
-msgstr ""
+msgstr "Adresu koju treba potvrditi"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
 msgid "Addressbook"
-msgstr ""
+msgstr "Adresar"
 
 #: public/views/preferences.html:66
 msgid "Advanced"
-msgstr ""
+msgstr "Napredna podešavanja"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "Nakon što ste izvršili upisivanje, transakciju ćete pronaći u"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
-msgstr ""
+msgstr "Slažеm sе"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for <i>{{index.walletName}}</i>"
-msgstr ""
+msgstr "Pseudonim za <i>{{index.walletName}}</i>"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
-msgstr ""
+msgstr "Sve adrese novčanika"
 
 #: public/views/translators.html:52
 msgid "All contributions to Byteball's translation are welcome. Sign up at crowdin.com and join the Byteball project at"
