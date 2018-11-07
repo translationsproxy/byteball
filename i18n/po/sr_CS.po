@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-07 17:10\n"
+"PO-Revision-Date: 2018-11-07 17:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -342,31 +342,31 @@ msgstr "Odaberite uređaj na koji ćete poslati"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
-msgstr ""
+msgstr "Odaberite koja polja ćete poslati:"
 
 #: src/js/controllers/walletHome.js:494
 msgid "Claim funds"
-msgstr ""
+msgstr "Ostvarite pravo na sredstva"
 
 #: public/views/modals/claim-textcoin.html:8
 msgid "Claim funds by textcoin"
-msgstr ""
+msgstr "Ostvarite pravo na sredstva korišćenjem textcoin-a"
 
 #: public/views/walletHome.html:317
 msgid "Claim funds using textcoin"
-msgstr ""
+msgstr "Ostvarite pravo na sredstva korišćenjem textcoin-a"
 
 #: public/views/walletHome.html:85
 msgid "Claiming..."
-msgstr ""
+msgstr "Transakcija..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
-msgstr ""
+msgstr "Kliknite dugme da <span ng-if=\"isResend\">ponovo</span>pošaljete email:"
 
 #: public/views/walletHome.html:516
 msgid "Click this button to create a payment file and send it to a recipient."
-msgstr ""
+msgstr "Kliknite dugme kako biste kreirali fajl za plaćanje i poslali ga."
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
