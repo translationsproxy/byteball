@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-05 15:51\n"
+"PO-Revision-Date: 2018-11-07 17:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -250,62 +250,62 @@ msgstr "Rezervne kopije"
 
 #: src/js/controllers/correspondentDevice.js:1256
 msgid "Bad profile"
-msgstr ""
+msgstr "Neispravan profil"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr ""
+msgstr "Saldo po adresi"
 
 #: public/views/walletHome.html:241
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr ""
+msgstr "Pre nego što ćete ostvariti prijem sredstava, preporučujemo Vam da napravite rezernu kopiju ključeva za novčanik."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr ""
+msgstr "Još bolje i jednostavnije, koristite multisig novčanike (novčanici koji zahtevaju elektronske potpise sa više uređaja)."
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:86
 msgid "Bind payment"
-msgstr ""
+msgstr "Vežite plaćanje"
 
 #: public/views/walletHome.html:440
 #: public/views/walletHome.html:453
 msgid "Bind the payment to a condition"
-msgstr ""
+msgstr "Vežite plaćanje sa uslovom"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr ""
+msgstr "Bitcoin URI NIJE validan!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
-msgstr ""
+msgstr "Bot Store"
 
 #: public/views/correspondentDevice.html:288
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
-msgstr ""
+msgstr "Vi i {{correspondent.name}} ste omogućili snimanje istorije dopisivanja."
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
-msgstr ""
+msgstr "Interner pretraživač nije podržan"
 
 #: public/index.html:12
 msgid "Byteball &mdash; smart payments"
-msgstr ""
+msgstr "Byteball &mdash; smart payments"
 
 #: public/views/modals/destination-address.html:120
 msgid "Byteball address"
-msgstr ""
+msgstr "Byteball adresa"
 
 #: public/views/includes/password.html:24
 msgid "CANCEL"
-msgstr ""
+msgstr "Otkaži"
 
 #: public/views/splash.html:43
 #: public/views/splash.html:85
 msgid "CONTINUE"
-msgstr ""
+msgstr "Nastavite"
 
 #: public/views/modals/destination-address.html:128
 #: public/views/walletHome.html:494
@@ -314,31 +314,31 @@ msgstr ""
 #: src/js/controllers/walletHome.js:124
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
-msgstr ""
+msgstr "Otkaži"
 
 #: public/views/editCorrespondentDevice.html:35
 msgid "Change hub:"
-msgstr ""
+msgstr "Promena hub-a:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing wallet alias only affects the local wallet name."
-msgstr ""
+msgstr "Promena pseudonima novčanika utiče samo na lokalno ime novčanika, ne i na korisničko ime."
 
 #: src/js/controllers/index.js:681
 msgid "Chat"
-msgstr ""
+msgstr "Dopisivanje"
 
 #: public/views/import.html:33
 msgid "Choose File"
-msgstr ""
+msgstr "Odaberite fajl"
 
 #: public/views/modals/choose-profile.html:8
 msgid "Choose private profile"
-msgstr ""
+msgstr "Odaberite privatni profil"
 
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:10
 msgid "Choose the device to send to"
-msgstr ""
+msgstr "Odaberite uređaj na koji ćete poslati"
 
 #: public/views/modals/choose-profile.html:51
 msgid "Choose which fields to send:"
