@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-07 18:04\n"
+"PO-Revision-Date: 2018-11-07 18:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -663,11 +663,11 @@ msgstr "Unesite svoju lozinku"
 #: src/js/services/profileService.js:341
 #: src/js/services/profileService.js:393
 msgid "Error creating wallet"
-msgstr ""
+msgstr "Pogreška prilikom kreiranja novčanika"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr ""
+msgstr "Izvezi"
 
 #: src/js/controllers/export.js:142
 #: src/js/controllers/export.js:167
