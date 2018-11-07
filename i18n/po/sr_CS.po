@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-07 17:30\n"
+"PO-Revision-Date: 2018-11-07 17:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -503,37 +503,37 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:1227
 msgid "Country"
-msgstr ""
+msgstr "Država"
 
 #: public/views/walletHome.html:44
 msgid "Create"
-msgstr ""
+msgstr "Kreirajte"
 
 #: public/views/includes/sidebar.html:26
 msgid "Create a new wallet"
-msgstr ""
+msgstr "Kreirajte novi novčanik"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
 #: src/js/controllers/index.js:311
 msgid "Create new wallet"
-msgstr ""
+msgstr "Kreirajte novi novčanik"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr ""
+msgstr "Kreirano {{requiredCosigners}} od {{totalCosigners}} novčanika"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr ""
+msgstr "Kreirano:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr ""
+msgstr "Kreiranje profila..."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr ""
+msgstr "Kreiranje novčanika..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
