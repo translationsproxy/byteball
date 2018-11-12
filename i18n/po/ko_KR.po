@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-11-12 00:50\n"
+"PO-Revision-Date: 2018-11-12 01:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1076,23 +1076,23 @@ msgstr "이 주소에 지급하기"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr "지불 승인"
+msgstr "결제 승인됨"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
-msgstr "지불 제안 생성"
+msgstr "결제 요청 생성됨"
 
 #: public/views/walletHome.html:211
 msgid "Payment Proposals"
-msgstr "지불제안"
+msgstr "결제 요청"
 
 #: public/views/modals/tx-status.html:38
 msgid "Payment Rejected"
-msgstr "지불 거절"
+msgstr "결제 거부됨"
 
 #: public/views/modals/tx-status.html:5
 msgid "Payment Sent"
-msgstr "지불 전송"
+msgstr "결제 대금 전송됨"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
@@ -1100,7 +1100,7 @@ msgstr "피어:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
-msgstr "영원히 이 지갑을 지웁니다. '절대' 복구할 수 없습니다."
+msgstr "이 지갑을 영구 삭제합니다. 이 동작은 되돌릴 수 없습니다."
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
@@ -1112,7 +1112,7 @@ msgstr "지갑에 저장할 데이터 양을 선택하세요."
 
 #: src/js/controllers/create.js:99
 msgid "Please enter the required fields"
-msgstr "필수 입력 사항을 입력해 주시기 바랍니다."
+msgstr "필수 항목은 반드시 입력해야 합니다."
 
 #: public/views/splash.html:82
 msgid "Please name this device"
