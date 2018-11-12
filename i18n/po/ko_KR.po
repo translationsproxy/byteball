@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-11-12 00:40\n"
+"PO-Revision-Date: 2018-11-12 00:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -637,7 +637,7 @@ msgstr "CSV 파일 다운로드"
 
 #: public/views/splash.html:26
 msgid "Download the entire Byteball database"
-msgstr "온전히 바이트볼 데이터베이스를 다운로드 받으십시오."
+msgstr "전체 바이트볼 데이터베이스 다운로드"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -667,7 +667,7 @@ msgstr "지갑 생성 중 오류"
 
 #: public/views/export.html:51
 msgid "Export"
-msgstr "보내기"
+msgstr "내보내기"
 
 #: src/js/controllers/export.js:142
 #: src/js/controllers/export.js:167
@@ -676,7 +676,7 @@ msgstr "내보내기 완료"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr "보내는중..."
+msgstr "내보내기 진행 중..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
@@ -847,9 +847,8 @@ msgstr "확인 대기 중 포함"
 #: public/views/walletHome.html:650
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr "초기 거래 내역을 동기화 하는데 지갑에 많은 트랜잭션이\n"
-"있으므로 수 분이 걸릴 수 있습니다. <br>\n"
-"          기다려주세요."
+msgstr "많은 트랜잭션이 담긴 지갑에 대한 초기 트랜잭션 내역 동기화 작업은 몇 분 걸릴 수 있습니다. <br>\n"
+"          잠시만 기다려 주세요."
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
@@ -869,7 +868,7 @@ msgstr "유효하지 않은 터치 ID"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr "다른 장치 초대"
+msgstr "다른 기기 초대하기"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
@@ -881,7 +880,7 @@ msgstr "당신과 관련된 데이터만 유지하세요"
 
 #: public/views/modals/destination-address.html:121
 msgid "Label"
-msgstr "레이블"
+msgstr "이름"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
