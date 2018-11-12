@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-11-12 00:10\n"
+"PO-Revision-Date: 2018-11-12 00:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -620,11 +620,11 @@ msgstr "지갑을 복제하지 마세요. 이 시드를 가진 원본 지갑은 
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr "지갑을 복제하기 위해 이것을 사용하지 마십시오."
+msgstr "지갑 복제를 목적으로 전체 백업 기능을 사용하지 마세요."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
-msgstr "Crowdin에서 당신의 모국어가 보이지 않습니까? Crowdin의 운영자와 연락하세요! 우리는 당신의 모국어를 지원하고 싶습니다."
+msgstr "Crowdin에서 당신의 모국어가 보이지 않습니까? Crowdin의 운영자와 연락하세요! 여러분의 모국어를 지원하고 싶습니다."
 
 #: public/views/inviteCorrespondentDevice.html:34
 #: public/views/modals/destination-address.html:41
@@ -672,7 +672,7 @@ msgstr "보내기"
 #: src/js/controllers/export.js:142
 #: src/js/controllers/export.js:167
 msgid "Export completed successfully"
-msgstr "보내기 완료"
+msgstr "내보내기 완료"
 
 #: public/views/export.html:19
 msgid "Exporting..."
@@ -1278,7 +1278,7 @@ msgstr "필요한 서명의 수"
 
 #: public/views/preferencesGlobal.html:131
 msgid "Restore from full backup"
-msgstr "전체 백업 파일으로부터 복구하기"
+msgstr "전체 백업 파일을 이용해 복구하기"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
@@ -1629,7 +1629,7 @@ msgstr "수신자"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr "모든 것을 복구하고 싶다면 풀 백업을 만드시길 바랍니다(메뉴에서 풀 백업 옵션을 찾을 수 있습니다)"
+msgstr "모든 것을 복구하고 싶다면 전체 백업을 생성하시길 바랍니다(메뉴에서 전체 백업 옵션을 찾을 수 있습니다)"
 
 #: public/views/walletHome.html:607
 msgid "To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one."
