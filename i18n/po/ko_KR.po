@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-11-08 00:11\n"
+"PO-Revision-Date: 2018-11-12 00:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -491,7 +491,7 @@ msgstr "거래내역을 가져올 수 없습니다"
 #: src/js/services/profileService.js:537
 #: src/js/services/profileService.js:559
 msgid "Could not import"
-msgstr "가져올 수 없습니다"
+msgstr "가져오기를 할 수 없습니다"
 
 #: src/js/services/profileService.js:487
 msgid "Could not import. Check input file and password"
