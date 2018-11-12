@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-11-12 00:00\n"
+"PO-Revision-Date: 2018-11-12 00:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -481,7 +481,7 @@ msgstr "만들 수 없습니다: 지갑 시드가 올바르지 않습니다"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr "암호를 해독할 수 없습니다"
+msgstr "복호화할 수 없습니다"
 
 #: public/views/walletHome.html:631
 msgid "Could not fetch transaction history"
@@ -495,11 +495,11 @@ msgstr "가져오기를 할 수 없습니다"
 
 #: src/js/services/profileService.js:487
 msgid "Could not import. Check input file and password"
-msgstr "가져올 수 없습니다. 파일과 패스워드를 확인해 주세요"
+msgstr "가져오기를 할 수 없습니다. 파일과 비밀번호를 확인해주세요"
 
 #: src/js/controllers/walletHome.js:705
 msgid "Could not send payment"
-msgstr "지불할 비용을 보낼 수 없습니다."
+msgstr "결제 대금을 보낼 수 없습니다."
 
 #: src/js/controllers/correspondentDevice.js:1227
 msgid "Country"
