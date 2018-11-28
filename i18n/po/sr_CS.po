@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-07 18:10\n"
+"PO-Revision-Date: 2018-11-28 17:22\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -744,64 +744,64 @@ msgstr ""
 
 #: public/views/preferences.html:51
 msgid "Hardware wallet"
-msgstr ""
+msgstr "Hardverski novčanik"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr ""
+msgstr "Skrivena sredstva"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr ""
+msgstr "Sakrij šifru za obnovu (wallet seed)"
 
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:677
 msgid "History"
-msgstr ""
+msgstr "Istorija"
 
 #: src/js/controllers/index.js:665
 msgid "Home"
-msgstr ""
+msgstr "Početna"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
-msgstr ""
+msgstr "Host"
 
 #: public/views/preferencesGlobal.html:25
 msgid "Hub"
-msgstr ""
+msgstr "Hub"
 
 #: public/views/preferencesHub.html:12
 msgid "Hub URL"
-msgstr ""
+msgstr "Adresa HUB-a"
 
 #: public/views/disclaimer.html:36
 msgid "I affirm that I have read, understood, and agree with these terms."
-msgstr ""
+msgstr "Potvrđujem da sam pročitao, razumeo i složio se sa navedenim uslovima."
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr ""
+msgstr "Plaćam"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
-msgstr ""
+msgstr "Primam uplatu od"
 
 #: public/views/modals/tx-details.html:102
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: src/js/controllers/correspondentDevice.js:1229
 msgid "ID number"
-msgstr ""
+msgstr "ID broj"
 
 #: src/js/controllers/correspondentDevice.js:1231
 msgid "ID subtype"
-msgstr ""
+msgstr "ID podtip"
 
 #: src/js/controllers/correspondentDevice.js:1230
 msgid "ID type"
-msgstr ""
+msgstr "ID tip"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
@@ -851,7 +851,7 @@ msgstr ""
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
-msgstr ""
+msgstr "Upiši moju adresu"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
