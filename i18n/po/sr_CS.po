@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-28 17:40\n"
+"PO-Revision-Date: 2018-11-28 18:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -688,11 +688,11 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:98
 msgid "Fee"
-msgstr ""
+msgstr "Naknada"
 
 #: public/views/walletHome.html:577
 msgid "Field"
-msgstr ""
+msgstr "Polje"
 
 #: public/views/modals/tx-details.html:116
 msgid "Finality"
@@ -700,15 +700,15 @@ msgstr ""
 
 #: src/js/controllers/correspondentDevice.js:1224
 msgid "First name"
-msgstr ""
+msgstr "Ime"
 
 #: public/views/modals/tx-details.html:66
 msgid "From"
-msgstr ""
+msgstr "Od"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
-msgstr ""
+msgstr "Puna adresa:"
 
 #: public/views/preferencesGlobal.html:122
 msgid "Full backup"
@@ -716,19 +716,19 @@ msgstr ""
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
-msgstr ""
+msgstr "POČNIMO"
 
 #: src/js/controllers/walletHome.js:424
 msgid "Generate QR Code"
-msgstr ""
+msgstr "Generiši QR kod"
 
 #: public/views/walletHome.html:303
 msgid "Generate new address"
-msgstr ""
+msgstr "Generiši novu adresu"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
-msgstr ""
+msgstr "Kreira se .csv fajl..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
@@ -740,7 +740,7 @@ msgstr ""
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
-msgstr ""
+msgstr "Nazad"
 
 #: public/views/preferences.html:51
 msgid "Hardware wallet"
@@ -805,20 +805,20 @@ msgstr "ID tip"
 
 #: public/views/modals/tx-details.html:154
 msgid "If any of your cosigner devices doesn't see this payment, you can"
-msgstr ""
+msgstr "Ako neki od uređaja koji služe za obezbeđivanje ostalih potpisa ne vidi ovu uplatu, možete"
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr ""
+msgstr "Ako uslov nije ispunjen, kasnije možete uzeti novac natrag"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr ""
+msgstr "Ako partner (peer) ne izvrši uplatu, ja mogu uzeti svoj novac natrag"
 
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
 msgid "If the recipient doesn't see your payment, you can"
-msgstr ""
+msgstr "Ako primalac ne vidi uplatu, možete"
 
 #: public/views/import.html:47
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -830,7 +830,7 @@ msgstr ""
 
 #: public/views/import.html:40
 msgid "Import"
-msgstr ""
+msgstr "Uvoz"
 
 #: public/views/add.html:22
 msgid "Import wallet"
@@ -884,33 +884,33 @@ msgstr "Oznaka"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
-msgstr ""
+msgstr "Jezik"
 
 #: src/js/controllers/correspondentDevice.js:1225
 msgid "Last name"
-msgstr ""
+msgstr "Prezime"
 
 #: public/views/modals/newVersionIsAvailable.html:12
 msgid "Later"
-msgstr ""
+msgstr "Kasnije"
 
 #: src/js/controllers/disclaimer.js:13
 msgid "Loading..."
-msgstr ""
+msgstr "Učitavanje..."
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr ""
+msgstr "Izvrši uplatu"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr ""
+msgstr "Možda kasnije"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:116
 #: public/views/preferencesInformation.html:76
 msgid "Me"
-msgstr ""
+msgstr "Ja"
 
 #: public/views/modals/tx-details.html:110
 msgid "Merchant message"
@@ -922,12 +922,12 @@ msgstr ""
 
 #: public/views/paymentUri.html:17
 msgid "Message"
-msgstr ""
+msgstr "Poruka"
 
 #: public/views/modals/sign-message.html:17
 #: public/views/modals/signed-message.html:17
 msgid "Message:"
-msgstr ""
+msgstr "Poruka:"
 
 #: public/views/walletHome.html:668
 msgid "Moved"
@@ -1068,43 +1068,43 @@ msgstr "Molimo Vas, nalepite ovde krivatni ključ Vašeg papirnog novčanika"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
-msgstr ""
+msgstr "Plati i ponudi"
 
 #: src/js/services/correspondentListService.js:117
 msgid "Pay to this address"
-msgstr ""
+msgstr "Uplati na ovu adresu"
 
 #: public/views/modals/tx-status.html:28
 msgid "Payment Accepted"
-msgstr ""
+msgstr "Plaćanje je prihvaćeno"
 
 #: public/views/modals/tx-status.html:16
 msgid "Payment Proposal Created"
-msgstr ""
+msgstr "Kreiran je predlog za plaćanje"
 
 #: public/views/walletHome.html:211
 msgid "Payment Proposals"
-msgstr ""
+msgstr "Predlozi za plaćanje"
 
 #: public/views/modals/tx-status.html:38
 msgid "Payment Rejected"
-msgstr ""
+msgstr "Plaćanje je odbijeno"
 
 #: public/views/modals/tx-status.html:5
 msgid "Payment Sent"
-msgstr ""
+msgstr "Uplata je poslata"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
-msgstr ""
+msgstr "Korisnik:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
-msgstr ""
+msgstr "Obriši ovaj novčanik za sva vremena: OVA ODLUKA SE NE MOŽE PROMENITI"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
-msgstr ""
+msgstr "Običan novčanik"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
@@ -1202,16 +1202,16 @@ msgstr ""
 
 #: public/views/walletHome.html:665
 msgid "Received"
-msgstr ""
+msgstr "Primljeno"
 
 #: public/views/includes/transaction.html:15
 #: public/views/modals/tx-details.html:58
 msgid "Recipients"
-msgstr ""
+msgstr "Primaoci"
 
 #: public/views/walletHome.html:60
 msgid "Reconnecting to Wallet Service..."
-msgstr ""
+msgstr "Ponovno povezivanje sa servisom za novčanik..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
@@ -1227,53 +1227,53 @@ msgstr ""
 
 #: src/js/controllers/index.js:229
 msgid "Refused"
-msgstr ""
+msgstr "Odbijeno"
 
 #: public/views/preferencesAbout.html:8
 msgid "Release Information"
-msgstr ""
+msgstr "Informacije o programu"
 
 #: public/views/modals/destination-address.html:85
 msgid "Remove"
-msgstr ""
+msgstr "Ukloni"
 
 #: public/views/correspondentDevices.html:75
 msgid "Remove a device"
-msgstr ""
+msgstr "Ukloni uređaj"
 
 #: public/views/editCorrespondentDevice.html:33
 msgid "Rename:"
-msgstr ""
+msgstr "Preimenuj:"
 
 #: public/views/export.html:40
 #: public/views/includes/password.html:10
 msgid "Repeat password"
-msgstr ""
+msgstr "Ponovite lozinku"
 
 #: public/views/export.html:37
 msgid "Repeat the password"
-msgstr ""
+msgstr "Ponovite lozinku"
 
 #: public/views/modals/approveNewWitnesses.html:23
 msgid "Replace"
-msgstr ""
+msgstr "Zameni"
 
 #: public/views/preferencesGlobal.html:90
 msgid "Request Password"
-msgstr ""
+msgstr "Zahtevanje lozinke"
 
 #: public/views/modals/customized-amount.html:8
 #: public/views/walletHome.html:312
 msgid "Request a specific amount"
-msgstr ""
+msgstr "Zatražite specifični iznos"
 
 #: public/views/correspondentDevice.html:336
 msgid "Request payment"
-msgstr ""
+msgstr "Zahtev za plaćanje"
 
 #: public/views/create.html:74
 msgid "Required number of signatures"
-msgstr ""
+msgstr "Traženi broj potpisa"
 
 #: public/views/preferencesGlobal.html:131
 msgid "Restore from full backup"
@@ -1281,7 +1281,7 @@ msgstr ""
 
 #: public/views/splash.html:64
 msgid "Retrying..."
-msgstr ""
+msgstr "Pokušavamo..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1297,7 +1297,7 @@ msgstr ""
 #: public/views/preferencesHub.html:18
 #: public/views/preferencesTor.html:19
 msgid "Save"
-msgstr ""
+msgstr "Snimi"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
@@ -1305,19 +1305,19 @@ msgstr ""
 
 #: public/views/preferences.html:76
 msgid "Scan Fingerprint"
-msgstr ""
+msgstr "Skenirajte otisak prsta"
 
 #: public/views/walletHome.html:121
 msgid "Scan status finished with error"
-msgstr ""
+msgstr "Status skeniranja, završeno ali sa greškom"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr ""
+msgstr "Skenirajte QR kod drugim uređajem ili pošaljite ovaj kod za uparivanje na drugi uređaj:"
 
 #: src/js/controllers/index.js:1651
 msgid "Scan your fingerprint please"
-msgstr ""
+msgstr "Molimo Vas, skenirajte svoj prst"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
@@ -1329,11 +1329,11 @@ msgstr ""
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
-msgstr ""
+msgstr "Izaberi novčanik"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr ""
+msgstr "Izaberi podnovčanik"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the wallet"
@@ -1341,46 +1341,46 @@ msgstr ""
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
-msgstr ""
+msgstr "Izaberite svoj identitet"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:497
 #: public/views/walletHome.html:596
 #: src/js/controllers/index.js:673
 msgid "Send"
-msgstr ""
+msgstr "Pošalji"
 
 #: public/views/walletHome.html:334
 msgid "Send All"
-msgstr ""
+msgstr "Pošalji sve"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
-msgstr ""
+msgstr "Pošalji uplatu"
 
 #: public/views/preferencesInformation.html:125
 msgid "Send addresses by email"
-msgstr ""
+msgstr "Pošalji adrese e-mailom"
 
 #: public/views/walletHome.html:381
 msgid "Send all"
-msgstr ""
+msgstr "Pošalji sve"
 
 #: public/views/preferencesLogs.html:15
 msgid "Send by email"
-msgstr ""
+msgstr "Pošalji e-poštom"
 
 #: public/views/modals/choose-profile.html:62
 msgid "Send this profile"
-msgstr ""
+msgstr "Pošalji ovaj profil"
 
 #: public/views/walletHome.html:84
 msgid "Sending..."
-msgstr ""
+msgstr "Šalje se..."
 
 #: public/views/walletHome.html:667
 msgid "Sent"
-msgstr ""
+msgstr "Pošalji"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
@@ -1388,32 +1388,32 @@ msgstr ""
 
 #: public/views/export.html:30
 msgid "Set up a Password"
-msgstr ""
+msgstr "Podešavanje lozinke"
 
 #: public/views/includes/password.html:9
 msgid "Set up a password"
-msgstr ""
+msgstr "Podešavanje lozinke"
 
 #: public/views/includes/sidebar.html:44
 msgid "Settings"
-msgstr ""
+msgstr "Podešavanja"
 
 #: public/views/modals/share.html:17
 msgid "Share"
-msgstr ""
+msgstr "Podeli"
 
 #: public/views/modals/customized-amount.html:24
 #: public/views/walletHome.html:290
 msgid "Share address"
-msgstr ""
+msgstr "Podeli adresu"
 
 #: public/views/inviteCorrespondentDevice.html:27
 msgid "Share the code"
-msgstr ""
+msgstr "Podeli kod"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
-msgstr ""
+msgstr "Podelite adresu ovog novčanika kako biste primili uplate."
 
 #: public/views/walletHome.html:396
 #: public/views/walletHome.html:517
@@ -1594,7 +1594,7 @@ msgstr ""
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr ""
+msgstr "Ova transakcija je postala nevažeća; moguće je da se to dogodilo usled pokušaja dvostrukog plaćanja."
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
