@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-28 17:22\n"
+"PO-Revision-Date: 2018-11-28 17:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -834,20 +834,21 @@ msgstr ""
 
 #: public/views/add.html:22
 msgid "Import wallet"
-msgstr ""
+msgstr "Uvezi novčanik"
 
 #: public/views/import.html:19
 msgid "Importing wallet..."
-msgstr ""
+msgstr "Novčanik se uvozi..."
 
 #: public/views/walletHome.html:138
 msgid "Including pending confirmation"
-msgstr ""
+msgstr "Uključujući i potvrde trenutno na čekanju"
 
 #: public/views/walletHome.html:650
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
-msgstr ""
+msgstr "Sinhronizacija inicijalne istorije transakcija može potrajati nekoliko minuta za novčanike sa puno transakcija.<br>\n"
+"          Molimo Vas, sačekajte."
 
 #: public/views/correspondentDevice.html:327
 msgid "Insert my address"
@@ -855,19 +856,19 @@ msgstr "Upiši moju adresu"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr ""
+msgstr "Unesite privatni profil"
 
 #: public/views/walletHome.html:669
 msgid "Invalid"
-msgstr ""
+msgstr "Nevažeće"
 
 #: src/js/controllers/index.js:1658
 msgid "Invalid Touch ID"
-msgstr ""
+msgstr "Nevažeća identifikacija otiska"
 
 #: public/views/addCorrespondentDevice.html:15
 msgid "Invite the other device"
-msgstr ""
+msgstr "Poveži sa drugim uređajem"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
@@ -875,11 +876,11 @@ msgstr ""
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
-msgstr ""
+msgstr "Zadržite samo podatke koji su Vama relevantni"
 
 #: public/views/modals/destination-address.html:121
 msgid "Label"
-msgstr ""
+msgstr "Oznaka"
 
 #: public/views/preferencesGlobal.html:39
 msgid "Language"
@@ -930,15 +931,15 @@ msgstr ""
 
 #: public/views/walletHome.html:668
 msgid "Moved"
-msgstr ""
+msgstr "Pomereno"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr ""
+msgstr "Novčanik za više uređaja"
 
 #: public/views/walletHome.html:255
 msgid "My Byteball address"
-msgstr ""
+msgstr "Moja Byteball adresa"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
@@ -946,33 +947,33 @@ msgstr ""
 
 #: public/views/modals/destination-address.html:122
 msgid "Name of the contact"
-msgstr ""
+msgstr "Ime kontakta"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
-msgstr ""
+msgstr "Mreža"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr ""
+msgstr "Nova nasumična šifra za obnovu novčanika (seed)"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
-msgstr ""
+msgstr "Nova verzija je dostupna!"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
-msgstr ""
+msgstr "Novi svedoci (witnesses)"
 
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:519
 #: src/js/controllers/walletHome.js:1771
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: src/js/controllers/password.js:18
 msgid "No password given"
-msgstr ""
+msgstr "Lozinka nije data"
 
 #: public/views/modals/choose-profile.html:67
 msgid "No profiles matching the requested criteria."
