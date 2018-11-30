@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-30 13:01\n"
+"PO-Revision-Date: 2018-11-30 13:15\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1983,32 +1983,32 @@ msgstr "ako je događaj postovalo savetovalište (oracle)"
 
 #: public/views/modals/bind.html:68
 msgid "in merkle tree"
-msgstr ""
+msgstr "u drvo za odlučivanje (merkle tree)"
 
 #: public/views/walletHome.html:168
 msgid "in smart wallets"
-msgstr ""
+msgstr "u pametnim novčanicima"
 
 #: public/views/modals/signed-message.html:29
 msgid "invalid"
-msgstr ""
+msgstr "nevažeće"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
-msgstr ""
+msgstr "zadržavam za sebe"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
-msgstr ""
+msgstr "zaključeno preko plaćanja na čekanju"
 
 #: public/views/modals/tx-details.html:131
 msgid "not claimed"
-msgstr ""
+msgstr "nije preuzeto"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
-msgstr ""
+msgstr "potvrđeni događaji"
 
 #: public/views/walletHome.html:461
 #: public/views/walletHome.html:472
@@ -2021,31 +2021,31 @@ msgstr "ili"
 
 #: public/views/backup.html:24
 msgid "or backup all Byteball data at"
-msgstr ""
+msgstr "ali izvršite backup svih Byteball podataka na"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr ""
+msgstr "isplate za partnere"
 
 #: public/views/modals/bind.html:60
 msgid "posted"
-msgstr ""
+msgstr "objavljeno"
 
 #: public/views/modals/tx-details.html:151
 msgid "re-send private payloads"
-msgstr ""
+msgstr "ponovo pošalji privatnu pošiljku (payload)"
 
 #: public/views/modals/tx-details.html:154
 msgid "re-send private payloads to cosigners"
-msgstr ""
+msgstr "ponovo pošalji privatnu pošiljku (payload) ostalim potpisnicima"
 
 #: public/views/modals/share.html:35
 msgid "send"
-msgstr ""
+msgstr "pošalji"
 
 #: src/js/controllers/walletHome.js:782
 msgid "send email"
-msgstr ""
+msgstr "pošalji email"
 
 #: src/js/controllers/walletHome.js:1010
 #: src/js/controllers/walletHome.js:1106
@@ -2057,60 +2057,60 @@ msgstr ""
 #: src/js/controllers/walletHome.js:962
 #: src/js/controllers/walletHome.js:997
 msgid "sending"
-msgstr ""
+msgstr "slanje"
 
 #: public/views/modals/tx-details.html:145
 msgid "share again"
-msgstr ""
+msgstr "ponovo podeli"
 
 #: public/views/walletHome.html:447
 msgid "switch to multi-address"
-msgstr ""
+msgstr "prebacivanje u multi-adresni"
 
 #: public/views/walletHome.html:446
 msgid "switch to single address"
-msgstr ""
+msgstr "prebacivanje u jedno-adresni"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
-msgstr ""
+msgstr "tekst ispod i pošalji primaocu preko bilo koje aplikacije za slanje poruka"
 
 #: public/views/modals/approveNewWitnesses.html:17
 msgid "to"
-msgstr ""
+msgstr "za"
 
 #: src/js/controllers/index.js:311
 msgid "together with"
-msgstr ""
+msgstr "zajedno sa"
 
 #: public/views/walletHome.html:462
 #: public/views/walletHome.html:473
 msgid "too long!"
-msgstr ""
+msgstr "predugo!"
 
 #: public/views/modals/signed-message.html:30
 msgid "valid"
-msgstr ""
+msgstr "važeće"
 
 #: src/js/controllers/walletHome.js:879
 msgid "wait for sync to complete before sending payments"
-msgstr ""
+msgstr "sačekajte da se proces sinhronizacije završi pre nego što pošaljete uplate"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
-msgstr ""
+msgstr "sa"
 
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
-msgstr ""
+msgstr "sa očekivanom vrednošću"
 
 #: public/views/modals/bind.html:58
 msgid "with expected value of"
-msgstr ""
+msgstr "sa očekivanom vrednošću od"
 
 #: public/views/modals/address-definition.html:16
 msgid "{{address}} can be spent if:"
-msgstr ""
+msgstr "{{address}} može potrošiti ako:"
 
 #: public/views/modals/accept-profile.html:41
 #: public/views/modals/claim-textcoin.html:36
@@ -2120,22 +2120,22 @@ msgstr ""
 
 #: src/js/controllers/walletHome.js:1942
 msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr ""
+msgstr "{{fee}} će se umanjiti od ukupnog iznosa za troškove obrade bitcoin mreže"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
-msgstr ""
+msgstr "{{hrd.destinationAddress}} može biti potrošeno ako:"
 
 #: public/views/copayers.html:26
 #: public/views/includes/walletInfo.html:2
 msgid "{{index.m}}-of-{{index.n}}"
-msgstr ""
+msgstr "{{index.m}}-od-{{index.n}}"
 
 #: public/views/includes/sidebar.html:16
 msgid "{{item.m}}-of-{{item.n}}"
-msgstr ""
+msgstr "{{item.m}}-od-{{item.n}}"
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
-msgstr ""
+msgstr "{{w.m}} od {{w.n}}"
 
