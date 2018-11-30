@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-30 11:01\n"
+"PO-Revision-Date: 2018-11-30 11:11\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -593,7 +593,7 @@ msgstr "Brisanje textcoin-a znači da ćete izgubiti mogućnost da ga ponovo po�
 
 #: public/views/preferencesInformation.html:44
 msgid "Derivation Strategy"
-msgstr ""
+msgstr "Način podele sredstava"
 
 #: public/views/modals/customized-amount.html:29
 #: public/views/modals/multi-payment.html:17
@@ -620,7 +620,7 @@ msgstr "Ne klonirajte novčanike, prestanite da koristite originalni novčanik s
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr ""
+msgstr "Onemogći korišćenje funkcije punog backup-a za kloniranje novčanika."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -654,7 +654,7 @@ msgstr "Omogući automatska obaveštenja"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr ""
+msgstr "Unesite kod za uparivanje, ili upotrebite kameru (ikonica u gornjem desnom uglu) kako biste skenirali QR kod."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
@@ -672,19 +672,19 @@ msgstr "Izvezi"
 #: src/js/controllers/export.js:142
 #: src/js/controllers/export.js:167
 msgid "Export completed successfully"
-msgstr ""
+msgstr "Izvoz je uspešno završen"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr ""
+msgstr "Izvoz..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr ""
+msgstr "Prošireni javni ključevi"
 
 #: public/views/export.html:25
 msgid "Failed to export"
-msgstr ""
+msgstr "Izvoz nije uspeo"
 
 #: public/views/modals/tx-details.html:98
 msgid "Fee"
