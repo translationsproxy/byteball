@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-30 11:11\n"
+"PO-Revision-Date: 2018-11-30 11:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -696,7 +696,7 @@ msgstr "Polje"
 
 #: public/views/modals/tx-details.html:116
 msgid "Finality"
-msgstr ""
+msgstr "Transakcije se ne mogu preurediti (Finality)"
 
 #: src/js/controllers/correspondentDevice.js:1224
 msgid "First name"
@@ -712,7 +712,7 @@ msgstr "Puna adresa:"
 
 #: public/views/preferencesGlobal.html:122
 msgid "Full backup"
-msgstr ""
+msgstr "Putpuni backup"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
@@ -732,11 +732,11 @@ msgstr "Kreira se .csv fajl..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet {{selectedWalletName}} ..."
-msgstr ""
+msgstr "Preuzimanje adrese za novčanik {{selectedWalletName}} ..."
 
 #: public/views/includes/sidebar.html:46
 msgid "Global preferences"
-msgstr ""
+msgstr "Opšta podešavanja"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
@@ -822,11 +822,11 @@ msgstr "Ako primalac ne vidi uplatu, možete"
 
 #: public/views/import.html:47
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Ako ste ovaj backup preuzeli sa drugog uređaja, prestanite sa korišćenjem starog novčanika. Nikada nemojte klonirati novčanike. Ako Vam je potreban pristup novčaniku sa više uređaja, koristite opciju sa višestrukim potpisima (multisig)."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr ""
+msgstr "Ako planirate da obnovite novčanik na drugom uređaju, odmah nakon što kreirate backup, prestanite da koristite stari uređaj. Nikada nemojte klonirati novčanike. Ako Vam je potreban pristup novčaniku sa više uređaja, koristite opciju sa višestrukim potpisima (multisig)."
 
 #: public/views/import.html:40
 msgid "Import"
@@ -872,7 +872,7 @@ msgstr "Poveži sa drugim uređajem"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr ""
+msgstr "Nije dovoljno imati samo šiftu za obnovu (seed). Samo sa seed-om, nećete moći da obnovite novčanike sa opcijom višestrukog potpisivanja niti privatna sredstva poput blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -914,11 +914,11 @@ msgstr "Ja"
 
 #: public/views/modals/tx-details.html:110
 msgid "Merchant message"
-msgstr ""
+msgstr "Poruka trgovca"
 
 #: public/views/walletHome.html:460
 msgid "Merkle proof"
-msgstr ""
+msgstr "Drvo odlučivanja (Merkle proof)"
 
 #: public/views/paymentUri.html:17
 msgid "Message"
@@ -943,7 +943,7 @@ msgstr "Moja Byteball adresa"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
-msgstr ""
+msgstr "Moja snimljena podešavanja"
 
 #: public/views/modals/destination-address.html:122
 msgid "Name of the contact"
@@ -1108,11 +1108,11 @@ msgstr "Običan novčanik"
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
-msgstr ""
+msgstr "Molimo Vas da odaberete koliko će se podataka čuvati u Vašem novčaniku"
 
 #: src/js/controllers/create.js:99
 msgid "Please enter the required fields"
-msgstr ""
+msgstr "Molimo Vas da popunite tražena polja"
 
 #: public/views/splash.html:82
 msgid "Please name this device"
