@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-30 18:30\n"
+"PO-Revision-Date: 2018-11-30 18:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -646,7 +646,7 @@ msgstr "Urеdi"
 
 #: public/views/correspondentDevice.html:291
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr "Ili Vi ili {{correspondent.name}} ste isključili snimanje istorije dopisivanja. Dopisivanje se trenutno ne snima."
+msgstr "Neko je isključio snimanje istorije dopisivanja, bilo da ste to Vi učinili ili {{correspondent.name}}. Dopisivanje se trenutno ne snima."
 
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
@@ -663,7 +663,7 @@ msgstr "Unesite svoju lozinku"
 #: src/js/services/profileService.js:341
 #: src/js/services/profileService.js:393
 msgid "Error creating wallet"
-msgstr "Pogreška prilikom kreiranja novčanika"
+msgstr "Greška prilikom kreiranja novčanika"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -676,7 +676,7 @@ msgstr "Izvoz je uspešno završen"
 
 #: public/views/export.html:19
 msgid "Exporting..."
-msgstr "Izvoz..."
+msgstr "Izvoz u toku..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
