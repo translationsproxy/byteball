@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-28 18:10\n"
+"PO-Revision-Date: 2018-11-30 11:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -465,41 +465,41 @@ msgstr ""
 
 #: src/js/controllers/walletHome.js:705
 msgid "Could not create payment proposal"
-msgstr ""
+msgstr "Nije moguće kreirati predlog uplate"
 
 #: src/js/services/profileService.js:281
 msgid "Could not create using the specified extended private key"
-msgstr ""
+msgstr "Nije moguće kreirati korišćenjem navedenog proširenog privatnog ključa"
 
 #: src/js/services/profileService.js:291
 msgid "Could not create using the specified extended public key"
-msgstr ""
+msgstr "Nije moguće kreirati korišćenjem navedenog proširenog javnog ključa"
 
 #: src/js/services/profileService.js:274
 msgid "Could not create: Invalid wallet seed"
-msgstr ""
+msgstr "Nije moguće kreirati: neispravna je šifra za obnovu (seed)"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr ""
+msgstr "Šifrovanje nije uspelo"
 
 #: public/views/walletHome.html:631
 msgid "Could not fetch transaction history"
-msgstr ""
+msgstr "Preuzimanje istorije transakcija nije uspelo"
 
 #: src/js/services/profileService.js:510
 #: src/js/services/profileService.js:537
 #: src/js/services/profileService.js:559
 msgid "Could not import"
-msgstr ""
+msgstr "Nije moguće uvesti"
 
 #: src/js/services/profileService.js:487
 msgid "Could not import. Check input file and password"
-msgstr ""
+msgstr "Nije moguće uvesti. Proverite ulazni fajl i lozinku"
 
 #: src/js/controllers/walletHome.js:705
 msgid "Could not send payment"
-msgstr ""
+msgstr "Nije moguće poslati uplatu"
 
 #: src/js/controllers/correspondentDevice.js:1227
 msgid "Country"
