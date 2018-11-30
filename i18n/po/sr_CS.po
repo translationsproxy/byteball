@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-30 12:11\n"
+"PO-Revision-Date: 2018-11-30 12:22\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1525,72 +1525,72 @@ msgstr "Tekstualna poruka"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
-msgstr ""
+msgstr "Textcoin"
 
 #: public/views/modals/accept-profile.html:32
 msgid "The attested address belongs to:"
-msgstr ""
+msgstr "Potvrđena adresa pripada:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
-msgstr ""
+msgstr "Hub za prijem poruka sa drugih uređaja."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following witnesses:"
-msgstr ""
+msgstr "Hub sugeriše da zamenite navedene predstavnike (witnesses):"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr ""
+msgstr "Novac je pohranjen u ovom textcoin-u:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
-msgstr ""
+msgstr "Partner će primiti uplatu ako"
 
 #: public/views/modals/signed-message.html:28
 msgid "The signature is"
-msgstr ""
+msgstr "Potpis je"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr ""
+msgstr "Glas će dobiti potpis sa svih adresa na kojima imate sredstva"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The wallet \"{{walletName}}\" was deleted"
-msgstr ""
+msgstr "Novčanik \"{{walletName}}\" je izbrisan"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr ""
+msgstr "Kao kupac novčanika može imati uvid u stanje na računu i transakcije ali ćete od starta imati novčanik koji je u potpunosti funkcionalan."
 
 #: public/views/correspondentDevice.html:302
 msgid "Their recording preference"
-msgstr ""
+msgstr "Njihova snimljena podešavanja"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
-msgstr ""
+msgstr "Nema novčanika, te se plaćanje ne može izvesti"
 
 #: public/views/walletHome.html:294
 msgid "This address is shared with {{index.shared_address_cosigners}}."
-msgstr ""
+msgstr "Ova adresa je podeljena sa {{index.shared_address_cosigners}}."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
-msgstr ""
+msgstr "Ova odluka ostaje trajna i nepromenljiva"
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
-msgstr ""
+msgstr "Ova opcija je bolja za privatnost ali će zauzeti nekoliko gigabajta prostora na disku i sinhronizacija će potrajati nekoliko dana. Tokom tog procesa, procesor će biti prilično opterećen."
 
 #: public/views/walletHome.html:441
 msgid "This payment is bound to a condition"
-msgstr ""
+msgstr "Ova uplata je vezana za uslov"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "This payment must be paid only from single-address wallet"
-msgstr ""
+msgstr "Ovo plaćanje se mora izvršiti preko novčanika sa jedinstvenom adresom"
 
 #: public/views/modals/tx-details.html:86
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
