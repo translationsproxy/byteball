@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-30 11:31\n"
+"PO-Revision-Date: 2018-11-30 11:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1144,61 +1144,61 @@ msgstr "Postujte vrednosti ručno, u formi datafeed-a, postanite savetnik (oracl
 
 #: public/views/walletHome.html:538
 msgid "Post your profile data, anything you want to say about yourself."
-msgstr ""
+msgstr "Objavite podatke o svom, profilu, šta god želite da kažete o sebi."
 
 #: public/views/walletHome.html:190
 #: public/views/walletHome.html:47
 msgid "Preferences"
-msgstr ""
+msgstr "Podešavanja"
 
 #: src/js/services/backButtonService.js:73
 msgid "Press again to exit"
-msgstr ""
+msgstr "Ponovo kliknite za izlazak"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) are not recovered."
-msgstr ""
+msgstr "Privatna sredstva (poput blackbytes) nisu vraćeni."
 
 #: src/js/controllers/walletHome.js:1825
 #: src/js/controllers/walletHome.js:1901
 msgid "Private payloads sent"
-msgstr ""
+msgstr "Poslata je privatna pošiljka (payload)"
 
 #: public/views/modals/accept-profile.html:8
 msgid "Private profile"
-msgstr ""
+msgstr "Privatni profil"
 
 #: public/views/walletHome.html:349
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: public/views/walletHome.html:577
 msgid "Profile field"
-msgstr ""
+msgstr "Polje za profil"
 
 #: public/views/walletHome.html:577
 msgid "Profile field value"
-msgstr ""
+msgstr "Vrednost polja profila"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
-msgstr ""
+msgstr "QR kod"
 
 #: public/views/modals/scanner.html:8
 msgid "QR-Scanner"
-msgstr ""
+msgstr "QR skener"
 
 #: public/views/walletHome.html:564
 msgid "Question to be voted on"
-msgstr ""
+msgstr "Pitanje stavljeno na glasanje"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
-msgstr ""
+msgstr "Pitanje:"
 
 #: src/js/controllers/index.js:669
 msgid "Receive"
-msgstr ""
+msgstr "Primi"
 
 #: public/views/walletHome.html:665
 msgid "Received"
@@ -1215,7 +1215,7 @@ msgstr "Ponovno povezivanje sa servisom za novčanik..."
 
 #: public/views/recoveryFromSeed.html:34
 msgid "Recover"
-msgstr ""
+msgstr "Recover"
 
 #: public/views/preferencesGlobal.html:113
 msgid "Recovery from seed"
