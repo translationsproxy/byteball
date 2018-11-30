@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-30 11:51\n"
+"PO-Revision-Date: 2018-11-30 12:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1219,11 +1219,11 @@ msgstr "Recover"
 
 #: public/views/preferencesGlobal.html:113
 msgid "Recovery from seed"
-msgstr ""
+msgstr "Obnova na osnovu lozinke za obnovu (seed)"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
-msgstr ""
+msgstr "Ponovno kreiranje novčanika..."
 
 #: src/js/controllers/index.js:229
 msgid "Refused"
@@ -1277,7 +1277,7 @@ msgstr "Traženi broj potpisa"
 
 #: public/views/preferencesGlobal.html:131
 msgid "Restore from full backup"
-msgstr ""
+msgstr "Vraćanje u prethodno stanje na osnovu potpunog backup-a"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
@@ -1285,7 +1285,7 @@ msgstr "Pokušavamo..."
 
 #: public/views/includes/password.html:32
 msgid "SET"
-msgstr ""
+msgstr "ZADAVANJE"
 
 #: public/views/editCorrespondentDevice.html:41
 #: public/views/modals/destination-address.html:133
@@ -1301,7 +1301,7 @@ msgstr "Snimi"
 
 #: public/views/preferencesEmail.html:21
 msgid "Saving preferences..."
-msgstr ""
+msgstr "Snimanje postavki..."
 
 #: public/views/preferences.html:76
 msgid "Scan Fingerprint"
@@ -1321,11 +1321,11 @@ msgstr "Molimo Vas, skenirajte svoj prst"
 
 #: public/views/walletHome.html:79
 msgid "Scanning Wallet funds..."
-msgstr ""
+msgstr "Skeniranje sredstava u novčaniku..."
 
 #: public/views/recoveryFromSeed.html:19
 msgid "Scanning for addresses..."
-msgstr ""
+msgstr "Traženje adresa..."
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1337,7 +1337,7 @@ msgstr "Izaberi podnovčanik"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the wallet"
-msgstr ""
+msgstr "Selektujte sredstva koja ćete sakriti u novčaniku"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1384,7 +1384,7 @@ msgstr "Pošalji"
 
 #: public/views/preferencesAbout.html:38
 msgid "Session log"
-msgstr ""
+msgstr "Evidencija o sesiji"
 
 #: public/views/export.html:30
 msgid "Set up a Password"
@@ -1418,64 +1418,64 @@ msgstr "Podelite adresu ovog novčanika kako biste primili uplate."
 #: public/views/walletHome.html:396
 #: public/views/walletHome.html:517
 msgid "Share via message"
-msgstr ""
+msgstr "Podelite putem poruke"
 
 #: public/views/walletHome.html:724
 msgid "Show all"
-msgstr ""
+msgstr "Prikaži sve"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr ""
+msgstr "Ipak prikaži lozinku za obnovu novčanika (seed)"
 
 #: public/views/modals/sign-message.html:46
 msgid "Sign"
-msgstr ""
+msgstr "Potis"
 
 #: public/views/modals/sign-message.html:8
 #: src/js/controllers/index.js:408
 msgid "Sign message"
-msgstr ""
+msgstr "Potpiši poruku"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
-msgstr ""
+msgstr "Potpisana poruka"
 
 #: public/views/modals/sign-message.html:22
 #: public/views/modals/signed-message.html:22
 msgid "Signing address:"
-msgstr ""
+msgstr "Adresa za potpisivanje:"
 
 #: public/views/create.html:56
 #: public/views/preferences.html:36
 msgid "Single address wallet"
-msgstr ""
+msgstr "Novčanik sa jedinstvenom adresom"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:38
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
-msgstr ""
+msgstr "Novčanici sa jedinstvenom adresom neće praviti nove adrese za svaku narednu transakciju. Sve promene stanja na računu će ići preko jedne adrese koja je dodeljena novčaniku."
 
 #: src/js/services/profileService.js:335
 msgid "Small Expenses Wallet"
-msgstr ""
+msgstr "Novčanik za džeparac"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr ""
+msgstr "Određivanje šifre za obnovu (seed)..."
 
 #: public/views/preferences.html:70
 #: public/views/preferencesGlobal.html:86
 msgid "Spending Restrictions"
-msgstr ""
+msgstr "Ograničenja troškova"
 
 #: public/views/preferencesGlobal.html:100
 msgid "Still not done"
-msgstr ""
+msgstr "Još nije završeno"
 
 #: src/js/controllers/correspondentDevice.js:1273
 msgid "Store"
-msgstr ""
+msgstr "Snimi"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:142
@@ -1486,11 +1486,11 @@ msgstr ""
 #: src/js/controllers/walletHome.js:1825
 #: src/js/controllers/walletHome.js:1901
 msgid "Success"
-msgstr ""
+msgstr "Uspešno"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
-msgstr ""
+msgstr "Transfer sredstava na papirni novčanik"
 
 #: public/views/walletHome.html:83
 msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
