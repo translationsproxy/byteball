@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-30 13:15\n"
+"PO-Revision-Date: 2018-11-30 18:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -150,7 +150,7 @@ msgstr "Osim toga, u meniju \"Podešavanja\", naći ćete bezbednosne opcije pop
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr "Osim toga, ne zaboravite izbrišete seed, šifru koja omogućava da ponovo pokrenete novčanik na drugim uređajima"
+msgstr "Osim toga, ne zaboravite da izbrišete seed, šifru koja omogućava da ponovo pokrenete novčanik na drugim uređajima"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -184,11 +184,11 @@ msgstr "Da li ste sigurni da želite da obrišete novčanik?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
-msgstr "Aktiva"
+msgstr "Sredstva"
 
 #: public/views/walletHome.html:535
 msgid "Attest profile data linked to any Byteball address."
-msgstr "Podaci o profilu sa aktivom koji su povezani sa nekom Byteball adresom."
+msgstr "Podaci o profilu sa sredstvima koji su povezani sa nekom Byteball adresom."
 
 #: public/views/walletHome.html:348
 msgid "Attestation"
@@ -206,7 +206,7 @@ msgstr "Potvrđeno od strane:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr "Adresa potvrdioca"
+msgstr "Adresa onoga koji potvrđuje"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -218,7 +218,7 @@ msgstr "Automatsko ažuriranje liste witness-a iz datog hub-a"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
-msgstr "Dostupan Saldo"
+msgstr "Dostupna sredstva"
 
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
@@ -254,11 +254,11 @@ msgstr "Neispravan profil"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
-msgstr "Saldo po adresi"
+msgstr "Stanje na računu, po adresama"
 
 #: public/views/walletHome.html:241
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "Pre nego što ćete ostvariti prijem sredstava, preporučujemo Vam da napravite rezernu kopiju ključeva za novčanik."
+msgstr "Pre nego što ćete ostvariti prijem sredstava, preporučujemo Vam da napravite rezervnu kopiju ključeva za novčanik."
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -276,7 +276,7 @@ msgstr "Vežite plaćanje sa uslovom"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr "Bitcoin URI NIJE validan!"
+msgstr "Bitcoin URI NIJE važeći!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
@@ -370,7 +370,7 @@ msgstr "Kliknite dugme kako biste kreirali fajl za plaćanje i poslali ga."
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
-msgstr "Kliknite ovo dugme kako biste kreirali uplatnicu i podelite je putem privatne poruke u aplikacijama za dobisivanje ili kreirajte papirni novčanik."
+msgstr "Kliknite ovo dugme kako biste kreirali uplatnicu i podelite je putem privatne poruke u aplikacijama za dopisivanje ili kreirajte papirni novčanik."
 
 #: public/views/correspondentDevices.html:25
 #: public/views/includes/topbar.html:13
