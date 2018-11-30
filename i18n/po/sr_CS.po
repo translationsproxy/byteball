@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-30 11:21\n"
+"PO-Revision-Date: 2018-11-30 11:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -461,7 +461,7 @@ msgstr "Kopiraj"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr ""
+msgstr "Korespondencije nisu obnovljene."
 
 #: src/js/controllers/walletHome.js:705
 msgid "Could not create payment proposal"
@@ -1116,31 +1116,31 @@ msgstr "Molimo Vas da popunite tražena polja"
 
 #: public/views/splash.html:82
 msgid "Please name this device"
-msgstr ""
+msgstr "Molimo Vas da imenujete ovaj uređaj"
 
 #: src/js/controllers/correspondentDevice.js:149
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
-msgstr ""
+msgstr "Molimo Vas da se prebacite na novčanik sa jedinstvenom adresom. Verovatno ćete morati da ponovo upišete adresu."
 
 #: public/views/walletHome.html:351
 msgid "Poll"
-msgstr ""
+msgstr "Referendum"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Byteball network that users can vote on with Poll bot."
-msgstr ""
+msgstr "Pošaljite glasački listić u Byteball mrežu, korišćenjem Bota za referendum."
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Byteball network."
-msgstr ""
+msgstr "Postujte arbitrarne ključne vrednosti parova podataka na Byteball mrežu."
 
 #: public/views/walletHome.html:532
 msgid "Post values into datafeeds manually, be an oracle."
-msgstr ""
+msgstr "Postujte vrednosti ručno, u formi datafeed-a, postanite savetnik (oracle)."
 
 #: public/views/walletHome.html:538
 msgid "Post your profile data, anything you want to say about yourself."
