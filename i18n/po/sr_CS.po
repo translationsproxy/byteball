@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-12-01 13:51\n"
+"PO-Revision-Date: 2018-12-01 14:02\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -822,7 +822,7 @@ msgstr "Ako primalac ne vidi uplatu, možete"
 
 #: public/views/import.html:47
 msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
-msgstr "Ako ste ovaj backup preuzeli sa drugog uređaja, prestanite sa korišćenjem starog novčanika. Nikada nemojte klonirati novčanike. Ako Vam je potreban pristup novčaniku sa više uređaja, koristite opciju sa višestrukim potpisima (multisig)."
+msgstr "Ako ste ovaj backup preuzeli sa drugog uređaja, prestanite sa korišćenjem starog novčanika. Nikada nemojte klonirati novčanike. Ako Vam je potreban pristup novčaniku sa više uređaja, koristite novčanik sa višestrukim potpisima (multisig)."
 
 #: public/views/export.html:58
 msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets.  If you need access from several devices, use multisig."
@@ -1064,7 +1064,7 @@ msgstr "Lozinke se ne podudaraju"
 
 #: public/views/paperWallet.html:31
 msgid "Paste your paper wallet private key here"
-msgstr "Molimo Vas, nalepite ovde krivatni ključ Vašeg papirnog novčanika"
+msgstr "Molimo Vas, nalepite ovde privatni ključ Vašeg papirnog novčanika"
 
 #: public/views/modals/offer-contract.html:137
 msgid "Pay and offer"
