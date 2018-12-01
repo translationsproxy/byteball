@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-11-30 18:40\n"
+"PO-Revision-Date: 2018-12-01 13:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -521,7 +521,7 @@ msgstr "Kreirajte novi novčanik"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} wallet"
-msgstr "Kreirano {{requiredCosigners}} od {{totalCosigners}} novčanika"
+msgstr "Kreiraj {{requiredCosigners}}-od-{{totalCosigners}} novčanika"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -585,7 +585,7 @@ msgstr "Izbriši novčanik"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete wallet"
-msgstr "Izbriši novčanik"
+msgstr "Brisanje novčanika"
 
 #: src/js/controllers/walletHome.js:1756
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
