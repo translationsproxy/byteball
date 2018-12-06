@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-12-01 14:02\n"
+"PO-Revision-Date: 2018-12-06 17:55\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -70,7 +70,7 @@ msgstr "Dodajte Bota"
 
 #: public/views/correspondentDevices.html:69
 msgid "Add a new device"
-msgstr "Dodaj novi uređaj"
+msgstr "Dodajte novi uređaj"
 
 #: public/views/modals/destination-address.html:100
 #: public/views/modals/destination-address.html:107
@@ -142,7 +142,7 @@ msgstr "Već je sačuvano"
 
 #: public/views/walletHome.html:165
 msgid "Also"
-msgstr "Takođe,"
+msgstr "Takođe"
 
 #: public/views/splash.html:91
 msgid "Also in the Settings menu, you will find security options such as setting a password."
@@ -234,7 +234,7 @@ msgstr "Nazad"
 
 #: public/views/walletHome.html:247
 msgid "Backup now"
-msgstr "Rezervna kopija"
+msgstr "Napravite rezervnu kopiju sada"
 
 #: public/views/preferencesGlobal.html:104
 msgid "Backup wallet seed"
@@ -276,7 +276,7 @@ msgstr "Vežite plaćanje sa uslovom"
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr "Bitcoin URI NIJE važeći!"
+msgstr "Bitcoin URI NIJE validan!"
 
 #: public/views/bot.html:23
 msgid "Bot Store"
