@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2018-12-06 17:55\n"
+"PO-Revision-Date: 2018-12-06 18:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -461,7 +461,7 @@ msgstr "Kopiraj"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents are not restored."
-msgstr "Korespondencije nisu obnovljene."
+msgstr "Korespondenti nisu obnovljeni."
 
 #: src/js/controllers/walletHome.js:705
 msgid "Could not create payment proposal"
@@ -481,7 +481,7 @@ msgstr "Nije moguće kreirati: neispravna je šifra za obnovu (seed)"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
-msgstr "Šifrovanje nije uspelo"
+msgstr "Dešifrovanje nije uspelo"
 
 #: public/views/walletHome.html:631
 msgid "Could not fetch transaction history"
@@ -585,7 +585,7 @@ msgstr "Izbriši novčanik"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete wallet"
-msgstr "Brisanje novčanika"
+msgstr "Izbriši novčanik"
 
 #: src/js/controllers/walletHome.js:1756
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
@@ -620,7 +620,7 @@ msgstr "Ne klonirajte novčanike, prestanite da koristite originalni novčanik s
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
-msgstr "Onemogći korišćenje funkcije punog backup-a za kloniranje novčanika."
+msgstr "Onemogući korišćenje funkcije punog backup-a za kloniranje novčanika."
 
 #: public/views/translators.html:55
 msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
@@ -712,11 +712,11 @@ msgstr "Puna adresa:"
 
 #: public/views/preferencesGlobal.html:122
 msgid "Full backup"
-msgstr "Putpuni backup"
+msgstr "Potpuni backup"
 
 #: public/views/splash.html:92
 msgid "GET STARTED"
-msgstr "POČNIMO"
+msgstr "POČNITE"
 
 #: src/js/controllers/walletHome.js:424
 msgid "Generate QR Code"
