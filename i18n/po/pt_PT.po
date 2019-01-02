@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2019-01-02 02:10\n"
+"PO-Revision-Date: 2019-01-02 02:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -27,7 +27,7 @@ msgstr "(carteira atual)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other wallet)"
-msgstr ""
+msgstr "(minha outra carteira)"
 
 #: public/views/walletHome.html:676
 msgid "(possible double spend)"
@@ -79,7 +79,7 @@ msgstr "Adicionar nova entrada"
 
 #: public/views/walletHome.html:577
 msgid "Add answer"
-msgstr ""
+msgstr "Adicionar resposta"
 
 #: public/views/walletHome.html:577
 msgid "Add fields"
@@ -163,7 +163,7 @@ msgstr "Quantia"
 
 #: public/views/walletHome.html:577
 msgid "Answer"
-msgstr ""
+msgstr "Resposta"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -197,12 +197,12 @@ msgstr "Atestado"
 #: public/views/modals/accept-profile.html:28
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
-msgstr ""
+msgstr "Endereço atestado:"
 
 #: public/views/modals/accept-profile.html:24
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
-msgstr ""
+msgstr "Atestado por:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
@@ -250,7 +250,7 @@ msgstr "Backups (Cópias de segurança)"
 
 #: src/js/controllers/correspondentDevice.js:1256
 msgid "Bad profile"
-msgstr "Perfil mau"
+msgstr "Mau Perfil"
 
 #: public/views/preferencesInformation.html:107
 msgid "Balance By Address"
@@ -366,7 +366,7 @@ msgstr "Clique no botão para <span ng-if=\"isResend\">re</span>enviar o e-mail:
 
 #: public/views/walletHome.html:516
 msgid "Click this button to create a payment file and send it to a recipient."
-msgstr ""
+msgstr "Clique neste botão para criar um ficheiro de pagamento e para enviá-lo a um destinatário."
 
 #: public/views/walletHome.html:515
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
@@ -789,7 +789,7 @@ msgstr "Recebo outro pagamento de"
 
 #: public/views/modals/tx-details.html:102
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: src/js/controllers/correspondentDevice.js:1229
 msgid "ID number"
@@ -927,7 +927,7 @@ msgstr "Mensagem"
 #: public/views/modals/sign-message.html:17
 #: public/views/modals/signed-message.html:17
 msgid "Message:"
-msgstr ""
+msgstr "Mensagem:"
 
 #: public/views/walletHome.html:668
 msgid "Moved"
@@ -1409,7 +1409,7 @@ msgstr "Compartilhar endereço"
 
 #: public/views/inviteCorrespondentDevice.html:27
 msgid "Share the code"
-msgstr ""
+msgstr "Partilhar o código"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
@@ -1721,7 +1721,7 @@ msgstr "A atualizar o banco de dados, por favor aguarde.  Às vezes leva vários
 
 #: public/views/walletHome.html:577
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 #: public/views/walletHome.html:577
 msgid "Values"
@@ -1914,11 +1914,11 @@ msgstr "e apagar a textcoin para mantê-lo seguro contra invasores."
 
 #: public/views/walletHome.html:577
 msgid "available"
-msgstr ""
+msgstr "disponível"
 
 #: src/js/controllers/index.js:408
 msgid "by address"
-msgstr ""
+msgstr "por endereço"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -1942,7 +1942,7 @@ msgstr "limpar histórico do chat"
 
 #: public/views/walletHome.html:577
 msgid "confirmed"
-msgstr ""
+msgstr "confirmado"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
@@ -1991,7 +1991,7 @@ msgstr "em carteiras inteligentes"
 
 #: public/views/modals/signed-message.html:29
 msgid "invalid"
-msgstr ""
+msgstr "inválido"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
@@ -2081,7 +2081,7 @@ msgstr "para"
 
 #: src/js/controllers/index.js:311
 msgid "together with"
-msgstr ""
+msgstr "junto com"
 
 #: public/views/walletHome.html:462
 #: public/views/walletHome.html:473
@@ -2090,11 +2090,11 @@ msgstr "demasiado tempo!"
 
 #: public/views/modals/signed-message.html:30
 msgid "valid"
-msgstr ""
+msgstr "válido"
 
 #: src/js/controllers/walletHome.js:879
 msgid "wait for sync to complete before sending payments"
-msgstr ""
+msgstr "espere que a sincronização termine antes de realizar transações"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
@@ -2137,5 +2137,5 @@ msgstr "{{item.m}}-de-{{item.n}}"
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
-msgstr ""
+msgstr "{{w.m}} de {{w.n}}"
 
