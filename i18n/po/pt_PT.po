@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2019-01-02 02:00\n"
+"PO-Revision-Date: 2019-01-02 02:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -809,11 +809,11 @@ msgstr ""
 
 #: public/views/modals/bind.html:77
 msgid "If the condition is not met, I can take this money back after"
-msgstr "Se a condição não for atingida, posso reaver este dinheiro depois"
+msgstr "Se a condição não for atingida, posso reaver este dinheiro depois de"
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr "Se o correspondente não pagar, eu posso ter o meu dinheiro de volta depois"
+msgstr "Se o correspondente não pagar, eu posso ter o meu dinheiro de volta depois de"
 
 #: public/views/modals/tx-details.html:145
 #: public/views/modals/tx-details.html:151
