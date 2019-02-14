@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2019-02-14 16:13\n"
+"PO-Revision-Date: 2019-02-14 16:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -130,7 +130,7 @@ msgstr "Kõik rahakoti aadressid"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
-msgstr "Kõik panused Obyte tõlkimisel on teretulnud. Registreeru crowdin.com lehel ja liitu projektiga"
+msgstr "Kõik panused O<sub>byte</sub> tõlkimisel on teretulnud. Registreeru crowdin.com lehel ja liitu projektiga"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -1148,7 +1148,7 @@ msgstr "Postita küsitlus Obyte andmebaasi selleks, et kasutajad saaksid Poll ve
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Obyte network."
-msgstr ""
+msgstr "Postita võti-väärtus andmepaare Obyte võrku."
 
 #: public/views/walletHome.html:532
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1317,7 +1317,7 @@ msgstr "Eelistuste salvestamine..."
 
 #: public/views/preferences.html:76
 msgid "Scan Fingerprint/FaceID"
-msgstr ""
+msgstr "Skaneeri Sõrmejälge/FaceID"
 
 #: public/views/walletHome.html:121
 msgid "Scan status finished with error"
@@ -1478,7 +1478,7 @@ msgstr "Lähtesõnade määramine..."
 
 #: public/views/preferencesGlobal.html:94
 msgid "Spend unconfirmed funds"
-msgstr ""
+msgstr "Kasuta kinnitamata vahendeid"
 
 #: public/views/preferences.html:70
 #: public/views/preferencesGlobal.html:86
@@ -1644,7 +1644,7 @@ msgstr "Kellele"
 
 #: public/views/walletHome.html:403
 msgid "To Obyte address"
-msgstr ""
+msgstr "Obyte aadressile"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
@@ -1652,7 +1652,7 @@ msgstr "Selleks, et saaks taastada kõike, tee täielik varukoopia (leiad selle 
 
 #: public/views/walletHome.html:607
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "Selleks, et saata andmeid O<sub>byte</sub> võrku, palun vali kõigepealt ühekordse aadressiga rahakott või loo selline."
 
 #: public/views/walletHome.html:450
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1770,7 +1770,7 @@ msgstr "HOIATUSED:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO O<sub>byte</sub>"
-msgstr ""
+msgstr "TERETULEMAST O<sub>byte</sub> KASUTAJA"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
@@ -1807,7 +1807,7 @@ msgstr "Nimi (loomise ajal)"
 
 #: src/js/services/profileService.js:456
 msgid "Wallet already in Obyte:"
-msgstr ""
+msgstr "Rahakott on juba rakenduses:"
 
 #: public/views/create.html:48
 msgid "Wallet name"
@@ -1971,7 +1971,7 @@ msgstr "päeva"
 #: public/views/modals/bind.html:82
 #: public/views/modals/offer-contract.html:99
 msgid "detailed instructions about using"
-msgstr ""
+msgstr "üksikasjalikud juhised kasutamaks"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
@@ -2042,7 +2042,7 @@ msgstr "või"
 
 #: public/views/backup.html:24
 msgid "or backup all Obyte data at"
-msgstr ""
+msgstr "või varunda kõik Obyte andmed kaustast"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
@@ -2062,11 +2062,11 @@ msgstr "saada privaatsed makseandmed uuesti kaasallkirjastajatele"
 
 #: public/views/correspondentDevices.html:159
 msgid "search by bot name"
-msgstr ""
+msgstr "otsi nime järgi"
 
 #: public/views/correspondentDevices.html:100
 msgid "search by contact name"
-msgstr ""
+msgstr "otsi nime järgi"
 
 #: public/views/modals/share.html:35
 msgid "send"
