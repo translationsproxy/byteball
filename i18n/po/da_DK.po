@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2019-02-14 15:04\n"
+"PO-Revision-Date: 2019-02-15 11:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -43,7 +43,7 @@ msgstr "12 ord adskilt af bindestreger"
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
-msgstr ""
+msgstr "Om Obyte"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
@@ -130,7 +130,7 @@ msgstr "Alle wallet-adresser"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
-msgstr ""
+msgstr "Alle bidrag til oversættelsen af Obyte er velkomne. Opret dig på crowdin.com og deltag i oversættelsen af O<sub>byte</sub>-projektet på"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -188,7 +188,7 @@ msgstr "Aktiv"
 
 #: public/views/walletHome.html:535
 msgid "Attest profile data linked to any Obyte address."
-msgstr ""
+msgstr "Attestér profildata knyttet til en vilkårlig Obyte-adresse."
 
 #: public/views/walletHome.html:348
 msgid "Attestation"
@@ -629,7 +629,7 @@ msgstr "Download CSV-fil"
 
 #: public/views/splash.html:26
 msgid "Download the entire Obyte database"
-msgstr ""
+msgstr "Download hele Obyte-databasen"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -785,11 +785,11 @@ msgstr "ID"
 
 #: src/js/controllers/correspondentDevice.js:1263
 msgid "ID expires at"
-msgstr ""
+msgstr "ID udløber"
 
 #: src/js/controllers/correspondentDevice.js:1264
 msgid "ID issued at"
-msgstr ""
+msgstr "ID udstedt"
 
 #: src/js/controllers/correspondentDevice.js:1260
 msgid "ID number"
@@ -939,7 +939,7 @@ msgstr "Multienheds-wallet"
 
 #: public/views/walletHome.html:255
 msgid "My Obyte address"
-msgstr ""
+msgstr "Min Obyte-adresse"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
@@ -1011,11 +1011,11 @@ msgstr "Du skal nu sende filen til et andet sted for at kunne gendanne fra den s
 
 #: public/index.html:12
 msgid "Obyte &mdash; smart payments"
-msgstr ""
+msgstr "Obyte &mdash; smart payments"
 
 #: public/views/modals/destination-address.html:120
 msgid "Obyte address"
-msgstr ""
+msgstr "Obyte-adresse"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:118
@@ -1112,7 +1112,7 @@ msgstr "Slet denne wallet permanent. DENNE HANDLING KAN IKKE FORTRYDES"
 
 #: src/js/controllers/correspondentDevice.js:1258
 msgid "Personal code"
-msgstr ""
+msgstr "Personlig kode"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
