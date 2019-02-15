@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2019-02-14 15:04\n"
+"PO-Revision-Date: 2019-02-15 08:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -43,7 +43,7 @@ msgstr "12 Wörter durch Bindestriche getrennt"
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
-msgstr ""
+msgstr "Über Obyte"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
@@ -130,7 +130,7 @@ msgstr "Alle Adressen dieses Wallets"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
-msgstr ""
+msgstr "Beiträge zur Obyte Übersetzung sind willkommen. Meldet euch bei crowdin.com an und tretet dem O<sub>byte</sub> Projekt bei"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -188,7 +188,7 @@ msgstr "Guthaben"
 
 #: public/views/walletHome.html:535
 msgid "Attest profile data linked to any Obyte address."
-msgstr ""
+msgstr "Bestätigen von Profildaten, die mit einer Obyte Adresse verlinkt sind."
 
 #: public/views/walletHome.html:348
 msgid "Attestation"
@@ -629,7 +629,7 @@ msgstr ".csv-Datei herunterladen"
 
 #: public/views/splash.html:26
 msgid "Download the entire Obyte database"
-msgstr ""
+msgstr "Die gesamte Obyte Datenbank herunterladen"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -785,11 +785,11 @@ msgstr "Ausweis"
 
 #: src/js/controllers/correspondentDevice.js:1263
 msgid "ID expires at"
-msgstr ""
+msgstr "ID läuft ab am"
 
 #: src/js/controllers/correspondentDevice.js:1264
 msgid "ID issued at"
-msgstr ""
+msgstr "ID ausgestellt am"
 
 #: src/js/controllers/correspondentDevice.js:1260
 msgid "ID number"
@@ -938,7 +938,7 @@ msgstr "Mehrgeräte Wallet"
 
 #: public/views/walletHome.html:255
 msgid "My Obyte address"
-msgstr ""
+msgstr "Meine Obyte Adresse"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
@@ -1010,11 +1010,11 @@ msgstr "Nun müssen Sie diese Datei irgendwo hinschicken, um sie später wiederh
 
 #: public/index.html:12
 msgid "Obyte &mdash; smart payments"
-msgstr ""
+msgstr "Obyte &mdash; intelligente Zahlungen"
 
 #: public/views/modals/destination-address.html:120
 msgid "Obyte address"
-msgstr ""
+msgstr "Obyte Adresse"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:118
@@ -1111,7 +1111,7 @@ msgstr "Wallet dauerhaft löschen. DIESE AKTION KANN NICHT RÜCKGÄNGIG GEMACHT 
 
 #: src/js/controllers/correspondentDevice.js:1258
 msgid "Personal code"
-msgstr ""
+msgstr "Persönlicher Code"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
@@ -1143,7 +1143,7 @@ msgstr "Port"
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
-msgstr ""
+msgstr "Posten Sie eine Umfrage im Obyte Netzwerk, in der die Benutzer mit einem Umfrage-Bot abstimmen können."
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Obyte network."
