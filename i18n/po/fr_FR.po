@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2019-02-14 15:04\n"
+"PO-Revision-Date: 2019-02-17 20:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1015,7 +1015,7 @@ msgstr ""
 
 #: public/views/modals/destination-address.html:120
 msgid "Obyte address"
-msgstr ""
+msgstr "Adresse Obyte"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:118
@@ -1112,7 +1112,7 @@ msgstr "Supprimer définitivement ce portefeuille.<br><b>CETTE ACTION NE PEUT PA
 
 #: src/js/controllers/correspondentDevice.js:1258
 msgid "Personal code"
-msgstr ""
+msgstr "Code personnel"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
@@ -2062,11 +2062,11 @@ msgstr "ré-envoyer les charges privées aux cosignataires"
 
 #: public/views/correspondentDevices.html:159
 msgid "search by bot name"
-msgstr ""
+msgstr "rechercher par nom de bot"
 
 #: public/views/correspondentDevices.html:100
 msgid "search by contact name"
-msgstr ""
+msgstr "rechercher par nom de contact"
 
 #: public/views/modals/share.html:35
 msgid "send"
