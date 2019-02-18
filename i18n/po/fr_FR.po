@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2019-02-18 06:00\n"
+"PO-Revision-Date: 2019-02-18 06:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -43,7 +43,7 @@ msgstr "12 mots séparés par des tirets"
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
-msgstr ""
+msgstr "À propos d'Obyte"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
@@ -130,7 +130,7 @@ msgstr "Toutes les adresses du portefeuille"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
-msgstr ""
+msgstr "Toutes les contributions à la traduction de Obyte sont les bienvenues. Inscrivez vous sur crowdin.com et rejoignez le projet O<sub>byte</sub> sur"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -188,7 +188,7 @@ msgstr "Valeurs"
 
 #: public/views/walletHome.html:535
 msgid "Attest profile data linked to any Obyte address."
-msgstr ""
+msgstr "Attester les données de profil liées à toute adresse Obyte."
 
 #: public/views/walletHome.html:348
 msgid "Attestation"
@@ -629,7 +629,7 @@ msgstr "Télécharger le fichier CSV"
 
 #: public/views/splash.html:26
 msgid "Download the entire Obyte database"
-msgstr ""
+msgstr "Télécharger toute la base de données Obyte"
 
 #: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
@@ -1144,11 +1144,11 @@ msgstr "Port"
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
-msgstr ""
+msgstr "Poster un sondage sur le réseau Obyte pour les utilisateurs puissent voter avec le robot de sondage."
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Obyte network."
-msgstr ""
+msgstr "Poster des paires clé-valeur arbitraires dans le réseau Obyte."
 
 #: public/views/walletHome.html:532
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1317,7 +1317,7 @@ msgstr "Enregistrement des préférences..."
 
 #: public/views/preferences.html:76
 msgid "Scan Fingerprint/FaceID"
-msgstr ""
+msgstr "Scanner l’empreinte digitale/FaceID"
 
 #: public/views/walletHome.html:121
 msgid "Scan status finished with error"
@@ -1478,7 +1478,7 @@ msgstr "Spécification de la graine..."
 
 #: public/views/preferencesGlobal.html:94
 msgid "Spend unconfirmed funds"
-msgstr ""
+msgstr "Dépenser des fonds non confirmés"
 
 #: public/views/preferences.html:70
 #: public/views/preferencesGlobal.html:86
@@ -1644,7 +1644,7 @@ msgstr "À"
 
 #: public/views/walletHome.html:403
 msgid "To Obyte address"
-msgstr ""
+msgstr "À l’adresse Obyte"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
@@ -1652,7 +1652,7 @@ msgstr "Pour être en mesure de restaurer tout, veuillez créer une sauvegarde c
 
 #: public/views/walletHome.html:607
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "Pour pouvoir envoyer des données arbitraires dans le réseau O<sub>byte</sub>, veuillez d'abord passer à un portefeuille à adresse unique ou en créer un."
 
 #: public/views/walletHome.html:450
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1770,7 +1770,7 @@ msgstr "ATTENTION :"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO O<sub>byte</sub>"
-msgstr ""
+msgstr "WELCOME sur O<sub>byte</sub>"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
@@ -1807,7 +1807,7 @@ msgstr "Nom du portefeuille (à la création)"
 
 #: src/js/services/profileService.js:456
 msgid "Wallet already in Obyte:"
-msgstr ""
+msgstr "Portefeuille déjà dans Obyte :"
 
 #: public/views/create.html:48
 msgid "Wallet name"
@@ -1971,7 +1971,7 @@ msgstr "jours"
 #: public/views/modals/bind.html:82
 #: public/views/modals/offer-contract.html:99
 msgid "detailed instructions about using"
-msgstr ""
+msgstr "instructions détaillées sur l’utilisation"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
@@ -2042,7 +2042,7 @@ msgstr "ou"
 
 #: public/views/backup.html:24
 msgid "or backup all Obyte data at"
-msgstr ""
+msgstr "ou sauvegarder toutes les données de Obyte à"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
