@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2019-02-17 20:00\n"
+"PO-Revision-Date: 2019-02-18 06:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -785,11 +785,11 @@ msgstr "ID"
 
 #: src/js/controllers/correspondentDevice.js:1263
 msgid "ID expires at"
-msgstr ""
+msgstr "ID expire à"
 
 #: src/js/controllers/correspondentDevice.js:1264
 msgid "ID issued at"
-msgstr ""
+msgstr "ID émise à"
 
 #: src/js/controllers/correspondentDevice.js:1260
 msgid "ID number"
@@ -939,7 +939,7 @@ msgstr "Portefeuille multi-appareils"
 
 #: public/views/walletHome.html:255
 msgid "My Obyte address"
-msgstr ""
+msgstr "Mon adresse Obyte"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
@@ -1011,7 +1011,7 @@ msgstr "Maintenant, il faut envoyer ce fichier quelque part pour le restaurer pl
 
 #: public/index.html:12
 msgid "Obyte &mdash; smart payments"
-msgstr ""
+msgstr "Obyte &mdash; paiements intelligents"
 
 #: public/views/modals/destination-address.html:120
 msgid "Obyte address"
