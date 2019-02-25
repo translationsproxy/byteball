@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2019-02-25 10:10\n"
+"PO-Revision-Date: 2019-02-25 10:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -781,15 +781,15 @@ msgstr "我收到另一笔款项其数额为"
 
 #: public/views/modals/tx-details.html:102
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: src/js/controllers/correspondentDevice.js:1263
 msgid "ID expires at"
-msgstr ""
+msgstr "ID 过期"
 
 #: src/js/controllers/correspondentDevice.js:1264
 msgid "ID issued at"
-msgstr ""
+msgstr "ID签发于"
 
 #: src/js/controllers/correspondentDevice.js:1260
 msgid "ID number"
@@ -856,7 +856,7 @@ msgstr "插入我的地址"
 
 #: public/views/correspondentDevice.html:343
 msgid "Insert private profile"
-msgstr ""
+msgstr "插入个人配置文件"
 
 #: public/views/walletHome.html:669
 msgid "Invalid"
@@ -939,7 +939,7 @@ msgstr "多重签名钱包"
 
 #: public/views/walletHome.html:255
 msgid "My Obyte address"
-msgstr ""
+msgstr "我的Obyte 地址"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
@@ -1011,11 +1011,11 @@ msgstr "现在你必须将此文件发送到某处以便稍后从中恢复（“
 
 #: public/index.html:12
 msgid "Obyte &mdash; smart payments"
-msgstr ""
+msgstr "Obyte &mdash; 智能支付"
 
 #: public/views/modals/destination-address.html:120
 msgid "Obyte address"
-msgstr ""
+msgstr "Obyte 地址"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:118
@@ -1056,7 +1056,7 @@ msgstr "配对的代码"
 
 #: public/views/paperWallet.html:79
 msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
-msgstr ""
+msgstr "纸张钱包只是文本硬币。使用右上角相机图标扫描纸钱包的二维码或在“接受”选项卡手动输入文本币的12个字符。"
 
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
@@ -1112,7 +1112,7 @@ msgstr "永久删除此钱包。 此操作无法撤销！"
 
 #: src/js/controllers/correspondentDevice.js:1258
 msgid "Personal code"
-msgstr ""
+msgstr "个人代码"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
@@ -1144,11 +1144,11 @@ msgstr "端口："
 
 #: public/views/walletHome.html:544
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
-msgstr ""
+msgstr "用户可以使用投票机器人投票，并将投票结果发布到Obyte网络。"
 
 #: public/views/walletHome.html:541
 msgid "Post arbitrary key-value pairs of data into Obyte network."
-msgstr ""
+msgstr "将输入的任意数据发送到 Obyte 网络中。"
 
 #: public/views/walletHome.html:532
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1317,7 +1317,7 @@ msgstr "正在保存设置..."
 
 #: public/views/preferences.html:76
 msgid "Scan Fingerprint/FaceID"
-msgstr ""
+msgstr "扫描指纹或面部或ID"
 
 #: public/views/walletHome.html:121
 msgid "Scan status finished with error"
@@ -1421,7 +1421,7 @@ msgstr "分享地址"
 
 #: public/views/inviteCorrespondentDevice.html:27
 msgid "Share the code"
-msgstr ""
+msgstr "分享代码"
 
 #: public/views/walletHome.html:295
 msgid "Share this wallet address to receive payments."
@@ -1478,7 +1478,7 @@ msgstr "指定口令…"
 
 #: public/views/preferencesGlobal.html:94
 msgid "Spend unconfirmed funds"
-msgstr ""
+msgstr "花费未经确认的资金"
 
 #: public/views/preferences.html:70
 #: public/views/preferencesGlobal.html:86
@@ -1644,7 +1644,7 @@ msgstr "到"
 
 #: public/views/walletHome.html:403
 msgid "To Obyte address"
-msgstr ""
+msgstr "发送到Obyte地址"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
