@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz <testzcrypto@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2019-03-18 09:50\n"
+"PO-Revision-Date: 2019-03-18 10:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -939,7 +939,7 @@ msgstr "多重签名钱包"
 
 #: public/views/walletHome.html:255
 msgid "My Obyte address"
-msgstr "我的Obyte 地址"
+msgstr "我的Obyte地址"
 
 #: public/views/correspondentDevice.html:297
 msgid "My recording preference"
@@ -1015,7 +1015,7 @@ msgstr "Obyte &mdash; 智能支付"
 
 #: public/views/modals/destination-address.html:120
 msgid "Obyte address"
-msgstr "Obyte 地址"
+msgstr "Obyte地址"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:118
@@ -1056,7 +1056,7 @@ msgstr "配对的代码"
 
 #: public/views/paperWallet.html:79
 msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
-msgstr "纸张钱包只是文本硬币。使用右上角相机图标扫描纸钱包的二维码或在“接受”选项卡手动输入文本币的12个字符。"
+msgstr "纸钱包含文本硬币。使用右上角的相机图标扫描纸质钱包的二维码, 或在 \"接收\" 选项上手动输入12个单词。"
 
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
@@ -1317,7 +1317,7 @@ msgstr "正在保存设置..."
 
 #: public/views/preferences.html:76
 msgid "Scan Fingerprint/FaceID"
-msgstr "扫描指纹或面部或ID"
+msgstr "扫描指纹或人脸识别"
 
 #: public/views/walletHome.html:121
 msgid "Scan status finished with error"
@@ -1478,7 +1478,7 @@ msgstr "指定口令…"
 
 #: public/views/preferencesGlobal.html:94
 msgid "Spend unconfirmed funds"
-msgstr "花费未经确认的资金"
+msgstr "使用未确认的资金"
 
 #: public/views/preferences.html:70
 #: public/views/preferencesGlobal.html:86
