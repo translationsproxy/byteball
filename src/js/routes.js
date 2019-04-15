@@ -1,7 +1,7 @@
 'use strict';
 
 var unsupported, isaosp;
-var breadcrumbs = require('byteballcore/breadcrumbs.js');
+var breadcrumbs = require('ocore/breadcrumbs.js');
 
 if (window && window.navigator) {
   var rxaosp = window.navigator.userAgent.match(/Android.*AppleWebKit\/([\d.]+)/);
@@ -74,7 +74,7 @@ angular
 
     // whitelist 'chrome-extension:' for chromeApp to work with image URLs processed by Angular
     // link: http://stackoverflow.com/questions/15606751/angular-changes-urls-to-unsafe-in-extension-page?lq=1
-    $compileProvider.imgSrcSanitizationWhitelist(/^\s*((https?|ftp|file|blob|chrome-extension):|data:image\/)/);
+    $compileProvider.imgSrcSanitizationWhitelist(/^\s*((ionic|https?|ftp|file|blob|chrome-extension):|data:image\/)/);
 
     $stateProvider
       .state('splash', {
@@ -247,6 +247,17 @@ angular
 
         }
       })
+      .state('preferences.preferencesHiddenAssets', {
+	      url: '/hiddenAssets',
+	      templateUrl: 'views/preferencesHiddenAssets.html',
+	      walletShouldBeComplete: true,
+	      needProfile: true,
+	      views: {
+	        'main@': {
+	          templateUrl: 'views/preferencesHiddenAssets.html'
+	        },
+	      }
+	    })
       .state('preferences.preferencesAdvanced', {
 	      url: '/advanced',
 	      templateUrl: 'views/preferencesAdvanced.html',
@@ -361,7 +372,28 @@ angular
           },
         }
       })
+      .state('preferencesGlobal.preferencesAttestorAddresses.preferencesEditRealNameAttestors', {
+        url: '/editrna',
+        walletShouldBeComplete: true,
+        needProfile: true,
+        views: {
+          'main@': {
+            templateUrl: 'views/preferencesEditRealNameAttestors.html'
+          },
+        }
+      })
       .state('preferencesGlobal.preferencesUnit', {
+        url: '/preferencesGlobal/unit',
+        templateUrl: 'views/preferencesUnit.html',
+        walletShouldBeComplete: true,
+        needProfile: true,
+        views: {
+          'main@': {
+            templateUrl: 'views/preferencesUnit.html'
+          },
+        }
+      })
+      .state('walletHome.preferencesUnit', {
         url: '/unit',
         templateUrl: 'views/preferencesUnit.html',
         walletShouldBeComplete: true,
@@ -373,6 +405,17 @@ angular
         }
       })
       .state('preferencesGlobal.preferencesBbUnit', {
+        url: '/preferencesGlobal/bbUnit',
+        templateUrl: 'views/preferencesBbUnit.html',
+        walletShouldBeComplete: true,
+        needProfile: true,
+        views: {
+          'main@': {
+            templateUrl: 'views/preferencesBbUnit.html'
+          },
+        }
+      })
+      .state('walletHome.preferencesBbUnit', {
         url: '/bbUnit',
         templateUrl: 'views/preferencesBbUnit.html',
         walletShouldBeComplete: true,
@@ -557,7 +600,7 @@ angular
         type: "menubar"
       });
       try {
-        nativeMenuBar.createMacBuiltin("Byteball");
+        nativeMenuBar.createMacBuiltin("Obyte");
       } catch (e) {
         $log.debug('This is not OSX');
       }
@@ -584,16 +627,16 @@ angular
           if (err) {
             if (err.message && err.message.match('NOPROFILE')) {
               $log.debug('No profile... redirecting');
-              $state.transitionTo('splash');
+              return $state.transitionTo('splash');
             } else if (err.message && err.message.match('NONAGREEDDISCLAIMER')) {
               $log.debug('Display disclaimer... redirecting');
-              $state.transitionTo('preferencesGlobal.preferencesAbout.disclaimer');
+              return $state.transitionTo('preferencesGlobal.preferencesAbout.disclaimer');
             } else {
-              throw new Error(err); // TODO
+              throw new Error(err.message || err); // TODO
             }
           } else {
             $log.debug('Profile loaded ... Starting UX.');
-            $state.transitionTo(toState.name || toState, toParams);
+            return $state.transitionTo(toState.name || toState, toParams);
           }
         });
       }

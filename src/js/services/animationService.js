@@ -28,6 +28,9 @@ angular.module('copayApp.services').factory('animationService', function(isCordo
     "preferencesGlobal.preferencesDeviceName": 12,
     "preferencesGlobal.preferencesLanguage": 12,
     "preferencesGlobal.preferencesUnit": 12,
+    "preferencesGlobal.preferencesBbUnit": 12,
+    "walletHome.preferencesUnit": 12,
+    "walletHome.preferencesBbUnit": 12,
     preferencesFee: 12,
     preferencesAltCurrency: 12,
     "preferences.preferencesAlias": 12,
@@ -135,7 +138,7 @@ angular.module('copayApp.services').factory('animationService', function(isCordo
       cachedBackPanel = e.cloneNode(true);
       cachedBackPanel.id = 'mainSectionDup';
       var c = document.getElementById('sectionContainer');
-      c.appendChild(cachedBackPanel);
+      //c.appendChild(cachedBackPanel);
 
       if (sc)
         cachedBackPanel.getElementsByClassName('content')[0].scrollTop = sc;

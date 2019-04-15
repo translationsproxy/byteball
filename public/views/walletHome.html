@@ -252,7 +252,7 @@ input.datafeed_input {
         <div class="row">
           <!-- Address-->
           <div class="large-12 columns">
-            <h2 class="text-center m10t" translate>My Byteball address</h2>
+            <h2 class="text-center m10t" translate>My Obyte address</h2>
             <div>
               <div class="box-notification" ng-show="home.addrError">
                 <span class="text-warning">
@@ -308,7 +308,7 @@ input.datafeed_input {
         </div>
         <div class="m20t text-center m30b">
 	        <div class="text-center hor-link" ng-show="!home.generatingAddress && home.addr[index.walletId]" ng-style="{'max-width' : (index.shared_address ? '100%' : '45%')}">
-	          <a class="size-14" ng-click="home.openCustomizedAmountModal(index.shared_address || home.addr[index.walletId])" ng-style="{'color':index.backgroundColor}">
+	          <a class="size-14" ng-click="home.openCustomizedAmountModal(index.shared_address || home.addr[index.walletId])" ng-style="{'color':index.backgroundColor, 'display': 'inline-block'}">
 	            <span translate>Request a specific amount</span>
 	          </a>
 	        </div>
@@ -331,13 +331,6 @@ input.datafeed_input {
       <div>
         <h4 class="title m0">
 
-          <a class="right lh"
-            ng-if="index.availableBalanceBytes > 0 && !home.blockUx && !home.lockAmount"
-            ng-click="home.sendAll(index.availableMaxBalance, 0)"
-             translate> Send All
-          </a>
-
-          <!--available-balance></available-balance-->
             <div class="size-10">
                 <span class="db text-bold">
                     <span translate>What to send</span>:
@@ -348,6 +341,7 @@ input.datafeed_input {
                 	<option ng-value="-2" translate>Attestation</option>
                 	<option ng-value="-3" translate>Profile</option>
                 	<option ng-value="-4" translate>Data</option>
+                	<option ng-value="-5" translate>Poll</option>
                 </select>
             </div>
         </h4>
@@ -381,17 +375,17 @@ input.datafeed_input {
                   </label>
                   <div class="input">
                     <input type="number" id="amount" ng-disabled="home.blockUx || home.lockAmount || home.bSendAll" name="amount" ng-attr-placeholder="{{(home.bSendAll ? (index.arrBalances[index.assetIndex].asset === 'base' ? 'All minus fees' : 'All') : 'Amount')|translate}}" ng-minlength="0.00000001" ng-maxlength="10000000000" ng-model="_amount" valid-amount="{{index.arrBalances[index.assetIndex].asset}}" ng-required="!home.bSendAll && !home.send_multiple" autocomplete="off" ng-focus="home.formFocus('amount')" ng-blur="home.formFocus(false)">
-                      <a class="postfix" ng-if="index.arrBalances.length > 0 && index.arrBalances[index.assetIndex].asset === 'base'">{{home.unitName}}</a>
-                      <a class="postfix" ng-if="index.arrBalances.length > 0 && index.arrBalances[index.assetIndex].asset === index.BLACKBYTES_ASSET">{{home.bbUnitName}}</a>
-                      <a class="postfix" ng-if="index.arrBalances.length > 0 && index.arrBalances[index.assetIndex].name">{{index.arrBalances[index.assetIndex].name | limitTo:16}}{{index.arrBalances[index.assetIndex].name.length>16 ? '...' : ''}}</a>
-                      <a class="postfix" ng-if="index.arrBalances.length > 0 && index.arrBalances[index.assetIndex].asset !== 'base' && index.arrBalances[index.assetIndex].asset !== index.BLACKBYTES_ASSET && !index.arrBalances[index.assetIndex].name">of {{index.arrBalances[index.assetIndex].asset.substr(0,4)}}</a>
+                      <a class="postfix" ng-click="$root.go('walletHome.preferencesUnit')" ng-if="index.arrBalances.length > 0 && index.arrBalances[index.assetIndex].asset === 'base'">{{home.unitName}}</a>
+                      <a class="postfix" ng-click="$root.go('walletHome.preferencesBbUnit')" ng-if="index.arrBalances.length > 0 && index.arrBalances[index.assetIndex].asset === index.BLACKBYTES_ASSET">{{home.bbUnitName}}</a>
+                      <a class="postfix" ng-click="home.openInExplorer(index.arrBalances[index.assetIndex].asset)" ng-if="index.arrBalances.length > 0 && index.arrBalances[index.assetIndex].asset !== 'base' && index.arrBalances[index.assetIndex].asset !== index.BLACKBYTES_ASSET && index.arrBalances[index.assetIndex].name">{{index.arrBalances[index.assetIndex].name | limitTo:16}}{{index.arrBalances[index.assetIndex].name.length>16 ? '...' : ''}}</a>
+                      <a class="postfix" ng-click="home.openInExplorer(index.arrBalances[index.assetIndex].asset)" ng-if="index.arrBalances.length > 0 && index.arrBalances[index.assetIndex].asset !== 'base' && index.arrBalances[index.assetIndex].asset !== index.BLACKBYTES_ASSET && !index.arrBalances[index.assetIndex].name">of {{index.arrBalances[index.assetIndex].asset.substr(0,4)}}</a>
                   </div>
                 </div>
               </div>
             </div>
 
-            <div class="mtabset" ng-show="index.arrBalances.length > 0 && !home.lockAddress && !index.arrBalances[index.assetIndex].is_private">
-		    	<div class="mtab-title active" ng-click="mtab = 1" ng-class="{'active': mtab == 1}" translate>To byteball address or email</div>
+            <div class="mtabset" ng-show="index.arrBalances.length > 0 && !home.lockAddress">
+		    	<div class="mtab-title active" ng-click="mtab = 1" ng-class="{'active': mtab == 1}">{{(index.arrBalances[index.assetIndex].is_private ? 'To my other wallet' : 'To Obyte address or email or username')|translate}}</div>
 		    	<div class="mtab-title" ng-click="mtab = !home.send_multiple ? 2 : mtab; _address = !home.send_multiple ? null : _address" ng-class="{'active': mtab == 2, 'disabled': home.send_multiple}" translate>Share via message</div>
 		    </div>
 
@@ -399,14 +393,14 @@ input.datafeed_input {
 	            <div ng-hide="home.hideAddress">
 	              <div class="row collapse" style="padding-top: 5px;min-height: 24px;">
 	              	<label for="address" class="left" ng-if="home.lockAddress">
-	                  <span translate>To byteball address</span>
+	                  <span translate>To Obyte address</span>
 	                </label>
 	                <span ng-if="!home.send_multiple">
 	                  <span class="has-error right size-12" ng-show="sendPaymentForm.address.$invalid && _address">
 	                    <i class="icon-close-circle size-14"></i>
 	                    <span class="vm" translate>Not valid</span>
 	                  </span>
-	                  <small class="right text-primary" ng-show="!sendPaymentForm.address.$invalid">
+	                  <small class="right text-primary" ng-show="!sendPaymentForm.address.$invalid && _address">
 	                    <i class="icon-checkmark-circle size-14"></i>
 	                  </small>
 	                </span>
@@ -423,9 +417,9 @@ input.datafeed_input {
 	            </div>
 
 	              <div class="input">
-	                <input ng-if="!home.send_multiple" class="m0" type="text" id="address" name="address" ng-disabled="home.blockUx || home.lockAddress" ng-attr-placeholder="{{home.canSendExternalPayment() ? 'Byteball address or email' : 'Byteball address of your other wallet &#8594;'}}" ng-model="_address" ng-required valid-address-or-account ng-focus="home.formFocus('address')" ng-blur="home.formFocus(false)">
-	                <!--<input ng-if="!home.send_multiple && index.arrBalances[index.assetIndex].is_private" class="m0" type="text" id="address" name="address" ng-disabled="home.blockUx || home.lockAddress || !home.canSendExternalPayment()" ng-attr-placeholder="{{home.canSendExternalPayment() ? 'Byteball address' : 'Byteball address of your other wallet &#8594;'}}" ng-model="_address" ng-required valid-address ng-focus="home.formFocus('address')" ng-blur="home.formFocus(false)">-->
-	                <textarea ng-if="home.send_multiple" class="m0" type="text" name="addresses" placeholder="Byteball address, amount {{index.arrBalances[index.assetIndex].asset === 'base' ? 'in ' + home.unitName : 'of ' + (index.arrBalances[index.assetIndex].name || index.arrBalances[index.assetIndex].asset.substr(0,4) | limitTo:16)}}&#10;M7G2CZDBV7FWH2QMWUNXQ4MSLIZPHX3U, {{100000 / home.unitValue}}&#10;5OJ2RQ3AG7RLS6HFDAKOZGBZE6HKUWAZ, {{5000000 / home.unitValue}}&#10;not more than 120 rows" ng-model="_addresses" required valid-addresses="{{index.arrBalances[index.assetIndex].asset}}" style="margin-bottom: 25px" rows="4" msd-elastic="\n" ng-change="_amount=+(_addresses | sumNumbers).toLocaleString(['EN-US'], {maximumFractionDigits: index.arrBalances[index.assetIndex].decimals}).split(',').join('')"></textarea>
+	                <input ng-if="!home.send_multiple" class="m0" type="text" id="address" name="address" ng-disabled="home.blockUx || home.lockAddress || index.arrBalances[index.assetIndex].is_private" ng-attr-placeholder="{{(home.canSendExternalPayment() ? 'Obyte address or email or username' : 'Obyte address of your other wallet &#8594;')|translate}}" ng-model="_address" ng-required valid-address-or-account ng-focus="home.formFocus('address')" ng-blur="home.formFocus(false)">
+	                <!--<input ng-if="!home.send_multiple && index.arrBalances[index.assetIndex].is_private" class="m0" type="text" id="address" name="address" ng-disabled="home.blockUx || home.lockAddress || !home.canSendExternalPayment()" ng-attr-placeholder="{{home.canSendExternalPayment() ? 'Obyte address' : 'Obyte address of your other wallet &#8594;'}}" ng-model="_address" ng-required valid-address ng-focus="home.formFocus('address')" ng-blur="home.formFocus(false)">-->
+	                <textarea ng-if="home.send_multiple" class="m0" type="text" name="addresses" placeholder="Obyte address, amount {{index.arrBalances[index.assetIndex].asset === 'base' ? 'in ' + home.unitName : 'of ' + (index.arrBalances[index.assetIndex].name || index.arrBalances[index.assetIndex].asset.substr(0,4) | limitTo:16)}}&#10;M7G2CZDBV7FWH2QMWUNXQ4MSLIZPHX3U, {{100000 / home.unitValue}}&#10;5OJ2RQ3AG7RLS6HFDAKOZGBZE6HKUWAZ, {{5000000 / home.unitValue}}&#10;not more than 120 rows" ng-model="_addresses" required valid-addresses="{{index.arrBalances[index.assetIndex].asset}}" style="margin-bottom: 25px" rows="4" msd-elastic="\n" ng-change="_amount=+(_addresses | sumNumbers).toLocaleString(['EN-US'], {maximumFractionDigits: index.arrBalances[index.assetIndex].decimals}).split(',').join('')"></textarea>
 
 	                <!--<div class="addressbook-input" ng-show="!sendPaymentForm.address.$invalid && _address">
 	                  {{index.addressbook[_address] || _address}}
@@ -532,13 +526,16 @@ input.datafeed_input {
 					Post values into datafeeds manually, be an oracle.
 				</div>
 				<div class="row m20t text-gray size-12" ng-show="assetIndexSelectorValue == -2" translate>
-					Attest profile data linked to any Byteball address.
+					Attest profile data linked to any Obyte address.
 				</div>
 				<div class="row m20t text-gray size-12" ng-show="assetIndexSelectorValue == -3" translate>
 					Post your profile data, anything you want to say about yourself.
 				</div>
 				<div class="row m20t text-gray size-12" ng-show="assetIndexSelectorValue == -4" translate>
-					Post arbitrary key-value pairs of data into Byteball network.
+					Post arbitrary key-value pairs of data into Obyte network.
+				</div>
+				<div class="row m20t text-gray size-12" ng-show="assetIndexSelectorValue == -5" translate>
+					Post a poll into Obyte network that users can vote on with Poll bot.
 				</div>
 				<div class="row m20t" ng-if="assetIndexSelectorValue == -2">
 					<label style="float: left;">
@@ -553,22 +550,28 @@ input.datafeed_input {
                     <i class="icon-checkmark-circle size-14"></i>
                   </small>
                 </span>
-					<input type="text" name="address" ng-model="home.attested_address" placeholder="Byteball address" valid-address ng-required="true">
+					<input type="text" name="address" ng-model="home.attested_address" placeholder="Obyte address" valid-address ng-required="true">
+				</div>
+				<div class="row m20t" ng-if="assetIndexSelectorValue == -5">
+					<label style="float: left;">
+						<span translate>Question to be voted on</span>
+					</label>
+					<input type="text" name="poll_question" ng-model="home.poll_question" placeholder="Poll question" ng-required="true">
 				</div>
 				<div class="row m20t">
 					<label>
-						<span translate>Values</span>
+						<span>{{(assetIndexSelectorValue == -5 ? 'Options for answering' : 'Values')|translate}}</span>
 					</label>
 					<span ng-repeat="pair in home.feedvaluespairs">
-						<input type="text" ng-model="pair.name" placeholder="{{([-2, -3].includes(assetIndexSelectorValue) ? 'Profile field' : (assetIndexSelectorValue == -4 ? 'Field' : 'Datafeed name'))|translate}}" class="datafeed_input" ng-required="true" ng-maxlength="64" maxlength="64">
-						<input type="text" ng-model="pair.value" placeholder="{{([-2, -3].includes(assetIndexSelectorValue) ? 'Profile field value' : (assetIndexSelectorValue == -4 ? 'Value' : 'Datafeed value'))|translate}}" class="datafeed_input" ng-required="true" ng-maxlength="64" maxlength="64">
+						<input type="text" ng-model="pair.name" placeholder="{{([-2, -3].includes(assetIndexSelectorValue) ? 'Profile field' : ([-4, -5].includes(assetIndexSelectorValue) ? (assetIndexSelectorValue == -4 ? 'Field' : 'Answer') : 'Datafeed name'))|translate}}" class="datafeed_input" ng-required="true" ng-maxlength="64" maxlength="64" ng-style="(assetIndexSelectorValue == -5 ? {'width':'90%'} : {})">
+						<input ng-if="assetIndexSelectorValue != -5" type="text" ng-model="pair.value" placeholder="{{([-2, -3].includes(assetIndexSelectorValue) ? 'Profile field value' : (assetIndexSelectorValue == -4 ? 'Value' : 'Datafeed value'))|translate}}" class="datafeed_input" ng-required="true" ng-maxlength="64" maxlength="64">
 						<a ng-show="$last && !$first" ng-click="home.feedvaluespairs.splice(home.feedvaluespairs.length-1)"><i class="fi-minus size-18 m10r" style="vertical-align: middle;"></i></a>
 					</span>
-					<i data-trans="{{'Field' | translate}}" data-trans="{{'Profile field' | translate}}" data-trans="{{'Datafeed name' | translate}}" data-trans="{{'Profile field value' | translate}}" data-trans="{{'Value' | translate}}" data-trans="{{'Datafeed value' | translate}}" data-trans="{{'confirmed' | translate}}" data-trans="{{'available' | translate}}" ></i>
+					<i data-trans="{{'Add answer' | translate}}" data-trans="{{'Add fields' | translate}}" data-trans="{{'Options for answering' | translate}}" data-trans="{{'Values' | translate}}" data-trans="{{'Answer' | translate}}" data-trans="{{'Field' | translate}}" data-trans="{{'Profile field' | translate}}" data-trans="{{'Datafeed name' | translate}}" data-trans="{{'Profile field value' | translate}}" data-trans="{{'Value' | translate}}" data-trans="{{'Datafeed value' | translate}}" data-trans="{{'confirmed' | translate}}" data-trans="{{'available' | translate}}" ></i>
 					<div class="clear"></div>
 					<a ng-click="home.feedvaluespairs.push({})" style="padding:10px 0;" ng-show="home.feedvaluespairs.length < 20">
 						<i class="fi-plus size-18 m10r" style="vertical-align: middle;"></i> 
-						<span class="text-close size-12" translate>Add fields</span> 
+						<span class="text-close size-12">{{(assetIndexSelectorValue == -5 ? 'Add answer' : 'Add fields')|translate}}</span> 
 					</a>
 				</div>
 
@@ -595,7 +598,7 @@ input.datafeed_input {
       </div>
       <div ng-show="home.shownForm=='data' && !index.isSingleAddress">
       	<div class="large-12 large-centered columns" style="padding-top: 10px" translate>
-      		To be able to send arbitrary data into Byteball network, please switch to a single-address wallet first or create one.
+      		To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address wallet first or create one.
       	</div>
       </div>
       <!--div class="row columns m20t" ng-hide="home.canSendPayment()">
@@ -716,7 +719,7 @@ input.datafeed_input {
             </button>
           </div>
           <div class="large-6 medium-6 small-6 columns" ng-show="!index.isCordova">
-            <input id="export_file" type="file" nwsaveas="Byteball-{{index.alias || index.walletName}}.csv" accept=".csv" style="display:none">
+            <input id="export_file" type="file" nwsaveas="Obyte-{{index.alias || index.walletName}}.csv" accept=".csv" style="display:none">
             <a class="button outline dark-gray round" ng-click="index.csvHistory();">
               <i class="fi-page-export-csv"></i>
               <span translate>Download CSV file</span>

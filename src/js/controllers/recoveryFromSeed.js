@@ -4,20 +4,20 @@ angular.module('copayApp.controllers').controller('recoveryFromSeed',
 	function ($rootScope, $scope, $log, $timeout, profileService) {
 
 		var async = require('async');
-		var conf = require('byteballcore/conf.js');
-		var wallet_defined_by_keys = require('byteballcore/wallet_defined_by_keys.js');
-		var objectHash = require('byteballcore/object_hash.js');
+		var conf = require('ocore/conf.js');
+		var wallet_defined_by_keys = require('ocore/wallet_defined_by_keys.js');
+		var objectHash = require('ocore/object_hash.js');
 		try{
 			var ecdsa = require('secp256k1');
 		}
 		catch(e){
-			var ecdsa = require('byteballcore/node_modules/secp256k1' + '');
+			var ecdsa = require('ocore/node_modules/secp256k1' + '');
 		}
 		var Mnemonic = require('bitcore-mnemonic');
 		var Bitcore = require('bitcore-lib');
-		var db = require('byteballcore/db.js');
-		var network = require('byteballcore/network');
-		var myWitnesses = require('byteballcore/my_witnesses');
+		var db = require('ocore/db.js');
+		var network = require('ocore/network');
+		var myWitnesses = require('ocore/my_witnesses');
 
 		var self = this;
 
@@ -140,7 +140,8 @@ angular.module('copayApp.controllers').controller('recoveryFromSeed',
 						(currentAccount < accounts.length) ? startAddToNewWallet(0) : cb();
 					}
 				} else {
-					addAddress(self.assocIndexesToWallets[accounts[currentAccount]], 0, 0, assocMaxAddressIndexes[accounts[currentAccount]].main + 20);
+					var maxIndex = assocMaxAddressIndexes[accounts[currentAccount]].main ? (assocMaxAddressIndexes[accounts[currentAccount]].main + 20) : 0;
+					addAddress(self.assocIndexesToWallets[accounts[currentAccount]], 0, 0, maxIndex);
 				}
 			}
 
@@ -148,7 +149,7 @@ angular.module('copayApp.controllers').controller('recoveryFromSeed',
 			startAddToNewWallet(0);
 		}
 
-		function createWallets(arrWalletIndexes, cb) {
+		function createWallets(arrWalletIndexes, assocMaxAddressIndexes, cb) {
 
 			function createWallet(n) {
 				var account = parseInt(arrWalletIndexes[n]);
@@ -161,8 +162,11 @@ angular.module('copayApp.controllers').controller('recoveryFromSeed',
 				opts.extendedPrivateKey = self.xPrivKey;
 				opts.mnemonic = self.inputMnemonic;
 				opts.account = account;
+				opts.isSingleAddress = assocMaxAddressIndexes[account].main === 0 && assocMaxAddressIndexes[account].change === undefined;
 
 				profileService.createWallet(opts, function(err, walletId) {
+					if (opts.isSingleAddress)
+						profileService.setSingleAddressFlag(true);
 					self.assocIndexesToWallets[account] = walletId;
 					n++;
 					(n < arrWalletIndexes.length) ? createWallet(n) : cb();
@@ -180,13 +184,14 @@ angular.module('copayApp.controllers').controller('recoveryFromSeed',
 			var assocMaxAddressIndexes = {};
 
 			function checkAndAddCurrentAddresses(is_change) {
-				if (!assocMaxAddressIndexes[currentWalletIndex]) assocMaxAddressIndexes[currentWalletIndex] = {
-					main: 0,
-					change: 0
-				};
+				var type = is_change ? 'change' : 'main';
+				var batchSize = assocMaxAddressIndexes[currentWalletIndex] ? 20 : 1; // first invocation checks only 1 address to detect single-address wallets
+				if (!assocMaxAddressIndexes[currentWalletIndex])
+					assocMaxAddressIndexes[currentWalletIndex] = {};
 				var arrTmpAddresses = [];
-				for (var i = 0; i < 20; i++) {
-					var index = (is_change ? assocMaxAddressIndexes[currentWalletIndex].change : assocMaxAddressIndexes[currentWalletIndex].main) + i;
+				var startIndex = (assocMaxAddressIndexes[currentWalletIndex][type] === undefined) ? 0 : (assocMaxAddressIndexes[currentWalletIndex][type] + 1);
+				for (var i = 0; i < batchSize; i++) {
+					var index = startIndex + i;
 					arrTmpAddresses.push(objectHash.getChash160(["sig", {"pubkey": wallet_defined_by_keys.derivePubkey(xPubKey, 'm/' + is_change + '/' + index)}]));
 				}
 				myWitnesses.readMyWitnesses(function (arrWitnesses) {
@@ -195,7 +200,7 @@ angular.module('copayApp.controllers').controller('recoveryFromSeed',
 						witnesses: arrWitnesses
 					}, function (ws, request, response) {
 						if(response && response.error){
-							var breadcrumbs = require('byteballcore/breadcrumbs.js');
+							var breadcrumbs = require('ocore/breadcrumbs.js');
 							breadcrumbs.add('Error scanForAddressesAndWalletsInLightClient: ' + response.error);
 							self.error = 'When scanning an error occurred, please try again later.';
 							self.scanning = false;
@@ -206,15 +211,12 @@ angular.module('copayApp.controllers').controller('recoveryFromSeed',
 						}
 						if (Object.keys(response).length) {
 							lastUsedWalletIndex = currentWalletIndex;
-							if (is_change) {
-								assocMaxAddressIndexes[currentWalletIndex].change += 20;
-							} else {
-								assocMaxAddressIndexes[currentWalletIndex].main += 20;
-							}
+							assocMaxAddressIndexes[currentWalletIndex][type] = startIndex + batchSize - 1;
 							checkAndAddCurrentAddresses(is_change);
 						} else {
 							if (is_change) {
-								if(assocMaxAddressIndexes[currentWalletIndex].change === 0 && assocMaxAddressIndexes[currentWalletIndex].main === 0) delete assocMaxAddressIndexes[currentWalletIndex];
+								if(assocMaxAddressIndexes[currentWalletIndex].change === undefined && assocMaxAddressIndexes[currentWalletIndex].main === undefined)
+									delete assocMaxAddressIndexes[currentWalletIndex];
 								currentWalletIndex++;
 								if(currentWalletIndex - lastUsedWalletIndex > 3){
 									cb(assocMaxAddressIndexes);
@@ -238,14 +240,14 @@ angular.module('copayApp.controllers').controller('recoveryFromSeed',
 		}
 
 		function cleanAndAddWalletsAndAddresses(assocMaxAddressIndexes) {
-			var device = require('byteballcore/device');
+			var device = require('ocore/device');
 			var arrWalletIndexes = Object.keys(assocMaxAddressIndexes);
 			if (arrWalletIndexes.length) {
 				removeAddressesAndWallets(function () {
 					var myDeviceAddress = objectHash.getDeviceAddress(ecdsa.publicKeyCreate(self.xPrivKey.derive("m/1'").privateKey.bn.toBuffer({size: 32}), true).toString('base64'));
 					profileService.replaceProfile(self.xPrivKey.toString(), self.inputMnemonic, myDeviceAddress, function () {
 						device.setDevicePrivateKey(self.xPrivKey.derive("m/1'").privateKey.bn.toBuffer({size: 32}));
-						createWallets(arrWalletIndexes, function () {
+						createWallets(arrWalletIndexes, assocMaxAddressIndexes, function () {
 							createAddresses(assocMaxAddressIndexes, function () {
 								self.scanning = false;
 								$rootScope.$emit('Local/ShowAlert', arrWalletIndexes.length + " wallets recovered, please restart the application to finish.", 'fi-check', function () {

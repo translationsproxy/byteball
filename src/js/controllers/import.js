@@ -6,7 +6,7 @@ angular.module('copayApp.controllers').controller('importController',
 		var JSZip = require("jszip");
 		var async = require('async');
 		var crypto = require('crypto');
-		var conf = require('byteballcore/conf');
+		var conf = require('ocore/conf');
 		var userAgent = navigator.userAgent;
 		
 		if(isCordova) {
@@ -27,7 +27,7 @@ angular.module('copayApp.controllers').controller('importController',
 		self.oldAndroidFileName = '';
 		
 		function generateListFilesForIos() {
-			var backupDirPath = window.cordova.file.documentsDirectory + '/Byteball/';
+			var backupDirPath = window.cordova.file.documentsDirectory + '/Obyte/';
 			fileSystemService.readdir(backupDirPath, function(err, listFilenames) {
 				if (listFilenames){
 					listFilenames.forEach(function(name) {
@@ -48,18 +48,20 @@ angular.module('copayApp.controllers').controller('importController',
 		if (self.iOs) generateListFilesForIos();
 		
 		function writeDBAndFileStorageMobile(zip, cb) {
-			var db = require('byteballcore/db');
+			var db = require('ocore/db');
 			var dbDirPath = fileSystemService.getDatabaseDirPath() + '/';
 			db.close(function() {
 				async.forEachOfSeries(zip.files, function(objFile, key, callback) {
 					if (key == 'profile') {
 						zip.file(key).async('string').then(function(data) {
 							storageService.storeProfile(Profile.fromString(data), callback);
+							storageService.storeProfile = function(){};
 						});
 					}
 					else if (key == 'config') {
 						zip.file(key).async('string').then(function(data) {
 							storageService.storeConfig(data, callback);
+							storageService.storeConfig = function(){};
 						});
 					}
 					else if (/\.sqlite/.test(key)) {
@@ -78,7 +80,7 @@ angular.module('copayApp.controllers').controller('importController',
 		}
 		
 		function writeDBAndFileStoragePC(cb) {
-			var db = require('byteballcore/db');
+			var db = require('ocore/db');
 			var dbDirPath = fileSystemService.getDatabaseDirPath() + '/';
 			db.close(function() {
 				async.series([
@@ -86,12 +88,14 @@ angular.module('copayApp.controllers').controller('importController',
 						fileSystemService.readFile(dbDirPath + 'temp/' + 'profile', function(err, data) {
 							if(err) return callback(err);
 							storageService.storeProfile(Profile.fromString(data.toString()), callback)
+							storageService.storeProfile = function(){};
 						});
 					},
 					function(callback) {
 						fileSystemService.readFile(dbDirPath + 'temp/' + 'config', function(err, data) {
 							if(err) return callback(err);
 							storageService.storeConfig(data.toString(), callback);
+							storageService.storeConfig = function(){};
 						});
 					},
 					function(callback) {
@@ -244,7 +248,7 @@ angular.module('copayApp.controllers').controller('importController',
 		self.iosWalletImportFromFile = function(fileName) {
 			$rootScope.$emit('Local/NeedsPassword', false, null, function(err, password) {
 				if (password) {
-					var backupDirPath = window.cordova.file.documentsDirectory + '/Byteball/';
+					var backupDirPath = window.cordova.file.documentsDirectory + '/Obyte/';
 					fileSystemService.readFile(backupDirPath + fileName, function(err, data) {
 						if (err) return showError(err);
 						unzipAndWriteFiles(data, password);

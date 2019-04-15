@@ -26,10 +26,12 @@ angular.module('copayApp.controllers').controller('acceptCorrespondentInvitation
 	};
 
 	function handleCode(code){
-		var conf = require('byteballcore/conf.js');
+		var conf = require('ocore/conf.js');
 		var re = new RegExp('^'+conf.program+':', 'i');
 		code = code.replace(re, '');
-		var matches = code.match(/^([\w\/+]+)@([\w.:\/-]+)#([\w\/+-]+)$/);
+		re = new RegExp('^'+conf.program.replace(/byteball/i, 'obyte')+':', 'i');
+		code = code.replace(re, '');
+		var matches = code.match(/^([\w\/+]+)@([\w.:\/-]+)#(.+)$/);
 		if (!matches)
 			return setError("Invalid pairing code");
 		var pubkey = matches[1];

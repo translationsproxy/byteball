@@ -1,9 +1,9 @@
 'use strict';
 
-angular.module('copayApp.controllers').controller('newVersionIsAvailable', function($scope, $modalInstance, go, newVersion){
+angular.module('copayApp.controllers').controller('newVersionIsAvailable', function($scope, $modalInstance, go, newVersion, isMobile){
 
   $scope.version = newVersion.version;
-	
+
   $scope.openDownloadLink = function(){
     var link = '';
     if (navigator && navigator.app) {
@@ -11,8 +11,11 @@ angular.module('copayApp.controllers').controller('newVersionIsAvailable', funct
 	  if (newVersion.version.match('t$'))
 		  link += '.testnet';
     }
+    else if(navigator && isMobile.iOS()){
+	    link = 'https://itunes.apple.com/us/app/byteball/id1147137332';
+    }
     else {
-      link = 'https://github.com/byteball/byteball/releases/tag/v' + newVersion.version;
+      link = 'https://github.com/byteball/obyte-gui-wallet/releases/tag/v' + newVersion.version;
     }
     go.openExternalLink(link);
     $modalInstance.close('closed result');

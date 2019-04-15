@@ -1,5 +1,5 @@
-var BLACKBYTES_ASSET = require('byteballcore/constants').BLACKBYTES_ASSET;
-var balances = require('byteballcore/balances');
+var BLACKBYTES_ASSET = require('ocore/constants').BLACKBYTES_ASSET;
+var balances = require('ocore/balances');
 var utils = require('../../angular-bitcore-wallet-client/bitcore-wallet-client/lib/common/utils');
 var fileSystem = require('./fileStorage');
 var completeClientLoaded = false;
@@ -9,6 +9,13 @@ window.onerror = function (message) {
 	getFromId('splash').style.display = 'block';
 	wallet.loadCompleteClient(true);
 };
+
+window.handleOpenURL = function(url) {
+	setTimeout(function(){
+		console.log("saving open url "+url);
+		window.open_url = url;
+	},0);
+}
 
 function initWallet() {
 	var root = {};
@@ -137,7 +144,7 @@ function initWallet() {
 	}
 
 	function loadCompleteClient(showClient) {
-		self._bByteballCoreLoaded = false; //"fix" : Looks like you are loading multiple copies of byteball core, which is not supported. Running 'npm dedupe' might help.
+		self._bOcoreLoaded = false; //"fix" : Looks like you are loading multiple copies of ocore, which is not supported. Running 'npm dedupe' might help.
 		var body = document.body;
 		var page = document.createElement('div');
 
@@ -145,10 +152,10 @@ function initWallet() {
 		var angularJs = document.createElement('script');
 		angularJs.src = 'angular.js';
 		angularJs.onload = function() {
-			var byteballJS = document.createElement('script');
-			byteballJS.src = 'byteball.js';
-			body.appendChild(byteballJS);
-			byteballJS.onload = function() {
+			var obyteJS = document.createElement('script');
+			obyteJS.src = 'obyte.js';
+			body.appendChild(obyteJS);
+			obyteJS.onload = function() {
 				if(showClient) showCompleteClient();
 			}
 		};
