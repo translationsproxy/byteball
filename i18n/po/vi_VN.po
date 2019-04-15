@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2019-04-15 19:29\n"
+"PO-Revision-Date: 2019-04-15 21:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -40,10 +40,6 @@ msgstr "-- Lựa chọn cùng ký --"
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
 msgstr "12 từ được ngăn cách bởi các dấu gạch ngang"
-
-#: public/views/modals/view-prosaic-contract.html:65
-msgid "<span translate=\"\">Status</span>: <b translate=\"\">{{status}}</b>"
-msgstr ""
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
