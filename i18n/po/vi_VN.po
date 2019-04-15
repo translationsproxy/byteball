@@ -8,10 +8,10 @@ msgstr ""
 "X-Crowdin-Project: byteball\n"
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
-"Last-Translator: testz <testzcrypto@gmail.com>\n"
+"Last-Translator: testz\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2019-02-14 15:03\n"
+"PO-Revision-Date: 2019-04-15 19:29\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -29,7 +29,7 @@ msgstr "(Ví hiện tại)"
 msgid "(my other wallet)"
 msgstr ""
 
-#: public/views/walletHome.html:676
+#: public/views/walletHome.html:669
 msgid "(possible double spend)"
 msgstr "(có khả năng đã xảy ra \"Gửi kép\")"
 
@@ -41,13 +41,17 @@ msgstr "-- Lựa chọn cùng ký --"
 msgid "12 words separated by dashes"
 msgstr "12 từ được ngăn cách bởi các dấu gạch ngang"
 
+#: public/views/modals/view-prosaic-contract.html:65
+msgid "<span translate=\"\">Status</span>: <b translate=\"\">{{status}}</b>"
+msgstr ""
+
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
 msgstr ""
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
-#: src/js/controllers/walletHome.js:123
+#: src/js/controllers/walletHome.js:130
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
 msgstr "Chấp nhận"
@@ -68,7 +72,7 @@ msgstr "Tài khoản"
 msgid "Add Bot"
 msgstr "Thêm Bot"
 
-#: public/views/correspondentDevices.html:141
+#: public/views/correspondentDevices.html:149
 msgid "Add a new device"
 msgstr "Thêm một thiết bị mới"
 
@@ -77,19 +81,23 @@ msgstr "Thêm một thiết bị mới"
 msgid "Add a new entry"
 msgstr "Thêm một mục nhập mới"
 
-#: public/views/walletHome.html:577
+#: public/views/preferencesEditRealNameAttestors.html:25
+msgid "Add address"
+msgstr ""
+
+#: public/views/walletHome.html:570
 msgid "Add answer"
 msgstr ""
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Add fields"
 msgstr "Thêm trường"
 
-#: public/views/includes/sidebar.html:24
+#: public/views/includes/sidebar.html:23
 msgid "Add wallet"
 msgstr "Tạo thêm một ví"
 
-#: public/views/correspondentDevices.html:182
+#: public/views/correspondentDevices.html:190
 msgid "Added"
 msgstr "Đã Thêm"
 
@@ -99,7 +107,7 @@ msgstr "Đã Thêm"
 msgid "Address"
 msgstr "Địa chỉ"
 
-#: public/views/walletHome.html:549
+#: public/views/walletHome.html:542
 msgid "Address to attest"
 msgstr "Địa chỉ để chứng thực"
 
@@ -108,9 +116,17 @@ msgstr "Địa chỉ để chứng thực"
 msgid "Addressbook"
 msgstr "Danh bạ"
 
+#: public/views/preferencesEditRealNameAttestors.html:15
+msgid "Addresses"
+msgstr ""
+
 #: public/views/preferences.html:66
 msgid "Advanced"
 msgstr "Tuỳ chọn nâng cao"
+
+#: public/views/modals/view-prosaic-contract.html:136
+msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
+msgstr ""
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -136,7 +152,7 @@ msgstr ""
 msgid "Already Paid"
 msgstr "Đã thanh toán"
 
-#: src/js/controllers/correspondentDevice.js:1304
+#: src/js/controllers/correspondentDevice.js:1378
 msgid "Already saved"
 msgstr "Đã lưu"
 
@@ -157,11 +173,11 @@ msgstr "Ngoài ra, đừng quên để xóa dữ liệu nền của bạn"
 #: public/views/modals/customized-amount.html:59
 #: public/views/modals/customized-amount.html:62
 #: public/views/paymentUri.html:16
-#: public/views/walletHome.html:379
+#: public/views/walletHome.html:372
 msgid "Amount"
 msgstr "Số tiền"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Answer"
 msgstr ""
 
@@ -186,20 +202,20 @@ msgstr "Bạn có chắc chắn muốn xóa cái ví này không?"
 msgid "Asset"
 msgstr "Loại Tài sản"
 
-#: public/views/walletHome.html:535
+#: public/views/walletHome.html:528
 msgid "Attest profile data linked to any Obyte address."
 msgstr ""
 
-#: public/views/walletHome.html:348
+#: public/views/walletHome.html:341
 msgid "Attestation"
 msgstr "Chứng thực"
 
-#: public/views/modals/accept-profile.html:28
+#: public/views/modals/accept-profile.html:34
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
 msgstr "Địa chỉ đã chứng thực:"
 
-#: public/views/modals/accept-profile.html:24
+#: public/views/modals/accept-profile.html:30
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
 msgstr "Chứng thực bởi:"
@@ -223,7 +239,7 @@ msgstr "Tài khoản khả dụng"
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
 #: public/views/correspondentDevice.html:14
-#: public/views/correspondentDevices.html:63
+#: public/views/correspondentDevices.html:71
 #: public/views/editCorrespondentDevice.html:14
 #: public/views/includes/topbar.html:8
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:6
@@ -248,7 +264,7 @@ msgstr "Đã xóa từ khóa sao lưu"
 msgid "Backups"
 msgstr "Sao lưu"
 
-#: src/js/controllers/correspondentDevice.js:1289
+#: src/js/controllers/correspondentDevice.js:1361
 msgid "Bad profile"
 msgstr "Hồ sơ xấu"
 
@@ -269,8 +285,8 @@ msgstr "Tốt hơn, sử dụng ví đa chữ ký dư thừa,"
 msgid "Bind payment"
 msgstr "Liên kết thanh toán"
 
-#: public/views/walletHome.html:440
-#: public/views/walletHome.html:453
+#: public/views/walletHome.html:433
+#: public/views/walletHome.html:446
 msgid "Bind the payment to a condition"
 msgstr "Liên kết thanh toán tới một điều kiện"
 
@@ -282,7 +298,7 @@ msgstr "Bitcoin URI không hợp lệ!"
 msgid "Bot Store"
 msgstr "Cửa hàng Bot"
 
-#: public/views/correspondentDevice.html:288
+#: public/views/correspondentDevice.html:290
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
 msgstr "Cả bạn và {{correspondent.name}} đều cho phép ghi âm lịch sử trò chuyện nội bộ."
 
@@ -300,15 +316,15 @@ msgid "CONTINUE"
 msgstr "TIẾP TỤC"
 
 #: public/views/modals/destination-address.html:128
-#: public/views/walletHome.html:494
+#: public/views/walletHome.html:487
 #: src/js/controllers/copayers.js:9
 #: src/js/controllers/preferencesDelete.js:10
-#: src/js/controllers/walletHome.js:124
+#: src/js/controllers/walletHome.js:131
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
 msgstr "Hủy bỏ"
 
-#: public/views/editCorrespondentDevice.html:35
+#: public/views/editCorrespondentDevice.html:44
 msgid "Change hub:"
 msgstr "Thay đổi hub:"
 
@@ -316,7 +332,7 @@ msgstr "Thay đổi hub:"
 msgid "Changing wallet alias only affects the local wallet name."
 msgstr "Thay đổi bí danh của ví chỉ có tác dụng đối với tên ví nội bộ."
 
-#: src/js/controllers/index.js:681
+#: src/js/controllers/index.js:777
 msgid "Chat"
 msgstr "Chat"
 
@@ -336,7 +352,7 @@ msgstr "Lựa chọn thiết bị để gửi tới"
 msgid "Choose which fields to send:"
 msgstr "Lựa chọn các trường để gửi:"
 
-#: src/js/controllers/walletHome.js:495
+#: src/js/controllers/walletHome.js:502
 msgid "Claim funds"
 msgstr "Qũy yêu cầu bồi thường"
 
@@ -356,17 +372,17 @@ msgstr ""
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
 msgstr "Click vào nút <span ng-if=\"isResend\">re</span>gửi email:"
 
-#: public/views/walletHome.html:516
+#: public/views/walletHome.html:509
 msgid "Click this button to create a payment file and send it to a recipient."
 msgstr ""
 
-#: public/views/walletHome.html:515
+#: public/views/walletHome.html:508
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
 msgstr "Click vào nút này để tạo ra khoản thanh toán và chia sẻ nó qua tin nhắn riêng trong các ứng dụng chat hoặc tạo một ví giấy."
 
-#: public/views/correspondentDevices.html:68
+#: public/views/correspondentDevices.html:76
 #: public/views/includes/topbar.html:13
-#: public/views/modals/accept-profile.html:4
+#: public/views/modals/accept-profile.html:10
 #: public/views/modals/address-definition.html:30
 #: public/views/modals/address-definition.html:4
 #: public/views/modals/approveNewWitnesses.html:4
@@ -378,12 +394,14 @@ msgstr "Click vào nút này để tạo ra khoản thanh toán và chia sẻ n�
 #: public/views/modals/destination-address.html:5
 #: public/views/modals/multi-payment.html:4
 #: public/views/modals/offer-contract.html:29
+#: public/views/modals/offer-prosaic-contract.html:38
 #: public/views/modals/scanner.html:4
 #: public/views/modals/select-subwallet.html:4
 #: public/views/modals/share.html:13
 #: public/views/modals/sign-message.html:4
 #: public/views/modals/signed-message.html:39
 #: public/views/modals/signed-message.html:4
+#: public/views/modals/view-prosaic-contract.html:53
 #: public/views/modals/vote.html:4
 msgid "Close"
 msgstr "Kết thúc"
@@ -396,7 +414,7 @@ msgstr "Người ký tên chung {{$index+ 1}}:"
 msgid "Co-signers"
 msgstr "Người ký tên chung"
 
-#: public/views/includes/sidebar.html:36
+#: public/views/includes/sidebar.html:35
 msgid "Co-signers for multisig"
 msgstr "Người ký tên chung cho đa chữ ký"
 
@@ -413,11 +431,11 @@ msgid "Compress the file? (Slower)"
 msgstr "Nén các tập tin? (Chậm hơn)"
 
 #: src/js/controllers/copayers.js:10
-#: src/js/controllers/index.js:520
+#: src/js/controllers/index.js:611
 #: src/js/controllers/preferencesDelete.js:11
-#: src/js/controllers/walletHome.js:125
-#: src/js/controllers/walletHome.js:1765
-#: src/js/controllers/walletHome.js:1769
+#: src/js/controllers/walletHome.js:132
+#: src/js/controllers/walletHome.js:1820
+#: src/js/controllers/walletHome.js:1824
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "Xác nhận"
@@ -438,12 +456,12 @@ msgstr "Xác nhận lựa chọn"
 msgid "Confirmed"
 msgstr "Đã xác thực"
 
-#: public/views/correspondentDevices.html:78
+#: public/views/correspondentDevices.html:86
 msgid "Contacts"
 msgstr "Danh bạ liên hệ"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
-#: src/js/controllers/walletHome.js:396
+#: src/js/controllers/walletHome.js:403
 msgid "Copied to clipboard"
 msgstr "Đã sao chép vào clipboard"
 
@@ -452,10 +470,15 @@ msgid "Copy"
 msgstr "Sao chép"
 
 #: public/views/recoveryFromSeed.html:42
-msgid "Correspondents are not restored."
-msgstr "Ngân hàng giao dịch không được khôi phục."
+msgid "Correspondents and chats are not restored."
+msgstr ""
 
-#: src/js/controllers/walletHome.js:701
+#: public/views/modals/offer-prosaic-contract.html:75
+#: public/views/modals/view-prosaic-contract.html:111
+msgid "Cosigners"
+msgstr ""
+
+#: src/js/controllers/walletHome.js:708
 msgid "Could not create payment proposal"
 msgstr "Không thể tạo ra đề nghị thanh toán"
 
@@ -475,7 +498,7 @@ msgstr "Không thể tạo ra các dữ liệu nền ví không hợp lệ"
 msgid "Could not decrypt"
 msgstr "Không thể giải mã"
 
-#: public/views/walletHome.html:631
+#: public/views/walletHome.html:624
 msgid "Could not fetch transaction history"
 msgstr "Không thể lấy được lịch sử giao dịch"
 
@@ -489,11 +512,11 @@ msgstr "Không thể nhập vào"
 msgid "Could not import. Check input file and password"
 msgstr "Không thể nhập vào. Kiểm tra tập tin đầu vào và mật khẩu"
 
-#: src/js/controllers/walletHome.js:701
+#: src/js/controllers/walletHome.js:708
 msgid "Could not send payment"
 msgstr "Không thể gửi thanh toán"
 
-#: src/js/controllers/correspondentDevice.js:1257
+#: src/js/controllers/correspondentDevice.js:1327
 msgid "Country"
 msgstr "Quốc gia"
 
@@ -501,13 +524,13 @@ msgstr "Quốc gia"
 msgid "Create"
 msgstr "Khởi tạo"
 
-#: public/views/includes/sidebar.html:26
+#: public/views/includes/sidebar.html:25
 msgid "Create a new wallet"
 msgstr "Khởi tạo một ví mới"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
-#: src/js/controllers/index.js:311
+#: src/js/controllers/index.js:321
 msgid "Create new wallet"
 msgstr "Tạo ví mới"
 
@@ -531,19 +554,19 @@ msgstr "Đang tạo ví..."
 msgid "DELETE WORDS"
 msgstr "XÓA CÁC KÝ TỰ"
 
-#: public/views/walletHome.html:350
+#: public/views/walletHome.html:343
 msgid "Data"
 msgstr "Dữ liệu"
 
-#: public/views/walletHome.html:347
+#: public/views/walletHome.html:340
 msgid "Data into datafeed"
 msgstr "Dữ liệu trong datafeed"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Datafeed name"
 msgstr ""
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Datafeed value"
 msgstr ""
 
@@ -551,11 +574,11 @@ msgstr ""
 msgid "Date"
 msgstr "Ngày tháng"
 
-#: src/js/controllers/correspondentDevice.js:1256
+#: src/js/controllers/correspondentDevice.js:1326
 msgid "Date of birth"
 msgstr "Ngày sinh"
 
-#: src/js/controllers/index.js:277
+#: src/js/controllers/index.js:287
 msgid "Declined"
 msgstr "Bị từ chối"
 
@@ -579,7 +602,7 @@ msgstr "Xóa ví"
 msgid "Delete wallet"
 msgstr "Xóa ví"
 
-#: src/js/controllers/walletHome.js:1762
+#: src/js/controllers/walletHome.js:1817
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr "Việc xóa textcoin sẽ loại bỏ khả năng yêu cầu bồi thưởng nó trở lại hoặc gửi lại"
 
@@ -623,7 +646,7 @@ msgstr "Không nhìn thất ngôn ngữ của bạn trên Crowdin? Liên hệ v�
 msgid "Done"
 msgstr "Hoàn thành"
 
-#: public/views/walletHome.html:732
+#: public/views/walletHome.html:725
 msgid "Download CSV file"
 msgstr "Tải tập tin CSV"
 
@@ -631,15 +654,15 @@ msgstr "Tải tập tin CSV"
 msgid "Download the entire Obyte database"
 msgstr ""
 
-#: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
 msgstr "Chỉnh sửa"
 
-#: public/views/correspondentDevice.html:291
+#: public/views/correspondentDevice.html:293
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
 msgstr "Bạn hoặc {{correspondent.name}} có ghi âm lịch sử trò chuyện bị vô hiệu hoá. Lịch sử sẽ không được lưu cho bất cứ ai hiện tại."
 
+#: public/views/editCorrespondentDevice.html:35
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
 msgstr "Bật thông báo đẩy"
@@ -656,6 +679,10 @@ msgstr "Nhập vào mật khẩu của bạn"
 #: src/js/services/profileService.js:393
 msgid "Error creating wallet"
 msgstr "Lỗi tạo ví"
+
+#: public/views/modals/view-prosaic-contract.html:68
+msgid "Expired on"
+msgstr ""
 
 #: public/views/export.html:51
 msgid "Export"
@@ -682,7 +709,7 @@ msgstr "Không thế xuất dữ liệu"
 msgid "Fee"
 msgstr "Phí"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Field"
 msgstr ""
 
@@ -690,7 +717,7 @@ msgstr ""
 msgid "Finality"
 msgstr "Kết thúc"
 
-#: src/js/controllers/correspondentDevice.js:1254
+#: src/js/controllers/correspondentDevice.js:1324
 msgid "First name"
 msgstr "Tên"
 
@@ -710,7 +737,7 @@ msgstr "Sao lưu đầy đủ"
 msgid "GET STARTED"
 msgstr "BẮT ĐẦU"
 
-#: src/js/controllers/walletHome.js:425
+#: src/js/controllers/walletHome.js:432
 msgid "Generate QR Code"
 msgstr "Tạo mã QR"
 
@@ -726,7 +753,7 @@ msgstr "Tạo tập tin .csv..."
 msgid "Getting address for wallet {{selectedWalletName}} ..."
 msgstr "Nhận được địa chỉ cho ví {{selectedWalletName}}..."
 
-#: public/views/includes/sidebar.html:46
+#: public/views/includes/sidebar.html:45
 msgid "Global preferences"
 msgstr "Tùy chọn toàn cầu"
 
@@ -747,11 +774,11 @@ msgid "Hide the Wallet Seed"
 msgstr "Ẩn các dữ liệu nền ví"
 
 #: public/views/modals/share.html:43
-#: src/js/controllers/index.js:677
+#: src/js/controllers/index.js:773
 msgid "History"
 msgstr "Lịch sử"
 
-#: src/js/controllers/index.js:665
+#: src/js/controllers/index.js:761
 msgid "Home"
 msgstr "Trang chủ"
 
@@ -783,23 +810,23 @@ msgstr "Tôi nhận lại một khoản thanh toán khác"
 msgid "ID"
 msgstr ""
 
-#: src/js/controllers/correspondentDevice.js:1263
+#: src/js/controllers/correspondentDevice.js:1333
 msgid "ID expires at"
 msgstr ""
 
-#: src/js/controllers/correspondentDevice.js:1264
+#: src/js/controllers/correspondentDevice.js:1334
 msgid "ID issued at"
 msgstr ""
 
-#: src/js/controllers/correspondentDevice.js:1260
+#: src/js/controllers/correspondentDevice.js:1330
 msgid "ID number"
 msgstr "Số ID"
 
-#: src/js/controllers/correspondentDevice.js:1262
+#: src/js/controllers/correspondentDevice.js:1332
 msgid "ID subtype"
 msgstr "Phiên bản ID"
 
-#: src/js/controllers/correspondentDevice.js:1261
+#: src/js/controllers/correspondentDevice.js:1331
 msgid "ID type"
 msgstr "Loại ID"
 
@@ -844,25 +871,25 @@ msgstr "Đang nhập vào ví..."
 msgid "Including pending confirmation"
 msgstr "Bao gồm việc chờ xác nhận"
 
-#: public/views/walletHome.html:650
+#: public/views/walletHome.html:643
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
 msgstr "Đồng bộ hoá lịch sử giao dịch ban đầu có thể mất một vài phút đối với ví với nhiều giao dịch.<br>\n"
 "          xin vui lòng chờ."
 
-#: public/views/correspondentDevice.html:327
+#: public/views/correspondentDevice.html:329
 msgid "Insert my address"
 msgstr "Nhập vào địa chỉ của tôi"
 
-#: public/views/correspondentDevice.html:343
+#: public/views/correspondentDevice.html:345
 msgid "Insert private profile"
 msgstr "Thêm hồ sơ cá nhân"
 
-#: public/views/walletHome.html:669
+#: public/views/walletHome.html:662
 msgid "Invalid"
 msgstr "Không hợp lệ"
 
-#: src/js/controllers/index.js:1647
+#: src/js/controllers/index.js:1743
 msgid "Invalid Touch ID"
 msgstr "Touch ID không hợp lệ"
 
@@ -871,8 +898,8 @@ msgid "Invite the other device"
 msgstr "Mời các thiết bị khác"
 
 #: public/views/backup.html:22
-msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr "Chỉ có dữ liệu nền ví là không đủ. Với các dữ liệu riêng lẻ, bạn sẽ không có khả năng khôi phục lại ví đa chữ ký và các tài khoản cá nhân như blackbytes."
+msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
+msgstr ""
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -886,7 +913,7 @@ msgstr "Tên hiển thị"
 msgid "Language"
 msgstr "Ngôn ngữ"
 
-#: src/js/controllers/correspondentDevice.js:1255
+#: src/js/controllers/correspondentDevice.js:1325
 msgid "Last name"
 msgstr "Họ"
 
@@ -908,6 +935,8 @@ msgstr "Có thể để sau"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:117
+#: public/views/modals/offer-prosaic-contract.html:51
+#: public/views/modals/view-prosaic-contract.html:70
 #: public/views/preferencesInformation.html:76
 msgid "Me"
 msgstr "Tôi"
@@ -916,7 +945,7 @@ msgstr "Tôi"
 msgid "Merchant message"
 msgstr "Tin nhắn cơ sở chấp nhận thẻ"
 
-#: public/views/walletHome.html:460
+#: public/views/walletHome.html:453
 msgid "Merkle proof"
 msgstr "Bằng chứng Mekler"
 
@@ -929,7 +958,11 @@ msgstr "Tin nhắn"
 msgid "Message:"
 msgstr ""
 
-#: public/views/walletHome.html:668
+#: public/views/correspondentDevice.html:26
+msgid "More"
+msgstr ""
+
+#: public/views/walletHome.html:661
 msgid "Moved"
 msgstr "Chuyển"
 
@@ -941,7 +974,7 @@ msgstr "Ví đa thiết bị"
 msgid "My Obyte address"
 msgstr ""
 
-#: public/views/correspondentDevice.html:297
+#: public/views/correspondentDevice.html:299
 msgid "My recording preference"
 msgstr "Tùy chọn ghi âm của tôi"
 
@@ -966,8 +999,8 @@ msgid "New witnesses"
 msgstr "Nhân chứng mới"
 
 #: public/views/authConfirmation.html:22
-#: src/js/controllers/index.js:519
-#: src/js/controllers/walletHome.js:1777
+#: src/js/controllers/index.js:610
+#: src/js/controllers/walletHome.js:1832
 msgid "No"
 msgstr "Không"
 
@@ -983,25 +1016,25 @@ msgstr "Khong có hồ sơ nào phù hợp với tiêu chuẩn yêu cầu."
 msgid "No profiles yet."
 msgstr "Không có hồ sơ nào được nêu ra."
 
-#: public/views/walletHome.html:634
+#: public/views/walletHome.html:627
 msgid "No transactions yet"
 msgstr "Không có giao dịch nào"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
 #: public/views/modals/destination-address.html:113
-#: public/views/walletHome.html:371
-#: public/views/walletHome.html:408
-#: public/views/walletHome.html:417
-#: public/views/walletHome.html:554
+#: public/views/walletHome.html:364
+#: public/views/walletHome.html:401
+#: public/views/walletHome.html:410
+#: public/views/walletHome.html:547
 msgid "Not valid"
 msgstr "Không hợp lệ"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:106
 #: public/views/modals/tx-details.html:81
-#: public/views/walletHome.html:471
-#: public/views/walletHome.html:697
+#: public/views/walletHome.html:464
+#: public/views/walletHome.html:690
 msgid "Note"
 msgstr "Lưu ý"
 
@@ -1017,10 +1050,23 @@ msgstr ""
 msgid "Obyte address"
 msgstr ""
 
+#: public/views/modals/offer-prosaic-contract.html:88
+msgid "Offer Contract"
+msgstr ""
+
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:118
 msgid "Offer a contract"
 msgstr "Cung cấp hợp đồng"
+
+#: public/views/modals/offer-prosaic-contract.html:72
+msgid "Offer is valid for"
+msgstr ""
+
+#: public/views/modals/offer-prosaic-contract.html:42
+#: src/js/services/correspondentListService.js:118
+msgid "Offer prosaic contract"
+msgstr ""
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
@@ -1034,7 +1080,7 @@ msgstr "Chỉ có ví chữ ký duy nhất được khôi phục."
 msgid "Open chat"
 msgstr "Mở cuộc trò chuyện"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Options for answering"
 msgstr ""
 
@@ -1046,7 +1092,7 @@ msgstr "Hoặc sao chép"
 msgid "Pair"
 msgstr "Ghép nối"
 
-#: public/views/includes/sidebar.html:34
+#: public/views/includes/sidebar.html:33
 msgid "Paired devices"
 msgstr "Thiết bị được ghép nối"
 
@@ -1102,6 +1148,11 @@ msgstr "Thanh toán từ chối"
 msgid "Payment Sent"
 msgstr "Đã thanh toán"
 
+#: public/views/modals/offer-prosaic-contract.html:58
+#: public/views/modals/view-prosaic-contract.html:77
+msgid "Peer"
+msgstr ""
+
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
 msgstr "Ngang hàng:"
@@ -1110,13 +1161,21 @@ msgstr "Ngang hàng:"
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
 msgstr "Xóa vĩnh viễn ví này. Hành động này không thể hủy bỏ"
 
-#: src/js/controllers/correspondentDevice.js:1258
+#: src/js/controllers/correspondentDevice.js:1328
 msgid "Personal code"
 msgstr ""
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
 msgstr "Ví thô"
+
+#: src/js/controllers/index.js:226
+msgid "Please approve contract fees deposit on the other devices."
+msgstr ""
+
+#: src/js/controllers/index.js:231
+msgid "Please approve posting prosaic contract hash on the other devices."
+msgstr ""
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
@@ -1134,7 +1193,7 @@ msgstr "Vui lòng đặt tên cho thiết bị này"
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
 msgstr "Vui lòng chuyển tới ví địa chỉ duy nhất và bạn có thể phải nhập địa chỉ một lần nữa."
 
-#: public/views/walletHome.html:351
+#: public/views/walletHome.html:344
 msgid "Poll"
 msgstr ""
 
@@ -1142,19 +1201,19 @@ msgstr ""
 msgid "Port"
 msgstr "Cổng"
 
-#: public/views/walletHome.html:544
+#: public/views/walletHome.html:537
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
 msgstr ""
 
-#: public/views/walletHome.html:541
+#: public/views/walletHome.html:534
 msgid "Post arbitrary key-value pairs of data into Obyte network."
 msgstr ""
 
-#: public/views/walletHome.html:532
+#: public/views/walletHome.html:525
 msgid "Post values into datafeeds manually, be an oracle."
 msgstr "Đăng các giá trị vào nguồn cấp dữ liệu theo cách thủ công, trở thành một thẻ."
 
-#: public/views/walletHome.html:538
+#: public/views/walletHome.html:531
 msgid "Post your profile data, anything you want to say about yourself."
 msgstr "Đăng dữ liệu hồ sơ của bạn, bất cứ thứ gì bạn muốn nói về bản thân."
 
@@ -1168,28 +1227,36 @@ msgid "Press again to exit"
 msgstr "Nhấn thêm lần nữa để thoát"
 
 #: public/views/recoveryFromSeed.html:40
-msgid "Private assets (such as blackbytes) are not recovered."
-msgstr "Tài sản cá nhân (như blackbytes) không được khôi phục."
+msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
+msgstr ""
 
-#: src/js/controllers/walletHome.js:1831
-#: src/js/controllers/walletHome.js:1907
+#: src/js/controllers/walletHome.js:1886
+#: src/js/controllers/walletHome.js:1962
 msgid "Private payloads sent"
 msgstr "Dữ liệu riêng đã gửi"
 
-#: public/views/modals/accept-profile.html:8
+#: public/views/modals/accept-profile.html:14
 msgid "Private profile"
 msgstr "Hồ sơ cá nhân"
 
-#: public/views/walletHome.html:349
+#: public/views/walletHome.html:342
 msgid "Profile"
 msgstr "Hồ sơ"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Profile field"
 msgstr ""
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Profile field value"
+msgstr ""
+
+#: public/views/modals/view-prosaic-contract.html:91
+msgid "Proof of contract signing"
+msgstr ""
+
+#: public/views/modals/view-prosaic-contract.html:57
+msgid "Prosaic contract"
 msgstr ""
 
 #: public/views/modals/customized-amount.html:16
@@ -1200,7 +1267,7 @@ msgstr "Mã QR"
 msgid "QR-Scanner"
 msgstr "Quét mã QR"
 
-#: public/views/walletHome.html:564
+#: public/views/walletHome.html:557
 msgid "Question to be voted on"
 msgstr ""
 
@@ -1208,11 +1275,15 @@ msgstr ""
 msgid "Question:"
 msgstr "Câu hỏi:"
 
-#: src/js/controllers/index.js:669
+#: public/views/preferencesAttestorAddresses.html:16
+msgid "Real name attestors"
+msgstr ""
+
+#: src/js/controllers/index.js:765
 msgid "Receive"
 msgstr "Nhận"
 
-#: public/views/walletHome.html:665
+#: public/views/walletHome.html:658
 msgid "Received"
 msgstr "Đã nhận"
 
@@ -1237,7 +1308,7 @@ msgstr "Khôi phục từ dữ liệu nền"
 msgid "Recreating Wallet..."
 msgstr "Đang tạo ví..."
 
-#: src/js/controllers/index.js:229
+#: src/js/controllers/index.js:239
 msgid "Refused"
 msgstr "Từ chối"
 
@@ -1249,11 +1320,11 @@ msgstr "Thông tin phát hành"
 msgid "Remove"
 msgstr "Xóa"
 
-#: public/views/correspondentDevices.html:147
+#: public/views/correspondentDevices.html:155
 msgid "Remove a device"
 msgstr "Xóa thiết bị"
 
-#: public/views/editCorrespondentDevice.html:33
+#: public/views/editCorrespondentDevice.html:42
 msgid "Rename:"
 msgstr "Đổi tên:"
 
@@ -1279,7 +1350,7 @@ msgstr "Mật khẩu được yêu cầu"
 msgid "Request a specific amount"
 msgstr "Yêu cầu một số tiền cụ thể"
 
-#: public/views/correspondentDevice.html:336
+#: public/views/correspondentDevice.html:338
 msgid "Request payment"
 msgstr "Yêu cầu thanh toán"
 
@@ -1295,15 +1366,20 @@ msgstr "Khôi phục từ bản sao lưu đầy đủ"
 msgid "Retrying..."
 msgstr "Đang thử lại..."
 
+#: public/views/modals/view-prosaic-contract.html:144
+msgid "Revoke"
+msgstr ""
+
 #: public/views/includes/password.html:32
 msgid "SET"
 msgstr "THIẾT LẬP"
 
-#: public/views/editCorrespondentDevice.html:41
+#: public/views/editCorrespondentDevice.html:50
 #: public/views/modals/destination-address.html:133
 #: public/views/preferencesAlias.html:14
 #: public/views/preferencesDeviceName.html:14
 #: public/views/preferencesEditAttestorAddress.html:14
+#: public/views/preferencesEditRealNameAttestors.html:29
 #: public/views/preferencesEditWitness.html:15
 #: public/views/preferencesEmail.html:35
 #: public/views/preferencesHub.html:18
@@ -1327,7 +1403,7 @@ msgstr "Trạng thái quét kết thúc do gặp lỗi"
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
 msgstr "Quét mã QR trên bằng cách sử dụng thiết bị khác, hoặc gửi mã ghép nối tới thiết bị khác:"
 
-#: src/js/controllers/index.js:1640
+#: src/js/controllers/index.js:1736
 msgid "Scan your fingerprint please"
 msgstr "Vui lòng quét dấu vân tay của bạn"
 
@@ -1356,15 +1432,11 @@ msgid "Select your identity"
 msgstr "Chọn danh tính của bạn"
 
 #: public/views/includes/transaction.html:10
-#: public/views/walletHome.html:497
-#: public/views/walletHome.html:596
-#: src/js/controllers/index.js:673
+#: public/views/walletHome.html:490
+#: public/views/walletHome.html:589
+#: src/js/controllers/index.js:769
 msgid "Send"
 msgstr "Gửi"
-
-#: public/views/walletHome.html:334
-msgid "Send All"
-msgstr "Gửi tất cả"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
@@ -1374,7 +1446,7 @@ msgstr "Gửi thanh toán"
 msgid "Send addresses by email"
 msgstr "Gửi địa chỉ bằng email"
 
-#: public/views/walletHome.html:381
+#: public/views/walletHome.html:374
 msgid "Send all"
 msgstr "Gửi tất cả"
 
@@ -1390,7 +1462,7 @@ msgstr "Gửi hồ sơ này"
 msgid "Sending..."
 msgstr "Đang gửi..."
 
-#: public/views/walletHome.html:667
+#: public/views/walletHome.html:660
 msgid "Sent"
 msgstr "Đã gửi"
 
@@ -1406,7 +1478,7 @@ msgstr "Cài đặt mật khẩu"
 msgid "Set up a password"
 msgstr "Cài đặt mật khẩu"
 
-#: public/views/includes/sidebar.html:44
+#: public/views/includes/sidebar.html:43
 msgid "Settings"
 msgstr "Đang cài đặt"
 
@@ -1427,12 +1499,12 @@ msgstr ""
 msgid "Share this wallet address to receive payments."
 msgstr "Chia sẻ địa chỉ ví này để nhận được các khoản thanh toán."
 
-#: public/views/walletHome.html:396
-#: public/views/walletHome.html:517
+#: public/views/walletHome.html:389
+#: public/views/walletHome.html:510
 msgid "Share via message"
 msgstr "Chia sẻ qua tin nhắn"
 
-#: public/views/walletHome.html:724
+#: public/views/walletHome.html:717
 msgid "Show all"
 msgstr "Hiển thị tất cả"
 
@@ -1445,8 +1517,12 @@ msgid "Sign"
 msgstr ""
 
 #: public/views/modals/sign-message.html:8
-#: src/js/controllers/index.js:408
+#: src/js/controllers/index.js:418
 msgid "Sign message"
+msgstr ""
+
+#: public/views/editCorrespondentDevice.html:57
+msgid "Signed contracts:"
 msgstr ""
 
 #: public/views/modals/signed-message.html:8
@@ -1485,22 +1561,26 @@ msgstr ""
 msgid "Spending Restrictions"
 msgstr "Giới hạn chi tiêu"
 
+#: public/views/modals/view-prosaic-contract.html:65
+msgid "Status"
+msgstr ""
+
 #: public/views/preferencesGlobal.html:104
 msgid "Still not done"
 msgstr "Vẫn chưa xong"
 
-#: src/js/controllers/correspondentDevice.js:1306
+#: src/js/controllers/correspondentDevice.js:1380
 msgid "Store"
 msgstr "Lưu trữ"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:142
 #: src/js/controllers/export.js:167
-#: src/js/controllers/index.js:266
-#: src/js/controllers/index.js:294
+#: src/js/controllers/index.js:276
+#: src/js/controllers/index.js:304
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:1831
-#: src/js/controllers/walletHome.js:1907
+#: src/js/controllers/walletHome.js:1886
+#: src/js/controllers/walletHome.js:1962
 msgid "Success"
 msgstr "Hoàn tất"
 
@@ -1526,7 +1606,7 @@ msgstr ""
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
-#: public/views/walletHome.html:632
+#: public/views/walletHome.html:625
 msgid "Tap to retry"
 msgstr "Nhấp để thử lại"
 
@@ -1535,7 +1615,12 @@ msgstr "Nhấp để thử lại"
 msgid "Terms of Use"
 msgstr "Điều khoản sử dụng"
 
-#: public/views/correspondentDevice.html:347
+#: public/views/modals/offer-prosaic-contract.html:69
+#: public/views/modals/view-prosaic-contract.html:88
+msgid "Text"
+msgstr ""
+
+#: public/views/correspondentDevice.html:349
 msgid "Text message to"
 msgstr "Tin nhắn văn bản đến"
 
@@ -1543,7 +1628,7 @@ msgstr "Tin nhắn văn bản đến"
 msgid "Textcoin"
 msgstr "Tiền Chữ"
 
-#: public/views/modals/accept-profile.html:32
+#: public/views/modals/accept-profile.html:38
 msgid "The attested address belongs to:"
 msgstr "Địa chỉ được chứng thực thuộc về:"
 
@@ -1580,7 +1665,7 @@ msgstr "Ví \"{{walletName}}\" đã bị xoá"
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
 msgstr "Các nhà cung cấp ví sẽ có thể biết một ít trong số dư của bạn và sẽ có thể xem các giao dịch của bạn, nhưng bạn có thể bắt đầu sử dụng ví ngay lập tức và ví có đầy đủ chức năng."
 
-#: public/views/correspondentDevice.html:302
+#: public/views/correspondentDevice.html:304
 msgid "Their recording preference"
 msgstr "Tùy chọn ghi âm của họ"
 
@@ -1600,7 +1685,7 @@ msgstr "Sự lựa chọn này không thể thay đổi trong tương lai"
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
 msgstr "Tùy chọn này tốt hơn cho sự riêng tư nhưng sẽ mất một vài GB dung lượng lưu trữ và đồng bộ đầu tiên sẽ mất vài ngày. Việc tải xuống của CPU cao trong quá trình đồng bộ hóa."
 
-#: public/views/walletHome.html:441
+#: public/views/walletHome.html:434
 msgid "This payment is bound to a condition"
 msgstr "Khoản thanh toán này ràng buộc với một điều kiện"
 
@@ -1633,16 +1718,21 @@ msgstr "Ví này không thể chuyển đổi sang ví địa chỉ duy nhất v
 msgid "This will permanently delete all your existing wallets!"
 msgstr "Điều này sẽ xóa vĩnh viễn hết các ví tiền hiện tại của bạn!"
 
+#: public/views/modals/offer-prosaic-contract.html:66
+#: public/views/modals/view-prosaic-contract.html:85
+msgid "Title of contract"
+msgstr ""
+
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
 #: public/views/modals/tx-details.html:36
 #: public/views/modals/tx-details.html:71
-#: public/views/walletHome.html:699
-#: src/js/controllers/index.js:1452
+#: public/views/walletHome.html:692
+#: src/js/controllers/index.js:1548
 msgid "To"
 msgstr "Tới"
 
-#: public/views/walletHome.html:403
+#: public/views/walletHome.html:396
 msgid "To Obyte address"
 msgstr ""
 
@@ -1650,15 +1740,15 @@ msgstr ""
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
 msgstr "Để có thể khôi phục lại mọi thứ, vui lòng tạo một bản sao lưu đầy đủ (tìm kiếm trong danh sách tùy chỉnh)"
 
-#: public/views/walletHome.html:607
+#: public/views/walletHome.html:600
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address wallet first or create one."
 msgstr ""
 
-#: public/views/walletHome.html:450
+#: public/views/walletHome.html:443
 msgid "To bind the payment to a condition, please click the peer's address in chat"
 msgstr "Liên kết thanh toán với một điều kiện, vui lòng nhấp vào địa chỉ ngang hàng trong trò chuyện"
 
-#: src/js/controllers/index.js:1455
+#: src/js/controllers/index.js:1551
 msgid "To email"
 msgstr "Tới Email"
 
@@ -1666,11 +1756,15 @@ msgstr "Tới Email"
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
 msgstr "Để bảo vệ sự riêng tư của bạn, địa chỉ mới được tự động tạo ra sau khi bạn sử dụng chúng."
 
+#: public/views/modals/view-prosaic-contract.html:95
+msgid "To verify contract integrity, SHA256 hash is calculated from three concatenated components: sha256(title+text+creation_date) and encoded in BASE64 format. After the contract was accepted, a unit with its hash was posted into the DAG. You can check that contract text was not modified by comparing the hashes in the DAG and calculated from this contract."
+msgstr ""
+
 #: public/views/walletHome.html:219
 msgid "Total Locked Balance"
 msgstr "Tổng số dư bị khóa"
 
-#: public/views/walletHome.html:380
+#: public/views/walletHome.html:373
 msgid "Total amount"
 msgstr "Tổng số tiền"
 
@@ -1682,7 +1776,12 @@ msgstr "Tổng số những người cùng ký"
 msgid "Transaction"
 msgstr "Giao dịch"
 
-#: public/views/walletHome.html:656
+#: src/js/controllers/index.js:221
+msgid "Transaction created.\n"
+"Please approve it on the other devices."
+msgstr ""
+
+#: public/views/walletHome.html:649
 msgid "Transactions<br> Downloaded"
 msgstr "Giao dịch<br> tải về"
 
@@ -1698,16 +1797,16 @@ msgstr "Dịch giả"
 msgid "Trusted nodes"
 msgstr "Nút đáng tin cậy"
 
-#: src/js/controllers/correspondentDevice.js:1259
+#: src/js/controllers/correspondentDevice.js:1329
 msgid "US state"
 msgstr "Tiểu bang Hoa Kỳ"
 
-#: src/js/controllers/walletHome.js:847
+#: src/js/controllers/walletHome.js:854
 msgid "Unable to send transaction proposal"
 msgstr "Không thể gửi đề xuất giao dịch"
 
 #: public/views/modals/tx-details.html:118
-#: public/views/walletHome.html:687
+#: public/views/walletHome.html:680
 msgid "Unconfirmed"
 msgstr "Chưa xác nhận"
 
@@ -1735,15 +1834,19 @@ msgstr "Nâng cấp {{version}}"
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
 msgstr "Nâng cấp cơ sở dữ liệu, vui lòng chờ. Đôi khi mất vài phút."
 
-#: public/views/walletHome.html:577
+#: public/views/modals/view-prosaic-contract.html:67
+msgid "Valid till"
+msgstr ""
+
+#: public/views/walletHome.html:570
 msgid "Value"
 msgstr ""
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Values"
 msgstr "Các giá trị"
 
-#: src/js/controllers/correspondentDevice.js:1283
+#: src/js/controllers/correspondentDevice.js:1353
 msgid "Verifying the profile..."
 msgstr "Đang xác thực hồ sơ..."
 
@@ -1830,7 +1933,7 @@ msgstr "Cảnh báo!"
 msgid "Was claimed?"
 msgstr "Được tuyên bố?"
 
-#: public/views/walletHome.html:343
+#: public/views/walletHome.html:336
 msgid "What to send"
 msgstr "Gửi những gì"
 
@@ -1838,9 +1941,9 @@ msgstr "Gửi những gì"
 #: public/views/modals/offer-contract.html:112
 #: public/views/modals/sign-message.html:28
 #: public/views/modals/vote.html:28
-#: public/views/walletHome.html:486
-#: public/views/walletHome.html:510
-#: public/views/walletHome.html:588
+#: public/views/walletHome.html:479
+#: public/views/walletHome.html:503
+#: public/views/walletHome.html:581
 msgid "Who signs:"
 msgstr "Ai ký:"
 
@@ -1865,7 +1968,7 @@ msgid "Wrong password"
 msgstr "Mật khẩu sai"
 
 #: public/views/authConfirmation.html:17
-#: src/js/controllers/index.js:518
+#: src/js/controllers/index.js:609
 msgid "Yes"
 msgstr "Đồng ý"
 
@@ -1884,6 +1987,10 @@ msgstr "Bạn không có ví nào"
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
 msgstr "Bạn cần thông qua nhân chứng để có một hồ sơ. Tìm kiếm Bot thực thi tên thật trong Bot Store."
+
+#: public/views/modals/offer-prosaic-contract.html:92
+msgid "You will be charged {{CHARGE_AMOUNT}} bytes to compensate for fees when posting signature proof."
+msgstr ""
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -1914,6 +2021,17 @@ msgstr "Ví của bạn sẽ được tạo trên thiết bị này, giữ nó a
 msgid "[ Add new co-signer device ]"
 msgstr "[Thêm thiết bị mới của người cùng ký]"
 
+#: public/views/modals/offer-prosaic-contract.html:56
+#: public/views/modals/offer-prosaic-contract.html:63
+#: public/views/modals/view-prosaic-contract.html:75
+#: public/views/modals/view-prosaic-contract.html:82
+msgid "address"
+msgstr ""
+
+#: public/views/preferencesAttestorAddresses.html:18
+msgid "addresses"
+msgstr ""
+
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
@@ -1928,12 +2046,39 @@ msgstr "một sự kiện mới được đăng lên bởi một thẻ"
 msgid "and erase the textcoin to keep it safe from attackers."
 msgstr "và xóa tiền chữ để giữ an toàn từ những kẻ tấn công."
 
-#: public/views/walletHome.html:577
+#: public/views/modals/accept-profile.html:31
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+#: public/views/modals/view-prosaic-contract.html:74
+#: public/views/modals/view-prosaic-contract.html:81
+msgid "attested by trusted attestor"
+msgstr ""
+
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+#: public/views/modals/view-prosaic-contract.html:74
+#: public/views/modals/view-prosaic-contract.html:81
+msgid "attested by:"
+msgstr ""
+
+#: public/views/modals/accept-profile.html:31
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+#: public/views/modals/view-prosaic-contract.html:74
+#: public/views/modals/view-prosaic-contract.html:81
+msgid "attestor is not trusted by you"
+msgstr ""
+
+#: public/views/walletHome.html:570
 msgid "available"
 msgstr ""
 
-#: src/js/controllers/index.js:408
+#: src/js/controllers/index.js:418
 msgid "by address"
+msgstr ""
+
+#: public/views/modals/view-prosaic-contract.html:106
+msgid "calculated hash:"
 msgstr ""
 
 #: public/views/modals/offer-contract.html:77
@@ -1952,17 +2097,21 @@ msgstr "hủy bỏ việc tạo ví"
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
 msgstr "tuyên bố bởi {{btx.claimedByMe?'me':'receiver'|translate}}"
 
-#: public/views/editCorrespondentDevice.html:49
+#: public/views/editCorrespondentDevice.html:64
 msgid "clear chat history"
 msgstr "xóa lịch sử trò chuyện"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "confirmed"
 msgstr ""
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
 msgstr "đã tạo"
+
+#: public/views/modals/view-prosaic-contract.html:96
+msgid "creation date:"
+msgstr ""
 
 #: public/views/modals/offer-contract.html:109
 msgid "days"
@@ -1993,8 +2142,17 @@ msgstr "xóa tiền chữ"
 msgid "explicitly"
 msgstr "một cách rõ ràng"
 
+#: public/views/modals/view-prosaic-contract.html:107
+msgid "hash published in DAG:"
+msgstr ""
+
+#: public/views/modals/view-prosaic-contract.html:97
+msgid "hash source string:"
+msgstr ""
+
 #: public/views/modals/bind.html:87
 #: public/views/modals/offer-contract.html:69
+#: public/views/modals/offer-prosaic-contract.html:72
 msgid "hours"
 msgstr "giờ"
 
@@ -2026,13 +2184,21 @@ msgstr "bị khóa bởi các thanh toán đang xử lý"
 msgid "not claimed"
 msgstr "không bồi thường"
 
+#: public/views/modals/view-prosaic-contract.html:103
+msgid "not valid"
+msgstr ""
+
+#: public/views/editCorrespondentDevice.html:59
+msgid "on"
+msgstr ""
+
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
 msgstr "trên nguồn cấp dữ liệu tên"
 
-#: public/views/walletHome.html:461
-#: public/views/walletHome.html:472
+#: public/views/walletHome.html:454
+#: public/views/walletHome.html:465
 msgid "optional"
 msgstr "tùy chọn"
 
@@ -2060,11 +2226,11 @@ msgstr "gửi lại các dữ liệu riêng tư"
 msgid "re-send private payloads to cosigners"
 msgstr "gửi lại các dữ liệu riêng tư cho người đồng ký"
 
-#: public/views/correspondentDevices.html:159
+#: public/views/correspondentDevices.html:167
 msgid "search by bot name"
 msgstr ""
 
-#: public/views/correspondentDevices.html:100
+#: public/views/correspondentDevices.html:108
 msgid "search by contact name"
 msgstr ""
 
@@ -2072,19 +2238,19 @@ msgstr ""
 msgid "send"
 msgstr "gửi"
 
-#: src/js/controllers/walletHome.js:778
+#: src/js/controllers/walletHome.js:785
 msgid "send email"
 msgstr "gửi email"
 
-#: src/js/controllers/walletHome.js:1006
-#: src/js/controllers/walletHome.js:1106
-#: src/js/controllers/walletHome.js:1162
-#: src/js/controllers/walletHome.js:1308
-#: src/js/controllers/walletHome.js:1345
-#: src/js/controllers/walletHome.js:1353
-#: src/js/controllers/walletHome.js:923
-#: src/js/controllers/walletHome.js:958
-#: src/js/controllers/walletHome.js:993
+#: src/js/controllers/walletHome.js:1000
+#: src/js/controllers/walletHome.js:1013
+#: src/js/controllers/walletHome.js:1113
+#: src/js/controllers/walletHome.js:1169
+#: src/js/controllers/walletHome.js:1315
+#: src/js/controllers/walletHome.js:1352
+#: src/js/controllers/walletHome.js:1360
+#: src/js/controllers/walletHome.js:930
+#: src/js/controllers/walletHome.js:965
 msgid "sending"
 msgstr "đang gửi"
 
@@ -2092,13 +2258,17 @@ msgstr "đang gửi"
 msgid "share again"
 msgstr "chia sẻ lần nữa"
 
-#: public/views/walletHome.html:447
+#: public/views/walletHome.html:440
 msgid "switch to multi-address"
 msgstr "chuyển sang đa địa chỉ"
 
-#: public/views/walletHome.html:446
+#: public/views/walletHome.html:439
 msgid "switch to single address"
 msgstr "chuyển sang địa chỉ duy nhất"
+
+#: public/views/modals/view-prosaic-contract.html:91
+msgid "the contract is not signed yet"
+msgstr ""
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2108,20 +2278,34 @@ msgstr "các văn bản dưới đây và gửi nó tới người nhận thông
 msgid "to"
 msgstr "tới"
 
-#: src/js/controllers/index.js:311
+#: src/js/controllers/index.js:321
 msgid "together with"
 msgstr ""
 
-#: public/views/walletHome.html:462
-#: public/views/walletHome.html:473
+#: public/views/walletHome.html:455
+#: public/views/walletHome.html:466
 msgid "too long!"
 msgstr "quá dài!"
 
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+msgid "trusted"
+msgstr ""
+
+#: public/views/modals/view-prosaic-contract.html:94
+msgid "unit in DAG:"
+msgstr ""
+
 #: public/views/modals/signed-message.html:30
+#: public/views/modals/view-prosaic-contract.html:102
 msgid "valid"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:875
+#: public/views/modals/view-prosaic-contract.html:100
+msgid "validate contract integrity"
+msgstr ""
+
+#: src/js/controllers/walletHome.js:882
 msgid "wait for sync to complete before sending payments"
 msgstr ""
 
@@ -2138,15 +2322,11 @@ msgstr "với giá trị kỳ vọng"
 msgid "{{address}} can be spent if:"
 msgstr "{{address}} có thể được sử dụng nếu:"
 
-#: public/views/modals/accept-profile.html:41
+#: public/views/modals/accept-profile.html:47
 #: public/views/modals/claim-textcoin.html:36
 #: public/views/modals/customized-amount.html:76
 msgid "{{buttonLabel}}"
 msgstr "{{buttonLabel}}"
-
-#: src/js/controllers/walletHome.js:1948
-msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr "{{fee}} sẽ được khấu trừ cho phí giao dịch Bitcoin"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
@@ -2157,9 +2337,13 @@ msgstr "{{hrd.destinationAddress}} có thể sử dụng nếu:"
 msgid "{{index.m}}-of-{{index.n}}"
 msgstr "{{index.m}}- of -{{index.n}}"
 
-#: public/views/includes/sidebar.html:16
+#: public/views/includes/sidebar.html:15
 msgid "{{item.m}}-of-{{item.n}}"
 msgstr "{{item.m}}-of-{{item.n}}"
+
+#: public/views/modals/view-prosaic-contract.html:65
+msgid "{{status}}"
+msgstr ""
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
