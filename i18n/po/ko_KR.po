@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-04-15 19:30\n"
+"PO-Revision-Date: 2019-04-15 21:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -40,10 +40,6 @@ msgstr "-- 공동 서명자 선택 --"
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
 msgstr "대시로 구분된 12단어"
-
-#: public/views/modals/view-prosaic-contract.html:65
-msgid "<span translate=\"\">Status</span>: <b translate=\"\">{{status}}</b>"
-msgstr ""
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
