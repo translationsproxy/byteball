@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2019-04-15 19:31\n"
+"PO-Revision-Date: 2019-04-15 21:42\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -40,10 +40,6 @@ msgstr "-- Vælg medunderskriver --"
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
 msgstr "12 ord adskilt af bindestreger"
-
-#: public/views/modals/view-prosaic-contract.html:65
-msgid "<span translate=\"\">Status</span>: <b translate=\"\">{{status}}</b>"
-msgstr ""
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
