@@ -8,10 +8,10 @@ msgstr ""
 "X-Crowdin-Project: byteball\n"
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
-"Last-Translator: testz <testzcrypto@gmail.com>\n"
+"Last-Translator: testz\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2019-02-14 15:02\n"
+"PO-Revision-Date: 2019-04-15 19:29\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -29,7 +29,7 @@ msgstr "(現在のウォレット)"
 msgid "(my other wallet)"
 msgstr "(他のウォレット)"
 
-#: public/views/walletHome.html:676
+#: public/views/walletHome.html:669
 msgid "(possible double spend)"
 msgstr "(二重払いの可能性あり)"
 
@@ -41,13 +41,17 @@ msgstr "-- 連署者を選択してください --"
 msgid "12 words separated by dashes"
 msgstr "ダッシュで区切られた12のワード"
 
+#: public/views/modals/view-prosaic-contract.html:65
+msgid "<span translate=\"\">Status</span>: <b translate=\"\">{{status}}</b>"
+msgstr ""
+
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
 msgstr ""
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
-#: src/js/controllers/walletHome.js:123
+#: src/js/controllers/walletHome.js:130
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
 msgstr "承認"
@@ -68,7 +72,7 @@ msgstr "アカウント"
 msgid "Add Bot"
 msgstr "Botを追加"
 
-#: public/views/correspondentDevices.html:141
+#: public/views/correspondentDevices.html:149
 msgid "Add a new device"
 msgstr "デバイスの追加"
 
@@ -77,19 +81,23 @@ msgstr "デバイスの追加"
 msgid "Add a new entry"
 msgstr "エントリーの追加"
 
-#: public/views/walletHome.html:577
+#: public/views/preferencesEditRealNameAttestors.html:25
+msgid "Add address"
+msgstr ""
+
+#: public/views/walletHome.html:570
 msgid "Add answer"
 msgstr ""
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Add fields"
 msgstr "入力欄を追加"
 
-#: public/views/includes/sidebar.html:24
+#: public/views/includes/sidebar.html:23
 msgid "Add wallet"
 msgstr "ウォレットを追加"
 
-#: public/views/correspondentDevices.html:182
+#: public/views/correspondentDevices.html:190
 msgid "Added"
 msgstr "追加済"
 
@@ -99,7 +107,7 @@ msgstr "追加済"
 msgid "Address"
 msgstr "アドレス"
 
-#: public/views/walletHome.html:549
+#: public/views/walletHome.html:542
 msgid "Address to attest"
 msgstr "認証するアドレス"
 
@@ -108,9 +116,17 @@ msgstr "認証するアドレス"
 msgid "Addressbook"
 msgstr "アドレス帳"
 
+#: public/views/preferencesEditRealNameAttestors.html:15
+msgid "Addresses"
+msgstr ""
+
 #: public/views/preferences.html:66
 msgid "Advanced"
 msgstr "上級者向け"
+
+#: public/views/modals/view-prosaic-contract.html:136
+msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
+msgstr ""
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -136,7 +152,7 @@ msgstr ""
 msgid "Already Paid"
 msgstr "既に支払い済みです"
 
-#: src/js/controllers/correspondentDevice.js:1304
+#: src/js/controllers/correspondentDevice.js:1378
 msgid "Already saved"
 msgstr "保存済みです"
 
@@ -157,11 +173,11 @@ msgstr "また、シードを削除するのを忘れないでください。"
 #: public/views/modals/customized-amount.html:59
 #: public/views/modals/customized-amount.html:62
 #: public/views/paymentUri.html:16
-#: public/views/walletHome.html:379
+#: public/views/walletHome.html:372
 msgid "Amount"
 msgstr "金額"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Answer"
 msgstr ""
 
@@ -186,20 +202,20 @@ msgstr "本当にこのウォレットを削除してもよろしいですか？
 msgid "Asset"
 msgstr "資産"
 
-#: public/views/walletHome.html:535
+#: public/views/walletHome.html:528
 msgid "Attest profile data linked to any Obyte address."
 msgstr ""
 
-#: public/views/walletHome.html:348
+#: public/views/walletHome.html:341
 msgid "Attestation"
 msgstr "個人認証"
 
-#: public/views/modals/accept-profile.html:28
+#: public/views/modals/accept-profile.html:34
 #: public/views/modals/choose-profile.html:41
 msgid "Attested address:"
 msgstr "認証済みアドレス"
 
-#: public/views/modals/accept-profile.html:24
+#: public/views/modals/accept-profile.html:30
 #: public/views/modals/choose-profile.html:37
 msgid "Attested by:"
 msgstr "認証者:"
@@ -223,7 +239,7 @@ msgstr "送金可能残高"
 #: public/views/acceptCorrespondentInvitation.html:13
 #: public/views/bot.html:13
 #: public/views/correspondentDevice.html:14
-#: public/views/correspondentDevices.html:63
+#: public/views/correspondentDevices.html:71
 #: public/views/editCorrespondentDevice.html:14
 #: public/views/includes/topbar.html:8
 #: public/views/modals/correspondentListToReSendPrivPayloads.html:6
@@ -248,7 +264,7 @@ msgstr "バックアップフレーズを削除しました。"
 msgid "Backups"
 msgstr "バックアップ"
 
-#: src/js/controllers/correspondentDevice.js:1289
+#: src/js/controllers/correspondentDevice.js:1361
 msgid "Bad profile"
 msgstr "誤ったプロフィール"
 
@@ -269,8 +285,8 @@ msgstr "できれば、冗長性を備えたマルチシグウォレットを使
 msgid "Bind payment"
 msgstr "条件付き支払い"
 
-#: public/views/walletHome.html:440
-#: public/views/walletHome.html:453
+#: public/views/walletHome.html:433
+#: public/views/walletHome.html:446
 msgid "Bind the payment to a condition"
 msgstr "条件付き支払い"
 
@@ -282,7 +298,7 @@ msgstr "Bitcoin URI が無効です！"
 msgid "Bot Store"
 msgstr "Botストア"
 
-#: public/views/correspondentDevice.html:288
+#: public/views/correspondentDevice.html:290
 msgid "Both you and {{correspondent.name}} enabled local chat history recording."
 msgstr "あなたと{{correspondent.name}} の双方がローカルチャットの履歴を保存できます。"
 
@@ -300,15 +316,15 @@ msgid "CONTINUE"
 msgstr "次へ"
 
 #: public/views/modals/destination-address.html:128
-#: public/views/walletHome.html:494
+#: public/views/walletHome.html:487
 #: src/js/controllers/copayers.js:9
 #: src/js/controllers/preferencesDelete.js:10
-#: src/js/controllers/walletHome.js:124
+#: src/js/controllers/walletHome.js:131
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
 msgstr "キャンセル"
 
-#: public/views/editCorrespondentDevice.html:35
+#: public/views/editCorrespondentDevice.html:44
 msgid "Change hub:"
 msgstr "ハブの変更:"
 
@@ -316,7 +332,7 @@ msgstr "ハブの変更:"
 msgid "Changing wallet alias only affects the local wallet name."
 msgstr "ウォレットの別名を変更しても、この端末でしか変わりません。"
 
-#: src/js/controllers/index.js:681
+#: src/js/controllers/index.js:777
 msgid "Chat"
 msgstr "チャット"
 
@@ -336,7 +352,7 @@ msgstr "送付先デバイスの選択"
 msgid "Choose which fields to send:"
 msgstr "どのフィールドを送信するか選択してください:"
 
-#: src/js/controllers/walletHome.js:495
+#: src/js/controllers/walletHome.js:502
 msgid "Claim funds"
 msgstr "お金を請求する"
 
@@ -356,17 +372,17 @@ msgstr "請求しています..."
 msgid "Click the button to <span ng-if=\"isResend\">re</span>send email:"
 msgstr "ボタンをクリックしてメールを<span ng-if=\"isResend\">再</span>送信します:"
 
-#: public/views/walletHome.html:516
+#: public/views/walletHome.html:509
 msgid "Click this button to create a payment file and send it to a recipient."
 msgstr "このボタンをクリックして支払いファイルを作成し、受取人へ送ってください。"
 
-#: public/views/walletHome.html:515
+#: public/views/walletHome.html:508
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
 msgstr "このボタンをクリックして支払いを作成し、チャットアプリのプライベートメッセージでシェアするか、ペーパーウォレットを作成します。"
 
-#: public/views/correspondentDevices.html:68
+#: public/views/correspondentDevices.html:76
 #: public/views/includes/topbar.html:13
-#: public/views/modals/accept-profile.html:4
+#: public/views/modals/accept-profile.html:10
 #: public/views/modals/address-definition.html:30
 #: public/views/modals/address-definition.html:4
 #: public/views/modals/approveNewWitnesses.html:4
@@ -378,12 +394,14 @@ msgstr "このボタンをクリックして支払いを作成し、チャット
 #: public/views/modals/destination-address.html:5
 #: public/views/modals/multi-payment.html:4
 #: public/views/modals/offer-contract.html:29
+#: public/views/modals/offer-prosaic-contract.html:38
 #: public/views/modals/scanner.html:4
 #: public/views/modals/select-subwallet.html:4
 #: public/views/modals/share.html:13
 #: public/views/modals/sign-message.html:4
 #: public/views/modals/signed-message.html:39
 #: public/views/modals/signed-message.html:4
+#: public/views/modals/view-prosaic-contract.html:53
 #: public/views/modals/vote.html:4
 msgid "Close"
 msgstr "閉じる"
@@ -396,7 +414,7 @@ msgstr "連署者 {{$index+1}}:"
 msgid "Co-signers"
 msgstr "連署者"
 
-#: public/views/includes/sidebar.html:36
+#: public/views/includes/sidebar.html:35
 msgid "Co-signers for multisig"
 msgstr "マルチシグの連署者"
 
@@ -413,11 +431,11 @@ msgid "Compress the file? (Slower)"
 msgstr "ファイルを圧縮しますか？(時間がかかります)"
 
 #: src/js/controllers/copayers.js:10
-#: src/js/controllers/index.js:520
+#: src/js/controllers/index.js:611
 #: src/js/controllers/preferencesDelete.js:11
-#: src/js/controllers/walletHome.js:125
-#: src/js/controllers/walletHome.js:1765
-#: src/js/controllers/walletHome.js:1769
+#: src/js/controllers/walletHome.js:132
+#: src/js/controllers/walletHome.js:1820
+#: src/js/controllers/walletHome.js:1824
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "確認"
@@ -438,12 +456,12 @@ msgstr "投票を確認"
 msgid "Confirmed"
 msgstr "確認済み"
 
-#: public/views/correspondentDevices.html:78
+#: public/views/correspondentDevices.html:86
 msgid "Contacts"
 msgstr "連絡先"
 
 #: src/js/controllers/inviteCorrespondentDevice.js:32
-#: src/js/controllers/walletHome.js:396
+#: src/js/controllers/walletHome.js:403
 msgid "Copied to clipboard"
 msgstr "クリップボードにコピーしました"
 
@@ -452,10 +470,15 @@ msgid "Copy"
 msgstr "以下のテキストをコピーし、"
 
 #: public/views/recoveryFromSeed.html:42
-msgid "Correspondents are not restored."
-msgstr "取引先は復元されません。"
+msgid "Correspondents and chats are not restored."
+msgstr ""
 
-#: src/js/controllers/walletHome.js:701
+#: public/views/modals/offer-prosaic-contract.html:75
+#: public/views/modals/view-prosaic-contract.html:111
+msgid "Cosigners"
+msgstr ""
+
+#: src/js/controllers/walletHome.js:708
 msgid "Could not create payment proposal"
 msgstr "送金依頼を作成できませんでした"
 
@@ -475,7 +498,7 @@ msgstr "作成できません：ウォレットの復元フレーズが不正で
 msgid "Could not decrypt"
 msgstr "復号化できませんでした"
 
-#: public/views/walletHome.html:631
+#: public/views/walletHome.html:624
 msgid "Could not fetch transaction history"
 msgstr "取引履歴を取得できませんでした。"
 
@@ -489,11 +512,11 @@ msgstr "インポートできませんでした。"
 msgid "Could not import. Check input file and password"
 msgstr "インポートできませんでした。入力ファイルとパスワードが正しいかご確認下さい。"
 
-#: src/js/controllers/walletHome.js:701
+#: src/js/controllers/walletHome.js:708
 msgid "Could not send payment"
 msgstr "送金できませんでした。"
 
-#: src/js/controllers/correspondentDevice.js:1257
+#: src/js/controllers/correspondentDevice.js:1327
 msgid "Country"
 msgstr "国"
 
@@ -501,13 +524,13 @@ msgstr "国"
 msgid "Create"
 msgstr "作成"
 
-#: public/views/includes/sidebar.html:26
+#: public/views/includes/sidebar.html:25
 msgid "Create a new wallet"
 msgstr "ウォレットの新規作成"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
-#: src/js/controllers/index.js:311
+#: src/js/controllers/index.js:321
 msgid "Create new wallet"
 msgstr "新規ウォレット作成"
 
@@ -531,19 +554,19 @@ msgstr "ウォレット作成中…"
 msgid "DELETE WORDS"
 msgstr "フレーズを削除"
 
-#: public/views/walletHome.html:350
+#: public/views/walletHome.html:343
 msgid "Data"
 msgstr "データ"
 
-#: public/views/walletHome.html:347
+#: public/views/walletHome.html:340
 msgid "Data into datafeed"
 msgstr "データフィード"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Datafeed name"
 msgstr "データフィード名"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Datafeed value"
 msgstr "データフィード値"
 
@@ -551,11 +574,11 @@ msgstr "データフィード値"
 msgid "Date"
 msgstr "日付"
 
-#: src/js/controllers/correspondentDevice.js:1256
+#: src/js/controllers/correspondentDevice.js:1326
 msgid "Date of birth"
 msgstr "生年月日"
 
-#: src/js/controllers/index.js:277
+#: src/js/controllers/index.js:287
 msgid "Declined"
 msgstr "拒否されました。"
 
@@ -579,7 +602,7 @@ msgstr "ウォレットを削除"
 msgid "Delete wallet"
 msgstr "ウォレットを削除"
 
-#: src/js/controllers/walletHome.js:1762
+#: src/js/controllers/walletHome.js:1817
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr "textcoinを削除すると返金や再送信ができなくなります"
 
@@ -623,7 +646,7 @@ msgstr "ご自身の言語はCrowdinで見当たりませんか？Crowdinの管�
 msgid "Done"
 msgstr "完了"
 
-#: public/views/walletHome.html:732
+#: public/views/walletHome.html:725
 msgid "Download CSV file"
 msgstr "CSVファイルをダウンロード"
 
@@ -631,15 +654,15 @@ msgstr "CSVファイルをダウンロード"
 msgid "Download the entire Obyte database"
 msgstr ""
 
-#: public/views/correspondentDevice.html:26
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
 msgstr "編集"
 
-#: public/views/correspondentDevice.html:291
+#: public/views/correspondentDevice.html:293
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
 msgstr "あなたか{{correspondent.name}}のどちらかがチャット履歴の記録を無効にしています。現在、履歴は保存されません。"
 
+#: public/views/editCorrespondentDevice.html:35
 #: public/views/preferencesGlobal.html:62
 msgid "Enable push notifications"
 msgstr "プッシュ通知の有効化"
@@ -656,6 +679,10 @@ msgstr "パスワードを入力して下さい。"
 #: src/js/services/profileService.js:393
 msgid "Error creating wallet"
 msgstr "ウォレット作成エラー"
+
+#: public/views/modals/view-prosaic-contract.html:68
+msgid "Expired on"
+msgstr ""
 
 #: public/views/export.html:51
 msgid "Export"
@@ -682,7 +709,7 @@ msgstr "エクスポートに失敗しました。"
 msgid "Fee"
 msgstr "手数料"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Field"
 msgstr "フィールド"
 
@@ -690,7 +717,7 @@ msgstr "フィールド"
 msgid "Finality"
 msgstr "完了"
 
-#: src/js/controllers/correspondentDevice.js:1254
+#: src/js/controllers/correspondentDevice.js:1324
 msgid "First name"
 msgstr "名"
 
@@ -710,7 +737,7 @@ msgstr "フルバックアップ"
 msgid "GET STARTED"
 msgstr "はじめよう"
 
-#: src/js/controllers/walletHome.js:425
+#: src/js/controllers/walletHome.js:432
 msgid "Generate QR Code"
 msgstr "QRコードを生成"
 
@@ -726,7 +753,7 @@ msgstr "CSVファイル作成中…"
 msgid "Getting address for wallet {{selectedWalletName}} ..."
 msgstr "「{{selectedWalletName}}」のアドレスを取得中…"
 
-#: public/views/includes/sidebar.html:46
+#: public/views/includes/sidebar.html:45
 msgid "Global preferences"
 msgstr "グローバル設定"
 
@@ -747,11 +774,11 @@ msgid "Hide the Wallet Seed"
 msgstr "ウォレットの復元フレーズを非表示"
 
 #: public/views/modals/share.html:43
-#: src/js/controllers/index.js:677
+#: src/js/controllers/index.js:773
 msgid "History"
 msgstr "履歴"
 
-#: src/js/controllers/index.js:665
+#: src/js/controllers/index.js:761
 msgid "Home"
 msgstr "ホーム"
 
@@ -783,23 +810,23 @@ msgstr "自分が以下の金額の別の支払いを受けた場合："
 msgid "ID"
 msgstr ""
 
-#: src/js/controllers/correspondentDevice.js:1263
+#: src/js/controllers/correspondentDevice.js:1333
 msgid "ID expires at"
 msgstr ""
 
-#: src/js/controllers/correspondentDevice.js:1264
+#: src/js/controllers/correspondentDevice.js:1334
 msgid "ID issued at"
 msgstr ""
 
-#: src/js/controllers/correspondentDevice.js:1260
+#: src/js/controllers/correspondentDevice.js:1330
 msgid "ID number"
 msgstr "IDナンバー"
 
-#: src/js/controllers/correspondentDevice.js:1262
+#: src/js/controllers/correspondentDevice.js:1332
 msgid "ID subtype"
 msgstr "IDサブタイプ"
 
-#: src/js/controllers/correspondentDevice.js:1261
+#: src/js/controllers/correspondentDevice.js:1331
 msgid "ID type"
 msgstr "IDタイプ"
 
@@ -844,25 +871,25 @@ msgstr "ウォレットインポート中…"
 msgid "Including pending confirmation"
 msgstr "保留中の確認を含む"
 
-#: public/views/walletHome.html:650
+#: public/views/walletHome.html:643
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
 msgstr "取引履歴の多いウォレットの場合、初回の同期には時間がかかる場合があります。<br>\n"
 "          少々お待ち下さい。"
 
-#: public/views/correspondentDevice.html:327
+#: public/views/correspondentDevice.html:329
 msgid "Insert my address"
 msgstr "アドレスを挿入する"
 
-#: public/views/correspondentDevice.html:343
+#: public/views/correspondentDevice.html:345
 msgid "Insert private profile"
 msgstr "個人プロフィールを挿入"
 
-#: public/views/walletHome.html:669
+#: public/views/walletHome.html:662
 msgid "Invalid"
 msgstr "無効"
 
-#: src/js/controllers/index.js:1647
+#: src/js/controllers/index.js:1743
 msgid "Invalid Touch ID"
 msgstr "認証できませんでした"
 
@@ -871,8 +898,8 @@ msgid "Invite the other device"
 msgstr "他のデバイスの招待"
 
 #: public/views/backup.html:22
-msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets and private assets such as blackbytes."
-msgstr "ウォレットシードだけでは不十分です。シードのみではマルチシグウォレットやblackbytesのようなプライベートアセットは復元できません。"
+msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
+msgstr ""
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -886,7 +913,7 @@ msgstr "ラベル"
 msgid "Language"
 msgstr "言語設定"
 
-#: src/js/controllers/correspondentDevice.js:1255
+#: src/js/controllers/correspondentDevice.js:1325
 msgid "Last name"
 msgstr "姓"
 
@@ -908,6 +935,8 @@ msgstr "後で"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:117
+#: public/views/modals/offer-prosaic-contract.html:51
+#: public/views/modals/view-prosaic-contract.html:70
 #: public/views/preferencesInformation.html:76
 msgid "Me"
 msgstr "自分"
@@ -916,7 +945,7 @@ msgstr "自分"
 msgid "Merchant message"
 msgstr "お店からのメッセージ："
 
-#: public/views/walletHome.html:460
+#: public/views/walletHome.html:453
 msgid "Merkle proof"
 msgstr "マークルプルーフ"
 
@@ -929,7 +958,11 @@ msgstr "メッセージ"
 msgid "Message:"
 msgstr "メッセージ:"
 
-#: public/views/walletHome.html:668
+#: public/views/correspondentDevice.html:26
+msgid "More"
+msgstr ""
+
+#: public/views/walletHome.html:661
 msgid "Moved"
 msgstr "移動済"
 
@@ -941,7 +974,7 @@ msgstr "マルチデバイスウォレット"
 msgid "My Obyte address"
 msgstr ""
 
-#: public/views/correspondentDevice.html:297
+#: public/views/correspondentDevice.html:299
 msgid "My recording preference"
 msgstr "レコード設定"
 
@@ -966,8 +999,8 @@ msgid "New witnesses"
 msgstr "新しいwitness"
 
 #: public/views/authConfirmation.html:22
-#: src/js/controllers/index.js:519
-#: src/js/controllers/walletHome.js:1777
+#: src/js/controllers/index.js:610
+#: src/js/controllers/walletHome.js:1832
 msgid "No"
 msgstr "いいえ"
 
@@ -983,25 +1016,25 @@ msgstr "条件に一致するプロフィールがありません。"
 msgid "No profiles yet."
 msgstr "まだプロフィールがありません。"
 
-#: public/views/walletHome.html:634
+#: public/views/walletHome.html:627
 msgid "No transactions yet"
 msgstr "取引がありません"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
 #: public/views/modals/destination-address.html:113
-#: public/views/walletHome.html:371
-#: public/views/walletHome.html:408
-#: public/views/walletHome.html:417
-#: public/views/walletHome.html:554
+#: public/views/walletHome.html:364
+#: public/views/walletHome.html:401
+#: public/views/walletHome.html:410
+#: public/views/walletHome.html:547
 msgid "Not valid"
 msgstr "無効です"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:106
 #: public/views/modals/tx-details.html:81
-#: public/views/walletHome.html:471
-#: public/views/walletHome.html:697
+#: public/views/walletHome.html:464
+#: public/views/walletHome.html:690
 msgid "Note"
 msgstr "メモ"
 
@@ -1017,10 +1050,23 @@ msgstr ""
 msgid "Obyte address"
 msgstr ""
 
+#: public/views/modals/offer-prosaic-contract.html:88
+msgid "Offer Contract"
+msgstr ""
+
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:118
 msgid "Offer a contract"
 msgstr "コントラクトの申込み"
+
+#: public/views/modals/offer-prosaic-contract.html:72
+msgid "Offer is valid for"
+msgstr ""
+
+#: public/views/modals/offer-prosaic-contract.html:42
+#: src/js/services/correspondentListService.js:118
+msgid "Offer prosaic contract"
+msgstr ""
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
@@ -1034,7 +1080,7 @@ msgstr "シングルシグウォレットのみ回復できます。"
 msgid "Open chat"
 msgstr "チャットを開く"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Options for answering"
 msgstr ""
 
@@ -1046,7 +1092,7 @@ msgstr "または以下のテキストをコピーし、"
 msgid "Pair"
 msgstr "ペア設定"
 
-#: public/views/includes/sidebar.html:34
+#: public/views/includes/sidebar.html:33
 msgid "Paired devices"
 msgstr "ペアリング済のデバイス"
 
@@ -1102,6 +1148,11 @@ msgstr "送金が却下されました"
 msgid "Payment Sent"
 msgstr "送金が完了しました"
 
+#: public/views/modals/offer-prosaic-contract.html:58
+#: public/views/modals/view-prosaic-contract.html:77
+msgid "Peer"
+msgstr ""
+
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
 msgstr "ピア :"
@@ -1110,13 +1161,21 @@ msgstr "ピア :"
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
 msgstr "永久にこのウォレットを削除します。“この操作は取り消せません！”"
 
-#: src/js/controllers/correspondentDevice.js:1258
+#: src/js/controllers/correspondentDevice.js:1328
 msgid "Personal code"
 msgstr ""
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
 msgstr "通常ウォレット"
+
+#: src/js/controllers/index.js:226
+msgid "Please approve contract fees deposit on the other devices."
+msgstr ""
+
+#: src/js/controllers/index.js:231
+msgid "Please approve posting prosaic contract hash on the other devices."
+msgstr ""
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
@@ -1134,7 +1193,7 @@ msgstr "この端末に名前をつけて下さい"
 msgid "Please switch to a single-address wallet and you probably need to insert your address again."
 msgstr "シングルアドレスウォレットに切り替えてください。アドレスをもう一度入力する必要がある場合があります。"
 
-#: public/views/walletHome.html:351
+#: public/views/walletHome.html:344
 msgid "Poll"
 msgstr ""
 
@@ -1142,19 +1201,19 @@ msgstr ""
 msgid "Port"
 msgstr "ポート"
 
-#: public/views/walletHome.html:544
+#: public/views/walletHome.html:537
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
 msgstr ""
 
-#: public/views/walletHome.html:541
+#: public/views/walletHome.html:534
 msgid "Post arbitrary key-value pairs of data into Obyte network."
 msgstr ""
 
-#: public/views/walletHome.html:532
+#: public/views/walletHome.html:525
 msgid "Post values into datafeeds manually, be an oracle."
 msgstr "オラクルになるために、データフィードに手動で値をポストします。"
 
-#: public/views/walletHome.html:538
+#: public/views/walletHome.html:531
 msgid "Post your profile data, anything you want to say about yourself."
 msgstr "自分自身について自由に記述したプロフィールデータをポストします。"
 
@@ -1168,29 +1227,37 @@ msgid "Press again to exit"
 msgstr "もう一度押すと終了します"
 
 #: public/views/recoveryFromSeed.html:40
-msgid "Private assets (such as blackbytes) are not recovered."
-msgstr "プライベートアセット（blackbytesなど）は回復されません。"
+msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
+msgstr ""
 
-#: src/js/controllers/walletHome.js:1831
-#: src/js/controllers/walletHome.js:1907
+#: src/js/controllers/walletHome.js:1886
+#: src/js/controllers/walletHome.js:1962
 msgid "Private payloads sent"
 msgstr "プライベートペイロード送信"
 
-#: public/views/modals/accept-profile.html:8
+#: public/views/modals/accept-profile.html:14
 msgid "Private profile"
 msgstr "個人プロフィール"
 
-#: public/views/walletHome.html:349
+#: public/views/walletHome.html:342
 msgid "Profile"
 msgstr "プロフィール"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Profile field"
 msgstr "プロフィールフィールド"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Profile field value"
 msgstr "プロフィールフィールド値"
+
+#: public/views/modals/view-prosaic-contract.html:91
+msgid "Proof of contract signing"
+msgstr ""
+
+#: public/views/modals/view-prosaic-contract.html:57
+msgid "Prosaic contract"
+msgstr ""
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1200,7 +1267,7 @@ msgstr "QRコード"
 msgid "QR-Scanner"
 msgstr "QRコードスキャン"
 
-#: public/views/walletHome.html:564
+#: public/views/walletHome.html:557
 msgid "Question to be voted on"
 msgstr ""
 
@@ -1208,11 +1275,15 @@ msgstr ""
 msgid "Question:"
 msgstr "質問 :"
 
-#: src/js/controllers/index.js:669
+#: public/views/preferencesAttestorAddresses.html:16
+msgid "Real name attestors"
+msgstr ""
+
+#: src/js/controllers/index.js:765
 msgid "Receive"
 msgstr "受取"
 
-#: public/views/walletHome.html:665
+#: public/views/walletHome.html:658
 msgid "Received"
 msgstr "受取済み"
 
@@ -1237,7 +1308,7 @@ msgstr "シードから回復"
 msgid "Recreating Wallet..."
 msgstr "ウォレットを再作成中…"
 
-#: src/js/controllers/index.js:229
+#: src/js/controllers/index.js:239
 msgid "Refused"
 msgstr "拒否"
 
@@ -1249,11 +1320,11 @@ msgstr "リリース情報"
 msgid "Remove"
 msgstr "削除"
 
-#: public/views/correspondentDevices.html:147
+#: public/views/correspondentDevices.html:155
 msgid "Remove a device"
 msgstr "デバイスの削除"
 
-#: public/views/editCorrespondentDevice.html:33
+#: public/views/editCorrespondentDevice.html:42
 msgid "Rename:"
 msgstr "名前の変更:"
 
@@ -1279,7 +1350,7 @@ msgstr "パスワードをリクエスト"
 msgid "Request a specific amount"
 msgstr "指定金額を要求"
 
-#: public/views/correspondentDevice.html:336
+#: public/views/correspondentDevice.html:338
 msgid "Request payment"
 msgstr "支払いをリクエストする"
 
@@ -1295,15 +1366,20 @@ msgstr "フルバックアップから復元"
 msgid "Retrying..."
 msgstr "再度試しています…"
 
+#: public/views/modals/view-prosaic-contract.html:144
+msgid "Revoke"
+msgstr ""
+
 #: public/views/includes/password.html:32
 msgid "SET"
 msgstr "セット"
 
-#: public/views/editCorrespondentDevice.html:41
+#: public/views/editCorrespondentDevice.html:50
 #: public/views/modals/destination-address.html:133
 #: public/views/preferencesAlias.html:14
 #: public/views/preferencesDeviceName.html:14
 #: public/views/preferencesEditAttestorAddress.html:14
+#: public/views/preferencesEditRealNameAttestors.html:29
 #: public/views/preferencesEditWitness.html:15
 #: public/views/preferencesEmail.html:35
 #: public/views/preferencesHub.html:18
@@ -1327,7 +1403,7 @@ msgstr "スキャンがエラーに終わりました"
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
 msgstr "相手側のデバイスからこのQRコードを読み込むか、下記のコードを送信して下さい:"
 
-#: src/js/controllers/index.js:1640
+#: src/js/controllers/index.js:1736
 msgid "Scan your fingerprint please"
 msgstr "指紋をスキャンしてください"
 
@@ -1356,15 +1432,11 @@ msgid "Select your identity"
 msgstr "アカウントを選択"
 
 #: public/views/includes/transaction.html:10
-#: public/views/walletHome.html:497
-#: public/views/walletHome.html:596
-#: src/js/controllers/index.js:673
+#: public/views/walletHome.html:490
+#: public/views/walletHome.html:589
+#: src/js/controllers/index.js:769
 msgid "Send"
 msgstr "送信"
-
-#: public/views/walletHome.html:334
-msgid "Send All"
-msgstr "すべて送信"
 
 #: public/views/modals/multi-payment.html:53
 msgid "Send Payment"
@@ -1374,7 +1446,7 @@ msgstr "支払いの送信"
 msgid "Send addresses by email"
 msgstr "アドレスをメールで送る"
 
-#: public/views/walletHome.html:381
+#: public/views/walletHome.html:374
 msgid "Send all"
 msgstr "すべて送信"
 
@@ -1390,7 +1462,7 @@ msgstr "このプロフィールを送信する"
 msgid "Sending..."
 msgstr "送信中..."
 
-#: public/views/walletHome.html:667
+#: public/views/walletHome.html:660
 msgid "Sent"
 msgstr "送金済み"
 
@@ -1406,7 +1478,7 @@ msgstr "パスワード設定"
 msgid "Set up a password"
 msgstr "パスワード設定"
 
-#: public/views/includes/sidebar.html:44
+#: public/views/includes/sidebar.html:43
 msgid "Settings"
 msgstr "設定"
 
@@ -1427,12 +1499,12 @@ msgstr ""
 msgid "Share this wallet address to receive payments."
 msgstr "送金を受けるためにはこのウォレットアドレスを共有して下さい。"
 
-#: public/views/walletHome.html:396
-#: public/views/walletHome.html:517
+#: public/views/walletHome.html:389
+#: public/views/walletHome.html:510
 msgid "Share via message"
 msgstr "メッセージでシェア"
 
-#: public/views/walletHome.html:724
+#: public/views/walletHome.html:717
 msgid "Show all"
 msgstr "すべて表示"
 
@@ -1445,9 +1517,13 @@ msgid "Sign"
 msgstr "署名"
 
 #: public/views/modals/sign-message.html:8
-#: src/js/controllers/index.js:408
+#: src/js/controllers/index.js:418
 msgid "Sign message"
 msgstr "メッセージに署名する"
+
+#: public/views/editCorrespondentDevice.html:57
+msgid "Signed contracts:"
+msgstr ""
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
@@ -1485,22 +1561,26 @@ msgstr ""
 msgid "Spending Restrictions"
 msgstr "支払いを制限する"
 
+#: public/views/modals/view-prosaic-contract.html:65
+msgid "Status"
+msgstr ""
+
 #: public/views/preferencesGlobal.html:104
 msgid "Still not done"
 msgstr "終わっていません"
 
-#: src/js/controllers/correspondentDevice.js:1306
+#: src/js/controllers/correspondentDevice.js:1380
 msgid "Store"
 msgstr "保存"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:142
 #: src/js/controllers/export.js:167
-#: src/js/controllers/index.js:266
-#: src/js/controllers/index.js:294
+#: src/js/controllers/index.js:276
+#: src/js/controllers/index.js:304
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:1831
-#: src/js/controllers/walletHome.js:1907
+#: src/js/controllers/walletHome.js:1886
+#: src/js/controllers/walletHome.js:1962
 msgid "Success"
 msgstr "成功"
 
@@ -1526,7 +1606,7 @@ msgstr ""
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
-#: public/views/walletHome.html:632
+#: public/views/walletHome.html:625
 msgid "Tap to retry"
 msgstr "タップしてやり直し"
 
@@ -1535,7 +1615,12 @@ msgstr "タップしてやり直し"
 msgid "Terms of Use"
 msgstr "利用規約"
 
-#: public/views/correspondentDevice.html:347
+#: public/views/modals/offer-prosaic-contract.html:69
+#: public/views/modals/view-prosaic-contract.html:88
+msgid "Text"
+msgstr ""
+
+#: public/views/correspondentDevice.html:349
 msgid "Text message to"
 msgstr "テキストメッセージ :"
 
@@ -1543,7 +1628,7 @@ msgstr "テキストメッセージ :"
 msgid "Textcoin"
 msgstr "Textcoin"
 
-#: public/views/modals/accept-profile.html:32
+#: public/views/modals/accept-profile.html:38
 msgid "The attested address belongs to:"
 msgstr "認証済みアドレスは次のものに属します:"
 
@@ -1580,7 +1665,7 @@ msgstr "ウォレット \"{{walletName}}\" が削除されました"
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
 msgstr "ウォレットベンダーはあなたの残高の一部を知ることができ、どの取引があなたのものかを見ることができますが、ウォレットをすぐにフル機能で使用することができます。"
 
-#: public/views/correspondentDevice.html:302
+#: public/views/correspondentDevice.html:304
 msgid "Their recording preference"
 msgstr "レコード設定"
 
@@ -1600,7 +1685,7 @@ msgstr "この選択は後から変更することが出来ません。"
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
 msgstr "このオプションはプライバシーが保護されますが、数Gバイトのストレージが必要になり、同期に数日かかります。同期厨はCPU負荷が上がります。"
 
-#: public/views/walletHome.html:441
+#: public/views/walletHome.html:434
 msgid "This payment is bound to a condition"
 msgstr "この支払いは条件付きです"
 
@@ -1633,16 +1718,21 @@ msgstr "このウォレットはマルチデバイスであるためシングル
 msgid "This will permanently delete all your existing wallets!"
 msgstr "既存のすべてのウォレットが完全に削除されます！"
 
+#: public/views/modals/offer-prosaic-contract.html:66
+#: public/views/modals/view-prosaic-contract.html:85
+msgid "Title of contract"
+msgstr ""
+
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
 #: public/views/modals/tx-details.html:36
 #: public/views/modals/tx-details.html:71
-#: public/views/walletHome.html:699
-#: src/js/controllers/index.js:1452
+#: public/views/walletHome.html:692
+#: src/js/controllers/index.js:1548
 msgid "To"
 msgstr "To"
 
-#: public/views/walletHome.html:403
+#: public/views/walletHome.html:396
 msgid "To Obyte address"
 msgstr ""
 
@@ -1650,15 +1740,15 @@ msgstr ""
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
 msgstr "すべてを復元可能にするためには、フルバックアップを作成してください（メニューにオプションがあります）"
 
-#: public/views/walletHome.html:607
+#: public/views/walletHome.html:600
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address wallet first or create one."
 msgstr ""
 
-#: public/views/walletHome.html:450
+#: public/views/walletHome.html:443
 msgid "To bind the payment to a condition, please click the peer's address in chat"
 msgstr "支払いに条件を付けるには、チャット内のピアのアドレスをクリックしてください"
 
-#: src/js/controllers/index.js:1455
+#: src/js/controllers/index.js:1551
 msgid "To email"
 msgstr "宛先メールアドレス"
 
@@ -1666,11 +1756,15 @@ msgstr "宛先メールアドレス"
 msgid "To protect your privacy, new addresses are generated automatically once you use them."
 msgstr "プライバシーを保護するために、一度使用すると新しいアドレスが生成されます。"
 
+#: public/views/modals/view-prosaic-contract.html:95
+msgid "To verify contract integrity, SHA256 hash is calculated from three concatenated components: sha256(title+text+creation_date) and encoded in BASE64 format. After the contract was accepted, a unit with its hash was posted into the DAG. You can check that contract text was not modified by comparing the hashes in the DAG and calculated from this contract."
+msgstr ""
+
 #: public/views/walletHome.html:219
 msgid "Total Locked Balance"
 msgstr "ロック中の残高"
 
-#: public/views/walletHome.html:380
+#: public/views/walletHome.html:373
 msgid "Total amount"
 msgstr "総額"
 
@@ -1682,7 +1776,12 @@ msgstr "連署者数"
 msgid "Transaction"
 msgstr "取引"
 
-#: public/views/walletHome.html:656
+#: src/js/controllers/index.js:221
+msgid "Transaction created.\n"
+"Please approve it on the other devices."
+msgstr ""
+
+#: public/views/walletHome.html:649
 msgid "Transactions<br> Downloaded"
 msgstr "取引履歴<br>ダウンロード完了"
 
@@ -1698,16 +1797,16 @@ msgstr "翻訳者"
 msgid "Trusted nodes"
 msgstr "信頼できるノード"
 
-#: src/js/controllers/correspondentDevice.js:1259
+#: src/js/controllers/correspondentDevice.js:1329
 msgid "US state"
 msgstr "州"
 
-#: src/js/controllers/walletHome.js:847
+#: src/js/controllers/walletHome.js:854
 msgid "Unable to send transaction proposal"
 msgstr "取引提案を送れませんでした。"
 
 #: public/views/modals/tx-details.html:118
-#: public/views/walletHome.html:687
+#: public/views/walletHome.html:680
 msgid "Unconfirmed"
 msgstr "未承認"
 
@@ -1735,15 +1834,19 @@ msgstr "{{version}} にアップグレード"
 msgid "Upgrading the database, please wait.  Sometimes it takes several minutes."
 msgstr "データベースをアップグレードしています、お待ちください。これには数分かかることがあります。"
 
-#: public/views/walletHome.html:577
+#: public/views/modals/view-prosaic-contract.html:67
+msgid "Valid till"
+msgstr ""
+
+#: public/views/walletHome.html:570
 msgid "Value"
 msgstr "値"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "Values"
 msgstr "値"
 
-#: src/js/controllers/correspondentDevice.js:1283
+#: src/js/controllers/correspondentDevice.js:1353
 msgid "Verifying the profile..."
 msgstr "プロフィールを検証中です..."
 
@@ -1830,7 +1933,7 @@ msgstr "注意！"
 msgid "Was claimed?"
 msgstr "請求しましたか？"
 
-#: public/views/walletHome.html:343
+#: public/views/walletHome.html:336
 msgid "What to send"
 msgstr "送信内容"
 
@@ -1838,9 +1941,9 @@ msgstr "送信内容"
 #: public/views/modals/offer-contract.html:112
 #: public/views/modals/sign-message.html:28
 #: public/views/modals/vote.html:28
-#: public/views/walletHome.html:486
-#: public/views/walletHome.html:510
-#: public/views/walletHome.html:588
+#: public/views/walletHome.html:479
+#: public/views/walletHome.html:503
+#: public/views/walletHome.html:581
 msgid "Who signs:"
 msgstr "署名者:"
 
@@ -1865,7 +1968,7 @@ msgid "Wrong password"
 msgstr "不正なパスワード"
 
 #: public/views/authConfirmation.html:17
-#: src/js/controllers/index.js:518
+#: src/js/controllers/index.js:609
 msgid "Yes"
 msgstr "はい"
 
@@ -1884,6 +1987,10 @@ msgstr "ウォレットがありません"
 #: public/views/modals/choose-profile.html:69
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
 msgstr "プロフィールを入手するには認証を通過する必要があります。実名認証BotをBotストアで探してください。"
+
+#: public/views/modals/offer-prosaic-contract.html:92
+msgid "You will be charged {{CHARGE_AMOUNT}} bytes to compensate for fees when posting signature proof."
+msgstr ""
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -1914,6 +2021,17 @@ msgstr "このデバイス上にウォレットが作成されます。安全に
 msgid "[ Add new co-signer device ]"
 msgstr "[ 連署デバイスを追加する ]"
 
+#: public/views/modals/offer-prosaic-contract.html:56
+#: public/views/modals/offer-prosaic-contract.html:63
+#: public/views/modals/view-prosaic-contract.html:75
+#: public/views/modals/view-prosaic-contract.html:82
+msgid "address"
+msgstr ""
+
+#: public/views/preferencesAttestorAddresses.html:18
+msgid "addresses"
+msgstr ""
+
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
@@ -1928,12 +2046,39 @@ msgstr "次のイベントが発生した場合 :オラクル"
 msgid "and erase the textcoin to keep it safe from attackers."
 msgstr "また、textcoinを消去して攻撃者から安全に守ります。"
 
-#: public/views/walletHome.html:577
+#: public/views/modals/accept-profile.html:31
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+#: public/views/modals/view-prosaic-contract.html:74
+#: public/views/modals/view-prosaic-contract.html:81
+msgid "attested by trusted attestor"
+msgstr ""
+
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+#: public/views/modals/view-prosaic-contract.html:74
+#: public/views/modals/view-prosaic-contract.html:81
+msgid "attested by:"
+msgstr ""
+
+#: public/views/modals/accept-profile.html:31
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+#: public/views/modals/view-prosaic-contract.html:74
+#: public/views/modals/view-prosaic-contract.html:81
+msgid "attestor is not trusted by you"
+msgstr ""
+
+#: public/views/walletHome.html:570
 msgid "available"
 msgstr "利用可能"
 
-#: src/js/controllers/index.js:408
+#: src/js/controllers/index.js:418
 msgid "by address"
+msgstr ""
+
+#: public/views/modals/view-prosaic-contract.html:106
+msgid "calculated hash:"
 msgstr ""
 
 #: public/views/modals/offer-contract.html:77
@@ -1952,17 +2097,21 @@ msgstr "ウォレット作成をキャンセルする"
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
 msgstr "{{btx.claimedByMe?'me':'receiver'|translate}}に請求されました"
 
-#: public/views/editCorrespondentDevice.html:49
+#: public/views/editCorrespondentDevice.html:64
 msgid "clear chat history"
 msgstr "チャット履歴の削除"
 
-#: public/views/walletHome.html:577
+#: public/views/walletHome.html:570
 msgid "confirmed"
 msgstr "確認済み"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
 msgstr "作成済み"
+
+#: public/views/modals/view-prosaic-contract.html:96
+msgid "creation date:"
+msgstr ""
 
 #: public/views/modals/offer-contract.html:109
 msgid "days"
@@ -1993,8 +2142,17 @@ msgstr "textcoinを消去する"
 msgid "explicitly"
 msgstr "明確に"
 
+#: public/views/modals/view-prosaic-contract.html:107
+msgid "hash published in DAG:"
+msgstr ""
+
+#: public/views/modals/view-prosaic-contract.html:97
+msgid "hash source string:"
+msgstr ""
+
 #: public/views/modals/bind.html:87
 #: public/views/modals/offer-contract.html:69
+#: public/views/modals/offer-prosaic-contract.html:72
 msgid "hours"
 msgstr "時間"
 
@@ -2026,13 +2184,21 @@ msgstr "保留中の支払いによりロック中"
 msgid "not claimed"
 msgstr "未請求"
 
+#: public/views/modals/view-prosaic-contract.html:103
+msgid "not valid"
+msgstr ""
+
+#: public/views/editCorrespondentDevice.html:59
+msgid "on"
+msgstr ""
+
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
 msgid "on feed name"
 msgstr "フィード"
 
-#: public/views/walletHome.html:461
-#: public/views/walletHome.html:472
+#: public/views/walletHome.html:454
+#: public/views/walletHome.html:465
 msgid "optional"
 msgstr "オプション"
 
@@ -2060,11 +2226,11 @@ msgstr "プライベートペイロードを再送信することができます
 msgid "re-send private payloads to cosigners"
 msgstr "連署者にプライベートペイロードを再送信することができます"
 
-#: public/views/correspondentDevices.html:159
+#: public/views/correspondentDevices.html:167
 msgid "search by bot name"
 msgstr ""
 
-#: public/views/correspondentDevices.html:100
+#: public/views/correspondentDevices.html:108
 msgid "search by contact name"
 msgstr ""
 
@@ -2072,19 +2238,19 @@ msgstr ""
 msgid "send"
 msgstr "送信する"
 
-#: src/js/controllers/walletHome.js:778
+#: src/js/controllers/walletHome.js:785
 msgid "send email"
 msgstr "メールを送信"
 
-#: src/js/controllers/walletHome.js:1006
-#: src/js/controllers/walletHome.js:1106
-#: src/js/controllers/walletHome.js:1162
-#: src/js/controllers/walletHome.js:1308
-#: src/js/controllers/walletHome.js:1345
-#: src/js/controllers/walletHome.js:1353
-#: src/js/controllers/walletHome.js:923
-#: src/js/controllers/walletHome.js:958
-#: src/js/controllers/walletHome.js:993
+#: src/js/controllers/walletHome.js:1000
+#: src/js/controllers/walletHome.js:1013
+#: src/js/controllers/walletHome.js:1113
+#: src/js/controllers/walletHome.js:1169
+#: src/js/controllers/walletHome.js:1315
+#: src/js/controllers/walletHome.js:1352
+#: src/js/controllers/walletHome.js:1360
+#: src/js/controllers/walletHome.js:930
+#: src/js/controllers/walletHome.js:965
 msgid "sending"
 msgstr "送信中"
 
@@ -2092,13 +2258,17 @@ msgstr "送信中"
 msgid "share again"
 msgstr "もう一度シェア"
 
-#: public/views/walletHome.html:447
+#: public/views/walletHome.html:440
 msgid "switch to multi-address"
 msgstr "マルチアドレスに切り替える"
 
-#: public/views/walletHome.html:446
+#: public/views/walletHome.html:439
 msgid "switch to single address"
 msgstr "シングルアドレスに切り替える"
+
+#: public/views/modals/view-prosaic-contract.html:91
+msgid "the contract is not signed yet"
+msgstr ""
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2108,20 +2278,34 @@ msgstr "メッセージアプリで受取人に送ってください"
 msgid "to"
 msgstr "を"
 
-#: src/js/controllers/index.js:311
+#: src/js/controllers/index.js:321
 msgid "together with"
 msgstr ""
 
-#: public/views/walletHome.html:462
-#: public/views/walletHome.html:473
+#: public/views/walletHome.html:455
+#: public/views/walletHome.html:466
 msgid "too long!"
 msgstr "長すぎます！"
 
+#: public/views/modals/offer-prosaic-contract.html:55
+#: public/views/modals/offer-prosaic-contract.html:62
+msgid "trusted"
+msgstr ""
+
+#: public/views/modals/view-prosaic-contract.html:94
+msgid "unit in DAG:"
+msgstr ""
+
 #: public/views/modals/signed-message.html:30
+#: public/views/modals/view-prosaic-contract.html:102
 msgid "valid"
 msgstr "有効"
 
-#: src/js/controllers/walletHome.js:875
+#: public/views/modals/view-prosaic-contract.html:100
+msgid "validate contract integrity"
+msgstr ""
+
+#: src/js/controllers/walletHome.js:882
 msgid "wait for sync to complete before sending payments"
 msgstr ""
 
@@ -2138,15 +2322,11 @@ msgstr "予想値"
 msgid "{{address}} can be spent if:"
 msgstr "{{address}}は次の場合に使うことができます :"
 
-#: public/views/modals/accept-profile.html:41
+#: public/views/modals/accept-profile.html:47
 #: public/views/modals/claim-textcoin.html:36
 #: public/views/modals/customized-amount.html:76
 msgid "{{buttonLabel}}"
 msgstr ""
-
-#: src/js/controllers/walletHome.js:1948
-msgid "{{fee}} will be deducted for bitcoin networking fees"
-msgstr "{{fee}} のネットワーク手数料が差し引かれます。"
 
 #: public/views/modals/multi-payment.html:28
 msgid "{{hrd.destinationAddress}} can be spent if:"
@@ -2157,9 +2337,13 @@ msgstr "{{hrd.destinationAddress}}は次の場合に使うことができます 
 msgid "{{index.m}}-of-{{index.n}}"
 msgstr "{{index.n}}の内{{index.m}}"
 
-#: public/views/includes/sidebar.html:16
+#: public/views/includes/sidebar.html:15
 msgid "{{item.m}}-of-{{item.n}}"
 msgstr "{{item.n}}の内{{item.m}}"
+
+#: public/views/modals/view-prosaic-contract.html:65
+msgid "{{status}}"
+msgstr ""
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
