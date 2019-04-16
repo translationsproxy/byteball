@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2019-04-16 09:42\n"
+"PO-Revision-Date: 2019-04-16 09:55\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1170,7 +1170,7 @@ msgstr "Bitte bestätigen Sie die Bezahlung der Vertragsgebühren auf den andere
 
 #: src/js/controllers/index.js:231
 msgid "Please approve posting prosaic contract hash on the other devices."
-msgstr ""
+msgstr "Bitte bestätigen Sie die Veröffentlichung des prosaischen Vertragshashes auf den anderen Geräten."
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
@@ -1223,7 +1223,7 @@ msgstr "Zum Beenden erneut drücken"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
-msgstr ""
+msgstr "Private Assets (wie z.B. Blackbytes) und intelligente Verträge werden nicht wiederhergestellt."
 
 #: src/js/controllers/walletHome.js:1886
 #: src/js/controllers/walletHome.js:1962
@@ -1248,11 +1248,11 @@ msgstr "Profilfeld-Wert"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "Proof of contract signing"
-msgstr ""
+msgstr "Nachweis der Vertragsunterzeichnung"
 
 #: public/views/modals/view-prosaic-contract.html:57
 msgid "Prosaic contract"
-msgstr ""
+msgstr "Prosaischer Vertrag"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1363,7 +1363,7 @@ msgstr "Neuer Versuch..."
 
 #: public/views/modals/view-prosaic-contract.html:144
 msgid "Revoke"
-msgstr ""
+msgstr "Widerrufen"
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1518,7 +1518,7 @@ msgstr "Nachricht unterzeichnen"
 
 #: public/views/editCorrespondentDevice.html:57
 msgid "Signed contracts:"
-msgstr ""
+msgstr "Unterschriebene Verträge:"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
@@ -1558,7 +1558,7 @@ msgstr "Ausgabebeschränkungen"
 
 #: public/views/modals/view-prosaic-contract.html:65
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: public/views/preferencesGlobal.html:104
 msgid "Still not done"
@@ -1613,7 +1613,7 @@ msgstr "Nutzungsbedingungen"
 #: public/views/modals/offer-prosaic-contract.html:69
 #: public/views/modals/view-prosaic-contract.html:88
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: public/views/correspondentDevice.html:349
 msgid "Text message to"
@@ -1716,7 +1716,7 @@ msgstr "Hiermit werden all Ihre existierenden Wallets sofort gelöscht!"
 #: public/views/modals/offer-prosaic-contract.html:66
 #: public/views/modals/view-prosaic-contract.html:85
 msgid "Title of contract"
-msgstr ""
+msgstr "Vertragstitel"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1753,7 +1753,7 @@ msgstr "Um Ihre Privatsphäre zu schützen, werden automatisch neue Adressen gen
 
 #: public/views/modals/view-prosaic-contract.html:95
 msgid "To verify contract integrity, SHA256 hash is calculated from three concatenated components: sha256(title+text+creation_date) and encoded in BASE64 format. After the contract was accepted, a unit with its hash was posted into the DAG. You can check that contract text was not modified by comparing the hashes in the DAG and calculated from this contract."
-msgstr ""
+msgstr "Um die Integrität des Vertrages zu überprüfen, wird ein SHA256 Hash aus drei verbundenen Komponenten berechnet: sha256(Titel+Text+Erstellungsdatum) und im BASE64-Format kodiert. Nach der Annahme des Vertrages wird eine Einheit mit dem Hash in die DAG gepostet. Sie können überprüfen, dass der Vertragstext nicht geändert wurde, indem Sie den Hash im DAG mit dem Hash dieses Vertrages vergleichen."
 
 #: public/views/walletHome.html:219
 msgid "Total Locked Balance"
@@ -1774,7 +1774,8 @@ msgstr "Transaktion"
 #: src/js/controllers/index.js:221
 msgid "Transaction created.\n"
 "Please approve it on the other devices."
-msgstr ""
+msgstr "Transaktion erstellt.\n"
+"Bitte genehmigen Sie sie auf den anderen Geräten."
 
 #: public/views/walletHome.html:649
 msgid "Transactions<br> Downloaded"
@@ -1831,7 +1832,7 @@ msgstr "Aktualisiere die Datenbank, bitte warten. Dieser Vorgang kann mehrere Mi
 
 #: public/views/modals/view-prosaic-contract.html:67
 msgid "Valid till"
-msgstr ""
+msgstr "Gültig bis"
 
 #: public/views/walletHome.html:570
 msgid "Value"
@@ -1985,7 +1986,7 @@ msgstr "Sie müssen ein Verifizierungsverfahren durchlaufen, um ein Profil zu er
 
 #: public/views/modals/offer-prosaic-contract.html:92
 msgid "You will be charged {{CHARGE_AMOUNT}} bytes to compensate for fees when posting signature proof."
-msgstr ""
+msgstr "Sie werden mit {{CHARGE_AMOUNT}} Bytes belastet, um Gebühren beim Posten von Signaturnachweisen auszugleichen."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -2021,11 +2022,11 @@ msgstr "[Neues Mitunterzeichner Gerät hinzufügen]"
 #: public/views/modals/view-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:82
 msgid "address"
-msgstr ""
+msgstr "Adresse"
 
 #: public/views/preferencesAttestorAddresses.html:18
 msgid "addresses"
-msgstr ""
+msgstr "Adressen"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
