@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2019-04-16 09:55\n"
+"PO-Revision-Date: 2019-04-16 10:08\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2048,14 +2048,14 @@ msgstr "und löschen Sie die Textcoin um diese vor Angreifern zu schützen."
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attested by trusted attestor"
-msgstr ""
+msgstr "bestätigt von vertrauenswürdigem Gutachter"
 
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attested by:"
-msgstr ""
+msgstr "Bestätigt von:"
 
 #: public/views/modals/accept-profile.html:31
 #: public/views/modals/offer-prosaic-contract.html:55
@@ -2063,7 +2063,7 @@ msgstr ""
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attestor is not trusted by you"
-msgstr ""
+msgstr "Gutachter wird von Ihnen nicht vertraut"
 
 #: public/views/walletHome.html:570
 msgid "available"
@@ -2075,7 +2075,7 @@ msgstr "nach Adressen"
 
 #: public/views/modals/view-prosaic-contract.html:106
 msgid "calculated hash:"
-msgstr ""
+msgstr "Berechneter Hash:"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2107,7 +2107,7 @@ msgstr "erstellt"
 
 #: public/views/modals/view-prosaic-contract.html:96
 msgid "creation date:"
-msgstr ""
+msgstr "Erstellungsdatum:"
 
 #: public/views/modals/offer-contract.html:109
 msgid "days"
@@ -2140,11 +2140,11 @@ msgstr "ausdrücklich"
 
 #: public/views/modals/view-prosaic-contract.html:107
 msgid "hash published in DAG:"
-msgstr ""
+msgstr "Hash in DAG veröffentlicht:"
 
 #: public/views/modals/view-prosaic-contract.html:97
 msgid "hash source string:"
-msgstr ""
+msgstr "Hash Quell-String:"
 
 #: public/views/modals/bind.html:87
 #: public/views/modals/offer-contract.html:69
@@ -2182,11 +2182,11 @@ msgstr "nicht beansprucht"
 
 #: public/views/modals/view-prosaic-contract.html:103
 msgid "not valid"
-msgstr ""
+msgstr "Ungültig"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
-msgstr ""
+msgstr "an"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -2264,7 +2264,7 @@ msgstr "zu Single-Address wechseln"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "the contract is not signed yet"
-msgstr ""
+msgstr "Der Vertrag ist noch nicht unterzeichnet"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2286,11 +2286,11 @@ msgstr "zu lang!"
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 msgid "trusted"
-msgstr ""
+msgstr "Vertrauenswürdig"
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
-msgstr ""
+msgstr "Einheit in DAG:"
 
 #: public/views/modals/signed-message.html:30
 #: public/views/modals/view-prosaic-contract.html:102
@@ -2299,7 +2299,7 @@ msgstr "gültig"
 
 #: public/views/modals/view-prosaic-contract.html:100
 msgid "validate contract integrity"
-msgstr ""
+msgstr "Vertrags-Integrität überprüfen"
 
 #: src/js/controllers/walletHome.js:882
 msgid "wait for sync to complete before sending payments"
@@ -2339,7 +2339,7 @@ msgstr "{{item.m}}-von-{{item.n}}"
 
 #: public/views/modals/view-prosaic-contract.html:65
 msgid "{{status}}"
-msgstr ""
+msgstr "{{status}}"
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
