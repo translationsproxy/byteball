@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2019-04-16 09:33\n"
+"PO-Revision-Date: 2019-04-16 09:42\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -114,7 +114,7 @@ msgstr "Adressbuch"
 
 #: public/views/preferencesEditRealNameAttestors.html:15
 msgid "Addresses"
-msgstr ""
+msgstr "Adressen"
 
 #: public/views/preferences.html:66
 msgid "Advanced"
@@ -122,7 +122,7 @@ msgstr "Erweitert"
 
 #: public/views/modals/view-prosaic-contract.html:136
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "Nach der Annahme des Vertrages werden Sie aufgefordert, eine Transaktion mit dem Hash dieses Vertrages zu unterzeichnen. Dieser zweite Schritt geschieht, sobald der Anbieter Ihre Antwort erhält."
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -467,12 +467,12 @@ msgstr "Kopieren"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents and chats are not restored."
-msgstr ""
+msgstr "Chatteilnehmer und Chats werden nicht wiederhergestellt."
 
 #: public/views/modals/offer-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:111
 msgid "Cosigners"
-msgstr ""
+msgstr "Mitunterzeichner"
 
 #: src/js/controllers/walletHome.js:708
 msgid "Could not create payment proposal"
@@ -678,7 +678,7 @@ msgstr "Fehler beim Erstellen des Wallets"
 
 #: public/views/modals/view-prosaic-contract.html:68
 msgid "Expired on"
-msgstr ""
+msgstr "Abgelaufen am"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -894,7 +894,7 @@ msgstr "Ein anderes Gerät einladen"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr ""
+msgstr "Nur der Wallet-Seed reicht nicht aus. Allein mit dem Seed können Sie Multisig-Wallets, intelligente Verträge, Kontakte, Chat-Historie und private Assets wie Blackbytes nicht wiederherstellen."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -955,7 +955,7 @@ msgstr "Nachricht:"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
-msgstr ""
+msgstr "Mehr"
 
 #: public/views/walletHome.html:661
 msgid "Moved"
@@ -1047,7 +1047,7 @@ msgstr "Obyte Adresse"
 
 #: public/views/modals/offer-prosaic-contract.html:88
 msgid "Offer Contract"
-msgstr ""
+msgstr "Vertrag anbieten"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:118
@@ -1056,12 +1056,12 @@ msgstr "Einen Vertrag anbieten"
 
 #: public/views/modals/offer-prosaic-contract.html:72
 msgid "Offer is valid for"
-msgstr ""
+msgstr "Angebot ist gültig für"
 
 #: public/views/modals/offer-prosaic-contract.html:42
 #: src/js/services/correspondentListService.js:118
 msgid "Offer prosaic contract"
-msgstr ""
+msgstr "Prosaischen Vertrag anbieten"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
@@ -1146,7 +1146,7 @@ msgstr "Zahlung gesendet"
 #: public/views/modals/offer-prosaic-contract.html:58
 #: public/views/modals/view-prosaic-contract.html:77
 msgid "Peer"
-msgstr ""
+msgstr "Teilnehmer"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
@@ -1166,7 +1166,7 @@ msgstr "Standard Wallet"
 
 #: src/js/controllers/index.js:226
 msgid "Please approve contract fees deposit on the other devices."
-msgstr ""
+msgstr "Bitte bestätigen Sie die Bezahlung der Vertragsgebühren auf den anderen Geräten."
 
 #: src/js/controllers/index.js:231
 msgid "Please approve posting prosaic contract hash on the other devices."
