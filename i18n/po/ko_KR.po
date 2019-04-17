@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-04-17 08:10\n"
+"PO-Revision-Date: 2019-04-17 08:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1167,7 +1167,7 @@ msgstr "일반 지갑"
 
 #: src/js/controllers/index.js:226
 msgid "Please approve contract fees deposit on the other devices."
-msgstr ""
+msgstr "다른 기기에서 계약 수수료 입금을 승인해주세요."
 
 #: src/js/controllers/index.js:231
 msgid "Please approve posting prosaic contract hash on the other devices."
@@ -1191,7 +1191,7 @@ msgstr "단일 주소 지갑으로 전환해서 내 주소를 다시 삽입해�
 
 #: public/views/walletHome.html:344
 msgid "Poll"
-msgstr "투표"
+msgstr "설문 조사"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1199,7 +1199,7 @@ msgstr "포트"
 
 #: public/views/walletHome.html:537
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
-msgstr ""
+msgstr "Poll 봇에서 사용자가 투표할 수 있게, Obyte 네트워크에 설문지를 포스트합니다."
 
 #: public/views/walletHome.html:534
 msgid "Post arbitrary key-value pairs of data into Obyte network."
