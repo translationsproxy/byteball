@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-04-17 07:11\n"
+"PO-Revision-Date: 2019-04-17 07:54\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -968,7 +968,7 @@ msgstr "멀티 디바이스 지갑"
 
 #: public/views/walletHome.html:255
 msgid "My Obyte address"
-msgstr ""
+msgstr "내 Obyte 주소"
 
 #: public/views/correspondentDevice.html:299
 msgid "My recording preference"
@@ -1040,11 +1040,11 @@ msgstr "이제 이파일을 다른 곳으로 보내야 합니다. 그래야 나�
 
 #: public/index.html:12
 msgid "Obyte &mdash; smart payments"
-msgstr ""
+msgstr "Obyte &mdash; 스마트 결제"
 
 #: public/views/modals/destination-address.html:120
 msgid "Obyte address"
-msgstr ""
+msgstr "Obyte 주소"
 
 #: public/views/modals/offer-prosaic-contract.html:88
 msgid "Offer Contract"
@@ -1389,7 +1389,7 @@ msgstr "환경 설정 저장..."
 
 #: public/views/preferences.html:76
 msgid "Scan Fingerprint/FaceID"
-msgstr ""
+msgstr "지문/Face ID 스캔"
 
 #: public/views/walletHome.html:121
 msgid "Scan status finished with error"
@@ -1717,7 +1717,7 @@ msgstr "이 동작은 모든 기존 지갑을 영구히 삭제할 것입니다!"
 #: public/views/modals/offer-prosaic-contract.html:66
 #: public/views/modals/view-prosaic-contract.html:85
 msgid "Title of contract"
-msgstr ""
+msgstr "계약 제목"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
