@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-04-17 08:00\n"
+"PO-Revision-Date: 2019-04-17 08:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1734,7 +1734,7 @@ msgstr ""
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
-msgstr "모든 것을 복구하고 싶다면 전체 백업을 생성하시길 바랍니다(메뉴에서 전체 백업 옵션을 찾을 수 있습니다)"
+msgstr "모든 것을 복구하고 싶다면, 전체 백업을 생성하세요 (메뉴에서 전체 백업 옵션을 찾을 수 있습니다)"
 
 #: public/views/walletHome.html:600
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address wallet first or create one."
@@ -2205,7 +2205,7 @@ msgstr "또는"
 
 #: public/views/backup.html:24
 msgid "or backup all Obyte data at"
-msgstr ""
+msgstr "또는 다음 경로에 위치한 모든 Obyte 데이터를 백업하세요"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
