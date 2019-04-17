@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-04-17 07:54\n"
+"PO-Revision-Date: 2019-04-17 08:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -122,7 +122,7 @@ msgstr "고급 설정"
 
 #: public/views/modals/view-prosaic-contract.html:136
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "이 계약에 동의한 후에는 이 계약의 해시가 포함된 트랜잭션에 서명할 것을 요청받을 것입니다. 이 두 번째 과정은 계약 제공자가 당신의 응답을 받자마자 발생합니다."
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -1775,7 +1775,8 @@ msgstr "거래"
 #: src/js/controllers/index.js:221
 msgid "Transaction created.\n"
 "Please approve it on the other devices."
-msgstr ""
+msgstr "트랜잭션이 생성되었습니다.\n"
+"다른 기기들에서 해당 트랜잭션을 승인해주세요."
 
 #: public/views/walletHome.html:649
 msgid "Transactions<br> Downloaded"
@@ -1869,7 +1870,7 @@ msgstr "경고:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO O<sub>byte</sub>"
-msgstr ""
+msgstr "O<sub>byte</sub>에 오신 것을 환영합니다"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
@@ -2107,7 +2108,7 @@ msgstr "생성된"
 
 #: public/views/modals/view-prosaic-contract.html:96
 msgid "creation date:"
-msgstr ""
+msgstr "생성 일자:"
 
 #: public/views/modals/offer-contract.html:109
 msgid "days"
