@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2019-04-17 16:30\n"
+"PO-Revision-Date: 2019-04-17 16:49\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2049,7 +2049,7 @@ msgstr "并擦除textcoin以保护其免受攻击者的攻击。"
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attested by trusted attestor"
-msgstr ""
+msgstr "经可信的验证者证明"
 
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
@@ -2141,11 +2141,11 @@ msgstr "明确地"
 
 #: public/views/modals/view-prosaic-contract.html:107
 msgid "hash published in DAG:"
-msgstr ""
+msgstr "在DAG发布的哈希："
 
 #: public/views/modals/view-prosaic-contract.html:97
 msgid "hash source string:"
-msgstr ""
+msgstr "哈希源字符串:"
 
 #: public/views/modals/bind.html:87
 #: public/views/modals/offer-contract.html:69
@@ -2183,7 +2183,7 @@ msgstr "未被领取"
 
 #: public/views/modals/view-prosaic-contract.html:103
 msgid "not valid"
-msgstr ""
+msgstr "无效"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
@@ -2265,7 +2265,7 @@ msgstr "切换到单个地址"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "the contract is not signed yet"
-msgstr ""
+msgstr "合同尚未签署"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2287,7 +2287,7 @@ msgstr "太长！"
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 msgid "trusted"
-msgstr ""
+msgstr "信任的"
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
@@ -2300,7 +2300,7 @@ msgstr "有效"
 
 #: public/views/modals/view-prosaic-contract.html:100
 msgid "validate contract integrity"
-msgstr ""
+msgstr "验证合同完整性"
 
 #: src/js/controllers/walletHome.js:882
 msgid "wait for sync to complete before sending payments"
@@ -2340,7 +2340,7 @@ msgstr "{{item.n}}-的-{{item.m}}"
 
 #: public/views/modals/view-prosaic-contract.html:65
 msgid "{{status}}"
-msgstr ""
+msgstr "{{status}}"
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
