@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2019-04-15 21:42\n"
+"PO-Revision-Date: 2019-05-08 13:45\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -79,7 +79,7 @@ msgstr "Ajouter une nouvelle entrée"
 
 #: public/views/preferencesEditRealNameAttestors.html:25
 msgid "Add address"
-msgstr ""
+msgstr "Ajouter une adresse"
 
 #: public/views/walletHome.html:570
 msgid "Add answer"
@@ -114,7 +114,7 @@ msgstr "Répertoire"
 
 #: public/views/preferencesEditRealNameAttestors.html:15
 msgid "Addresses"
-msgstr ""
+msgstr "Adresses"
 
 #: public/views/preferences.html:66
 msgid "Advanced"
@@ -122,7 +122,7 @@ msgstr "Paramètres avancés"
 
 #: public/views/modals/view-prosaic-contract.html:136
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "Après avoir accepté le contrat, on vous demandera de signer une transaction contenant le hash de ce contrat. Cette deuxième étape se produit dès que le demandeur reçoit votre réponse."
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -467,12 +467,12 @@ msgstr "Copier"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents and chats are not restored."
-msgstr ""
+msgstr "Les correspondants et les Chats ne sont pas restaurés."
 
 #: public/views/modals/offer-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:111
 msgid "Cosigners"
-msgstr ""
+msgstr "Cosignataires"
 
 #: src/js/controllers/walletHome.js:708
 msgid "Could not create payment proposal"
@@ -678,7 +678,7 @@ msgstr "Erreur de à la création du portefeuille"
 
 #: public/views/modals/view-prosaic-contract.html:68
 msgid "Expired on"
-msgstr ""
+msgstr "Expiré le"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -895,7 +895,7 @@ msgstr "Inviter l'autre appareil"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr ""
+msgstr "La graine de portefeuille ne suffit pas. Avec la graine seule, vous ne pourrez pas restaurer des portefeuilles multisigs, des contrats intelligents, des contacts, de l'historique de chat et des actifs privés tels que des blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -956,7 +956,7 @@ msgstr "Message :"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
-msgstr ""
+msgstr "Plus"
 
 #: public/views/walletHome.html:661
 msgid "Moved"
@@ -1147,7 +1147,7 @@ msgstr "Paiement envoyé"
 #: public/views/modals/offer-prosaic-contract.html:58
 #: public/views/modals/view-prosaic-contract.html:77
 msgid "Peer"
-msgstr ""
+msgstr "Pair"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
@@ -1167,11 +1167,11 @@ msgstr "Portefeuille complet"
 
 #: src/js/controllers/index.js:226
 msgid "Please approve contract fees deposit on the other devices."
-msgstr ""
+msgstr "Veuillez approuver les frais le dépôt de contrat sur les autres appareils."
 
 #: src/js/controllers/index.js:231
 msgid "Please approve posting prosaic contract hash on the other devices."
-msgstr ""
+msgstr "Veuillez approuver l'affichage du hash du contrat prosaic sur les autres appareils."
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
@@ -1224,7 +1224,7 @@ msgstr "Appuyez à nouveau pour quitter"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
-msgstr ""
+msgstr "Les actifs privés (tels que les blackbytes) et les contrats intelligents ne sont pas récupérés."
 
 #: src/js/controllers/walletHome.js:1886
 #: src/js/controllers/walletHome.js:1962
@@ -1249,11 +1249,11 @@ msgstr "Valeur du champ de profil"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "Proof of contract signing"
-msgstr ""
+msgstr "Preuve de signature de contrat"
 
 #: public/views/modals/view-prosaic-contract.html:57
 msgid "Prosaic contract"
-msgstr ""
+msgstr "Contrat Prosaic"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1364,7 +1364,7 @@ msgstr "Nouvelle tentative"
 
 #: public/views/modals/view-prosaic-contract.html:144
 msgid "Revoke"
-msgstr ""
+msgstr "Révoquer"
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1559,7 +1559,7 @@ msgstr "Restrictions des dépenses"
 
 #: public/views/modals/view-prosaic-contract.html:65
 msgid "Status"
-msgstr ""
+msgstr "Statut"
 
 #: public/views/preferencesGlobal.html:104
 msgid "Still not done"
@@ -1614,7 +1614,7 @@ msgstr "Conditions d'utilisation"
 #: public/views/modals/offer-prosaic-contract.html:69
 #: public/views/modals/view-prosaic-contract.html:88
 msgid "Text"
-msgstr ""
+msgstr "Texte"
 
 #: public/views/correspondentDevice.html:349
 msgid "Text message to"
@@ -1717,7 +1717,7 @@ msgstr "Cela supprimera de manière permanente tous vos portefeuilles existants 
 #: public/views/modals/offer-prosaic-contract.html:66
 #: public/views/modals/view-prosaic-contract.html:85
 msgid "Title of contract"
-msgstr ""
+msgstr "Titre de contrat"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1832,7 +1832,7 @@ msgstr "Mise à jour de la base de données, veuillez patienter.  Cela peut pren
 
 #: public/views/modals/view-prosaic-contract.html:67
 msgid "Valid till"
-msgstr ""
+msgstr "Valide jusqu'à"
 
 #: public/views/walletHome.html:570
 msgid "Value"
@@ -1986,7 +1986,7 @@ msgstr "Vous avez besoin de passer par une attestation pour obtenir un profil.  
 
 #: public/views/modals/offer-prosaic-contract.html:92
 msgid "You will be charged {{CHARGE_AMOUNT}} bytes to compensate for fees when posting signature proof."
-msgstr ""
+msgstr "Vous serez facturé {{CHARGE_AMOUNT}} bytes pour compenser les frais lors de l'affichage de la preuve de signature."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -2022,11 +2022,11 @@ msgstr "[ Ajouter nouveau dispositif cosignataire ]"
 #: public/views/modals/view-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:82
 msgid "address"
-msgstr ""
+msgstr "adresse"
 
 #: public/views/preferencesAttestorAddresses.html:18
 msgid "addresses"
-msgstr ""
+msgstr "adresses"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
@@ -2048,14 +2048,14 @@ msgstr "et effacer le textcoin pour le garder à l'abri des pirates."
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attested by trusted attestor"
-msgstr ""
+msgstr "attesté par un attestateur de confiance"
 
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attested by:"
-msgstr ""
+msgstr "attesté par :"
 
 #: public/views/modals/accept-profile.html:31
 #: public/views/modals/offer-prosaic-contract.html:55
@@ -2063,7 +2063,7 @@ msgstr ""
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attestor is not trusted by you"
-msgstr ""
+msgstr "attesteur n'a pas votre confiance"
 
 #: public/views/walletHome.html:570
 msgid "available"
@@ -2075,7 +2075,7 @@ msgstr "par adresse"
 
 #: public/views/modals/view-prosaic-contract.html:106
 msgid "calculated hash:"
-msgstr ""
+msgstr "hash calculé :"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2107,7 +2107,7 @@ msgstr "créé"
 
 #: public/views/modals/view-prosaic-contract.html:96
 msgid "creation date:"
-msgstr ""
+msgstr "date de création :"
 
 #: public/views/modals/offer-contract.html:109
 msgid "days"
@@ -2140,11 +2140,11 @@ msgstr "explicitement"
 
 #: public/views/modals/view-prosaic-contract.html:107
 msgid "hash published in DAG:"
-msgstr ""
+msgstr "hash publié dans DAG :"
 
 #: public/views/modals/view-prosaic-contract.html:97
 msgid "hash source string:"
-msgstr ""
+msgstr "source chaîne de hash :"
 
 #: public/views/modals/bind.html:87
 #: public/views/modals/offer-contract.html:69
@@ -2182,11 +2182,11 @@ msgstr "non réclamés"
 
 #: public/views/modals/view-prosaic-contract.html:103
 msgid "not valid"
-msgstr ""
+msgstr "non valide"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
-msgstr ""
+msgstr "on"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -2264,7 +2264,7 @@ msgstr "basculer vers une adresse unique"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "the contract is not signed yet"
-msgstr ""
+msgstr "le contrat n'est pas encore signé"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2286,11 +2286,11 @@ msgstr "trop long !"
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 msgid "trusted"
-msgstr ""
+msgstr "de confiance"
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
-msgstr ""
+msgstr "unité en DAG :"
 
 #: public/views/modals/signed-message.html:30
 #: public/views/modals/view-prosaic-contract.html:102
@@ -2299,7 +2299,7 @@ msgstr "valide"
 
 #: public/views/modals/view-prosaic-contract.html:100
 msgid "validate contract integrity"
-msgstr ""
+msgstr "valider l'intégrité du contrat"
 
 #: src/js/controllers/walletHome.js:882
 msgid "wait for sync to complete before sending payments"
@@ -2339,7 +2339,7 @@ msgstr "{{item.m}}-sur-{{item.n}}"
 
 #: public/views/modals/view-prosaic-contract.html:65
 msgid "{{status}}"
-msgstr ""
+msgstr "{{status}}"
 
 #: public/views/modals/destination-address.html:73
 msgid "{{w.m}} of {{w.n}}"
