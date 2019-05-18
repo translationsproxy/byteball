@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2019-05-18 13:30\n"
+"PO-Revision-Date: 2019-05-18 13:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1040,15 +1040,15 @@ msgstr "Teraz musisz wysłać gdzieś ten plik, aby móc z niego później przyw
 
 #: public/index.html:12
 msgid "Obyte &mdash; smart payments"
-msgstr ""
+msgstr "Obyte &mdash; inteligentne płatności"
 
 #: public/views/modals/destination-address.html:120
 msgid "Obyte address"
-msgstr ""
+msgstr "Adres Obyte"
 
 #: public/views/modals/offer-prosaic-contract.html:88
 msgid "Offer Contract"
-msgstr ""
+msgstr "Zaproponuj kontrakt"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:118
@@ -1057,12 +1057,12 @@ msgstr "Zaproponuj kontrakt"
 
 #: public/views/modals/offer-prosaic-contract.html:72
 msgid "Offer is valid for"
-msgstr ""
+msgstr "Oferta jest ważna przez"
 
 #: public/views/modals/offer-prosaic-contract.html:42
 #: src/js/services/correspondentListService.js:118
 msgid "Offer prosaic contract"
-msgstr ""
+msgstr "Zaproponuj kontrakt tekstowy"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
@@ -1078,7 +1078,7 @@ msgstr "Otwórz czat"
 
 #: public/views/walletHome.html:570
 msgid "Options for answering"
-msgstr ""
+msgstr "Opcje odpowiedzi"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
@@ -1098,7 +1098,7 @@ msgstr "Kod parowania"
 
 #: public/views/paperWallet.html:79
 msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
-msgstr ""
+msgstr "Portfele papierowe to po prostu textcoiny. Zeskanuj kod QR portfela papierowego przy użyciu ikony aparatu w prawym górnym rogu lub wprowadź ręcznie 12 słów textcoina w zakładce \"Odbierz\"."
 
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
@@ -1147,7 +1147,7 @@ msgstr "Płatność Wysłana"
 #: public/views/modals/offer-prosaic-contract.html:58
 #: public/views/modals/view-prosaic-contract.html:77
 msgid "Peer"
-msgstr ""
+msgstr "Partner"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
