@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2019-05-18 13:20\n"
+"PO-Revision-Date: 2019-05-18 13:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -467,12 +467,12 @@ msgstr "Kopiuj"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents and chats are not restored."
-msgstr ""
+msgstr "Korespondenci i czaty nie są przywracani."
 
 #: public/views/modals/offer-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:111
 msgid "Cosigners"
-msgstr ""
+msgstr "Współsygnatariusze"
 
 #: src/js/controllers/walletHome.js:708
 msgid "Could not create payment proposal"
@@ -648,7 +648,7 @@ msgstr "Pobierz plik CSV"
 
 #: public/views/splash.html:26
 msgid "Download the entire Obyte database"
-msgstr ""
+msgstr "Pobierz całą bazę danych Obyte"
 
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
@@ -678,7 +678,7 @@ msgstr "Błąd podczas tworzenia portfela"
 
 #: public/views/modals/view-prosaic-contract.html:68
 msgid "Expired on"
-msgstr ""
+msgstr "Wygasł"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -763,7 +763,7 @@ msgstr "Portfel sprzętowy"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr ""
+msgstr "Ukryte aktywa"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -804,15 +804,15 @@ msgstr "otrzymam kolejną płatność w wysokości"
 
 #: public/views/modals/tx-details.html:102
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: src/js/controllers/correspondentDevice.js:1333
 msgid "ID expires at"
-msgstr ""
+msgstr "ID wygasa"
 
 #: src/js/controllers/correspondentDevice.js:1334
 msgid "ID issued at"
-msgstr ""
+msgstr "ID wydane"
 
 #: src/js/controllers/correspondentDevice.js:1330
 msgid "ID number"
@@ -895,7 +895,7 @@ msgstr "Zaproś inne urządzenie"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr ""
+msgstr "Same słowa źródłowe portfela nie są wystarczające. Nie umożliwiają one przywracania portfeli z multipodpisem, inteligentnych kontraktów, historii czatu, kontaktów i prywatnych aktywów takich jak blackbyte."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -956,7 +956,7 @@ msgstr "Wiadomość:"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
-msgstr ""
+msgstr "Więcej"
 
 #: public/views/walletHome.html:661
 msgid "Moved"
@@ -968,7 +968,7 @@ msgstr "Portfel na wielu urządzeniach"
 
 #: public/views/walletHome.html:255
 msgid "My Obyte address"
-msgstr ""
+msgstr "Mój adres Obyte"
 
 #: public/views/correspondentDevice.html:299
 msgid "My recording preference"
@@ -1036,7 +1036,7 @@ msgstr "Notatka"
 
 #: src/js/controllers/export.js:89
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
-msgstr ""
+msgstr "Teraz musisz wysłać gdzieś ten plik, aby móc z niego później przywrócić dane (\"Zapisz do pliku\" i wyślij go do siebie używając aplikacji do czatu itp.)"
 
 #: public/index.html:12
 msgid "Obyte &mdash; smart payments"
