@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2019-04-15 21:41\n"
+"PO-Revision-Date: 2019-05-18 13:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -43,7 +43,7 @@ msgstr "12 wyrazów oddzielonych myślnikami"
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
-msgstr ""
+msgstr "O Obyte"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
@@ -79,11 +79,11 @@ msgstr "Dodaj nowy wpis"
 
 #: public/views/preferencesEditRealNameAttestors.html:25
 msgid "Add address"
-msgstr ""
+msgstr "Dodaj adres"
 
 #: public/views/walletHome.html:570
 msgid "Add answer"
-msgstr ""
+msgstr "Dodaj odpowiedź"
 
 #: public/views/walletHome.html:570
 msgid "Add fields"
@@ -114,7 +114,7 @@ msgstr "Książka Adresowa"
 
 #: public/views/preferencesEditRealNameAttestors.html:15
 msgid "Addresses"
-msgstr ""
+msgstr "Adresy"
 
 #: public/views/preferences.html:66
 msgid "Advanced"
@@ -122,7 +122,7 @@ msgstr "Zaawansowane"
 
 #: public/views/modals/view-prosaic-contract.html:136
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "Po zaakceptowani kontraktu zostaniesz poproszony o podpisanie transakcji zawierającej hash tego kontraktu. Ten drugi krok nastąpi jak tylko oferent otrzyma Twoją odpowiedź."
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -142,7 +142,7 @@ msgstr "Wszystkie adresy portfela"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
-msgstr ""
+msgstr "Zapraszamy wszystkich do tłumaczenia Obyte. Utwórz konto na crowdin.com i dołącz do projektu O<sub>byte</sub>"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -175,7 +175,7 @@ msgstr "Kwota"
 
 #: public/views/walletHome.html:570
 msgid "Answer"
-msgstr ""
+msgstr "Odpowiedź"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -200,7 +200,7 @@ msgstr "Aktywo"
 
 #: public/views/walletHome.html:528
 msgid "Attest profile data linked to any Obyte address."
-msgstr ""
+msgstr "Poświadcz dane profilu powiązanego z dowolnym adresem Obyte."
 
 #: public/views/walletHome.html:341
 msgid "Attestation"
