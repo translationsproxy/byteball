@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-05-19 14:20\n"
+"PO-Revision-Date: 2019-05-19 14:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -472,7 +472,7 @@ msgstr ""
 #: public/views/modals/offer-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:111
 msgid "Cosigners"
-msgstr ""
+msgstr "공동 서명자"
 
 #: src/js/controllers/walletHome.js:708
 msgid "Could not create payment proposal"
