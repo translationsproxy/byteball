@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-05-21 14:43\n"
+"PO-Revision-Date: 2019-05-21 15:02\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2049,14 +2049,14 @@ msgstr "그리고 공격자로부터 안전하게 자금을 지키려면 텍스�
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attested by trusted attestor"
-msgstr ""
+msgstr "믿을 수 있는 인증자에 의해 인증됨"
 
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attested by:"
-msgstr ""
+msgstr "인증처:"
 
 #: public/views/modals/accept-profile.html:31
 #: public/views/modals/offer-prosaic-contract.html:55
