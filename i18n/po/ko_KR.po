@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-05-19 14:31\n"
+"PO-Revision-Date: 2019-05-21 12:11\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1397,7 +1397,7 @@ msgstr "오류가 난 채로 완료된 상태 스캔"
 
 #: public/views/inviteCorrespondentDevice.html:21
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
-msgstr "다른 장치를 이용하여 위의 QR코드를 스캔하거나 다른 장치로 페어링 코드를 보내기"
+msgstr "위의 QR코드를 다른 기기에서 스캔하거나 다른 기기에 이 페어링 코드를 보내세요:"
 
 #: src/js/controllers/index.js:1736
 msgid "Scan your fingerprint please"
@@ -2225,11 +2225,11 @@ msgstr "공동 서명자에게 비공개 페이로드 재전송"
 
 #: public/views/correspondentDevices.html:167
 msgid "search by bot name"
-msgstr ""
+msgstr "봇 이름으로 검색"
 
 #: public/views/correspondentDevices.html:108
 msgid "search by contact name"
-msgstr ""
+msgstr "계약 이름으로 검색"
 
 #: public/views/modals/share.html:35
 msgid "send"
