@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-05-21 12:22\n"
+"PO-Revision-Date: 2019-05-21 14:43\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1567,7 +1567,7 @@ msgstr "여전히 완료되지 않음"
 
 #: src/js/controllers/correspondentDevice.js:1380
 msgid "Store"
-msgstr "스토어"
+msgstr "저장"
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:142
