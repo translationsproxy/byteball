@@ -2355,4 +2355,3 @@ msgstr "와"
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
 msgstr "원하는 값"
-
