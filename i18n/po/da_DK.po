@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2019-06-10 22:27\n"
+"PO-Revision-Date: 2019-06-10 22:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1736,7 +1736,7 @@ msgstr "Dette vil slette alle dine eksisterende wallets permanent!"
 #: public/views/modals/offer-prosaic-contract.html:66
 #: public/views/modals/view-prosaic-contract.html:85
 msgid "Title of contract"
-msgstr ""
+msgstr "Kontrakt-titel"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
