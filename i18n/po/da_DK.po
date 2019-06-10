@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2019-06-07 14:35\n"
+"PO-Revision-Date: 2019-06-10 20:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -79,7 +79,7 @@ msgstr "Tilføj ny post"
 
 #: public/views/preferencesEditRealNameAttestors.html:25
 msgid "Add address"
-msgstr ""
+msgstr "Tilføj adresse"
 
 #: public/views/walletHome.html:574
 msgid "Add answer"
@@ -114,7 +114,7 @@ msgstr "Adressebog"
 
 #: public/views/preferencesEditRealNameAttestors.html:15
 msgid "Addresses"
-msgstr ""
+msgstr "Adresser"
 
 #: public/views/preferences.html:66
 msgid "Advanced"
@@ -122,7 +122,7 @@ msgstr "Avanceret"
 
 #: public/views/modals/view-prosaic-contract.html:136
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "Når du har accepteret kontrakten, vil du blive bedt om at signere en transaktion indeholdende kontraktens adresse. Dette sker så snart den, der har tilbudt kontrakten, modtager dit svar."
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -134,7 +134,7 @@ msgstr "Bekræft"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for"
-msgstr ""
+msgstr "Alias for"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
