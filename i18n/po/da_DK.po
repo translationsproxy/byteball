@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2019-06-10 20:17\n"
+"PO-Revision-Date: 2019-06-10 22:27\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -802,7 +802,7 @@ msgstr "Jeg bekræfter at jeg har læst og er indforstået med disse betingelser
 
 #: public/views/includes/backup-reminder.html:14
 msgid "I created a backup"
-msgstr ""
+msgstr "Jeg har oprettet backup"
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
@@ -901,7 +901,7 @@ msgstr "Inviter anden enhed"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr ""
+msgstr "Wallet seed alene er ikke nok. Med wallet seed kan du ikke gendanne multi-signatur wallets, smart contracts, kontrakter, chat-historik og private assets som f.eks. blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -962,7 +962,7 @@ msgstr "Besked:"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
-msgstr ""
+msgstr "Mere"
 
 #: public/views/walletHome.html:666
 msgid "Moved"
@@ -1054,7 +1054,7 @@ msgstr "Obyte-adresse"
 
 #: public/views/modals/offer-prosaic-contract.html:88
 msgid "Offer Contract"
-msgstr ""
+msgstr "Tilbyd kontrakt"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:129
@@ -1063,12 +1063,12 @@ msgstr "Tilbyd kontrakt"
 
 #: public/views/modals/offer-prosaic-contract.html:72
 msgid "Offer is valid for"
-msgstr ""
+msgstr "Tilbud er gyldigt i"
 
 #: public/views/modals/offer-prosaic-contract.html:42
 #: src/js/services/correspondentListService.js:129
 msgid "Offer prosaic contract"
-msgstr ""
+msgstr "Tilbyd prosaic kontrakt"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
@@ -1153,7 +1153,7 @@ msgstr "Betaling sendt"
 #: public/views/modals/offer-prosaic-contract.html:58
 #: public/views/modals/view-prosaic-contract.html:77
 msgid "Peer"
-msgstr ""
+msgstr "Modpart"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
@@ -1173,11 +1173,11 @@ msgstr "Almindelig wallet"
 
 #: src/js/controllers/index.js:275
 msgid "Please approve contract fees deposit on the other devices."
-msgstr ""
+msgstr "Godkend deponering af kontraktgebyrer på de andre enheder."
 
 #: src/js/controllers/index.js:280
 msgid "Please approve posting prosaic contract hash on the other devices."
-msgstr ""
+msgstr "Godkend offentliggørelse af hash af denne prosaic kontrakt på de andre enheder."
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
@@ -1197,7 +1197,7 @@ msgstr "Skift til en single-address wallet og så skal du sandsynligvis indsætt
 
 #: public/views/includes/backup-reminder.html:8
 msgid "Please visit the Backups section in"
-msgstr ""
+msgstr "Gå til Backups-sektionen i"
 
 #: public/views/walletHome.html:348
 msgid "Poll"
@@ -1234,7 +1234,7 @@ msgstr "Tryk igen for at afslutte"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
-msgstr ""
+msgstr "Private valutaer (som f.eks. blackbytes) og smart contracts gendannes ikke."
 
 #: src/js/controllers/walletHome.js:1890
 #: src/js/controllers/walletHome.js:1966
@@ -1259,11 +1259,11 @@ msgstr "Profil-feltværdi"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "Proof of contract signing"
-msgstr ""
+msgstr "Bevis for kontraktunderskrivelse"
 
 #: public/views/modals/view-prosaic-contract.html:57
 msgid "Prosaic contract"
-msgstr ""
+msgstr "Prosaic kontrakt"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1283,7 +1283,7 @@ msgstr "Spørgsmål:"
 
 #: public/views/preferencesAttestorAddresses.html:16
 msgid "Real name attestors"
-msgstr ""
+msgstr "Real Name attestorer"
 
 #: src/js/controllers/index.js:809
 msgid "Receive"
@@ -1324,7 +1324,7 @@ msgstr "Release-information"
 
 #: public/views/includes/backup-reminder.html:11
 msgid "Remind Later"
-msgstr ""
+msgstr "Mind mig om det senere"
 
 #: public/views/modals/destination-address.html:85
 msgid "Remove"
@@ -1378,7 +1378,7 @@ msgstr "Prøver igen..."
 
 #: public/views/modals/view-prosaic-contract.html:144
 msgid "Revoke"
-msgstr ""
+msgstr "Tilbagekald"
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1534,7 +1534,7 @@ msgstr "Signér besked"
 
 #: public/views/editCorrespondentDevice.html:57
 msgid "Signed contracts:"
-msgstr ""
+msgstr "Underskrevne kontrakter:"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
@@ -1574,7 +1574,7 @@ msgstr "Restriktioner for udbetalinger"
 
 #: public/views/modals/view-prosaic-contract.html:65
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: public/views/preferencesGlobal.html:104
 msgid "Still not done"
@@ -1629,7 +1629,7 @@ msgstr "Brugsbetingelser"
 #: public/views/modals/offer-prosaic-contract.html:69
 #: public/views/modals/view-prosaic-contract.html:88
 msgid "Text"
-msgstr ""
+msgstr "Tekst"
 
 #: public/views/correspondentDevice.html:350
 msgid "Text message to"
@@ -1665,7 +1665,7 @@ msgstr "Signaturen er"
 
 #: public/views/includes/backup-reminder.html:7
 msgid "The total amount on your wallet is"
-msgstr ""
+msgstr "Totalt beløb på din wallet er"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
