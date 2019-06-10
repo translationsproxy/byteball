@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2019-06-10 20:01\n"
+"PO-Revision-Date: 2019-06-10 20:17\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -366,7 +366,7 @@ msgstr "Trækker..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to"
-msgstr ""
+msgstr "Klik på knappen for at"
 
 #: public/views/walletHome.html:513
 msgid "Click this button to create a payment file and send it to a recipient."
@@ -404,7 +404,7 @@ msgstr "Luk"
 
 #: public/views/create.html:90
 msgid "Co-signer"
-msgstr ""
+msgstr "Med-underskriver"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
@@ -469,12 +469,12 @@ msgstr "Kopier"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents and chats are not restored."
-msgstr ""
+msgstr "Korrespondenter og chats gendannes ikke."
 
 #: public/views/modals/offer-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:111
 msgid "Cosigners"
-msgstr ""
+msgstr "Med-underskrivere"
 
 #: src/js/controllers/walletHome.js:708
 msgid "Could not create payment proposal"
@@ -680,7 +680,7 @@ msgstr "Fejl under oprettelse af wallet"
 
 #: public/views/modals/view-prosaic-contract.html:68
 msgid "Expired on"
-msgstr ""
+msgstr "Udløber"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -713,7 +713,7 @@ msgstr "Felt"
 
 #: src/js/controllers/export.js:88
 msgid "File saved to /Obyte/. You can now also send it somewhere using chat apps or email to have more copies of the backup"
-msgstr ""
+msgstr "Fil gemt til /Obyte/. Du kan nu også sende den til en anden enhed via chat apps eller email for at gemme flere kopier af backup-filen"
 
 #: public/views/modals/tx-details.html:119
 msgid "Finality"
@@ -753,7 +753,7 @@ msgstr "Genererer .csv-fil..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet"
-msgstr ""
+msgstr "Henter adresse for wallet"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
