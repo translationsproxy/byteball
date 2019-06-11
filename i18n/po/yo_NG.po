@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-06-07 14:35\n"
+"PO-Revision-Date: 2019-06-11 17:39\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -328,7 +328,7 @@ msgstr "Paro ibudo:"
 msgid "Changing wallet alias only affects the local wallet name."
 msgstr "Piparo oruko apeje ti apamowo ni ipa lori oruko apamowo ti agbegbe nikan."
 
-#: src/js/controllers/index.js:821
+#: src/js/controllers/index.js:822
 msgid "Chat"
 msgstr "Iwiregbe"
 
@@ -427,11 +427,11 @@ msgid "Compress the file? (Slower)"
 msgstr "Sunki faili na? (die die)"
 
 #: src/js/controllers/copayers.js:10
-#: src/js/controllers/index.js:660
+#: src/js/controllers/index.js:661
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:132
-#: src/js/controllers/walletHome.js:1824
-#: src/js/controllers/walletHome.js:1828
+#: src/js/controllers/walletHome.js:1822
+#: src/js/controllers/walletHome.js:1826
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "Jerisi"
@@ -528,7 +528,7 @@ msgstr "Seda apamowo titun"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
-#: src/js/controllers/index.js:370
+#: src/js/controllers/index.js:371
 msgid "Create new wallet"
 msgstr "Seda apamowo titun"
 
@@ -576,7 +576,7 @@ msgstr "Ojo"
 msgid "Date of birth"
 msgstr "Ojo ibi"
 
-#: src/js/controllers/index.js:336
+#: src/js/controllers/index.js:337
 msgid "Declined"
 msgstr "Ko sile"
 
@@ -600,7 +600,7 @@ msgstr "Yo Apamowo"
 msgid "Delete wallet"
 msgstr "Yo apamowo"
 
-#: src/js/controllers/walletHome.js:1821
+#: src/js/controllers/walletHome.js:1819
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr "Yiyo textcoin yio yo anfani lati gba pada tabi tun firanse"
 
@@ -776,11 +776,11 @@ msgid "Hide the Wallet Seed"
 msgstr "Fi irugbin apamowo pamo"
 
 #: public/views/modals/share.html:43
-#: src/js/controllers/index.js:817
+#: src/js/controllers/index.js:818
 msgid "History"
 msgstr "Itan"
 
-#: src/js/controllers/index.js:805
+#: src/js/controllers/index.js:806
 msgid "Home"
 msgstr "Ile"
 
@@ -891,7 +891,7 @@ msgstr "Fi awori ikoko si"
 msgid "Invalid"
 msgstr "Aifesemule"
 
-#: src/js/controllers/index.js:1790
+#: src/js/controllers/index.js:1791
 msgid "Invalid Touch ID"
 msgstr "Aifesemule idanimo ifowokan"
 
@@ -1001,8 +1001,8 @@ msgid "New witnesses"
 msgstr "Awon eleri titun"
 
 #: public/views/authConfirmation.html:22
-#: src/js/controllers/index.js:659
-#: src/js/controllers/walletHome.js:1836
+#: src/js/controllers/index.js:660
+#: src/js/controllers/walletHome.js:1834
 msgid "No"
 msgstr "Rara"
 
@@ -1172,11 +1172,11 @@ msgstr ""
 msgid "Plain Wallet"
 msgstr "Apamowo Gbangba"
 
-#: src/js/controllers/index.js:275
+#: src/js/controllers/index.js:276
 msgid "Please approve contract fees deposit on the other devices."
 msgstr ""
 
-#: src/js/controllers/index.js:280
+#: src/js/controllers/index.js:281
 msgid "Please approve posting prosaic contract hash on the other devices."
 msgstr ""
 
@@ -1237,8 +1237,8 @@ msgstr "Te lekan si lati jade"
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
 msgstr ""
 
-#: src/js/controllers/walletHome.js:1890
-#: src/js/controllers/walletHome.js:1966
+#: src/js/controllers/walletHome.js:1888
+#: src/js/controllers/walletHome.js:1964
 msgid "Private payloads sent"
 msgstr "Awon eru sisan ikoko ti lo"
 
@@ -1286,7 +1286,7 @@ msgstr "Ibere:"
 msgid "Real name attestors"
 msgstr ""
 
-#: src/js/controllers/index.js:809
+#: src/js/controllers/index.js:810
 msgid "Receive"
 msgstr "Gba"
 
@@ -1315,7 +1315,7 @@ msgstr "Gba pada lati odo irugbin"
 msgid "Recreating Wallet..."
 msgstr "Atunda Apamowo..."
 
-#: src/js/controllers/index.js:288
+#: src/js/controllers/index.js:289
 msgid "Refused"
 msgstr "Ko"
 
@@ -1414,7 +1414,7 @@ msgstr "Yaworan ipo ti pari pelu asise"
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
 msgstr "Yaworan koodu QR to wa loke nipase ero keji, tabi fi koodu isopo ranse si ero keji:"
 
-#: src/js/controllers/index.js:1783
+#: src/js/controllers/index.js:1784
 msgid "Scan your fingerprint please"
 msgstr "Jowo yaworan ila owo re"
 
@@ -1445,7 +1445,7 @@ msgstr "Mu idanimo re"
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:494
 #: public/views/walletHome.html:593
-#: src/js/controllers/index.js:813
+#: src/js/controllers/index.js:814
 msgid "Send"
 msgstr "Firanse"
 
@@ -1529,7 +1529,7 @@ msgid "Sign"
 msgstr "Ibuwolu"
 
 #: public/views/modals/sign-message.html:8
-#: src/js/controllers/index.js:467
+#: src/js/controllers/index.js:468
 msgid "Sign message"
 msgstr "Ise ibuwolu"
 
@@ -1588,11 +1588,11 @@ msgstr "Toju"
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:141
 #: src/js/controllers/export.js:166
-#: src/js/controllers/index.js:325
-#: src/js/controllers/index.js:353
+#: src/js/controllers/index.js:326
+#: src/js/controllers/index.js:354
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:1890
-#: src/js/controllers/walletHome.js:1966
+#: src/js/controllers/walletHome.js:1888
+#: src/js/controllers/walletHome.js:1964
 msgid "Success"
 msgstr "Aseyori"
 
@@ -1744,7 +1744,7 @@ msgstr ""
 #: public/views/modals/tx-details.html:39
 #: public/views/modals/tx-details.html:74
 #: public/views/walletHome.html:697
-#: src/js/controllers/index.js:1595
+#: src/js/controllers/index.js:1596
 msgid "To"
 msgstr "Si"
 
@@ -1764,7 +1764,7 @@ msgstr ""
 msgid "To bind the payment to a condition, please click the peer's address in chat"
 msgstr "Lati so isanwo na mo nkan, jowo te adiresi elegbe na ninu iwiregbe"
 
-#: src/js/controllers/index.js:1598
+#: src/js/controllers/index.js:1599
 msgid "To email"
 msgstr "Si email"
 
@@ -1792,7 +1792,7 @@ msgstr "Iye awon ajo se ibuwolu lapapo"
 msgid "Transaction"
 msgstr "Idunadura"
 
-#: src/js/controllers/index.js:270
+#: src/js/controllers/index.js:271
 msgid "Transaction created.\n"
 "Please approve it on the other devices."
 msgstr ""
@@ -1817,7 +1817,7 @@ msgstr "Àwọn Ojú-Ìpàdé Tí A Gbẹ́Kẹ̀Lé"
 msgid "US state"
 msgstr "Orilede US"
 
-#: src/js/controllers/walletHome.js:854
+#: src/js/controllers/walletHome.js:852
 msgid "Unable to send transaction proposal"
 msgstr "Akole fi imoran idunadura ranse"
 
@@ -1984,7 +1984,7 @@ msgid "Wrong password"
 msgstr "Oro agbaniwole tiko to"
 
 #: public/views/authConfirmation.html:17
-#: src/js/controllers/index.js:658
+#: src/js/controllers/index.js:659
 msgid "Yes"
 msgstr "Beeni"
 
@@ -2089,7 +2089,7 @@ msgstr ""
 msgid "available"
 msgstr "wa nile"
 
-#: src/js/controllers/index.js:467
+#: src/js/controllers/index.js:468
 msgid "by address"
 msgstr "nipa adiresi"
 
@@ -2194,7 +2194,7 @@ msgid "invalid"
 msgstr "aifesemule"
 
 #: public/views/includes/backup-reminder.html:7
-msgid "it is recoommended to back it up."
+msgid "it is recommended to back it up."
 msgstr ""
 
 #: public/views/modals/share.html:36
@@ -2276,19 +2276,19 @@ msgid "send"
 msgstr "firanse"
 
 #: public/views/modals/share.html:30
-#: src/js/controllers/walletHome.js:785
+#: src/js/controllers/walletHome.js:783
 msgid "send email"
 msgstr "fi email ranse"
 
-#: src/js/controllers/walletHome.js:1000
-#: src/js/controllers/walletHome.js:1013
-#: src/js/controllers/walletHome.js:1113
-#: src/js/controllers/walletHome.js:1169
-#: src/js/controllers/walletHome.js:1316
-#: src/js/controllers/walletHome.js:1353
-#: src/js/controllers/walletHome.js:1361
-#: src/js/controllers/walletHome.js:930
-#: src/js/controllers/walletHome.js:965
+#: src/js/controllers/walletHome.js:1011
+#: src/js/controllers/walletHome.js:1111
+#: src/js/controllers/walletHome.js:1167
+#: src/js/controllers/walletHome.js:1314
+#: src/js/controllers/walletHome.js:1351
+#: src/js/controllers/walletHome.js:1359
+#: src/js/controllers/walletHome.js:928
+#: src/js/controllers/walletHome.js:963
+#: src/js/controllers/walletHome.js:998
 msgid "sending"
 msgstr "fifiranse"
 
@@ -2316,7 +2316,7 @@ msgstr "aroko to wa la be kosi firanse si olugba na nipase eto isise eyikeyi"
 msgid "to"
 msgstr "si"
 
-#: src/js/controllers/index.js:370
+#: src/js/controllers/index.js:371
 msgid "together with"
 msgstr "pelu"
 
@@ -2343,7 +2343,7 @@ msgstr "ifesemule"
 msgid "validate contract integrity"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:882
+#: src/js/controllers/walletHome.js:880
 msgid "wait for sync to complete before sending payments"
 msgstr "duro fun imusisepo lati pari koto se ifiranse awon isan owo"
 
