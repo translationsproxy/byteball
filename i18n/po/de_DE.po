@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2019-06-11 17:39\n"
+"PO-Revision-Date: 2019-06-11 20:28\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -134,7 +134,7 @@ msgstr "Zustimmen"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for"
-msgstr ""
+msgstr "Alias für"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
@@ -366,7 +366,7 @@ msgstr "Einfordern..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to"
-msgstr ""
+msgstr "Klicken Sie auf den Button um"
 
 #: public/views/walletHome.html:513
 msgid "Click this button to create a payment file and send it to a recipient."
@@ -404,7 +404,7 @@ msgstr "Zurück"
 
 #: public/views/create.html:90
 msgid "Co-signer"
-msgstr ""
+msgstr "Mitunterzeichner"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
@@ -713,7 +713,7 @@ msgstr "Feld"
 
 #: src/js/controllers/export.js:88
 msgid "File saved to /Obyte/. You can now also send it somewhere using chat apps or email to have more copies of the backup"
-msgstr ""
+msgstr "Datei gespeichert in /Obyte/. Sie können die Datei jetzt auch mit Chat-Apps oder E-Mail versenden, um mehr Kopien des Backup zu haben"
 
 #: public/views/modals/tx-details.html:119
 msgid "Finality"
@@ -753,7 +753,7 @@ msgstr ".csv Datei wird generiert..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet"
-msgstr ""
+msgstr "Adresse für Wallet abrufen"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -802,7 +802,7 @@ msgstr "Ich bestätige, dass ich die Nutzungsbedingungen gelesen habe, diese ver
 
 #: public/views/includes/backup-reminder.html:14
 msgid "I created a backup"
-msgstr ""
+msgstr "Ich habe ein Backup erstellt"
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
@@ -1196,7 +1196,7 @@ msgstr "Bitte wechseln Sie zu einem Single-Address-Wallet. Die Eingabe Ihrer Adr
 
 #: public/views/includes/backup-reminder.html:8
 msgid "Please visit the Backups section in"
-msgstr ""
+msgstr "Bitte besuchen Sie den Backupabschnitt in"
 
 #: public/views/walletHome.html:348
 msgid "Poll"
@@ -1282,7 +1282,7 @@ msgstr "Frage:"
 
 #: public/views/preferencesAttestorAddresses.html:16
 msgid "Real name attestors"
-msgstr ""
+msgstr "Echte Namensattestoren"
 
 #: src/js/controllers/index.js:810
 msgid "Receive"
@@ -1323,7 +1323,7 @@ msgstr "Informationen veröffentlichen"
 
 #: public/views/includes/backup-reminder.html:11
 msgid "Remind Later"
-msgstr ""
+msgstr "Später erinnern"
 
 #: public/views/modals/destination-address.html:85
 msgid "Remove"
@@ -1664,7 +1664,7 @@ msgstr "Die Unterschrift ist"
 
 #: public/views/includes/backup-reminder.html:7
 msgid "The total amount on your wallet is"
-msgstr ""
+msgstr "Der Gesamtbetrag in Ihrer Brieftasche ist"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -2099,7 +2099,7 @@ msgstr "Berechneter Hash:"
 #: public/views/modals/address-definition.html:16
 #: public/views/modals/multi-payment.html:28
 msgid "can be spent if:"
-msgstr ""
+msgstr "kann ausgegeben werden, wenn:"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2194,7 +2194,7 @@ msgstr "ungültig"
 
 #: public/views/includes/backup-reminder.html:7
 msgid "it is recommended to back it up."
-msgstr ""
+msgstr "es wird empfohlen eine Sicherung durchzuführen."
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
@@ -2218,7 +2218,7 @@ msgstr "Ungültig"
 #: public/views/modals/destination-address.html:73
 #: public/views/paymentUri.html:37
 msgid "of"
-msgstr ""
+msgstr "von"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
@@ -2252,7 +2252,7 @@ msgstr "gesendet"
 
 #: public/views/modals/share.html:30
 msgid "re"
-msgstr ""
+msgstr "zurück"
 
 #: public/views/modals/tx-details.html:154
 msgid "re-send private payloads"
