@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2019-06-07 14:34\n"
+"PO-Revision-Date: 2019-06-11 17:38\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -328,7 +328,7 @@ msgstr "تغيير المرجع:"
 msgid "Changing wallet alias only affects the local wallet name."
 msgstr "تغيير الإسم المستعار للمحفظة سوف يؤثر فقط على إسم المحفظة المحلي."
 
-#: src/js/controllers/index.js:821
+#: src/js/controllers/index.js:822
 msgid "Chat"
 msgstr "الدردشة"
 
@@ -427,11 +427,11 @@ msgid "Compress the file? (Slower)"
 msgstr "ضغط الملف؟ (يتطلب وقتا أطول)"
 
 #: src/js/controllers/copayers.js:10
-#: src/js/controllers/index.js:660
+#: src/js/controllers/index.js:661
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:132
-#: src/js/controllers/walletHome.js:1824
-#: src/js/controllers/walletHome.js:1828
+#: src/js/controllers/walletHome.js:1822
+#: src/js/controllers/walletHome.js:1826
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "تأكيد"
@@ -528,7 +528,7 @@ msgstr "إنشاء محفظة جديدة"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
-#: src/js/controllers/index.js:370
+#: src/js/controllers/index.js:371
 msgid "Create new wallet"
 msgstr "إنشاء محفظة جديدة"
 
@@ -576,7 +576,7 @@ msgstr "التاريخ"
 msgid "Date of birth"
 msgstr "تاريخ الميلاد"
 
-#: src/js/controllers/index.js:336
+#: src/js/controllers/index.js:337
 msgid "Declined"
 msgstr "تم الرفض"
 
@@ -600,7 +600,7 @@ msgstr "حذف المحفظة"
 msgid "Delete wallet"
 msgstr "حذف المحفظة"
 
-#: src/js/controllers/walletHome.js:1821
+#: src/js/controllers/walletHome.js:1819
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr "إن قمت بحذف الـ textcoin فلن تتمكن من المطالبة به من جديد أو إعادة إرساله"
 
@@ -776,11 +776,11 @@ msgid "Hide the Wallet Seed"
 msgstr "إخفاء seed المحفظة"
 
 #: public/views/modals/share.html:43
-#: src/js/controllers/index.js:817
+#: src/js/controllers/index.js:818
 msgid "History"
 msgstr "السجل"
 
-#: src/js/controllers/index.js:805
+#: src/js/controllers/index.js:806
 msgid "Home"
 msgstr "الرئيسية"
 
@@ -891,7 +891,7 @@ msgstr "إدخال البروفايل الخاص"
 msgid "Invalid"
 msgstr "غير صحيحة"
 
-#: src/js/controllers/index.js:1790
+#: src/js/controllers/index.js:1791
 msgid "Invalid Touch ID"
 msgstr "Touch ID غير صالح"
 
@@ -1001,8 +1001,8 @@ msgid "New witnesses"
 msgstr "شهود جدد"
 
 #: public/views/authConfirmation.html:22
-#: src/js/controllers/index.js:659
-#: src/js/controllers/walletHome.js:1836
+#: src/js/controllers/index.js:660
+#: src/js/controllers/walletHome.js:1834
 msgid "No"
 msgstr "لا"
 
@@ -1171,11 +1171,11 @@ msgstr ""
 msgid "Plain Wallet"
 msgstr "المحفظة الرسمية"
 
-#: src/js/controllers/index.js:275
+#: src/js/controllers/index.js:276
 msgid "Please approve contract fees deposit on the other devices."
 msgstr ""
 
-#: src/js/controllers/index.js:280
+#: src/js/controllers/index.js:281
 msgid "Please approve posting prosaic contract hash on the other devices."
 msgstr ""
 
@@ -1236,8 +1236,8 @@ msgstr "أعد الضغط للخروج"
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
 msgstr ""
 
-#: src/js/controllers/walletHome.js:1890
-#: src/js/controllers/walletHome.js:1966
+#: src/js/controllers/walletHome.js:1888
+#: src/js/controllers/walletHome.js:1964
 msgid "Private payloads sent"
 msgstr "تم إرسال الحمولات الخاصة"
 
@@ -1285,7 +1285,7 @@ msgstr "السؤال:"
 msgid "Real name attestors"
 msgstr ""
 
-#: src/js/controllers/index.js:809
+#: src/js/controllers/index.js:810
 msgid "Receive"
 msgstr "الإستلام"
 
@@ -1314,7 +1314,7 @@ msgstr "الإسترجاع من الـ seed"
 msgid "Recreating Wallet..."
 msgstr "إعادة إنشاء المحفظة..."
 
-#: src/js/controllers/index.js:288
+#: src/js/controllers/index.js:289
 msgid "Refused"
 msgstr "تم الرفض"
 
@@ -1413,7 +1413,7 @@ msgstr "إنتهى المسح مع وجود مشاكل"
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
 msgstr "قم بمسح رمز الإستجابة السريع بإستعمال الجهاز الأخر أو قم بإرسال رمز الإقتران إلى ذاك الجهاز:"
 
-#: src/js/controllers/index.js:1783
+#: src/js/controllers/index.js:1784
 msgid "Scan your fingerprint please"
 msgstr "المرجو مسح بصمة الإصبع"
 
@@ -1444,7 +1444,7 @@ msgstr "قم بإختيار هويتك"
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:494
 #: public/views/walletHome.html:593
-#: src/js/controllers/index.js:813
+#: src/js/controllers/index.js:814
 msgid "Send"
 msgstr "إرسال"
 
@@ -1528,7 +1528,7 @@ msgid "Sign"
 msgstr "التوقيع"
 
 #: public/views/modals/sign-message.html:8
-#: src/js/controllers/index.js:467
+#: src/js/controllers/index.js:468
 msgid "Sign message"
 msgstr "توقيع الرسالة"
 
@@ -1587,11 +1587,11 @@ msgstr "المتجر"
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:141
 #: src/js/controllers/export.js:166
-#: src/js/controllers/index.js:325
-#: src/js/controllers/index.js:353
+#: src/js/controllers/index.js:326
+#: src/js/controllers/index.js:354
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:1890
-#: src/js/controllers/walletHome.js:1966
+#: src/js/controllers/walletHome.js:1888
+#: src/js/controllers/walletHome.js:1964
 msgid "Success"
 msgstr "تم بنجاح"
 
@@ -1743,7 +1743,7 @@ msgstr ""
 #: public/views/modals/tx-details.html:39
 #: public/views/modals/tx-details.html:74
 #: public/views/walletHome.html:697
-#: src/js/controllers/index.js:1595
+#: src/js/controllers/index.js:1596
 msgid "To"
 msgstr "إلى"
 
@@ -1763,7 +1763,7 @@ msgstr ""
 msgid "To bind the payment to a condition, please click the peer's address in chat"
 msgstr "لفرض شرط على الدفع, قم بالنقر على عنوان المتلقي في الدردشة"
 
-#: src/js/controllers/index.js:1598
+#: src/js/controllers/index.js:1599
 msgid "To email"
 msgstr "إلى البريد الإلكتروني"
 
@@ -1791,7 +1791,7 @@ msgstr "إجمالي عدد المشتركين"
 msgid "Transaction"
 msgstr "المعاملة"
 
-#: src/js/controllers/index.js:270
+#: src/js/controllers/index.js:271
 msgid "Transaction created.\n"
 "Please approve it on the other devices."
 msgstr ""
@@ -1816,7 +1816,7 @@ msgstr "العقد الموثوقة"
 msgid "US state"
 msgstr "ولاية أمريكية"
 
-#: src/js/controllers/walletHome.js:854
+#: src/js/controllers/walletHome.js:852
 msgid "Unable to send transaction proposal"
 msgstr "تعذر إرسال طلب المعاملة"
 
@@ -1983,7 +1983,7 @@ msgid "Wrong password"
 msgstr "كلمة المرور غير صحيحة"
 
 #: public/views/authConfirmation.html:17
-#: src/js/controllers/index.js:658
+#: src/js/controllers/index.js:659
 msgid "Yes"
 msgstr "نعم"
 
@@ -2088,7 +2088,7 @@ msgstr ""
 msgid "available"
 msgstr "متاح"
 
-#: src/js/controllers/index.js:467
+#: src/js/controllers/index.js:468
 msgid "by address"
 msgstr ""
 
@@ -2193,7 +2193,7 @@ msgid "invalid"
 msgstr "غير صالح"
 
 #: public/views/includes/backup-reminder.html:7
-msgid "it is recoommended to back it up."
+msgid "it is recommended to back it up."
 msgstr ""
 
 #: public/views/modals/share.html:36
@@ -2275,19 +2275,19 @@ msgid "send"
 msgstr "إرسال"
 
 #: public/views/modals/share.html:30
-#: src/js/controllers/walletHome.js:785
+#: src/js/controllers/walletHome.js:783
 msgid "send email"
 msgstr "ارسل بريد الكتروني"
 
-#: src/js/controllers/walletHome.js:1000
-#: src/js/controllers/walletHome.js:1013
-#: src/js/controllers/walletHome.js:1113
-#: src/js/controllers/walletHome.js:1169
-#: src/js/controllers/walletHome.js:1316
-#: src/js/controllers/walletHome.js:1353
-#: src/js/controllers/walletHome.js:1361
-#: src/js/controllers/walletHome.js:930
-#: src/js/controllers/walletHome.js:965
+#: src/js/controllers/walletHome.js:1011
+#: src/js/controllers/walletHome.js:1111
+#: src/js/controllers/walletHome.js:1167
+#: src/js/controllers/walletHome.js:1314
+#: src/js/controllers/walletHome.js:1351
+#: src/js/controllers/walletHome.js:1359
+#: src/js/controllers/walletHome.js:928
+#: src/js/controllers/walletHome.js:963
+#: src/js/controllers/walletHome.js:998
 msgid "sending"
 msgstr "جاري الارسال"
 
@@ -2315,7 +2315,7 @@ msgstr "النص أدناه وإرساله إلى المستلم عبر أي ت�
 msgid "to"
 msgstr "الى"
 
-#: src/js/controllers/index.js:370
+#: src/js/controllers/index.js:371
 msgid "together with"
 msgstr ""
 
@@ -2342,7 +2342,7 @@ msgstr "صالحة"
 msgid "validate contract integrity"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:882
+#: src/js/controllers/walletHome.js:880
 msgid "wait for sync to complete before sending payments"
 msgstr ""
 
