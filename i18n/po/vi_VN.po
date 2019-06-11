@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2019-06-07 14:34\n"
+"PO-Revision-Date: 2019-06-11 17:37\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -328,7 +328,7 @@ msgstr "Thay đổi hub:"
 msgid "Changing wallet alias only affects the local wallet name."
 msgstr "Thay đổi bí danh của ví chỉ có tác dụng đối với tên ví nội bộ."
 
-#: src/js/controllers/index.js:821
+#: src/js/controllers/index.js:822
 msgid "Chat"
 msgstr "Chat"
 
@@ -427,11 +427,11 @@ msgid "Compress the file? (Slower)"
 msgstr "Nén các tập tin? (Chậm hơn)"
 
 #: src/js/controllers/copayers.js:10
-#: src/js/controllers/index.js:660
+#: src/js/controllers/index.js:661
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:132
-#: src/js/controllers/walletHome.js:1824
-#: src/js/controllers/walletHome.js:1828
+#: src/js/controllers/walletHome.js:1822
+#: src/js/controllers/walletHome.js:1826
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "Xác nhận"
@@ -528,7 +528,7 @@ msgstr "Khởi tạo một ví mới"
 
 #: public/views/add.html:15
 #: public/views/create.html:175
-#: src/js/controllers/index.js:370
+#: src/js/controllers/index.js:371
 msgid "Create new wallet"
 msgstr "Tạo ví mới"
 
@@ -576,7 +576,7 @@ msgstr "Ngày tháng"
 msgid "Date of birth"
 msgstr "Ngày sinh"
 
-#: src/js/controllers/index.js:336
+#: src/js/controllers/index.js:337
 msgid "Declined"
 msgstr "Bị từ chối"
 
@@ -600,7 +600,7 @@ msgstr "Xóa ví"
 msgid "Delete wallet"
 msgstr "Xóa ví"
 
-#: src/js/controllers/walletHome.js:1821
+#: src/js/controllers/walletHome.js:1819
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr "Việc xóa textcoin sẽ loại bỏ khả năng yêu cầu bồi thưởng nó trở lại hoặc gửi lại"
 
@@ -776,11 +776,11 @@ msgid "Hide the Wallet Seed"
 msgstr "Ẩn các dữ liệu nền ví"
 
 #: public/views/modals/share.html:43
-#: src/js/controllers/index.js:817
+#: src/js/controllers/index.js:818
 msgid "History"
 msgstr "Lịch sử"
 
-#: src/js/controllers/index.js:805
+#: src/js/controllers/index.js:806
 msgid "Home"
 msgstr "Trang chủ"
 
@@ -891,7 +891,7 @@ msgstr "Thêm hồ sơ cá nhân"
 msgid "Invalid"
 msgstr "Không hợp lệ"
 
-#: src/js/controllers/index.js:1790
+#: src/js/controllers/index.js:1791
 msgid "Invalid Touch ID"
 msgstr "Touch ID không hợp lệ"
 
@@ -1001,8 +1001,8 @@ msgid "New witnesses"
 msgstr "Nhân chứng mới"
 
 #: public/views/authConfirmation.html:22
-#: src/js/controllers/index.js:659
-#: src/js/controllers/walletHome.js:1836
+#: src/js/controllers/index.js:660
+#: src/js/controllers/walletHome.js:1834
 msgid "No"
 msgstr "Không"
 
@@ -1171,11 +1171,11 @@ msgstr ""
 msgid "Plain Wallet"
 msgstr "Ví thô"
 
-#: src/js/controllers/index.js:275
+#: src/js/controllers/index.js:276
 msgid "Please approve contract fees deposit on the other devices."
 msgstr ""
 
-#: src/js/controllers/index.js:280
+#: src/js/controllers/index.js:281
 msgid "Please approve posting prosaic contract hash on the other devices."
 msgstr ""
 
@@ -1236,8 +1236,8 @@ msgstr "Nhấn thêm lần nữa để thoát"
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
 msgstr ""
 
-#: src/js/controllers/walletHome.js:1890
-#: src/js/controllers/walletHome.js:1966
+#: src/js/controllers/walletHome.js:1888
+#: src/js/controllers/walletHome.js:1964
 msgid "Private payloads sent"
 msgstr "Dữ liệu riêng đã gửi"
 
@@ -1285,7 +1285,7 @@ msgstr "Câu hỏi:"
 msgid "Real name attestors"
 msgstr ""
 
-#: src/js/controllers/index.js:809
+#: src/js/controllers/index.js:810
 msgid "Receive"
 msgstr "Nhận"
 
@@ -1314,7 +1314,7 @@ msgstr "Khôi phục từ dữ liệu nền"
 msgid "Recreating Wallet..."
 msgstr "Đang tạo ví..."
 
-#: src/js/controllers/index.js:288
+#: src/js/controllers/index.js:289
 msgid "Refused"
 msgstr "Từ chối"
 
@@ -1413,7 +1413,7 @@ msgstr "Trạng thái quét kết thúc do gặp lỗi"
 msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
 msgstr "Quét mã QR trên bằng cách sử dụng thiết bị khác, hoặc gửi mã ghép nối tới thiết bị khác:"
 
-#: src/js/controllers/index.js:1783
+#: src/js/controllers/index.js:1784
 msgid "Scan your fingerprint please"
 msgstr "Vui lòng quét dấu vân tay của bạn"
 
@@ -1444,7 +1444,7 @@ msgstr "Chọn danh tính của bạn"
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:494
 #: public/views/walletHome.html:593
-#: src/js/controllers/index.js:813
+#: src/js/controllers/index.js:814
 msgid "Send"
 msgstr "Gửi"
 
@@ -1528,7 +1528,7 @@ msgid "Sign"
 msgstr ""
 
 #: public/views/modals/sign-message.html:8
-#: src/js/controllers/index.js:467
+#: src/js/controllers/index.js:468
 msgid "Sign message"
 msgstr ""
 
@@ -1587,11 +1587,11 @@ msgstr "Lưu trữ"
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/export.js:141
 #: src/js/controllers/export.js:166
-#: src/js/controllers/index.js:325
-#: src/js/controllers/index.js:353
+#: src/js/controllers/index.js:326
+#: src/js/controllers/index.js:354
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:1890
-#: src/js/controllers/walletHome.js:1966
+#: src/js/controllers/walletHome.js:1888
+#: src/js/controllers/walletHome.js:1964
 msgid "Success"
 msgstr "Hoàn tất"
 
@@ -1743,7 +1743,7 @@ msgstr ""
 #: public/views/modals/tx-details.html:39
 #: public/views/modals/tx-details.html:74
 #: public/views/walletHome.html:697
-#: src/js/controllers/index.js:1595
+#: src/js/controllers/index.js:1596
 msgid "To"
 msgstr "Tới"
 
@@ -1763,7 +1763,7 @@ msgstr ""
 msgid "To bind the payment to a condition, please click the peer's address in chat"
 msgstr "Liên kết thanh toán với một điều kiện, vui lòng nhấp vào địa chỉ ngang hàng trong trò chuyện"
 
-#: src/js/controllers/index.js:1598
+#: src/js/controllers/index.js:1599
 msgid "To email"
 msgstr "Tới Email"
 
@@ -1791,7 +1791,7 @@ msgstr "Tổng số những người cùng ký"
 msgid "Transaction"
 msgstr "Giao dịch"
 
-#: src/js/controllers/index.js:270
+#: src/js/controllers/index.js:271
 msgid "Transaction created.\n"
 "Please approve it on the other devices."
 msgstr ""
@@ -1816,7 +1816,7 @@ msgstr "Nút đáng tin cậy"
 msgid "US state"
 msgstr "Tiểu bang Hoa Kỳ"
 
-#: src/js/controllers/walletHome.js:854
+#: src/js/controllers/walletHome.js:852
 msgid "Unable to send transaction proposal"
 msgstr "Không thể gửi đề xuất giao dịch"
 
@@ -1983,7 +1983,7 @@ msgid "Wrong password"
 msgstr "Mật khẩu sai"
 
 #: public/views/authConfirmation.html:17
-#: src/js/controllers/index.js:658
+#: src/js/controllers/index.js:659
 msgid "Yes"
 msgstr "Đồng ý"
 
@@ -2088,7 +2088,7 @@ msgstr ""
 msgid "available"
 msgstr ""
 
-#: src/js/controllers/index.js:467
+#: src/js/controllers/index.js:468
 msgid "by address"
 msgstr ""
 
@@ -2193,7 +2193,7 @@ msgid "invalid"
 msgstr ""
 
 #: public/views/includes/backup-reminder.html:7
-msgid "it is recoommended to back it up."
+msgid "it is recommended to back it up."
 msgstr ""
 
 #: public/views/modals/share.html:36
@@ -2275,19 +2275,19 @@ msgid "send"
 msgstr "gửi"
 
 #: public/views/modals/share.html:30
-#: src/js/controllers/walletHome.js:785
+#: src/js/controllers/walletHome.js:783
 msgid "send email"
 msgstr "gửi email"
 
-#: src/js/controllers/walletHome.js:1000
-#: src/js/controllers/walletHome.js:1013
-#: src/js/controllers/walletHome.js:1113
-#: src/js/controllers/walletHome.js:1169
-#: src/js/controllers/walletHome.js:1316
-#: src/js/controllers/walletHome.js:1353
-#: src/js/controllers/walletHome.js:1361
-#: src/js/controllers/walletHome.js:930
-#: src/js/controllers/walletHome.js:965
+#: src/js/controllers/walletHome.js:1011
+#: src/js/controllers/walletHome.js:1111
+#: src/js/controllers/walletHome.js:1167
+#: src/js/controllers/walletHome.js:1314
+#: src/js/controllers/walletHome.js:1351
+#: src/js/controllers/walletHome.js:1359
+#: src/js/controllers/walletHome.js:928
+#: src/js/controllers/walletHome.js:963
+#: src/js/controllers/walletHome.js:998
 msgid "sending"
 msgstr "đang gửi"
 
@@ -2315,7 +2315,7 @@ msgstr "các văn bản dưới đây và gửi nó tới người nhận thông
 msgid "to"
 msgstr "tới"
 
-#: src/js/controllers/index.js:370
+#: src/js/controllers/index.js:371
 msgid "together with"
 msgstr ""
 
@@ -2342,7 +2342,7 @@ msgstr ""
 msgid "validate contract integrity"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:882
+#: src/js/controllers/walletHome.js:880
 msgid "wait for sync to complete before sending payments"
 msgstr ""
 
