@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2019-07-23 23:30\n"
+"PO-Revision-Date: 2019-07-23 23:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1186,11 +1186,11 @@ msgstr "Tavaline Rahakott"
 
 #: src/js/controllers/index.js:276
 msgid "Please approve contract fees deposit on the other devices."
-msgstr ""
+msgstr "Palun kinnita lepingu lepingutasu kandmine teistel seadmetel."
 
 #: src/js/controllers/index.js:281
 msgid "Please approve posting prosaic contract hash on the other devices."
-msgstr ""
+msgstr "Palun kinnita lepingu räsi postitamine teistel seadmetel."
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
@@ -1272,7 +1272,7 @@ msgstr "Konto välja väärtus"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "Proof of contract signing"
-msgstr ""
+msgstr "Sõlmitud lepingu tõend"
 
 #: public/views/modals/view-prosaic-contract.html:57
 msgid "Prosaic contract"
@@ -1807,7 +1807,8 @@ msgstr "Tehing"
 #: src/js/controllers/index.js:271
 msgid "Transaction created.\n"
 "Please approve it on the other devices."
-msgstr ""
+msgstr "Tehing loodud.\n"
+"Palun kinnita see teistel seadmetel."
 
 #: public/views/walletHome.html:678
 msgid "Transactions<br> Downloaded"
@@ -2019,7 +2020,7 @@ msgstr "Konto andmete saamiseks pead läbima vastavuse tõendamise. Seda saab te
 
 #: public/views/modals/offer-prosaic-contract.html:92
 msgid "You will be charged {{CHARGE_AMOUNT}} bytes to compensate for fees when posting signature proof."
-msgstr ""
+msgstr "Allkirja tõendi postitamise tasu on {{CHARGE_AMOUNT}} bytes."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
