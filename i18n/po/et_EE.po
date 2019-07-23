@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2019-07-23 22:22\n"
+"PO-Revision-Date: 2019-07-23 22:34\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -163,7 +163,7 @@ msgstr "Lisaks leiad Seaded menüüst turvalisuse seadeid nagu salasõna seadist
 
 #: public/views/walletHome.html:482
 msgid "Also send data..."
-msgstr ""
+msgstr "Lisa ka andmeid..."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -251,7 +251,7 @@ msgstr "Tagasi"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup all wallet data"
-msgstr ""
+msgstr "Varundu kogu rahakott"
 
 #: public/views/walletHome.html:250
 msgid "Backup now"
@@ -259,7 +259,7 @@ msgstr "Varukoopia tegemine"
 
 #: public/views/preferencesGlobal.html:126
 msgid "Backup only the seed words"
-msgstr ""
+msgstr "Varunda ainult lähtesõnad"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -296,7 +296,7 @@ msgstr "Sõlmi tingimusega makse"
 
 #: public/views/walletHome.html:437
 msgid "Bind the payment to a condition..."
-msgstr ""
+msgstr "Sõlmi tingimusega makse..."
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -416,7 +416,7 @@ msgstr "Sulge"
 
 #: public/views/create.html:90
 msgid "Co-signer"
-msgstr ""
+msgstr "Kaasallkirjastaja"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
@@ -486,7 +486,7 @@ msgstr ""
 #: public/views/modals/offer-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:111
 msgid "Cosigners"
-msgstr ""
+msgstr "Kaasallkirjastajad"
 
 #: src/js/controllers/walletHome.js:708
 msgid "Could not create payment proposal"
@@ -730,7 +730,7 @@ msgstr "Väli"
 
 #: src/js/controllers/export.js:88
 msgid "File saved to /Obyte/. You can now also send it somewhere using chat apps or email to have more copies of the backup"
-msgstr ""
+msgstr "Fail salvestatud /Obyte/ kataloogi. Nüüd saad seda saata mujale kasutades vestlusrakendusi või e-kirja teel, et sellest oleks ka mujal varukoopiaid"
 
 #: public/views/modals/tx-details.html:119
 msgid "Finality"
@@ -815,7 +815,7 @@ msgstr "Kinnitan, et olen läbi lugenud, aru saanud, ja nõustun nende tingimust
 
 #: public/views/includes/backup-reminder.html:14
 msgid "I created a backup"
-msgstr ""
+msgstr "Juba varundasin"
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
@@ -914,7 +914,7 @@ msgstr "Saada kutse teisele seadmele"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr ""
+msgstr "Ainult rahakoti lähtesõnadest ei piisa. Lähtesõnadega pole võimalik taastada mitme allkirjaga rahakotte, nutilepinguid, kontakte, vestluste ajalugu ega privaatset vara nagu blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -1321,7 +1321,7 @@ msgstr "Taasta"
 
 #: public/views/preferencesGlobal.html:135
 msgid "Recover with seed words"
-msgstr ""
+msgstr "Taasta lähtesõnadega"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1337,7 +1337,7 @@ msgstr "Väljalaske Informatsioon"
 
 #: public/views/includes/backup-reminder.html:11
 msgid "Remind Later"
-msgstr ""
+msgstr "Tuleta hiljem meelde"
 
 #: public/views/modals/destination-address.html:85
 msgid "Remove"
@@ -1383,7 +1383,7 @@ msgstr "Nõutav allkirjade arv"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
-msgstr ""
+msgstr "Taasta kogu rahakott"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
