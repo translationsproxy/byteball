@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2019-07-23 21:50\n"
+"PO-Revision-Date: 2019-07-23 23:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -163,7 +163,7 @@ msgstr "Herudover kan du under Indstillinger også finde sikkerhedsindstillinger
 
 #: public/views/walletHome.html:482
 msgid "Also send data..."
-msgstr ""
+msgstr "Send også data..."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -251,7 +251,7 @@ msgstr "Tilbage"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup all wallet data"
-msgstr ""
+msgstr "Komplet backup af hele wallet"
 
 #: public/views/walletHome.html:250
 msgid "Backup now"
@@ -259,7 +259,7 @@ msgstr "Lav sikkerhedskopi"
 
 #: public/views/preferencesGlobal.html:126
 msgid "Backup only the seed words"
-msgstr ""
+msgstr "Nøjes med backup af seed words"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -296,7 +296,7 @@ msgstr "Beting betaling af begivenhed"
 
 #: public/views/walletHome.html:437
 msgid "Bind the payment to a condition..."
-msgstr ""
+msgstr "Beting betaling..."
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -574,7 +574,7 @@ msgstr "Data til datafeed"
 
 #: public/views/walletHome.html:488
 msgid "Data to be posted with the payment:"
-msgstr ""
+msgstr "Data, der postes med betalingen:"
 
 #: public/views/walletHome.html:598
 msgid "Datafeed name"
@@ -1321,7 +1321,7 @@ msgstr "Gendan"
 
 #: public/views/preferencesGlobal.html:135
 msgid "Recover with seed words"
-msgstr ""
+msgstr "Gendan med seed words"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1383,7 +1383,7 @@ msgstr "Nødvendigt antal signaturer"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
-msgstr ""
+msgstr "Gendan alle wallet data"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
@@ -1678,7 +1678,7 @@ msgstr "Signaturen er"
 
 #: public/views/includes/backup-reminder.html:7
 msgid "The total amount in your wallet is"
-msgstr ""
+msgstr "Totalt beløb i din wallet er"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -1715,7 +1715,7 @@ msgstr "Denne indstilling giver bedre sikkerhed, men kræver adskillige gigabyte
 
 #: public/views/walletHome.html:438
 msgid "This payment is bound to a condition..."
-msgstr ""
+msgstr "Denne betaling er bundet af en betingelse..."
 
 #: src/js/controllers/correspondentDevice.js:150
 msgid "This payment must be paid only from single-address wallet"
@@ -2078,7 +2078,7 @@ msgstr "og slet denne textcoin for at sikre den mod angreb."
 
 #: public/views/includes/backup-reminder.html:7
 msgid "and it is recommended you back it up."
-msgstr ""
+msgstr "og det anbefales at du foretager backup."
 
 #: public/views/modals/accept-profile.html:31
 #: public/views/modals/offer-prosaic-contract.html:55
