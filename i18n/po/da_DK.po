@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2019-07-23 09:11\n"
+"PO-Revision-Date: 2019-07-23 09:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1773,7 +1773,7 @@ msgstr "For at beskytte dit privatliv genereres nye adresser, hver gang de er br
 
 #: public/views/modals/view-prosaic-contract.html:95
 msgid "To verify contract integrity, SHA256 hash is calculated from three concatenated components: sha256(title+text+creation_date) and encoded in BASE64 format. After the contract was accepted, a unit with its hash was posted into the DAG. You can check that contract text was not modified by comparing the hashes in the DAG and calculated from this contract."
-msgstr "For at verificere kontraktens integritet, beregnes et SHA256 hash på baggrund af tre komponenter: sha256(titel+tekst+oprettelsesdato), som efterfølgende BASE64-encodes. Efter kontrakten blev accepteret blev et hash postet til DAG-netværket. Du kannkontrollere at kontraktens tekst ikke blev ændret ved at sammenligne hash fra DAG-netværket og et hash beregnet ud fra denne kontrakt."
+msgstr "For at verificere kontraktens integritet beregnes et SHA256 hash på baggrund af tre komponenter: sha256(titel+tekst+oprettelsesdato), som efterfølgende BASE64-encodes. Efter kontrakten blev accepteret blev et hash postet til DAG-netværket. Du kan kontrollere at kontraktens tekst ikke blev ændret ved at sammenligne hash fra DAG-netværket med et hash beregnet ud fra denne kontrakt."
 
 #: public/views/walletHome.html:222
 msgid "Total Locked Balance"
@@ -2253,7 +2253,7 @@ msgstr "sendt"
 
 #: public/views/modals/share.html:30
 msgid "re"
-msgstr ""
+msgstr "ang"
 
 #: public/views/modals/tx-details.html:154
 msgid "re-send private payloads"
@@ -2306,7 +2306,7 @@ msgstr "Enkelt modtager"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "the contract is not signed yet"
-msgstr ""
+msgstr "kontrakten er ikke signeret endnu"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2328,11 +2328,11 @@ msgstr "for langt!"
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 msgid "trusted"
-msgstr ""
+msgstr "pålidelig kilde"
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
-msgstr ""
+msgstr "enhed i DAG-netværket:"
 
 #: public/views/modals/signed-message.html:30
 #: public/views/modals/view-prosaic-contract.html:102
@@ -2341,7 +2341,7 @@ msgstr "gyldig"
 
 #: public/views/modals/view-prosaic-contract.html:100
 msgid "validate contract integrity"
-msgstr ""
+msgstr "validér kontrakt-integritet"
 
 #: src/js/controllers/walletHome.js:880
 msgid "wait for sync to complete before sending payments"
