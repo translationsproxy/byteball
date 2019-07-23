@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2019-07-23 22:34\n"
+"PO-Revision-Date: 2019-07-23 22:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -696,7 +696,7 @@ msgstr "Viga rahakoti loomisel"
 
 #: public/views/modals/view-prosaic-contract.html:68
 msgid "Expired on"
-msgstr ""
+msgstr "Aegub"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -975,7 +975,7 @@ msgstr "Sõnum:"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
-msgstr ""
+msgstr "Rohkem"
 
 #: public/views/walletHome.html:690
 msgid "Moved"
@@ -1067,7 +1067,7 @@ msgstr "Obyte aadress"
 
 #: public/views/modals/offer-prosaic-contract.html:88
 msgid "Offer Contract"
-msgstr ""
+msgstr "Esita Leping"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:129
@@ -1166,7 +1166,7 @@ msgstr "Makse Saadetud"
 #: public/views/modals/offer-prosaic-contract.html:58
 #: public/views/modals/view-prosaic-contract.html:77
 msgid "Peer"
-msgstr ""
+msgstr "Teine osapool"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
@@ -1642,7 +1642,7 @@ msgstr "Kasutustingimused"
 #: public/views/modals/offer-prosaic-contract.html:69
 #: public/views/modals/view-prosaic-contract.html:88
 msgid "Text"
-msgstr ""
+msgstr "Tekst"
 
 #: public/views/correspondentDevice.html:350
 msgid "Text message to"
@@ -1749,7 +1749,7 @@ msgstr "See kustutaks jäädavalt kõik sinu rahakotid!"
 #: public/views/modals/offer-prosaic-contract.html:66
 #: public/views/modals/view-prosaic-contract.html:85
 msgid "Title of contract"
-msgstr ""
+msgstr "Lepingu pealkiri"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -2055,7 +2055,7 @@ msgstr "[ Lisa uus kaasallkirjastaja seade ]"
 #: public/views/modals/view-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:82
 msgid "address"
-msgstr ""
+msgstr "aadress"
 
 #: public/views/preferencesAttestorAddresses.html:18
 msgid "addresses"
@@ -2085,14 +2085,14 @@ msgstr ""
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attested by trusted attestor"
-msgstr ""
+msgstr "tõendatud usaldatud tõendaja pool"
 
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attested by:"
-msgstr ""
+msgstr "tõendaja:"
 
 #: public/views/modals/accept-profile.html:31
 #: public/views/modals/offer-prosaic-contract.html:55
@@ -2100,7 +2100,7 @@ msgstr ""
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attestor is not trusted by you"
-msgstr ""
+msgstr "tõendaja pole sinu poolt usaldatud"
 
 #: public/views/walletHome.html:598
 msgid "available"
@@ -2341,7 +2341,7 @@ msgstr "liiga pikk!"
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 msgid "trusted"
-msgstr ""
+msgstr "usaldatud"
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
