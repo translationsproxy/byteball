@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2019-07-23 23:10\n"
+"PO-Revision-Date: 2019-07-23 23:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -766,7 +766,7 @@ msgstr "CSV faili loomine..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet"
-msgstr ""
+msgstr "Aadressi otsimine rahakotile"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -1864,7 +1864,7 @@ msgstr "Andmebaasi uuendamine, palun oota. Mõnikord võtab see mõned minutid."
 
 #: public/views/modals/view-prosaic-contract.html:67
 msgid "Valid till"
-msgstr ""
+msgstr "Kehtib kuni"
 
 #: public/views/walletHome.html:492
 #: public/views/walletHome.html:598
@@ -2059,7 +2059,7 @@ msgstr "aadress"
 
 #: public/views/preferencesAttestorAddresses.html:18
 msgid "addresses"
-msgstr ""
+msgstr "aadressid"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
@@ -2112,12 +2112,12 @@ msgstr "aadressiga"
 
 #: public/views/modals/view-prosaic-contract.html:106
 msgid "calculated hash:"
-msgstr ""
+msgstr "arvutatud räsi:"
 
 #: public/views/modals/address-definition.html:16
 #: public/views/modals/multi-payment.html:28
 msgid "can be spent if:"
-msgstr ""
+msgstr "saab kulutada kui:"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2149,7 +2149,7 @@ msgstr "loodud"
 
 #: public/views/modals/view-prosaic-contract.html:96
 msgid "creation date:"
-msgstr ""
+msgstr "loomise kuupäev:"
 
 #: public/views/modals/offer-contract.html:109
 msgid "days"
@@ -2182,11 +2182,11 @@ msgstr "selgesõnaliselt"
 
 #: public/views/modals/view-prosaic-contract.html:107
 msgid "hash published in DAG:"
-msgstr ""
+msgstr "avaldatud räsi:"
 
 #: public/views/modals/view-prosaic-contract.html:97
 msgid "hash source string:"
-msgstr ""
+msgstr "lähtetekst:"
 
 #: public/views/modals/bind.html:87
 #: public/views/modals/offer-contract.html:69
@@ -2224,7 +2224,7 @@ msgstr "pole omaks võetud"
 
 #: public/views/modals/view-prosaic-contract.html:103
 msgid "not valid"
-msgstr ""
+msgstr "ei ole kehtiv"
 
 #: public/views/copayers.html:26
 #: public/views/includes/sidebar.html:15
@@ -2232,7 +2232,7 @@ msgstr ""
 #: public/views/modals/destination-address.html:73
 #: public/views/paymentUri.html:37
 msgid "of"
-msgstr ""
+msgstr "/"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
@@ -2319,7 +2319,7 @@ msgstr "aktiveeri ühele aadressile saatmine"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "the contract is not signed yet"
-msgstr ""
+msgstr "leping ei ole veel allkirjastatud"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2345,7 +2345,7 @@ msgstr "usaldatud"
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
-msgstr ""
+msgstr "tehing andmebaasis:"
 
 #: public/views/modals/signed-message.html:30
 #: public/views/modals/view-prosaic-contract.html:102
@@ -2354,7 +2354,7 @@ msgstr "sobiv"
 
 #: public/views/modals/view-prosaic-contract.html:100
 msgid "validate contract integrity"
-msgstr ""
+msgstr "kinnita lepingu terviklikkus"
 
 #: src/js/controllers/walletHome.js:909
 msgid "wait for sync to complete before sending payments"
