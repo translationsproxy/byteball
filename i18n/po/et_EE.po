@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2019-07-23 23:00\n"
+"PO-Revision-Date: 2019-07-23 23:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -481,7 +481,7 @@ msgstr "Kopeeri"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents and chats are not restored."
-msgstr "Kirjasaajaid ja vestlusi ei taastata."
+msgstr "Kontaktid ja vestlused ei ole taastatavad."
 
 #: public/views/modals/offer-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:111
@@ -1247,7 +1247,7 @@ msgstr "Väljumiseks vajuta uuesti"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
-msgstr ""
+msgstr "Privaatne vara (nagu blackbytes) ja nutilepingud ei ole taastatavad."
 
 #: src/js/controllers/walletHome.js:1924
 #: src/js/controllers/walletHome.js:2000
@@ -1276,7 +1276,7 @@ msgstr ""
 
 #: public/views/modals/view-prosaic-contract.html:57
 msgid "Prosaic contract"
-msgstr ""
+msgstr "Tavaline leping"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1296,7 +1296,7 @@ msgstr "Küsimus:"
 
 #: public/views/preferencesAttestorAddresses.html:16
 msgid "Real name attestors"
-msgstr ""
+msgstr "Pärisnime tõendajad"
 
 #: src/js/controllers/index.js:810
 msgid "Receive"
@@ -1391,7 +1391,7 @@ msgstr "Uuesti proovimine..."
 
 #: public/views/modals/view-prosaic-contract.html:144
 msgid "Revoke"
-msgstr ""
+msgstr "Tühista"
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1547,7 +1547,7 @@ msgstr "Allkirjasta sõnum"
 
 #: public/views/editCorrespondentDevice.html:57
 msgid "Signed contracts:"
-msgstr ""
+msgstr "Allkirjastatud lepingud:"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
@@ -1587,7 +1587,7 @@ msgstr "Piirangud Kulutamisele"
 
 #: public/views/modals/view-prosaic-contract.html:65
 msgid "Status"
-msgstr ""
+msgstr "Staatus"
 
 #: public/views/preferencesGlobal.html:122
 msgid "Still not done"
@@ -1715,7 +1715,7 @@ msgstr "See valik on parem privaatsuse säilitamiseks, aga võtab mitu gigabaiti
 
 #: public/views/walletHome.html:438
 msgid "This payment is bound to a condition..."
-msgstr ""
+msgstr "See makse on seotud tingimusega..."
 
 #: src/js/controllers/correspondentDevice.js:150
 msgid "This payment must be paid only from single-address wallet"
@@ -2236,7 +2236,7 @@ msgstr ""
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
-msgstr ""
+msgstr "kuupäeval"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
