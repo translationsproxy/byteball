@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2019-07-23 23:40\n"
+"PO-Revision-Date: 2019-07-23 23:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -123,7 +123,7 @@ msgstr "Lisavalikud"
 
 #: public/views/modals/view-prosaic-contract.html:136
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "Pärast lepinguga nõustumist küsitakse sul allkirjastada tehing, mis sisaldab lepingu räsi. See etapp toimub kohe pärast seda kui lepingu esitaja saab kätte sinu vastuse."
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -251,7 +251,7 @@ msgstr "Tagasi"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup all wallet data"
-msgstr "Varundu kogu rahakott"
+msgstr "Varunda kogu rahakott"
 
 #: public/views/walletHome.html:250
 msgid "Backup now"
@@ -1786,7 +1786,7 @@ msgstr "Sinu privaatsuse kaitsmiseks luuakse automaatselt pärast igat kasutamis
 
 #: public/views/modals/view-prosaic-contract.html:95
 msgid "To verify contract integrity, SHA256 hash is calculated from three concatenated components: sha256(title+text+creation_date) and encoded in BASE64 format. After the contract was accepted, a unit with its hash was posted into the DAG. You can check that contract text was not modified by comparing the hashes in the DAG and calculated from this contract."
-msgstr ""
+msgstr "Lepingu terviklikkuse kinnitamiseks arvutatakse SHA256 räsi kolmest kokku pandud osast ja kodeeritakse BASE64 formaati: base64(sha256(pealkiri+tekst+loomise aeg)). Pärast lepingu aksepteerimist, tehing räsiga postitakse avalikku andmebaasi. Avalikus andmebaasi oleva räsi ja arvutatud räsi võrdlemisel saab veenduda, et lepingu teksti pole muudetud."
 
 #: public/views/walletHome.html:222
 msgid "Total Locked Balance"
