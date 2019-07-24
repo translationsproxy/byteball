@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2019-07-23 21:52\n"
+"PO-Revision-Date: 2019-07-24 10:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -163,7 +163,7 @@ msgstr "Im Menü \"Einstellungen\" befinden sich Sicherheitsoptionen um z.B. ein
 
 #: public/views/walletHome.html:482
 msgid "Also send data..."
-msgstr ""
+msgstr "Auch Daten senden..."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -251,7 +251,7 @@ msgstr "Zurück"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup all wallet data"
-msgstr ""
+msgstr "Alle Wallet Daten sichern"
 
 #: public/views/walletHome.html:250
 msgid "Backup now"
@@ -259,7 +259,7 @@ msgstr "Jetzt sichern"
 
 #: public/views/preferencesGlobal.html:126
 msgid "Backup only the seed words"
-msgstr ""
+msgstr "Nur die Seed-Wörter sichern"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -296,7 +296,7 @@ msgstr "Zahlung an eine Bedingung binden"
 
 #: public/views/walletHome.html:437
 msgid "Bind the payment to a condition..."
-msgstr ""
+msgstr "Binden Sie die Zahlung an eine Bedingung..."
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -574,7 +574,7 @@ msgstr "Daten als Datenquelle"
 
 #: public/views/walletHome.html:488
 msgid "Data to be posted with the payment:"
-msgstr ""
+msgstr "Daten, die mit der Zahlung gepostet werden sollen:"
 
 #: public/views/walletHome.html:598
 msgid "Datafeed name"
@@ -1320,7 +1320,7 @@ msgstr "Wiederherstellen"
 
 #: public/views/preferencesGlobal.html:135
 msgid "Recover with seed words"
-msgstr ""
+msgstr "Wiederherstellen mit Seed-Wörtern"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1382,7 +1382,7 @@ msgstr "Erforderliche Anzahl an Signaturen"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
-msgstr ""
+msgstr "Alle Wallet-Daten wiederherstellen"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
@@ -1677,7 +1677,7 @@ msgstr "Die Unterschrift ist"
 
 #: public/views/includes/backup-reminder.html:7
 msgid "The total amount in your wallet is"
-msgstr ""
+msgstr "Der Gesamtbetrag in Ihrer Wallet beträgt"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -1714,7 +1714,7 @@ msgstr "Diese Option ist für Ihre Privatsphäre optimiert, benötigt jedoch meh
 
 #: public/views/walletHome.html:438
 msgid "This payment is bound to a condition..."
-msgstr ""
+msgstr "Diese Zahlung ist an eine Bedingung gebunden..."
 
 #: src/js/controllers/correspondentDevice.js:150
 msgid "This payment must be paid only from single-address wallet"
@@ -2077,7 +2077,7 @@ msgstr "und löschen Sie die Textcoin um diese vor Angreifern zu schützen."
 
 #: public/views/includes/backup-reminder.html:7
 msgid "and it is recommended you back it up."
-msgstr ""
+msgstr "und es wird empfohlen, eine Sicherung durchzuführen."
 
 #: public/views/modals/accept-profile.html:31
 #: public/views/modals/offer-prosaic-contract.html:55
