@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-07-23 21:51\n"
+"PO-Revision-Date: 2019-07-26 00:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -251,7 +251,7 @@ msgstr "뒤로"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup all wallet data"
-msgstr ""
+msgstr "모든 지갑 데이터 백업"
 
 #: public/views/walletHome.html:250
 msgid "Backup now"
@@ -259,7 +259,7 @@ msgstr "지금 백업하기"
 
 #: public/views/preferencesGlobal.html:126
 msgid "Backup only the seed words"
-msgstr ""
+msgstr "시드 단어만 백업"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -296,7 +296,7 @@ msgstr "조건부 계약과 결제 연결하기"
 
 #: public/views/walletHome.html:437
 msgid "Bind the payment to a condition..."
-msgstr ""
+msgstr "조건부 결제와 연결..."
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -1321,7 +1321,7 @@ msgstr "복구하기"
 
 #: public/views/preferencesGlobal.html:135
 msgid "Recover with seed words"
-msgstr ""
+msgstr "시드 단어를 이용한 복구"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1383,7 +1383,7 @@ msgstr "필요한 서명의 수"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
-msgstr ""
+msgstr "모든 지갑 데이터 복구"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
