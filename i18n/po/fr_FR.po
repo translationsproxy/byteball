@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2019-07-23 21:52\n"
+"PO-Revision-Date: 2019-07-28 17:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -378,7 +378,7 @@ msgstr "Réclamer..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to"
-msgstr ""
+msgstr "Cliquez sur le bouton pour"
 
 #: public/views/walletHome.html:537
 msgid "Click this button to create a payment file and send it to a recipient."
@@ -416,7 +416,7 @@ msgstr "Fermer"
 
 #: public/views/create.html:90
 msgid "Co-signer"
-msgstr ""
+msgstr "Co-signataire"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
@@ -574,7 +574,7 @@ msgstr "Données dans le flux de données"
 
 #: public/views/walletHome.html:488
 msgid "Data to be posted with the payment:"
-msgstr ""
+msgstr "Données à afficher avec le paiement :"
 
 #: public/views/walletHome.html:598
 msgid "Datafeed name"
@@ -1678,7 +1678,7 @@ msgstr "La signature est"
 
 #: public/views/includes/backup-reminder.html:7
 msgid "The total amount in your wallet is"
-msgstr ""
+msgstr "Le montant total de votre portefeuille est"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -1715,7 +1715,7 @@ msgstr "Cette option est préférable pour votre vie privée mais prendra plusie
 
 #: public/views/walletHome.html:438
 msgid "This payment is bound to a condition..."
-msgstr ""
+msgstr "Ce paiement est lié à une condition..."
 
 #: src/js/controllers/correspondentDevice.js:150
 msgid "This payment must be paid only from single-address wallet"
@@ -2078,7 +2078,7 @@ msgstr "et effacer le textcoin pour le garder à l'abri des pirates."
 
 #: public/views/includes/backup-reminder.html:7
 msgid "and it is recommended you back it up."
-msgstr ""
+msgstr "et il est recommandé de le sauvegarder."
 
 #: public/views/modals/accept-profile.html:31
 #: public/views/modals/offer-prosaic-contract.html:55
@@ -2118,7 +2118,7 @@ msgstr "hash calculé :"
 #: public/views/modals/address-definition.html:16
 #: public/views/modals/multi-payment.html:28
 msgid "can be spent if:"
-msgstr ""
+msgstr "peut être dépensé si :"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2233,7 +2233,7 @@ msgstr "non valide"
 #: public/views/modals/destination-address.html:73
 #: public/views/paymentUri.html:37
 msgid "of"
-msgstr ""
+msgstr "de"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
@@ -2267,7 +2267,7 @@ msgstr "posté"
 
 #: public/views/modals/share.html:30
 msgid "re"
-msgstr ""
+msgstr "re"
 
 #: public/views/modals/tx-details.html:154
 msgid "re-send private payloads"
