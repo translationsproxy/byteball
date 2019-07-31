@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-07-31 21:20\n"
+"PO-Revision-Date: 2019-07-31 21:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -123,7 +123,7 @@ msgstr "Avanzato"
 
 #: public/views/modals/view-prosaic-contract.html:136
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "Dopo aver accettato il contratto, ti verrà chiesto di firmare una transazione contenente l'hash di questo contratto. Questo secondo passaggio si verifica non appena l'offerente riceve la tua risposta."
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -135,7 +135,7 @@ msgstr "Accetto"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for"
-msgstr ""
+msgstr "Alias per"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
