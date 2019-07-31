@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-07-31 21:31\n"
+"PO-Revision-Date: 2019-07-31 21:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -143,7 +143,7 @@ msgstr "Tutti gli indirizzi del portafoglio"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
-msgstr ""
+msgstr "Tutti i contributi alla traduzione di Obyte sono i benvenuti. Registrati su crowdin.com e unisciti al progetto O<sub>byte</sub> presso"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -163,7 +163,7 @@ msgstr "Inoltre nel menu impostazioni, troverete le opzioni di sicurezza tra cui
 
 #: public/views/walletHome.html:482
 msgid "Also send data..."
-msgstr ""
+msgstr "Invia anche dati..."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
