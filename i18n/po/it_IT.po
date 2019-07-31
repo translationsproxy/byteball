@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-07-31 21:51\n"
+"PO-Revision-Date: 2019-07-31 22:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -378,7 +378,7 @@ msgstr "Reclamando..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to"
-msgstr ""
+msgstr "Clicca sul pulsante per"
 
 #: public/views/walletHome.html:537
 msgid "Click this button to create a payment file and send it to a recipient."
@@ -416,7 +416,7 @@ msgstr "Chiudi"
 
 #: public/views/create.html:90
 msgid "Co-signer"
-msgstr ""
+msgstr "Co-firmatario"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
@@ -481,12 +481,12 @@ msgstr "Copia"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents and chats are not restored."
-msgstr ""
+msgstr "I corrispondenti e le chat non vengono ripristinati."
 
 #: public/views/modals/offer-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:111
 msgid "Cosigners"
-msgstr ""
+msgstr "Cofirmatari"
 
 #: src/js/controllers/walletHome.js:708
 msgid "Could not create payment proposal"
