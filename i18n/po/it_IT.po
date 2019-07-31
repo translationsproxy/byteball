@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-07-31 21:41\n"
+"PO-Revision-Date: 2019-07-31 21:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -180,7 +180,7 @@ msgstr "Importo"
 
 #: public/views/walletHome.html:598
 msgid "Answer"
-msgstr ""
+msgstr "Risposta"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -205,7 +205,7 @@ msgstr "Asset"
 
 #: public/views/walletHome.html:556
 msgid "Attest profile data linked to any Obyte address."
-msgstr ""
+msgstr "Attesta i dati del profilo collegati a qualsiasi indirizzo Obyte."
 
 #: public/views/walletHome.html:345
 msgid "Attestation"
@@ -251,7 +251,7 @@ msgstr "Indietro"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup all wallet data"
-msgstr ""
+msgstr "Esegui il backup di tutti i dati del portafoglio"
 
 #: public/views/walletHome.html:250
 msgid "Backup now"
@@ -259,7 +259,7 @@ msgstr "Esegui backup ora"
 
 #: public/views/preferencesGlobal.html:126
 msgid "Backup only the seed words"
-msgstr ""
+msgstr "Esegui il backup solo delle parole del seed"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -296,7 +296,7 @@ msgstr "Associa il pagamento a una condizione"
 
 #: public/views/walletHome.html:437
 msgid "Bind the payment to a condition..."
-msgstr ""
+msgstr "Associa il pagamento a una condizione..."
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
