@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2019-08-04 14:10\n"
+"PO-Revision-Date: 2019-08-04 14:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -382,7 +382,7 @@ msgstr "I-klik ang pindutan sa"
 
 #: public/views/walletHome.html:537
 msgid "Click this button to create a payment file and send it to a recipient."
-msgstr ""
+msgstr "I-klik ang pindutan na ito para gumawa ng isang pagbabayad na file at ipadala ito sa isang tatanggap."
 
 #: public/views/walletHome.html:536
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
@@ -416,7 +416,7 @@ msgstr "Isara"
 
 #: public/views/create.html:90
 msgid "Co-signer"
-msgstr ""
+msgstr "Co-signer"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
