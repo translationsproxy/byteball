@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2019-07-23 21:52\n"
+"PO-Revision-Date: 2019-08-04 14:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -27,7 +27,7 @@ msgstr "(kasalukuyang pitaka)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other wallet)"
-msgstr ""
+msgstr "(ang iba ko pang wallet)"
 
 #: public/views/walletHome.html:698
 msgid "(possible double spend)"
@@ -43,7 +43,7 @@ msgstr "12 na salita na pinaghihiwalay ng mga gitling"
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
-msgstr ""
+msgstr "Tungkol sa Obyte"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
@@ -79,11 +79,11 @@ msgstr "Magdagdag ng bagong entry"
 
 #: public/views/preferencesEditRealNameAttestors.html:25
 msgid "Add address"
-msgstr ""
+msgstr "Magdagdag ng adress"
 
 #: public/views/walletHome.html:598
 msgid "Add answer"
-msgstr ""
+msgstr "Magdagdag ng kasagutan"
 
 #: public/views/walletHome.html:498
 #: public/views/walletHome.html:598
@@ -115,7 +115,7 @@ msgstr "Addressbook"
 
 #: public/views/preferencesEditRealNameAttestors.html:15
 msgid "Addresses"
-msgstr ""
+msgstr "Mga address"
 
 #: public/views/preferences.html:66
 msgid "Advanced"
@@ -123,7 +123,7 @@ msgstr "Mas Pinahusay"
 
 #: public/views/modals/view-prosaic-contract.html:136
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "Pagkatapos na tanggapin ang kontrata, ikaw'y tatanunging mag sign sa transaksyon na nag lalaman ng hash ng kontratang ito. Ang ikalawang hakbang na ito ay nangyayari pagkatapos na ang nag-aalok ay matanggap ang iyong tugon."
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -135,7 +135,7 @@ msgstr "Sumasang-ayon"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for"
-msgstr ""
+msgstr "Alyas para sa"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
