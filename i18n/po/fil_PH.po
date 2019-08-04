@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Filipino\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2019-08-04 14:01\n"
+"PO-Revision-Date: 2019-08-04 14:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -143,7 +143,7 @@ msgstr "Lahat ng mga Address ng Pitaka"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
-msgstr ""
+msgstr "Lahat ng mga kontribusyon para sa pagsasalin ng Obyte ay malugod na tinatanggap. Mag-sign up sa crowdin.com at sumali sa proyekto ng O<sub>byte</sub> sa"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -163,7 +163,7 @@ msgstr "Pati na rin sa Settings na menu, makikita ninyo ang mga opsyon para sa s
 
 #: public/views/walletHome.html:482
 msgid "Also send data..."
-msgstr ""
+msgstr "Magpadala din ng datos..."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -180,7 +180,7 @@ msgstr "Halaga"
 
 #: public/views/walletHome.html:598
 msgid "Answer"
-msgstr ""
+msgstr "Kasagutan"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -205,7 +205,7 @@ msgstr "Ari-arian"
 
 #: public/views/walletHome.html:556
 msgid "Attest profile data linked to any Obyte address."
-msgstr ""
+msgstr "Patunayan ang profile data na naka-link sa anumang address ng Obyte."
 
 #: public/views/walletHome.html:345
 msgid "Attestation"
@@ -223,7 +223,7 @@ msgstr "Pinatutunayan ni:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr ""
+msgstr "Mga address ng tagapagpatunay"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the witness list from the hub"
@@ -251,7 +251,7 @@ msgstr "Bumalik"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup all wallet data"
-msgstr ""
+msgstr "I-backup ang lahat ng wallet data"
 
 #: public/views/walletHome.html:250
 msgid "Backup now"
@@ -259,7 +259,7 @@ msgstr "Mag-backup ngayon"
 
 #: public/views/preferencesGlobal.html:126
 msgid "Backup only the seed words"
-msgstr ""
+msgstr "I-backup lamang ang mga seed word"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -296,7 +296,7 @@ msgstr "I-bind ang pagbayad sa isang kondisyon"
 
 #: public/views/walletHome.html:437
 msgid "Bind the payment to a condition..."
-msgstr ""
+msgstr "I-bind ang pagbabayad sa isang kondisyon..."
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -378,7 +378,7 @@ msgstr ""
 
 #: public/views/modals/share.html:30
 msgid "Click the button to"
-msgstr ""
+msgstr "I-klik ang pindutan sa"
 
 #: public/views/walletHome.html:537
 msgid "Click this button to create a payment file and send it to a recipient."
