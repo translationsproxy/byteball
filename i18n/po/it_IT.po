@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-08-07 16:54\n"
+"PO-Revision-Date: 2019-08-07 18:47\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -730,7 +730,7 @@ msgstr "Campo"
 
 #: src/js/controllers/export.js:88
 msgid "File saved to /Obyte/. You can now also send it somewhere using chat apps or email to have more copies of the backup"
-msgstr "File salvato in /Obyte/. Ora puoi anche inviarlo altrove utilizzando le chat app o l'email per avere più copie del backup"
+msgstr "File salvato in /Obyte/. Ora puoi anche inviarlo ad altre destinazioni utilizzando le applicazioni di chat o l'email per avere più copie del backup"
 
 #: public/views/modals/tx-details.html:119
 msgid "Finality"
@@ -1055,19 +1055,19 @@ msgstr "Nota"
 
 #: src/js/controllers/export.js:88
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
-msgstr ""
+msgstr "Ora devi inviare questo file a una destinazione da cui ripristinarlo più tardi (\"Salva in Documenti\", invia a te stesso utilizzando le applicazioni di chat, ecc.)"
 
 #: public/index.html:12
 msgid "Obyte &mdash; smart payments"
-msgstr ""
+msgstr "Obyte &mdash; pagamenti smart"
 
 #: public/views/modals/destination-address.html:120
 msgid "Obyte address"
-msgstr ""
+msgstr "Indirizzo Obyte"
 
 #: public/views/modals/offer-prosaic-contract.html:88
 msgid "Offer Contract"
-msgstr ""
+msgstr "Contratto di Offerta"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:129
