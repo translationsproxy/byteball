@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-08-07 19:30\n"
+"PO-Revision-Date: 2019-08-07 19:37\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1247,7 +1247,7 @@ msgstr "Premi ancora per uscire"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
-msgstr ""
+msgstr "Asset privati (come i blackbyte) e smart contract non vengono recuperati."
 
 #: src/js/controllers/walletHome.js:1924
 #: src/js/controllers/walletHome.js:2000
@@ -1272,7 +1272,7 @@ msgstr "Valore del campo profilo"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "Proof of contract signing"
-msgstr ""
+msgstr "Prova della firma del contratto"
 
 #: public/views/modals/view-prosaic-contract.html:57
 msgid "Prosaic contract"
