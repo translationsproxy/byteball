@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-08-07 18:50\n"
+"PO-Revision-Date: 2019-08-07 19:07\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1081,7 +1081,7 @@ msgstr "L'offerta è valida per"
 #: public/views/modals/offer-prosaic-contract.html:42
 #: src/js/services/correspondentListService.js:129
 msgid "Offer prosaic contract"
-msgstr ""
+msgstr "Offrire un contratto prosaico"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
@@ -1097,7 +1097,7 @@ msgstr "Apri chat"
 
 #: public/views/walletHome.html:598
 msgid "Options for answering"
-msgstr ""
+msgstr "Opzioni per la risposta"
 
 #: public/views/modals/share.html:39
 msgid "Or copy"
