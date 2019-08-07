@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-08-07 19:07\n"
+"PO-Revision-Date: 2019-08-07 19:14\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1117,7 +1117,7 @@ msgstr "Codice di abbinamento"
 
 #: public/views/paperWallet.html:79
 msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
-msgstr ""
+msgstr "I paper wallet sono solo dei textcoin. Scansiona il codice QR del paper wallet utilizzando l'icona della fotocamera nell'angolo in alto a destra o inserisci manualmente le 12 parole del textcoin nella scheda \"Ricevi\"."
 
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
@@ -1166,7 +1166,7 @@ msgstr "Pagamento Inviato"
 #: public/views/modals/offer-prosaic-contract.html:58
 #: public/views/modals/view-prosaic-contract.html:77
 msgid "Peer"
-msgstr ""
+msgstr "Peer"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
