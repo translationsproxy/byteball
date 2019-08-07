@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-08-07 16:30\n"
+"PO-Revision-Date: 2019-08-07 16:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -730,7 +730,7 @@ msgstr "Campo"
 
 #: src/js/controllers/export.js:88
 msgid "File saved to /Obyte/. You can now also send it somewhere using chat apps or email to have more copies of the backup"
-msgstr ""
+msgstr "File salvato in /Obyte/. Ora puoi anche inviarlo altrove utilizzando le chat app o l'email per avere più copie del backup"
 
 #: public/views/modals/tx-details.html:119
 msgid "Finality"
@@ -766,7 +766,7 @@ msgstr "Generazione del file CSV..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet"
-msgstr ""
+msgstr "Ottenere l'indirizzo per il portafoglio"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -782,7 +782,7 @@ msgstr "Portafoglio hardware"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr ""
+msgstr "Asset nascosti"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -815,7 +815,7 @@ msgstr "Affermo di aver letto, compreso e accettato questi termini."
 
 #: public/views/includes/backup-reminder.html:14
 msgid "I created a backup"
-msgstr ""
+msgstr "Ho creato un backup"
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
@@ -827,11 +827,11 @@ msgstr "Ricevo un altro pagamento di"
 
 #: src/js/controllers/correspondentDevice.js:1336
 msgid "ID expires at"
-msgstr ""
+msgstr "ID scade il"
 
 #: src/js/controllers/correspondentDevice.js:1337
 msgid "ID issued at"
-msgstr ""
+msgstr "ID emesso il"
 
 #: src/js/controllers/correspondentDevice.js:1333
 msgid "ID number"
