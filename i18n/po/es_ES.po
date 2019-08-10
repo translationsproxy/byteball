@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2019-08-10 14:22\n"
+"PO-Revision-Date: 2019-08-10 14:36\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -123,7 +123,7 @@ msgstr "Avanzado"
 
 #: public/views/modals/view-prosaic-contract.html:136
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "Después de aceptar el contrato, se le pedirá que firme una transacción que contenga el hash de este contrato. Este segundo paso ocurre tan pronto como el oferente reciba su respuesta."
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -135,7 +135,7 @@ msgstr "Aceptar"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for"
-msgstr ""
+msgstr "Alias para"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
@@ -143,7 +143,7 @@ msgstr "Todas las direcciones"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
-msgstr ""
+msgstr "Todas las contribuciones a la traducción de Obyte son bienvenidas. Regístrese en crowdin.com y únase al proyecto O<sub>byte</sub> en"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
