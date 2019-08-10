@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2019-08-10 15:30\n"
+"PO-Revision-Date: 2019-08-10 15:46\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -259,7 +259,7 @@ msgstr "Realizar copia de seguridad ahora"
 
 #: public/views/preferencesGlobal.html:126
 msgid "Backup only the seed words"
-msgstr ""
+msgstr "Realice una copia de seguridad solo a las palabras semilla"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -296,7 +296,7 @@ msgstr "Enlazar pago a condición"
 
 #: public/views/walletHome.html:437
 msgid "Bind the payment to a condition..."
-msgstr ""
+msgstr "Enlace el pago a una condición..."
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -378,7 +378,7 @@ msgstr "Reclamando..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to"
-msgstr ""
+msgstr "Haga clic en el botón para"
 
 #: public/views/walletHome.html:537
 msgid "Click this button to create a payment file and send it to a recipient."
@@ -416,7 +416,7 @@ msgstr "Cerrar"
 
 #: public/views/create.html:90
 msgid "Co-signer"
-msgstr ""
+msgstr "Co-firmante"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
@@ -481,12 +481,12 @@ msgstr "Copiar"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents and chats are not restored."
-msgstr ""
+msgstr "Los corresponsales y los chats no se restauran."
 
 #: public/views/modals/offer-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:111
 msgid "Cosigners"
-msgstr ""
+msgstr "Co-firmantes"
 
 #: src/js/controllers/walletHome.js:708
 msgid "Could not create payment proposal"
@@ -574,7 +574,7 @@ msgstr "Datos en la cadena"
 
 #: public/views/walletHome.html:488
 msgid "Data to be posted with the payment:"
-msgstr ""
+msgstr "Datos a ser publicados con el pago:"
 
 #: public/views/walletHome.html:598
 msgid "Datafeed name"
@@ -666,7 +666,7 @@ msgstr "Descargar archivo CSV"
 
 #: public/views/splash.html:26
 msgid "Download the entire Obyte database"
-msgstr ""
+msgstr "Descargar toda la base de datos de Obyte"
 
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
@@ -730,7 +730,7 @@ msgstr "Campo"
 
 #: src/js/controllers/export.js:88
 msgid "File saved to /Obyte/. You can now also send it somewhere using chat apps or email to have more copies of the backup"
-msgstr ""
+msgstr "Archivo guardado en /Obyte/. Ahora también puede enviarlo a algún lugar mediante aplicaciones de chat o correo electrónico para obtener más copias de la copia de seguridad"
 
 #: public/views/modals/tx-details.html:119
 msgid "Finality"
@@ -766,7 +766,7 @@ msgstr "Generando archivo .csv..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet"
-msgstr ""
+msgstr "Obtener dirección para billetera"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -815,7 +815,7 @@ msgstr "Confirmo haber leído, entendido y aceptado estos términos."
 
 #: public/views/includes/backup-reminder.html:14
 msgid "I created a backup"
-msgstr ""
+msgstr "He creado una copia de seguridad"
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
@@ -827,11 +827,11 @@ msgstr "Recibo otro pago de"
 
 #: src/js/controllers/correspondentDevice.js:1336
 msgid "ID expires at"
-msgstr ""
+msgstr "ID expira en"
 
 #: src/js/controllers/correspondentDevice.js:1337
 msgid "ID issued at"
-msgstr ""
+msgstr "ID emitida en"
 
 #: src/js/controllers/correspondentDevice.js:1333
 msgid "ID number"
