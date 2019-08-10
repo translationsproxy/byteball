@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2019-08-10 17:30\n"
+"PO-Revision-Date: 2019-08-10 17:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1296,7 +1296,7 @@ msgstr "Pregunta:"
 
 #: public/views/preferencesAttestorAddresses.html:16
 msgid "Real name attestors"
-msgstr ""
+msgstr "Atestiguadores de nombre real"
 
 #: src/js/controllers/index.js:810
 msgid "Receive"
@@ -1321,7 +1321,7 @@ msgstr "Recuperar"
 
 #: public/views/preferencesGlobal.html:135
 msgid "Recover with seed words"
-msgstr ""
+msgstr "Recuperar con palabras de semilla"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1337,7 +1337,7 @@ msgstr "Información de versión"
 
 #: public/views/includes/backup-reminder.html:11
 msgid "Remind Later"
-msgstr ""
+msgstr "Recordar más tarde"
 
 #: public/views/modals/destination-address.html:85
 msgid "Remove"
@@ -1383,7 +1383,7 @@ msgstr "Número requerido de firmas"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
-msgstr ""
+msgstr "Restaurar todos los datos de la billetera"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
@@ -1391,7 +1391,7 @@ msgstr "Reintentando..."
 
 #: public/views/modals/view-prosaic-contract.html:144
 msgid "Revoke"
-msgstr ""
+msgstr "Revocar"
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1416,7 +1416,7 @@ msgstr "Guardando preferencias..."
 
 #: public/views/preferences.html:76
 msgid "Scan Fingerprint/FaceID"
-msgstr ""
+msgstr "Escanear Huella digital/FaceID"
 
 #: public/views/walletHome.html:121
 msgid "Scan status finished with error"
@@ -1547,7 +1547,7 @@ msgstr "Firmar mensaje"
 
 #: public/views/editCorrespondentDevice.html:57
 msgid "Signed contracts:"
-msgstr ""
+msgstr "Contratos firmados:"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
@@ -1578,7 +1578,7 @@ msgstr "Especificar semilla..."
 
 #: public/views/preferencesGlobal.html:94
 msgid "Spend unconfirmed funds"
-msgstr ""
+msgstr "Gastar fondos no confirmados"
 
 #: public/views/preferences.html:70
 #: public/views/preferencesGlobal.html:86
@@ -1587,7 +1587,7 @@ msgstr "Restricciones de gastos"
 
 #: public/views/modals/view-prosaic-contract.html:65
 msgid "Status"
-msgstr ""
+msgstr "Estado"
 
 #: public/views/preferencesGlobal.html:122
 msgid "Still not done"
