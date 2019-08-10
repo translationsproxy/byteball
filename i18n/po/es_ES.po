@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2019-08-10 14:36\n"
+"PO-Revision-Date: 2019-08-10 15:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -163,7 +163,7 @@ msgstr "También hay opciones de seguridad en el menú de configuración, pej. e
 
 #: public/views/walletHome.html:482
 msgid "Also send data..."
-msgstr ""
+msgstr "También envíe datos..."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -205,7 +205,7 @@ msgstr "Activo"
 
 #: public/views/walletHome.html:556
 msgid "Attest profile data linked to any Obyte address."
-msgstr ""
+msgstr "Atestigüe los datos del perfil vinculados a cualquier dirección de Obyte."
 
 #: public/views/walletHome.html:345
 msgid "Attestation"
@@ -251,7 +251,7 @@ msgstr "Volver"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup all wallet data"
-msgstr ""
+msgstr "Realizar una copia de seguridad de todos los datos de la billetera"
 
 #: public/views/walletHome.html:250
 msgid "Backup now"
