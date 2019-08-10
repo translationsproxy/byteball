@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2019-08-10 17:40\n"
+"PO-Revision-Date: 2019-08-10 17:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -696,7 +696,7 @@ msgstr "Error al crear monedero"
 
 #: public/views/modals/view-prosaic-contract.html:68
 msgid "Expired on"
-msgstr ""
+msgstr "Caducó el"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -1642,7 +1642,7 @@ msgstr "Términos de Uso"
 #: public/views/modals/offer-prosaic-contract.html:69
 #: public/views/modals/view-prosaic-contract.html:88
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 #: public/views/correspondentDevice.html:350
 msgid "Text message to"
@@ -1678,7 +1678,7 @@ msgstr "La firma es"
 
 #: public/views/includes/backup-reminder.html:7
 msgid "The total amount in your wallet is"
-msgstr ""
+msgstr "La cantidad total en su billetera es"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -1715,7 +1715,7 @@ msgstr "Esta opción mejora la privacidad, pero emplea varios gigabytes de almac
 
 #: public/views/walletHome.html:438
 msgid "This payment is bound to a condition..."
-msgstr ""
+msgstr "Este pago está asociado a una condición..."
 
 #: src/js/controllers/correspondentDevice.js:150
 msgid "This payment must be paid only from single-address wallet"
@@ -1749,7 +1749,7 @@ msgstr "¡Se borrarán permanentemente todos sus monederos!"
 #: public/views/modals/offer-prosaic-contract.html:66
 #: public/views/modals/view-prosaic-contract.html:85
 msgid "Title of contract"
-msgstr ""
+msgstr "Título del contrato"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1762,7 +1762,7 @@ msgstr "A"
 
 #: public/views/walletHome.html:400
 msgid "To Obyte address"
-msgstr ""
+msgstr "A la dirección de Obyte"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
