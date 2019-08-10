@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2019-08-10 18:40\n"
+"PO-Revision-Date: 2019-08-10 18:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2101,7 +2101,7 @@ msgstr "atestiguado por:"
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attestor is not trusted by you"
-msgstr ""
+msgstr "el atestiguador no es de confianza para usted"
 
 #: public/views/walletHome.html:598
 msgid "available"
@@ -2113,12 +2113,12 @@ msgstr "por dirección"
 
 #: public/views/modals/view-prosaic-contract.html:106
 msgid "calculated hash:"
-msgstr ""
+msgstr "hash calculado:"
 
 #: public/views/modals/address-definition.html:16
 #: public/views/modals/multi-payment.html:28
 msgid "can be spent if:"
-msgstr ""
+msgstr "puede ser gastado si:"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2150,7 +2150,7 @@ msgstr "creado"
 
 #: public/views/modals/view-prosaic-contract.html:96
 msgid "creation date:"
-msgstr ""
+msgstr "fecha de creación:"
 
 #: public/views/modals/offer-contract.html:109
 msgid "days"
@@ -2159,7 +2159,7 @@ msgstr "días"
 #: public/views/modals/bind.html:82
 #: public/views/modals/offer-contract.html:99
 msgid "detailed instructions about using"
-msgstr ""
+msgstr "instrucciones detalladas sobre el uso"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
@@ -2183,11 +2183,11 @@ msgstr "explícitamente"
 
 #: public/views/modals/view-prosaic-contract.html:107
 msgid "hash published in DAG:"
-msgstr ""
+msgstr "hash publicado en DAG:"
 
 #: public/views/modals/view-prosaic-contract.html:97
 msgid "hash source string:"
-msgstr ""
+msgstr "string fuente de hash:"
 
 #: public/views/modals/bind.html:87
 #: public/views/modals/offer-contract.html:69
@@ -2225,7 +2225,7 @@ msgstr "no reclamado"
 
 #: public/views/modals/view-prosaic-contract.html:103
 msgid "not valid"
-msgstr ""
+msgstr "no válido"
 
 #: public/views/copayers.html:26
 #: public/views/includes/sidebar.html:15
@@ -2233,11 +2233,11 @@ msgstr ""
 #: public/views/modals/destination-address.html:73
 #: public/views/paymentUri.html:37
 msgid "of"
-msgstr ""
+msgstr "de"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
-msgstr ""
+msgstr "activado"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -2255,7 +2255,7 @@ msgstr "o"
 
 #: public/views/backup.html:24
 msgid "or backup all Obyte data at"
-msgstr ""
+msgstr "o copia de seguridad de todos los datos de Obyte en"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
@@ -2267,7 +2267,7 @@ msgstr "publicado"
 
 #: public/views/modals/share.html:30
 msgid "re"
-msgstr ""
+msgstr "re"
 
 #: public/views/modals/tx-details.html:154
 msgid "re-send private payloads"
@@ -2279,11 +2279,11 @@ msgstr "reenviar datos privados a co-firmantes"
 
 #: public/views/correspondentDevices.html:171
 msgid "search by bot name"
-msgstr ""
+msgstr "buscar por nombre de bot"
 
 #: public/views/correspondentDevices.html:112
 msgid "search by contact name"
-msgstr ""
+msgstr "buscar por nombre de contacto"
 
 #: public/views/modals/share.html:35
 msgid "send"
