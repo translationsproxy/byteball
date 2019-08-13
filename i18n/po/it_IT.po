@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-08-07 20:36\n"
+"PO-Revision-Date: 2019-08-13 20:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1864,7 +1864,7 @@ msgstr "Aggiornamento del database in corso, si prega di attendere. Talvolta son
 
 #: public/views/modals/view-prosaic-contract.html:67
 msgid "Valid till"
-msgstr ""
+msgstr "Valida fino al"
 
 #: public/views/walletHome.html:492
 #: public/views/walletHome.html:598
@@ -1902,7 +1902,7 @@ msgstr "AVVERTIMENTI:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO O<sub>byte</sub>"
-msgstr ""
+msgstr "BENVENUTO SU 0<sub>byte</sub>"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
@@ -1939,7 +1939,7 @@ msgstr "Nome del portafoglio (al momento della creazione)"
 
 #: src/js/services/profileService.js:456
 msgid "Wallet already in Obyte:"
-msgstr ""
+msgstr "Portafoglio già in Obyte:"
 
 #: public/views/create.html:48
 msgid "Wallet name"
