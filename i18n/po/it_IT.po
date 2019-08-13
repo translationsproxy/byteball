@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-08-13 20:11\n"
+"PO-Revision-Date: 2019-08-13 20:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2236,7 +2236,7 @@ msgstr "di"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
-msgstr ""
+msgstr "on"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -2254,7 +2254,7 @@ msgstr "o"
 
 #: public/views/backup.html:24
 msgid "or backup all Obyte data at"
-msgstr ""
+msgstr "oppure effettua il backup di tutti i dati Obyte in"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
@@ -2266,7 +2266,7 @@ msgstr "postato"
 
 #: public/views/modals/share.html:30
 msgid "re"
-msgstr ""
+msgstr "re"
 
 #: public/views/modals/tx-details.html:154
 msgid "re-send private payloads"
@@ -2278,11 +2278,11 @@ msgstr "ri-invia i payload privati ai co-firmatari"
 
 #: public/views/correspondentDevices.html:171
 msgid "search by bot name"
-msgstr ""
+msgstr "cerca per nome del bot"
 
 #: public/views/correspondentDevices.html:112
 msgid "search by contact name"
-msgstr ""
+msgstr "cerca per nome del contatto"
 
 #: public/views/modals/share.html:35
 msgid "send"
@@ -2319,7 +2319,7 @@ msgstr "passa ad indirizzo unico"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "the contract is not signed yet"
-msgstr ""
+msgstr "il contratto non è ancora firmato"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2331,7 +2331,7 @@ msgstr "a"
 
 #: src/js/controllers/index.js:371
 msgid "together with"
-msgstr ""
+msgstr "insieme con"
 
 #: public/views/walletHome.html:459
 #: public/views/walletHome.html:470
@@ -2341,7 +2341,7 @@ msgstr "troppo lungo!"
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 msgid "trusted"
-msgstr ""
+msgstr "affidabile"
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
