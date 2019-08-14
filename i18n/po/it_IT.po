@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-08-14 18:11\n"
+"PO-Revision-Date: 2019-08-14 18:32\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1770,7 +1770,7 @@ msgstr "Per poter ripristinare tutto, perfavore crea un backup completo (trova l
 
 #: public/views/walletHome.html:628
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address wallet first or create one."
-msgstr "Per inviare dati arbitrari nella rete O<sub>byte</sub>, prima passa a un portafoglio a indirizzo singolo oppure creane uno."
+msgstr "Per poter inviare dati arbitrari nella rete O<sub>byte</sub>, prima passa a un portafoglio a indirizzo singolo oppure creane uno."
 
 #: public/views/walletHome.html:447
 msgid "To bind the payment to a condition, please click the peer's address in chat"
