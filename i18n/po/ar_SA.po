@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2019-07-23 21:51\n"
+"PO-Revision-Date: 2019-08-16 13:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -43,7 +43,7 @@ msgstr "12 كلمة مفصولة بوصلات"
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
-msgstr ""
+msgstr "حول Obyte"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
@@ -79,7 +79,7 @@ msgstr "أضف جهة إتصال جديدة"
 
 #: public/views/preferencesEditRealNameAttestors.html:25
 msgid "Add address"
-msgstr ""
+msgstr "إضافة عنوان"
 
 #: public/views/walletHome.html:598
 msgid "Add answer"
@@ -115,7 +115,7 @@ msgstr "لائحة العناوين"
 
 #: public/views/preferencesEditRealNameAttestors.html:15
 msgid "Addresses"
-msgstr ""
+msgstr "العناوين"
 
 #: public/views/preferences.html:66
 msgid "Advanced"
@@ -180,7 +180,7 @@ msgstr "المبلغ"
 
 #: public/views/walletHome.html:598
 msgid "Answer"
-msgstr ""
+msgstr "إجابة"
 
 #: public/views/modals/vote.html:22
 msgid "Answer:"
@@ -205,7 +205,7 @@ msgstr "الممتلكات"
 
 #: public/views/walletHome.html:556
 msgid "Attest profile data linked to any Obyte address."
-msgstr ""
+msgstr "قم بالتحقق من بيانات بروفايل جميع عناوين Obyte."
 
 #: public/views/walletHome.html:345
 msgid "Attestation"
@@ -296,7 +296,7 @@ msgstr "ربط عملية الدفع بشرط"
 
 #: public/views/walletHome.html:437
 msgid "Bind the payment to a condition..."
-msgstr ""
+msgstr "ربط عملية الدفع بشرط..."
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -416,7 +416,7 @@ msgstr "إغلاق"
 
 #: public/views/create.html:90
 msgid "Co-signer"
-msgstr ""
+msgstr "المشارك"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
@@ -481,12 +481,12 @@ msgstr "نسخ"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents and chats are not restored."
-msgstr ""
+msgstr "تعذر إسترجاع المراسلين والمحادثات."
 
 #: public/views/modals/offer-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:111
 msgid "Cosigners"
-msgstr ""
+msgstr "المشاركين"
 
 #: src/js/controllers/walletHome.js:708
 msgid "Could not create payment proposal"
@@ -574,7 +574,7 @@ msgstr "البيانات على سجل المستجدات"
 
 #: public/views/walletHome.html:488
 msgid "Data to be posted with the payment:"
-msgstr ""
+msgstr "البيانات التي سيتم نشرها عند الدفع:"
 
 #: public/views/walletHome.html:598
 msgid "Datafeed name"
@@ -666,7 +666,7 @@ msgstr "تنزيل الملف بصيغة CSV"
 
 #: public/views/splash.html:26
 msgid "Download the entire Obyte database"
-msgstr ""
+msgstr "تحميل قاعدة بيانات Obyte بأكملها"
 
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
@@ -696,7 +696,7 @@ msgstr "تعذر إنشاء المحفظة"
 
 #: public/views/modals/view-prosaic-contract.html:68
 msgid "Expired on"
-msgstr ""
+msgstr "انتهت مدة الصلاحية في"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -766,7 +766,7 @@ msgstr "إحداث ملف بصيغة csv..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet"
-msgstr ""
+msgstr "الحصول على عنوان للمحفظة"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -815,7 +815,7 @@ msgstr "أشهد على أنني قمت بالإطلاع و فهم و الموا
 
 #: public/views/includes/backup-reminder.html:14
 msgid "I created a backup"
-msgstr ""
+msgstr "أنا أنشأت نسخة احتياطية"
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
