@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2019-08-16 14:30\n"
+"PO-Revision-Date: 2019-08-16 14:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1296,7 +1296,7 @@ msgstr "السؤال:"
 
 #: public/views/preferencesAttestorAddresses.html:16
 msgid "Real name attestors"
-msgstr ""
+msgstr "المصادقون على الاسم الحقيقي"
 
 #: src/js/controllers/index.js:810
 msgid "Receive"
@@ -1321,7 +1321,7 @@ msgstr "إسترجاع"
 
 #: public/views/preferencesGlobal.html:135
 msgid "Recover with seed words"
-msgstr ""
+msgstr "استعادة بواسطة الكلمات البذور"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1337,7 +1337,7 @@ msgstr "معلومات حول الإصدار"
 
 #: public/views/includes/backup-reminder.html:11
 msgid "Remind Later"
-msgstr ""
+msgstr "التذكير لاحقًا"
 
 #: public/views/modals/destination-address.html:85
 msgid "Remove"
@@ -1383,7 +1383,7 @@ msgstr "العدد المطلوب من التوقيعات"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
-msgstr ""
+msgstr "استعادة جميع بيانات المحفظة"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
@@ -1391,7 +1391,7 @@ msgstr "إعادة المحاولة..."
 
 #: public/views/modals/view-prosaic-contract.html:144
 msgid "Revoke"
-msgstr ""
+msgstr "إلغاء"
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1416,7 +1416,7 @@ msgstr "حفظ الإعدادت..."
 
 #: public/views/preferences.html:76
 msgid "Scan Fingerprint/FaceID"
-msgstr ""
+msgstr "مسح البصمة/FaceID"
 
 #: public/views/walletHome.html:121
 msgid "Scan status finished with error"
@@ -1448,7 +1448,7 @@ msgstr "قم بإختيار المحفظة الثانوية"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the wallet"
-msgstr ""
+msgstr "حدد الأصول التي سوف تكون مخفية في المحفظة"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1547,7 +1547,7 @@ msgstr "توقيع الرسالة"
 
 #: public/views/editCorrespondentDevice.html:57
 msgid "Signed contracts:"
-msgstr ""
+msgstr "العقود الموقعة:"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
@@ -1578,7 +1578,7 @@ msgstr "تحديد الـ seed..."
 
 #: public/views/preferencesGlobal.html:94
 msgid "Spend unconfirmed funds"
-msgstr ""
+msgstr "انفاق تمويل غير مؤكد"
 
 #: public/views/preferences.html:70
 #: public/views/preferencesGlobal.html:86
@@ -1786,7 +1786,7 @@ msgstr "من أجل حماية خصوصيتك, نحن نقوم بإنشاء عن
 
 #: public/views/modals/view-prosaic-contract.html:95
 msgid "To verify contract integrity, SHA256 hash is calculated from three concatenated components: sha256(title+text+creation_date) and encoded in BASE64 format. After the contract was accepted, a unit with its hash was posted into the DAG. You can check that contract text was not modified by comparing the hashes in the DAG and calculated from this contract."
-msgstr ""
+msgstr "للتحقق من سلامة العقد ، يتم حساب تجزئة SHA256 من ثلاثة مكونات متسلسلة: sha256 (العنوان + النّص+ تاريخ الانشاء) ومشفرة بتنسيق BASE64. بعد قبول العقد ، تم نشر وحدة بتجزئة في DAG. يمكنك التحقق من أن نص العقد لم يتم تعديله من خلال مقارنة التجزئة في DAG وحسابها من هذا العقد."
 
 #: public/views/walletHome.html:222
 msgid "Total Locked Balance"
@@ -1807,7 +1807,8 @@ msgstr "المعاملة"
 #: src/js/controllers/index.js:271
 msgid "Transaction created.\n"
 "Please approve it on the other devices."
-msgstr ""
+msgstr "تم إنشاء المعاملة.\n"
+"يرجى الموافقة عليها على الأجهزة الأخرى."
 
 #: public/views/walletHome.html:678
 msgid "Transactions<br> Downloaded"
@@ -2019,7 +2020,7 @@ msgstr "يجب التأكد من هويتك قبل أن تحصل على بروف
 
 #: public/views/modals/offer-prosaic-contract.html:92
 msgid "You will be charged {{CHARGE_AMOUNT}} bytes to compensate for fees when posting signature proof."
-msgstr ""
+msgstr "سيتم محاسبتك {{CHARGE_AMOUNT}} بايت للتعويض عن الرسوم عند نشر دليل التوقيع."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
