@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2019-08-16 14:20\n"
+"PO-Revision-Date: 2019-08-16 14:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1117,7 +1117,7 @@ msgstr "كود الإقتران"
 
 #: public/views/paperWallet.html:79
 msgid "Paper wallets are just textcoins. Scan the paper wallet's QR code using the camera icon in the upper right corner or input the 12 words of the textcoin manually on the \"Receive\" tab."
-msgstr ""
+msgstr "محافظ الورق هي مجرد عملات نصية. قم بمسح رمز QR الخاص بمحفظة الورق باستخدام رمز الكاميرا في الزاوية العلوية اليمنى أو قم بإدخال 12 كلمة من عملة النص يدوياً في علامة التبويب \"تلقي\"."
 
 #: public/views/paperWallet.html:39
 msgid "Passphrase"
@@ -1178,7 +1178,7 @@ msgstr "إحذف نهائيا هذه المحفظة. هذا الإجراء لا 
 
 #: src/js/controllers/correspondentDevice.js:1331
 msgid "Personal code"
-msgstr ""
+msgstr "الكود الشّخصي"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
@@ -1186,11 +1186,11 @@ msgstr "المحفظة الرسمية"
 
 #: src/js/controllers/index.js:276
 msgid "Please approve contract fees deposit on the other devices."
-msgstr ""
+msgstr "يرجى الموافقة على إيداع رسوم العقد على الأجهزة الأخرى."
 
 #: src/js/controllers/index.js:281
 msgid "Please approve posting prosaic contract hash on the other devices."
-msgstr ""
+msgstr "يرجى الموافقة على نشر تجزئة العقد prosaic على الأجهزة الأخرى."
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
@@ -1210,7 +1210,7 @@ msgstr "قم بالتحول إلى المحفظة ذات عنوان واحد و 
 
 #: public/views/includes/backup-reminder.html:8
 msgid "Please visit the Backups section in"
-msgstr ""
+msgstr "يرجى زيارة قسم النسخ الاحتياطي في"
 
 #: public/views/walletHome.html:348
 msgid "Poll"
@@ -1222,11 +1222,11 @@ msgstr "المنفذ"
 
 #: public/views/walletHome.html:565
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
-msgstr ""
+msgstr "انشر استطلاعًا في شبكة Obyte بحيث يمكن للمستخدمين التصويت باستخدام بوت استطلاع الرأي."
 
 #: public/views/walletHome.html:562
 msgid "Post arbitrary key-value pairs of data into Obyte network."
-msgstr ""
+msgstr "قم بنشر قيم للمفاتيح بشكل عشوائي على شبكة Obyte."
 
 #: public/views/walletHome.html:553
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1247,7 +1247,7 @@ msgstr "أعد الضغط للخروج"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
-msgstr ""
+msgstr "لا يتم استرداد الأصول الخاصة (مثل blackbytes) والعقود الذكية."
 
 #: src/js/controllers/walletHome.js:1924
 #: src/js/controllers/walletHome.js:2000
@@ -1272,11 +1272,11 @@ msgstr "قيمة نطاق البروفيل"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "Proof of contract signing"
-msgstr ""
+msgstr "إثبات توقيع العقد"
 
 #: public/views/modals/view-prosaic-contract.html:57
 msgid "Prosaic contract"
-msgstr ""
+msgstr "عقد Prosaic"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1288,7 +1288,7 @@ msgstr "ماسح رمز الإستجابة السريع"
 
 #: public/views/walletHome.html:585
 msgid "Question to be voted on"
-msgstr ""
+msgstr "سؤال للتصويت عليه"
 
 #: public/views/modals/vote.html:17
 msgid "Question:"
