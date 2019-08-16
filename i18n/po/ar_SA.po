@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2019-08-16 13:50\n"
+"PO-Revision-Date: 2019-08-16 14:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2100,7 +2100,7 @@ msgstr "مفحوصة من طرف:"
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attestor is not trusted by you"
-msgstr ""
+msgstr "الموثق غير موثوق به من قبلك"
 
 #: public/views/walletHome.html:598
 msgid "available"
@@ -2117,7 +2117,7 @@ msgstr ""
 #: public/views/modals/address-definition.html:16
 #: public/views/modals/multi-payment.html:28
 msgid "can be spent if:"
-msgstr ""
+msgstr "يمكن إنفاقه إذا:"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2158,7 +2158,7 @@ msgstr "أيام"
 #: public/views/modals/bind.html:82
 #: public/views/modals/offer-contract.html:99
 msgid "detailed instructions about using"
-msgstr ""
+msgstr "تعليمات مفصلة حول الاستخدام"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
@@ -2232,7 +2232,7 @@ msgstr "غير صالح"
 #: public/views/modals/destination-address.html:73
 #: public/views/paymentUri.html:37
 msgid "of"
-msgstr ""
+msgstr "من"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
@@ -2254,7 +2254,7 @@ msgstr "أو"
 
 #: public/views/backup.html:24
 msgid "or backup all Obyte data at"
-msgstr ""
+msgstr "أو قم بنسخ احتياطي لجميع بيانات الـ Obyte في"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
@@ -2266,7 +2266,7 @@ msgstr "تم النشر"
 
 #: public/views/modals/share.html:30
 msgid "re"
-msgstr ""
+msgstr "إعادة"
 
 #: public/views/modals/tx-details.html:154
 msgid "re-send private payloads"
@@ -2278,11 +2278,11 @@ msgstr "أعد إرسال الحمولات الخاصة إلى المشاركي�
 
 #: public/views/correspondentDevices.html:171
 msgid "search by bot name"
-msgstr ""
+msgstr "البحث بواسطة اسم البوت"
 
 #: public/views/correspondentDevices.html:112
 msgid "search by contact name"
-msgstr ""
+msgstr "البحث عن طريق اسم جهة الاتصال"
 
 #: public/views/modals/share.html:35
 msgid "send"
@@ -2319,7 +2319,7 @@ msgstr "قم بالتغيير إلى عنوان واحد"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "the contract is not signed yet"
-msgstr ""
+msgstr "لم يتم توقيع العقد بعد"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2331,7 +2331,7 @@ msgstr "الى"
 
 #: src/js/controllers/index.js:371
 msgid "together with"
-msgstr ""
+msgstr "بالتعاون مع"
 
 #: public/views/walletHome.html:459
 #: public/views/walletHome.html:470
@@ -2341,11 +2341,11 @@ msgstr "طويل جدا!"
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 msgid "trusted"
-msgstr ""
+msgstr "موثوق"
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
-msgstr ""
+msgstr "وحدة في DAG:"
 
 #: public/views/modals/signed-message.html:30
 #: public/views/modals/view-prosaic-contract.html:102
@@ -2354,11 +2354,11 @@ msgstr "صالحة"
 
 #: public/views/modals/view-prosaic-contract.html:100
 msgid "validate contract integrity"
-msgstr ""
+msgstr "التحقق من صحة العقد"
 
 #: src/js/controllers/walletHome.js:909
 msgid "wait for sync to complete before sending payments"
-msgstr ""
+msgstr "انتظر المزامنة الكاملة قبل إرسال المدفوعات"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
