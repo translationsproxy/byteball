@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2019-07-23 21:51\n"
+"PO-Revision-Date: 2019-08-20 03:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -123,7 +123,7 @@ msgstr "高级"
 
 #: public/views/modals/view-prosaic-contract.html:136
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "在接受合同后，您将被要求签署包含该合同哈希的交易。当要约人收到回复时，这个第二步就会发生。"
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -251,7 +251,7 @@ msgstr "返回"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup all wallet data"
-msgstr ""
+msgstr "备份所有钱包数据"
 
 #: public/views/walletHome.html:250
 msgid "Backup now"
@@ -259,7 +259,7 @@ msgstr "立即备份"
 
 #: public/views/preferencesGlobal.html:126
 msgid "Backup only the seed words"
-msgstr ""
+msgstr "仅备份单词恢复短语"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -296,7 +296,7 @@ msgstr "绑定支付到一个条款"
 
 #: public/views/walletHome.html:437
 msgid "Bind the payment to a condition..."
-msgstr ""
+msgstr "绑定付款到条件..."
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -378,7 +378,7 @@ msgstr "声称..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to"
-msgstr ""
+msgstr "点击按钮"
 
 #: public/views/walletHome.html:537
 msgid "Click this button to create a payment file and send it to a recipient."
@@ -416,7 +416,7 @@ msgstr "关闭"
 
 #: public/views/create.html:90
 msgid "Co-signer"
-msgstr ""
+msgstr "共同签名"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
@@ -481,7 +481,7 @@ msgstr "复制"
 
 #: public/views/recoveryFromSeed.html:42
 msgid "Correspondents and chats are not restored."
-msgstr ""
+msgstr "通讯员和聊天室没有恢复。"
 
 #: public/views/modals/offer-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:111
@@ -574,7 +574,7 @@ msgstr "数据导入datafeed"
 
 #: public/views/walletHome.html:488
 msgid "Data to be posted with the payment:"
-msgstr ""
+msgstr "付款时公布的数据："
 
 #: public/views/walletHome.html:598
 msgid "Datafeed name"
@@ -696,7 +696,7 @@ msgstr "生成钱包时出错"
 
 #: public/views/modals/view-prosaic-contract.html:68
 msgid "Expired on"
-msgstr ""
+msgstr "过期时间"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -730,7 +730,7 @@ msgstr "领域"
 
 #: src/js/controllers/export.js:88
 msgid "File saved to /Obyte/. You can now also send it somewhere using chat apps or email to have more copies of the backup"
-msgstr ""
+msgstr "文件已保存到 /Obyte/。您现在也可以通过聊天应用或电子邮件发送它，以便有更多备份"
 
 #: public/views/modals/tx-details.html:119
 msgid "Finality"
@@ -766,7 +766,7 @@ msgstr "产生csv文件中..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet"
-msgstr ""
+msgstr "获取钱包地址"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -815,7 +815,7 @@ msgstr "我确定我已经读过，理解并且同意这些条款。"
 
 #: public/views/includes/backup-reminder.html:14
 msgid "I created a backup"
-msgstr ""
+msgstr "我创建了一个备份"
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
