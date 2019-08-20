@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2019-08-20 04:08\n"
+"PO-Revision-Date: 2019-08-20 04:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -292,7 +292,7 @@ msgstr "绑定支付"
 
 #: public/views/walletHome.html:450
 msgid "Bind the payment to a condition"
-msgstr "绑定支付到一个条款"
+msgstr "将付款绑定到一个条件"
 
 #: public/views/walletHome.html:437
 msgid "Bind the payment to a condition..."
@@ -1816,7 +1816,7 @@ msgstr "交易历史<br>下载完毕"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
-msgstr "翻译人员"
+msgstr "翻译志愿者"
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
