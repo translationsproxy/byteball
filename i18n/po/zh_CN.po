@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2019-08-20 04:40\n"
+"PO-Revision-Date: 2019-08-20 04:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -35,7 +35,7 @@ msgstr "(潜在双重花费)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
-msgstr "-- 选择多重签名账户 --"
+msgstr "-- 选择共同签名账户 --"
 
 #: public/views/modals/claim-textcoin.html:32
 msgid "12 words separated by dashes"
@@ -167,7 +167,7 @@ msgstr ""
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr "此外，不要忘记删除你的口令私钥"
+msgstr "此外，不要忘记删除你的助记词私钥"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -279,7 +279,7 @@ msgstr "地址余额"
 
 #: public/views/walletHome.html:244
 msgid "Before receiving funds, it is highly recommended you backup your wallet keys."
-msgstr "接收资金之前，强烈建议您备份钱包助记词。"
+msgstr "在收到资金之前，建议您备份你的钱包密钥。"
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
@@ -502,7 +502,7 @@ msgstr "无法使用指定的扩展公钥创建"
 
 #: src/js/services/profileService.js:274
 msgid "Could not create: Invalid wallet seed"
-msgstr "无法创建：无效的钱包助记词"
+msgstr "无法创建：无效的钱包助记词私钥"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
@@ -645,7 +645,7 @@ msgstr "与您通信的其他设备可以看到此设备名称。"
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr "不要复制钱包，停止在原始钱包上使用这个口令私匙。"
+msgstr "不要复制钱包，停止在原始钱包上使用这个助记词私钥。"
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
@@ -770,7 +770,7 @@ msgstr "获取钱包地址"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
-msgstr "全局首选项"
+msgstr "全局设置"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
@@ -914,7 +914,7 @@ msgstr "邀请其他设备"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr "仅仅钱包恢复词是不够的。仅靠恢复词，不能恢复多重签名钱包、智能合同、联系人、聊天历史以及匿名字节等私人资产。"
+msgstr "仅仅钱包助记词短语是不够的。仅靠助记词短语，不能恢复多重签名钱包、智能合同、联系人、聊天历史以及匿名字节等私人资产。"
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -983,7 +983,7 @@ msgstr "已移动"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr "多重签名钱包"
+msgstr "多设备钱包"
 
 #: public/views/walletHome.html:258
 msgid "My Obyte address"
@@ -1534,7 +1534,7 @@ msgstr "显示所有"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr "无论如何显示钱包助记词"
+msgstr "无论如何显示钱包助记词私钥"
 
 #: public/views/modals/sign-message.html:46
 msgid "Sign"
