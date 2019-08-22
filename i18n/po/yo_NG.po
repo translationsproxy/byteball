@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-08-22 06:52\n"
+"PO-Revision-Date: 2019-08-22 07:08\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1808,7 +1808,8 @@ msgstr "Idunadura"
 #: src/js/controllers/index.js:271
 msgid "Transaction created.\n"
 "Please approve it on the other devices."
-msgstr ""
+msgstr "A ti ṣẹda idunadura.\n"
+"Jọwọ fọwọsi lori awọn ẹrọ yooku naa."
 
 #: public/views/walletHome.html:678
 msgid "Transactions<br> Downloaded"
@@ -1865,7 +1866,7 @@ msgstr "Gbigbesoke àkójọpọ̀ détà, jowo duro. Nigbami o le lo iseju die.
 
 #: public/views/modals/view-prosaic-contract.html:67
 msgid "Valid till"
-msgstr ""
+msgstr "O fẹsẹmulẹ titi di"
 
 #: public/views/walletHome.html:492
 #: public/views/walletHome.html:598
@@ -1903,7 +1904,7 @@ msgstr "AWON IKILO:"
 
 #: public/views/splash.html:53
 msgid "WELCOME TO O<sub>byte</sub>"
-msgstr ""
+msgstr "KAABỌ SI O<sub>byte</sub>"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
@@ -1940,7 +1941,7 @@ msgstr "Oruko apamowo (ni iseda)"
 
 #: src/js/services/profileService.js:456
 msgid "Wallet already in Obyte:"
-msgstr ""
+msgstr "Apamọwọ ti wa ninu Obyte tẹlẹ:"
 
 #: public/views/create.html:48
 msgid "Wallet name"
@@ -2320,7 +2321,7 @@ msgstr "yipada si adiresi okan"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "the contract is not signed yet"
-msgstr ""
+msgstr "a ko tii buwọ lu adehun naa"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
