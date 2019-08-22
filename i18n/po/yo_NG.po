@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-08-22 07:30\n"
+"PO-Revision-Date: 2019-08-22 07:32\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -987,7 +987,7 @@ msgstr "Apamowo ero olona"
 
 #: public/views/walletHome.html:258
 msgid "My Obyte address"
-msgstr ""
+msgstr "Adirẹẹsi Obyte mi"
 
 #: public/views/correspondentDevice.html:300
 msgid "My recording preference"
