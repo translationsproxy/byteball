@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-08-22 06:32\n"
+"PO-Revision-Date: 2019-08-22 06:52\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2056,11 +2056,11 @@ msgstr "[fikun ero ajo ibuwolu titun]"
 #: public/views/modals/view-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:82
 msgid "address"
-msgstr ""
+msgstr "adirẹẹsi"
 
 #: public/views/preferencesAttestorAddresses.html:18
 msgid "addresses"
-msgstr ""
+msgstr "awọn adirẹẹsi"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
@@ -2118,7 +2118,7 @@ msgstr ""
 #: public/views/modals/address-definition.html:16
 #: public/views/modals/multi-payment.html:28
 msgid "can be spent if:"
-msgstr ""
+msgstr "le jẹ nina ti:"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2150,7 +2150,7 @@ msgstr "ti seda"
 
 #: public/views/modals/view-prosaic-contract.html:96
 msgid "creation date:"
-msgstr ""
+msgstr "ọjọ ṣiṣẹda:"
 
 #: public/views/modals/offer-contract.html:109
 msgid "days"
@@ -2159,7 +2159,7 @@ msgstr "awon ojo"
 #: public/views/modals/bind.html:82
 #: public/views/modals/offer-contract.html:99
 msgid "detailed instructions about using"
-msgstr ""
+msgstr "awọn ẹkunrẹrẹ alaye nipa lilo"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
@@ -2233,11 +2233,11 @@ msgstr ""
 #: public/views/modals/destination-address.html:73
 #: public/views/paymentUri.html:37
 msgid "of"
-msgstr ""
+msgstr "ti"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
-msgstr ""
+msgstr "ni"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -2283,7 +2283,7 @@ msgstr "ṣawari nipasẹ orukọ bot"
 
 #: public/views/correspondentDevices.html:112
 msgid "search by contact name"
-msgstr ""
+msgstr "ṣawari nipasẹ orukọ olubasọrọ"
 
 #: public/views/modals/share.html:35
 msgid "send"
@@ -2346,7 +2346,7 @@ msgstr ""
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
-msgstr ""
+msgstr "ẹyọ ninu DAG:"
 
 #: public/views/modals/signed-message.html:30
 #: public/views/modals/view-prosaic-contract.html:102
