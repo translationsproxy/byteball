@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-08-22 05:50\n"
+"PO-Revision-Date: 2019-08-22 06:02\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -143,7 +143,7 @@ msgstr "Gbogbo Awon Adiresi Apamowo"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
-msgstr ""
+msgstr "Gbogbo iranlọwọ si itumọ ti Obyte ni a tẹwọ gba. Forukọ silẹ ni crowdin.com ati parapọ mọ iṣẹ O<sub>byte</sub> naa ni"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -163,7 +163,7 @@ msgstr "Bakannaa ni akojo asayan, iwo yoo wa awon asayan aabo bi eto oro igbaniw
 
 #: public/views/walletHome.html:482
 msgid "Also send data..."
-msgstr ""
+msgstr "Tun fi data ranṣẹ..."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -378,7 +378,7 @@ msgstr "Gbigba..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to"
-msgstr ""
+msgstr "Tẹ bọtinni naa lati"
 
 #: public/views/walletHome.html:537
 msgid "Click this button to create a payment file and send it to a recipient."
