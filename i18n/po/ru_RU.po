@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2019-08-22 05:21\n"
+"PO-Revision-Date: 2019-08-22 05:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -766,7 +766,7 @@ msgstr "Создание .сsv-файла..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet"
-msgstr ""
+msgstr "Получение адреса для кошелька"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -827,11 +827,11 @@ msgstr "я получаю другой платёж"
 
 #: src/js/controllers/correspondentDevice.js:1336
 msgid "ID expires at"
-msgstr ""
+msgstr "ID истекает"
 
 #: src/js/controllers/correspondentDevice.js:1337
 msgid "ID issued at"
-msgstr ""
+msgstr "ID выдан"
 
 #: src/js/controllers/correspondentDevice.js:1333
 msgid "ID number"
