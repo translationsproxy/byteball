@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2019-08-22 05:41\n"
+"PO-Revision-Date: 2019-08-22 08:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -815,7 +815,7 @@ msgstr "Я подтверждаю, что я прочитал(а), понял(а
 
 #: public/views/includes/backup-reminder.html:14
 msgid "I created a backup"
-msgstr ""
+msgstr "Я создал(а) резервную копию"
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
