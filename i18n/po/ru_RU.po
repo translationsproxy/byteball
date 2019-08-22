@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2019-08-22 12:08\n"
+"PO-Revision-Date: 2019-08-22 12:17\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1271,7 +1271,7 @@ msgstr "Значение в поле профиля"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "Proof of contract signing"
-msgstr ""
+msgstr "Доказательство подписания контракта"
 
 #: public/views/modals/view-prosaic-contract.html:57
 msgid "Prosaic contract"
@@ -1320,7 +1320,7 @@ msgstr "Восстановить"
 
 #: public/views/preferencesGlobal.html:135
 msgid "Recover with seed words"
-msgstr ""
+msgstr "Восстановить с помощью мнемофразы"
 
 #: public/views/walletHome.html:80
 msgid "Recreating Wallet..."
@@ -1677,7 +1677,7 @@ msgstr "Подпись"
 
 #: public/views/includes/backup-reminder.html:7
 msgid "The total amount in your wallet is"
-msgstr ""
+msgstr "Общая сумма в вашем кошельке"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
@@ -1714,7 +1714,7 @@ msgstr "Этот вариант лучше для безопасности (ва
 
 #: public/views/walletHome.html:438
 msgid "This payment is bound to a condition..."
-msgstr ""
+msgstr "Этот платеж привязан к условию..."
 
 #: src/js/controllers/correspondentDevice.js:150
 msgid "This payment must be paid only from single-address wallet"
@@ -1748,7 +1748,7 @@ msgstr "Все ваши существующие кошельки будут б�
 #: public/views/modals/offer-prosaic-contract.html:66
 #: public/views/modals/view-prosaic-contract.html:85
 msgid "Title of contract"
-msgstr ""
+msgstr "Название контракта"
 
 #: public/views/includes/output.html:2
 #: public/views/includes/transaction.html:19
@@ -1761,7 +1761,7 @@ msgstr "Кому"
 
 #: public/views/walletHome.html:400
 msgid "To Obyte address"
-msgstr ""
+msgstr "На Obyte адрес"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
