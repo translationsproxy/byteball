@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2019-08-22 08:01\n"
+"PO-Revision-Date: 2019-08-22 12:08\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1336,7 +1336,7 @@ msgstr "Информация о выпуске"
 
 #: public/views/includes/backup-reminder.html:11
 msgid "Remind Later"
-msgstr ""
+msgstr "Напомнить позже"
 
 #: public/views/modals/destination-address.html:85
 msgid "Remove"
@@ -1382,7 +1382,7 @@ msgstr "Требуемое число подписей"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
-msgstr ""
+msgstr "Восстановить все данные кошелька"
 
 #: public/views/splash.html:64
 msgid "Retrying..."
