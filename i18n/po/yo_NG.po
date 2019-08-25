@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-08-25 11:30\n"
+"PO-Revision-Date: 2019-08-25 11:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -914,7 +914,7 @@ msgstr "Pe ero ikeji"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr ""
+msgstr "Irugbin apamọwọ naa nikan ko to. Pẹlu irugbin naa nikan, iwọ ko ni le ṣe idapada awọn apamọwọ to ni ibuwọlu-pupọ, awọn adehun to jafafa, awọn olubasọrọ, akọsilẹ ọrọ sisọ, ati awọn dukia ikọkọ bii blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
