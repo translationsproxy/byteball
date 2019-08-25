@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-08-23 17:01\n"
+"PO-Revision-Date: 2019-08-25 06:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -123,7 +123,7 @@ msgstr "Ti ni Ilosiwaju"
 
 #: public/views/modals/view-prosaic-contract.html:136
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "Leyin titẹwọgba adehun naa, iwọ yíò ni lati buwọlu idunadura kan to ko hash adehun yii sinu. Igbesẹ keji yii yio ṣẹlẹ ni gbara ti olupese naa ba gba idahun rẹ."
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
