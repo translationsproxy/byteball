@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-08-25 22:08\n"
+"PO-Revision-Date: 2019-08-25 22:26\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -975,7 +975,7 @@ msgstr "Ifiranse:"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
-msgstr ""
+msgstr "Afikun"
 
 #: public/views/walletHome.html:690
 msgid "Moved"
@@ -1179,7 +1179,7 @@ msgstr "Pa apamowo yi re laitojo. IGBESE YI KO SE DAPADA"
 
 #: src/js/controllers/correspondentDevice.js:1331
 msgid "Personal code"
-msgstr ""
+msgstr "Koodu aladaani"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
@@ -1187,7 +1187,7 @@ msgstr "Apamowo Gbangba"
 
 #: src/js/controllers/index.js:276
 msgid "Please approve contract fees deposit on the other devices."
-msgstr ""
+msgstr "Jọwọ fọwọsi sisan awọn owo adehun lori awọn ẹrọ yooku naa."
 
 #: src/js/controllers/index.js:281
 msgid "Please approve posting prosaic contract hash on the other devices."
@@ -1211,7 +1211,7 @@ msgstr "Jowo yipada si apamowo oni adireesi kan ati pe o nilo lati tun fi adires
 
 #: public/views/includes/backup-reminder.html:8
 msgid "Please visit the Backups section in"
-msgstr ""
+msgstr "Jọwọ ṣe abẹwo abala Ẹda abọ-aba naa ninu"
 
 #: public/views/walletHome.html:348
 msgid "Poll"
@@ -2079,7 +2079,7 @@ msgstr "ati pa textcoin na re lati fi pamo fun awon eyan buburu."
 
 #: public/views/includes/backup-reminder.html:7
 msgid "and it is recommended you back it up."
-msgstr ""
+msgstr "ati pe a gba ọ niyanju lati ṣe ẹda abọ-aba rẹ."
 
 #: public/views/modals/accept-profile.html:31
 #: public/views/modals/offer-prosaic-contract.html:55
@@ -2356,7 +2356,7 @@ msgstr "ifesemule"
 
 #: public/views/modals/view-prosaic-contract.html:100
 msgid "validate contract integrity"
-msgstr ""
+msgstr "jẹri si pipe adehun"
 
 #: src/js/controllers/walletHome.js:909
 msgid "wait for sync to complete before sending payments"
