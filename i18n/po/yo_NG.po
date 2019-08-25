@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-08-25 07:00\n"
+"PO-Revision-Date: 2019-08-25 11:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -766,7 +766,7 @@ msgstr "Pilese faili .csv..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet"
-msgstr ""
+msgstr "Gbigba adirẹẹsi fun apamọwọ"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -815,7 +815,7 @@ msgstr "Mo jeri daju pe moti ka, la kaye, mosi faramo awon ofin yi."
 
 #: public/views/includes/backup-reminder.html:14
 msgid "I created a backup"
-msgstr ""
+msgstr "Mo ti ṣẹda ẹda abọ-aba kan"
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
