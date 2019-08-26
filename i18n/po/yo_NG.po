@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-08-26 07:10\n"
+"PO-Revision-Date: 2019-08-26 07:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -205,7 +205,7 @@ msgstr "Dukia"
 
 #: public/views/walletHome.html:556
 msgid "Attest profile data linked to any Obyte address."
-msgstr ""
+msgstr "Jẹrisi data apejuwe to sopọ mọ eyikeyii adirẹẹsi Obyte."
 
 #: public/views/walletHome.html:345
 msgid "Attestation"
