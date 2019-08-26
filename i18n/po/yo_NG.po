@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-08-26 05:50\n"
+"PO-Revision-Date: 2019-08-26 06:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -666,7 +666,7 @@ msgstr "Gba faili CSV lati ayelujara"
 
 #: public/views/splash.html:26
 msgid "Download the entire Obyte database"
-msgstr ""
+msgstr "Gba gbogbo akojọpọ data Obyte naa"
 
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
@@ -1297,7 +1297,7 @@ msgstr "Ibere:"
 
 #: public/views/preferencesAttestorAddresses.html:16
 msgid "Real name attestors"
-msgstr ""
+msgstr "Awọn olujẹri orukọ gidi"
 
 #: src/js/controllers/index.js:810
 msgid "Receive"
@@ -2102,7 +2102,7 @@ msgstr "ti gba ijẹrisi nipasẹ:"
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attestor is not trusted by you"
-msgstr "olujeri ko ni igbẹkẹle nipasẹ rẹ"
+msgstr "olujẹri ko ni igbẹkẹle nipasẹ rẹ"
 
 #: public/views/walletHome.html:598
 msgid "available"
