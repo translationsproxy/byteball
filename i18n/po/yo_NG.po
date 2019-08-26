@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-08-25 22:37\n"
+"PO-Revision-Date: 2019-08-26 05:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1227,7 +1227,7 @@ msgstr "Satẹjade idibo kan sinu ikanni Obyte ti awọn aṣamulo le dibo lori 
 
 #: public/views/walletHome.html:562
 msgid "Post arbitrary key-value pairs of data into Obyte network."
-msgstr ""
+msgstr "Satẹjade awọn isopọ kọkọrọ-iye ti data to wu ọ sinu ikanni Obyte."
 
 #: public/views/walletHome.html:553
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1248,7 +1248,7 @@ msgstr "Te lekan si lati jade"
 
 #: public/views/recoveryFromSeed.html:40
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
-msgstr ""
+msgstr "Awọn dukia ikọkọ (bii blackbytes) ati awọn adehun to jafafa ko ṣe gba pada."
 
 #: src/js/controllers/walletHome.js:1924
 #: src/js/controllers/walletHome.js:2000
@@ -2087,7 +2087,7 @@ msgstr "ati pe a gba ọ niyanju lati ṣe ẹda abọ-aba rẹ."
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attested by trusted attestor"
-msgstr "ti gba ijẹrisi nipasẹ olujeri ti a gbẹkẹle"
+msgstr "ti gba ijẹrisi nipasẹ olujẹri ti a gbẹkẹle"
 
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
