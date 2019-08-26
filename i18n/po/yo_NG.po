@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Yoruba\n"
 "Language: yo_NG\n"
-"PO-Revision-Date: 2019-08-26 06:10\n"
+"PO-Revision-Date: 2019-08-26 07:10\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -251,7 +251,7 @@ msgstr "Pada"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup all wallet data"
-msgstr ""
+msgstr "Ṣe ẹda abọ-aba gbogbo data apamọwọ"
 
 #: public/views/walletHome.html:250
 msgid "Backup now"
@@ -259,7 +259,7 @@ msgstr "Afeyinti bayi"
 
 #: public/views/preferencesGlobal.html:126
 msgid "Backup only the seed words"
-msgstr ""
+msgstr "Ṣe ẹda abọ-aba awọn ọrọ irugbin nikan naa"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -296,7 +296,7 @@ msgstr "Fi owo si owo ipo kan"
 
 #: public/views/walletHome.html:437
 msgid "Bind the payment to a condition..."
-msgstr ""
+msgstr "Ṣe isopọ isanwo naa mọ ipo kan..."
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
@@ -574,7 +574,7 @@ msgstr "Data sinu datafeed"
 
 #: public/views/walletHome.html:488
 msgid "Data to be posted with the payment:"
-msgstr ""
+msgstr "Data lati satẹjade pẹlu isanwo naa:"
 
 #: public/views/walletHome.html:598
 msgid "Datafeed name"
@@ -1787,7 +1787,7 @@ msgstr "Lati dabobo ikoko re, ipilese awon adiresi titun laifọwọyi ma nsele 
 
 #: public/views/modals/view-prosaic-contract.html:95
 msgid "To verify contract integrity, SHA256 hash is calculated from three concatenated components: sha256(title+text+creation_date) and encoded in BASE64 format. After the contract was accepted, a unit with its hash was posted into the DAG. You can check that contract text was not modified by comparing the hashes in the DAG and calculated from this contract."
-msgstr ""
+msgstr "Lati jẹrisi pipe adehun, a ṣe iṣiro hash SHA256 lati awọn eroja mẹta to sopọ: sha256(akọle+ọrọ+ọjọ_ṣiṣẹda) ti a sì paroko rẹ ni agbekalẹ BASE64. Lẹyin ti adehun naa gba itẹwọgba, ẹyọ kan pẹlu hash rẹ gba itẹjade sinu DAG naa. O le ṣayẹwo lati ri pe ọrọ adehun ko gba atunṣe nipasẹ ṣiṣe afiwe awọn hash to wa ninu DAG naa ati eyi ti a ṣe iṣiro lati adehun yii."
 
 #: public/views/walletHome.html:222
 msgid "Total Locked Balance"
@@ -2114,7 +2114,7 @@ msgstr "nipa adiresi"
 
 #: public/views/modals/view-prosaic-contract.html:106
 msgid "calculated hash:"
-msgstr ""
+msgstr "hash ti a ṣe iṣiro:"
 
 #: public/views/modals/address-definition.html:16
 #: public/views/modals/multi-payment.html:28
