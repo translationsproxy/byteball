@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2019-08-27 19:40\n"
+"PO-Revision-Date: 2019-08-27 20:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -913,7 +913,7 @@ msgstr "Пригласить другое устройство"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr ""
+msgstr "Сохранения только мнемофразы (seed) недостаточно. При наличии одной лишь мнемофразы, вы не сможете восстановить кошельки с мультиподписью, смарт-контракты, контакты, историю переписки и приватные активы, такие как blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -1058,7 +1058,7 @@ msgstr "Теперь вам нужно надежно сохранить это�
 
 #: public/index.html:12
 msgid "Obyte &mdash; smart payments"
-msgstr ""
+msgstr "Obyte &mdash; умные платежи"
 
 #: public/views/modals/destination-address.html:120
 msgid "Obyte address"
@@ -1806,7 +1806,8 @@ msgstr "Транзакция"
 #: src/js/controllers/index.js:271
 msgid "Transaction created.\n"
 "Please approve it on the other devices."
-msgstr ""
+msgstr "Транзакция создана.\n"
+"Пожалуйста, подтвердите ее на других устройствах."
 
 #: public/views/walletHome.html:678
 msgid "Transactions<br> Downloaded"
@@ -2055,11 +2056,11 @@ msgstr "[ Добавить новое устройство совладельц�
 #: public/views/modals/view-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:82
 msgid "address"
-msgstr ""
+msgstr "адрес"
 
 #: public/views/preferencesAttestorAddresses.html:18
 msgid "addresses"
-msgstr ""
+msgstr "адреса"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
