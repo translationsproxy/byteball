@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2019-09-05 07:41\n"
+"PO-Revision-Date: 2019-09-05 08:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -914,7 +914,7 @@ msgstr "Mengundang perangkat lain"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr ""
+msgstr "Hanya seed dompet tidak cukup. Dengan seed saja, Anda tidak akan dapat mengembalikan dompet multisig, kontrak pintar, kontak, riwayat obrolan, dan aset pribadi seperti blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -971,11 +971,11 @@ msgstr "Pesan"
 #: public/views/modals/sign-message.html:17
 #: public/views/modals/signed-message.html:17
 msgid "Message:"
-msgstr ""
+msgstr "Pesan:"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
-msgstr ""
+msgstr "Lainnya"
 
 #: public/views/walletHome.html:690
 msgid "Moved"
@@ -987,7 +987,7 @@ msgstr "Dompet Multiperangkat"
 
 #: public/views/walletHome.html:258
 msgid "My Obyte address"
-msgstr ""
+msgstr "Alamat Obyte saya"
 
 #: public/views/correspondentDevice.html:300
 msgid "My recording preference"
@@ -1055,19 +1055,19 @@ msgstr "Catatan"
 
 #: src/js/controllers/export.js:88
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
-msgstr ""
+msgstr "Sekarang Anda harus mengirim file ini ke suatu tempat untuk memulihkannya nanti (\"Simpan ke File\", kirim sendiri menggunakan aplikasi obrolan, dll.)"
 
 #: public/index.html:12
 msgid "Obyte &mdash; smart payments"
-msgstr ""
+msgstr "Obyte &mdash; pembayaran pintar"
 
 #: public/views/modals/destination-address.html:120
 msgid "Obyte address"
-msgstr ""
+msgstr "Alamat Obyte"
 
 #: public/views/modals/offer-prosaic-contract.html:88
 msgid "Offer Contract"
-msgstr ""
+msgstr "Menawarkan Kontrak"
 
 #: public/views/modals/offer-contract.html:33
 #: src/js/services/correspondentListService.js:129
@@ -1076,12 +1076,12 @@ msgstr "Menawarkan kontrak"
 
 #: public/views/modals/offer-prosaic-contract.html:72
 msgid "Offer is valid for"
-msgstr ""
+msgstr "Tawaran valid untuk"
 
 #: public/views/modals/offer-prosaic-contract.html:42
 #: src/js/services/correspondentListService.js:129
 msgid "Offer prosaic contract"
-msgstr ""
+msgstr "Tawarkan kontrak biasa"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
