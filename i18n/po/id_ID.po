@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2019-09-05 07:01\n"
+"PO-Revision-Date: 2019-09-05 07:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -574,15 +574,15 @@ msgstr "Data ke dalam datafeed"
 
 #: public/views/walletHome.html:488
 msgid "Data to be posted with the payment:"
-msgstr ""
+msgstr "Data akan diposting dengan pembayaran:"
 
 #: public/views/walletHome.html:598
 msgid "Datafeed name"
-msgstr ""
+msgstr "Nama datafeed"
 
 #: public/views/walletHome.html:598
 msgid "Datafeed value"
-msgstr ""
+msgstr "Nilai datafeed"
 
 #: public/views/modals/tx-details.html:94
 msgid "Date"
