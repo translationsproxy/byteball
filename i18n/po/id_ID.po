@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2019-09-05 07:21\n"
+"PO-Revision-Date: 2019-09-05 07:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -666,7 +666,7 @@ msgstr "Unduh berkas CSV"
 
 #: public/views/splash.html:26
 msgid "Download the entire Obyte database"
-msgstr ""
+msgstr "Mengunduh seluruh basisdata Byteball"
 
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
@@ -696,7 +696,7 @@ msgstr "Kesalahan membuat dompet"
 
 #: public/views/modals/view-prosaic-contract.html:68
 msgid "Expired on"
-msgstr ""
+msgstr "Berakhir pada"
 
 #: public/views/export.html:51
 msgid "Export"
@@ -726,11 +726,11 @@ msgstr "Biaya"
 #: public/views/walletHome.html:491
 #: public/views/walletHome.html:598
 msgid "Field"
-msgstr ""
+msgstr "Kolom"
 
 #: src/js/controllers/export.js:88
 msgid "File saved to /Obyte/. You can now also send it somewhere using chat apps or email to have more copies of the backup"
-msgstr ""
+msgstr "Berkas tersimpan di /Obyte/. Anda sekarang bisa mengirimnya menggunakan aplikasi obrolan atau surel untuk menyalin cadangan"
 
 #: public/views/modals/tx-details.html:119
 msgid "Finality"
@@ -766,7 +766,7 @@ msgstr "Membuat berkas .csv..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet"
-msgstr ""
+msgstr "Mendapatkan alamat untuk dompet"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -782,7 +782,7 @@ msgstr "Dompet perangkat keras"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr ""
+msgstr "Aset tersembunyi"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
