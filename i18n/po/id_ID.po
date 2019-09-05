@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2019-09-05 09:39\n"
+"PO-Revision-Date: 2019-09-05 09:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2150,7 +2150,7 @@ msgstr "dibuat"
 
 #: public/views/modals/view-prosaic-contract.html:96
 msgid "creation date:"
-msgstr ""
+msgstr "tanggal dibuat:"
 
 #: public/views/modals/offer-contract.html:109
 msgid "days"
@@ -2159,7 +2159,7 @@ msgstr "hari"
 #: public/views/modals/bind.html:82
 #: public/views/modals/offer-contract.html:99
 msgid "detailed instructions about using"
-msgstr ""
+msgstr "petunjuk detail tentang penggunaan"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
@@ -2183,11 +2183,11 @@ msgstr "secara jelas"
 
 #: public/views/modals/view-prosaic-contract.html:107
 msgid "hash published in DAG:"
-msgstr ""
+msgstr "hash yang diterbitkan di DAG:"
 
 #: public/views/modals/view-prosaic-contract.html:97
 msgid "hash source string:"
-msgstr ""
+msgstr "string sumber hash:"
 
 #: public/views/modals/bind.html:87
 #: public/views/modals/offer-contract.html:69
@@ -2209,7 +2209,7 @@ msgstr "di dompet pintar"
 
 #: public/views/modals/signed-message.html:29
 msgid "invalid"
-msgstr ""
+msgstr "tidak valid"
 
 #: public/views/modals/share.html:36
 msgid "keep for myself"
@@ -2225,7 +2225,7 @@ msgstr "belum diklaim"
 
 #: public/views/modals/view-prosaic-contract.html:103
 msgid "not valid"
-msgstr ""
+msgstr "tidak valid"
 
 #: public/views/copayers.html:26
 #: public/views/includes/sidebar.html:15
@@ -2233,11 +2233,11 @@ msgstr ""
 #: public/views/modals/destination-address.html:73
 #: public/views/paymentUri.html:37
 msgid "of"
-msgstr ""
+msgstr "dari"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
-msgstr ""
+msgstr "pada"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -2255,7 +2255,7 @@ msgstr "atau"
 
 #: public/views/backup.html:24
 msgid "or backup all Obyte data at"
-msgstr ""
+msgstr "atau cadangkan semua data Obyte di"
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
@@ -2267,7 +2267,7 @@ msgstr "diterbitkan"
 
 #: public/views/modals/share.html:30
 msgid "re"
-msgstr ""
+msgstr "re"
 
 #: public/views/modals/tx-details.html:154
 msgid "re-send private payloads"
@@ -2279,11 +2279,11 @@ msgstr "mengirim ulang muatan pribadi ke cosigners"
 
 #: public/views/correspondentDevices.html:171
 msgid "search by bot name"
-msgstr ""
+msgstr "cari dengan nama bot"
 
 #: public/views/correspondentDevices.html:112
 msgid "search by contact name"
-msgstr ""
+msgstr "cari dengan nama kontak"
 
 #: public/views/modals/share.html:35
 msgid "send"
@@ -2320,7 +2320,7 @@ msgstr "beralih ke alamat tunggal"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "the contract is not signed yet"
-msgstr ""
+msgstr "kontrak belum ditandatangani"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
@@ -2332,7 +2332,7 @@ msgstr "ke"
 
 #: src/js/controllers/index.js:371
 msgid "together with"
-msgstr ""
+msgstr "bersama dengan"
 
 #: public/views/walletHome.html:459
 #: public/views/walletHome.html:470
@@ -2342,24 +2342,24 @@ msgstr "terlalu panjang!"
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 msgid "trusted"
-msgstr ""
+msgstr "terpercaya"
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
-msgstr ""
+msgstr "unit dalam DAG:"
 
 #: public/views/modals/signed-message.html:30
 #: public/views/modals/view-prosaic-contract.html:102
 msgid "valid"
-msgstr ""
+msgstr "valid"
 
 #: public/views/modals/view-prosaic-contract.html:100
 msgid "validate contract integrity"
-msgstr ""
+msgstr "memvalidasi integritas kontrak"
 
 #: src/js/controllers/walletHome.js:909
 msgid "wait for sync to complete before sending payments"
-msgstr ""
+msgstr "tunggu sinkronisasi selesai sebelum mengirim pembayaran"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
