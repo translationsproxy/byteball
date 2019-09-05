@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2019-09-05 08:41\n"
+"PO-Revision-Date: 2019-09-05 08:53\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1166,7 +1166,7 @@ msgstr "Pembayaran Terkirim"
 #: public/views/modals/offer-prosaic-contract.html:58
 #: public/views/modals/view-prosaic-contract.html:77
 msgid "Peer"
-msgstr ""
+msgstr "Rekanan"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
@@ -1178,7 +1178,7 @@ msgstr "Hapus dompet ini secara permanen. TINDAKAN INI TIDAK DAPAT DIBALIK"
 
 #: src/js/controllers/correspondentDevice.js:1331
 msgid "Personal code"
-msgstr ""
+msgstr "Kode personal"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
@@ -1186,11 +1186,11 @@ msgstr "Dompet Polos"
 
 #: src/js/controllers/index.js:276
 msgid "Please approve contract fees deposit on the other devices."
-msgstr ""
+msgstr "Setujui setoran biaya kontrak di perangkat lain."
 
 #: src/js/controllers/index.js:281
 msgid "Please approve posting prosaic contract hash on the other devices."
-msgstr ""
+msgstr "Harap setujui memposting hash kontrak prosaik di perangkat lain."
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
@@ -1210,11 +1210,11 @@ msgstr "Harap beralih ke alamat dompet tunggal dan anda mungkin perlu untuk mema
 
 #: public/views/includes/backup-reminder.html:8
 msgid "Please visit the Backups section in"
-msgstr ""
+msgstr "Harap kunjungi bagian tab Cadangan di"
 
 #: public/views/walletHome.html:348
 msgid "Poll"
-msgstr ""
+msgstr "Jajak Pendapat"
 
 #: public/views/preferencesTor.html:16
 msgid "Port"
@@ -1222,7 +1222,7 @@ msgstr "Port"
 
 #: public/views/walletHome.html:565
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
-msgstr ""
+msgstr "Posting jajak pendapat ke jaringan Obyte yang dapat dipilih pengguna dengan bot Poll."
 
 #: public/views/walletHome.html:562
 msgid "Post arbitrary key-value pairs of data into Obyte network."
