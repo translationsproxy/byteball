@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2019-09-05 06:10\n"
+"PO-Revision-Date: 2019-09-05 06:22\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -79,11 +79,11 @@ msgstr "Tambahkan catatan baru"
 
 #: public/views/preferencesEditRealNameAttestors.html:25
 msgid "Add address"
-msgstr ""
+msgstr "Tambah alamat"
 
 #: public/views/walletHome.html:598
 msgid "Add answer"
-msgstr ""
+msgstr "Tambah balasan"
 
 #: public/views/walletHome.html:498
 #: public/views/walletHome.html:598
@@ -115,7 +115,7 @@ msgstr "Buku alamat"
 
 #: public/views/preferencesEditRealNameAttestors.html:15
 msgid "Addresses"
-msgstr ""
+msgstr "Alamat"
 
 #: public/views/preferences.html:66
 msgid "Advanced"
@@ -143,7 +143,7 @@ msgstr "Semua Alamat Dompet"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
-msgstr ""
+msgstr "Semua kontribusi penerjemahan Byteball akan diterima dengan senang hati. Daftar di crowdin.com dan bergabung dengan proyek O<sub>byte</sub> di"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -163,7 +163,7 @@ msgstr "Juga di menu Pengaturan, anda akan menemukan opsi keamanan seperti penga
 
 #: public/views/walletHome.html:482
 msgid "Also send data..."
-msgstr ""
+msgstr "Kirim juga data..."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
