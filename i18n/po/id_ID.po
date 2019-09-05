@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2019-09-05 07:31\n"
+"PO-Revision-Date: 2019-09-05 07:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -815,7 +815,7 @@ msgstr "Saya menegaskan bahwa saya telah membaca, mengerti, dan menyetujui persy
 
 #: public/views/includes/backup-reminder.html:14
 msgid "I created a backup"
-msgstr ""
+msgstr "Saya membuat cadangan"
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
@@ -827,11 +827,11 @@ msgstr "Saya menerima pembayaran lain dari"
 
 #: src/js/controllers/correspondentDevice.js:1336
 msgid "ID expires at"
-msgstr ""
+msgstr "ID berakhir pada"
 
 #: src/js/controllers/correspondentDevice.js:1337
 msgid "ID issued at"
-msgstr ""
+msgstr "ID dikeluarkan di"
 
 #: src/js/controllers/correspondentDevice.js:1333
 msgid "ID number"
