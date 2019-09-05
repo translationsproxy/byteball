@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2019-09-05 06:32\n"
+"PO-Revision-Date: 2019-09-05 06:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -123,7 +123,7 @@ msgstr "Tingkat lanjut"
 
 #: public/views/modals/view-prosaic-contract.html:136
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "Setelah menerima kontrak, Anda akan diminta untuk menandatangani transaksi yang berisi hash kontrak ini. Langkah kedua ini terjadi segera setelah pihak pemberi penawaran menerima tanggapan Anda."
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
@@ -135,7 +135,7 @@ msgstr "Setuju"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for"
-msgstr ""
+msgstr "Alias untuk"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
@@ -251,7 +251,7 @@ msgstr "Kembali"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup all wallet data"
-msgstr ""
+msgstr "Cadangkan semua data dompet"
 
 #: public/views/walletHome.html:250
 msgid "Backup now"
@@ -259,7 +259,7 @@ msgstr "Cadangkan sekarang"
 
 #: public/views/preferencesGlobal.html:126
 msgid "Backup only the seed words"
-msgstr ""
+msgstr "Cadangkan hanya kata seed"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -296,7 +296,7 @@ msgstr "Mengikat pembayaran dengan kondisi"
 
 #: public/views/walletHome.html:437
 msgid "Bind the payment to a condition..."
-msgstr ""
+msgstr "Mengikat pembayaran dengan kondisi..."
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
