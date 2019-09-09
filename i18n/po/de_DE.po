@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2019-07-24 10:21\n"
+"PO-Revision-Date: 2019-09-09 11:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -913,7 +913,7 @@ msgstr "Ein anderes Gerät einladen"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr "Nur der Wallet-Seed reicht nicht aus. Allein mit dem Seed können Sie Multisig-Wallets, intelligente Verträge, Kontakte, Chat-Historie und private Assets wie Blackbytes nicht wiederherstellen."
+msgstr "Nur der Wallet-Seed reicht nicht aus. Allein mit dem Seed können Sie Multisig-Wallets, Smart Contracts, Kontakte, Chat-Verlauf und private Assets wie Blackbytes nicht wiederherstellen."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
