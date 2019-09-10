@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-10 09:11\n"
+"PO-Revision-Date: 2019-09-10 23:38\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -855,7 +855,7 @@ msgstr "조건이 충족되지 않으면, 이후에 이 돈을 돌려 받을 수
 
 #: public/views/modals/offer-contract.html:67
 msgid "If the peer doesn't pay, I can take my money back after"
-msgstr "상대방이 결제하지 않으면 이후에 내 돈을 돌려받을 수 있습니다"
+msgstr "상대방이 결제하지 않으면 다음과 같은 시간이 지나고 난 이후에 내 돈을 돌려받을 수 있습니다:"
 
 #: public/views/modals/tx-details.html:148
 #: public/views/modals/tx-details.html:154
