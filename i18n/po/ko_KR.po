@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-10 08:21\n"
+"PO-Revision-Date: 2019-09-10 09:11\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -914,7 +914,7 @@ msgstr "다른 기기 초대하기"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr "지갑 시드만으로는 부족합니다. 시드를 이용한 복구 방법은 다중 서명 지갑, 스마트 계약, 계약, 채팅 내역과 블랙바이트와 같은 비공개 자산을 복구할 수 없습니다."
+msgstr "시드를 이용한 복구 방법은 다중 서명 지갑, 스마트 계약, 계약, 채팅 내역, 블랙바이트와 같은 비공개 자산을 복구할 수 없으니 주의 바랍니다."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -1190,7 +1190,7 @@ msgstr "다른 기기에서 계약 수수료 입금을 승인해주세요."
 
 #: src/js/controllers/index.js:281
 msgid "Please approve posting prosaic contract hash on the other devices."
-msgstr ""
+msgstr "다른 기기에서 prosaic 계약 해시 포스팅을 승인해주세요."
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
@@ -1547,7 +1547,7 @@ msgstr "메시지 서명하기"
 
 #: public/views/editCorrespondentDevice.html:57
 msgid "Signed contracts:"
-msgstr ""
+msgstr "서명된 계약:"
 
 #: public/views/modals/signed-message.html:8
 msgid "Signed message"
@@ -2225,7 +2225,7 @@ msgstr "요청되지 않음"
 
 #: public/views/modals/view-prosaic-contract.html:103
 msgid "not valid"
-msgstr ""
+msgstr "유효하지 않음"
 
 #: public/views/copayers.html:26
 #: public/views/includes/sidebar.html:15
@@ -2342,11 +2342,11 @@ msgstr "너무 깁니다!"
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 msgid "trusted"
-msgstr ""
+msgstr "trusted"
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
-msgstr ""
+msgstr "DAG에서 유닛 확인하기:"
 
 #: public/views/modals/signed-message.html:30
 #: public/views/modals/view-prosaic-contract.html:102
@@ -2355,7 +2355,7 @@ msgstr "유효함"
 
 #: public/views/modals/view-prosaic-contract.html:100
 msgid "validate contract integrity"
-msgstr ""
+msgstr "계약 무결성 확인"
 
 #: src/js/controllers/walletHome.js:909
 msgid "wait for sync to complete before sending payments"
@@ -2368,5 +2368,5 @@ msgstr "와"
 #: public/views/modals/bind.html:58
 #: public/views/modals/offer-contract.html:91
 msgid "with expected value"
-msgstr "원하는 값"
+msgstr "예상되는 값"
 
