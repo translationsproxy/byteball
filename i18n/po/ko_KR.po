@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-10 03:00\n"
+"PO-Revision-Date: 2019-09-10 07:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1786,7 +1786,7 @@ msgstr "개인 정보 보호를 위해, 한번 주소를 사용할 경우 새 �
 
 #: public/views/modals/view-prosaic-contract.html:95
 msgid "To verify contract integrity, SHA256 hash is calculated from three concatenated components: sha256(title+text+creation_date) and encoded in BASE64 format. After the contract was accepted, a unit with its hash was posted into the DAG. You can check that contract text was not modified by comparing the hashes in the DAG and calculated from this contract."
-msgstr ""
+msgstr "계약 무결성 검증을 위해, 연관된 3개의 요소를 이용해 SHA256 해시가 산출됩니다: sha256(제목+내용+생성일)은 BASE64 포맷으로 인코드됩니다. 계약이 받아들여 지고나면, 이 해쉬를 가진 유닛은 DAG에 포스트됩니다. DAG에 있는 해시를 비교해서 계약 내용이 변경되지 않았는지 확인할 수 있습니다."
 
 #: public/views/walletHome.html:222
 msgid "Total Locked Balance"
@@ -2122,7 +2122,7 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr "계약을 해지 할 수 있습니다."
+msgstr "는 계약을 해제할 수 있습니다"
 
 #: public/views/modals/offer-contract.html:107
 msgid "can unlock the contract after it expires in"
