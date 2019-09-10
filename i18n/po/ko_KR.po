@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-10 23:38\n"
+"PO-Revision-Date: 2019-09-10 23:46\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -819,7 +819,7 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:43
 msgid "I pay"
-msgstr "내가 지불합니다."
+msgstr "나는 다음과 같은 금액을 결제합니다:"
 
 #: public/views/modals/bind.html:27
 msgid "I receive another payment of"
@@ -954,7 +954,7 @@ msgstr "나중에 하기"
 #: public/views/modals/view-prosaic-contract.html:70
 #: public/views/preferencesInformation.html:76
 msgid "Me"
-msgstr "나"
+msgstr "본인"
 
 #: public/views/modals/tx-details.html:113
 msgid "Merchant message"
@@ -1166,7 +1166,7 @@ msgstr "결제 대금 전송됨"
 #: public/views/modals/offer-prosaic-contract.html:58
 #: public/views/modals/view-prosaic-contract.html:77
 msgid "Peer"
-msgstr ""
+msgstr "상대방"
 
 #: public/views/modals/address-definition.html:19
 msgid "Peer:"
@@ -1391,7 +1391,7 @@ msgstr "다시 시도 중..."
 
 #: public/views/modals/view-prosaic-contract.html:144
 msgid "Revoke"
-msgstr ""
+msgstr "취소"
 
 #: public/views/includes/password.html:32
 msgid "SET"
@@ -1642,7 +1642,7 @@ msgstr "이용약관"
 #: public/views/modals/offer-prosaic-contract.html:69
 #: public/views/modals/view-prosaic-contract.html:88
 msgid "Text"
-msgstr ""
+msgstr "내용"
 
 #: public/views/correspondentDevice.html:350
 msgid "Text message to"
