@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-10 07:51\n"
+"PO-Revision-Date: 2019-09-10 08:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2126,7 +2126,7 @@ msgstr "는 계약을 해제할 수 있습니다"
 
 #: public/views/modals/offer-contract.html:107
 msgid "can unlock the contract after it expires in"
-msgstr "만료 후에는 계약을 해지할 수 있습니다"
+msgstr "는 다음 만료일 이후에는 계약을 해지할 수 있습니다"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -2320,7 +2320,7 @@ msgstr "단일 주소 입력 모드로 전환"
 
 #: public/views/modals/view-prosaic-contract.html:91
 msgid "the contract is not signed yet"
-msgstr ""
+msgstr "아직 계약에 대한 서명이 이루어지지 않았습니다"
 
 #: public/views/modals/share.html:39
 msgid "the text below and send it to the recipient via any messaging app"
