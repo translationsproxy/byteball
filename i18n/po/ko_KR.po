@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 04:41\n"
+"PO-Revision-Date: 2019-09-11 04:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -19,7 +19,7 @@ msgstr "'받기' 탭 → '텍스트코인을 이용한 자금 요청' 버튼"
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
-msgstr "(사이트는 당신의 잔액을 표시하지 않고 어떠한 돈도 들어가지 않습니다.)"
+msgstr "(사이트는 당신의 잔액을 들여다보지 않을 것이며, 어떠한 자금도 전송되지 않을 것입니다)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current wallet)"
@@ -31,7 +31,7 @@ msgstr "(나의 다른 지갑)"
 
 #: public/views/walletHome.html:698
 msgid "(possible double spend)"
-msgstr "(이중 지불 가능성 있음)"
+msgstr "(이중 결제 가능성 있음)"
 
 #: public/views/create.html:92
 msgid "-- Select co-signer --"
@@ -1824,7 +1824,7 @@ msgstr "번역자"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr "신뢰할 만한 노드"
+msgstr "믿을 수 있는 노드"
 
 #: src/js/controllers/correspondentDevice.js:1332
 msgid "US state"
@@ -2233,7 +2233,7 @@ msgstr "유효하지 않음"
 #: public/views/modals/destination-address.html:73
 #: public/views/paymentUri.html:37
 msgid "of"
-msgstr ""
+msgstr "of"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
@@ -2342,7 +2342,7 @@ msgstr "너무 깁니다!"
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 msgid "trusted"
-msgstr "믿을 수 있음"
+msgstr "trusted"
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
