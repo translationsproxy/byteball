@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 06:50\n"
+"PO-Revision-Date: 2019-09-11 07:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -754,11 +754,11 @@ msgstr "시작하기"
 
 #: src/js/controllers/walletHome.js:432
 msgid "Generate QR Code"
-msgstr "QR 코드 생성하십시오"
+msgstr "QR 코드 생성하기"
 
 #: public/views/walletHome.html:306
 msgid "Generate new address"
-msgstr "새로운 주소 생성"
+msgstr "새로운 주소 생성하기"
 
 #: public/views/walletHome.html:81
 msgid "Generating .csv file..."
@@ -770,7 +770,7 @@ msgstr "지갑 주소 확인"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
-msgstr "전역 환경설정"
+msgstr "환경 설정"
 
 #: public/views/disclaimer.html:41
 msgid "Go back"
@@ -782,7 +782,7 @@ msgstr "하드웨어 지갑"
 
 #: public/views/preferences.html:59
 msgid "Hidden assets"
-msgstr "숨겨진 자산"
+msgstr "자산 숨기기"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -942,11 +942,11 @@ msgstr "로딩중…"
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
-msgstr "지불하기"
+msgstr "결제하기"
 
 #: public/views/modals/approveNewWitnesses.html:29
 msgid "Maybe later"
-msgstr "나중에 하기"
+msgstr "나중에 처리하기"
 
 #: public/views/includes/copayers.html:4
 #: public/views/modals/offer-contract.html:117
@@ -958,7 +958,7 @@ msgstr "본인"
 
 #: public/views/modals/tx-details.html:113
 msgid "Merchant message"
-msgstr "상점의 메세지"
+msgstr "판매자 메시지"
 
 #: public/views/walletHome.html:457
 msgid "Merkle proof"
@@ -979,11 +979,11 @@ msgstr "더보기"
 
 #: public/views/walletHome.html:690
 msgid "Moved"
-msgstr "이동"
+msgstr "이동 완료"
 
 #: public/views/create.html:32
 msgid "Multidevice Wallet"
-msgstr "멀티 디바이스 지갑"
+msgstr "멀티 기기 지갑"
 
 #: public/views/walletHome.html:258
 msgid "My Obyte address"
@@ -991,7 +991,7 @@ msgstr "내 Obyte 주소"
 
 #: public/views/correspondentDevice.html:300
 msgid "My recording preference"
-msgstr "나의 기록 기본 설정"
+msgstr "내 기록 설정"
 
 #: public/views/modals/destination-address.html:122
 msgid "Name of the contact"
@@ -1007,7 +1007,7 @@ msgstr "새로운 랜덤 시드"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
-msgstr "새 버전을 사용할 수 있습니다."
+msgstr "새 버전이 출시되었습니다!"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New witnesses"
@@ -1033,7 +1033,7 @@ msgstr "아직 프로필이 없습니다."
 
 #: public/views/walletHome.html:656
 msgid "No transactions yet"
-msgstr "아직 아무 거래도 없습니다."
+msgstr "아직 트랜잭션 내역이 없습니다."
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
