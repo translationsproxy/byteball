@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-10 23:46\n"
+"PO-Revision-Date: 2019-09-11 02:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1076,7 +1076,7 @@ msgstr "계약 제안"
 
 #: public/views/modals/offer-prosaic-contract.html:72
 msgid "Offer is valid for"
-msgstr ""
+msgstr "제안은 다음 시간동안 유효합니다:"
 
 #: public/views/modals/offer-prosaic-contract.html:42
 #: src/js/services/correspondentListService.js:129
@@ -1137,7 +1137,7 @@ msgstr "당신의 종이 지갑 개인 키를 여기에 붙여 넣으세요"
 
 #: public/views/modals/offer-contract.html:138
 msgid "Pay and offer"
-msgstr "지불 및 제공"
+msgstr "결제 및 제안"
 
 #: src/js/services/correspondentListService.js:129
 msgid "Pay to this address"
@@ -2056,7 +2056,7 @@ msgstr "[ 새로운 공동 서명자 기기 추가]"
 #: public/views/modals/view-prosaic-contract.html:75
 #: public/views/modals/view-prosaic-contract.html:82
 msgid "address"
-msgstr ""
+msgstr "주소"
 
 #: public/views/preferencesAttestorAddresses.html:18
 msgid "addresses"
@@ -2066,7 +2066,7 @@ msgstr ""
 #: public/views/modals/offer-contract.html:44
 #: public/views/modals/offer-contract.html:52
 msgid "amount"
-msgstr "금액"
+msgstr "수량"
 
 #: public/views/modals/bind.html:31
 msgid "an event is posted by an oracle"
