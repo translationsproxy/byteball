@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 07:51\n"
+"PO-Revision-Date: 2019-09-11 08:06\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1878,7 +1878,7 @@ msgstr "값"
 
 #: src/js/controllers/correspondentDevice.js:1356
 msgid "Verifying the profile..."
-msgstr "프로필 확인중"
+msgstr "프로필 확인중..."
 
 #: public/views/preferencesAbout.html:12
 msgid "Version"
@@ -1907,7 +1907,7 @@ msgstr "O<sub>byte</sub>에 오신 것을 환영합니다"
 
 #: public/views/copayers.html:24
 msgid "Waiting for co-signers"
-msgstr "공동서명자 기다리기"
+msgstr "공동서명자 기다리는 중"
 
 #: public/views/copayers.html:33
 msgid "Waiting..."
@@ -1965,7 +1965,7 @@ msgstr "요청 되었습니까?"
 
 #: public/views/walletHome.html:340
 msgid "What to send"
-msgstr "보낼 대상"
+msgstr "무엇을 보내실 건가요"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:112
@@ -1987,7 +1987,7 @@ msgstr "증인"
 
 #: public/views/modals/share.html:43
 msgid "Write down this textcoin on paper and store it securely. Claim it back anytime in the future using"
-msgstr "페이퍼 이 텍스트코인을 적고 잘 보관하십시오. 향후 사용에 언제든지 그것을 요구 하십시오."
+msgstr "이 텍스트코인을 종이에 잘 기록하신 다음 안전한 곳에 보관해주세요. 필요한 상황이 발생하면 언제든지 요청할 수 있습니다"
 
 #: public/views/backup.html:56
 msgid "Write it down and keep it somewhere safe."
@@ -2130,11 +2130,11 @@ msgstr "는(은) 만료일 이후에 계약을 해지할 수 있으며 만료일
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
-msgstr "지갑 생성 취소하십시오."
+msgstr "지갑 생성 취소"
 
 #: public/views/modals/tx-details.html:140
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
-msgstr "{{btx.claimedByMe?'me':'수신자'|translate}}로 요청 되었습니다."
+msgstr "{{btx.claimedByMe?'me':'receiver'|translate}} 에 의해 요청됨"
 
 #: public/views/editCorrespondentDevice.html:64
 msgid "clear chat history"
@@ -2146,7 +2146,7 @@ msgstr "확인됨"
 
 #: public/views/modals/select-subwallet.html:39
 msgid "created"
-msgstr "생성된"
+msgstr "생성됨"
 
 #: public/views/modals/view-prosaic-contract.html:96
 msgid "creation date:"
@@ -2179,7 +2179,7 @@ msgstr "텍스트코인 삭제하기"
 
 #: public/views/modals/bind.html:71
 msgid "explicitly"
-msgstr "명쾌하게"
+msgstr "명시적으로"
 
 #: public/views/modals/view-prosaic-contract.html:107
 msgid "hash published in DAG:"
@@ -2263,7 +2263,7 @@ msgstr "상대방은 다음과 같은 금액을 결제합니다:"
 
 #: public/views/modals/bind.html:67
 msgid "posted"
-msgstr "보냈음"
+msgstr "게시 완료"
 
 #: public/views/modals/share.html:30
 msgid "re"
@@ -2304,7 +2304,7 @@ msgstr "이메일 보내기"
 #: src/js/controllers/walletHome.js:957
 #: src/js/controllers/walletHome.js:992
 msgid "sending"
-msgstr "보내기"
+msgstr "보내는 중"
 
 #: public/views/modals/tx-details.html:148
 msgid "share again"
@@ -2359,7 +2359,7 @@ msgstr "계약 무결성 확인"
 
 #: src/js/controllers/walletHome.js:909
 msgid "wait for sync to complete before sending payments"
-msgstr "결제 대금을 보내기 전에 동기화가 완료될 때까지 기다리세요"
+msgstr "동기화가 완료된 이후에 결제 대금을 보내세요"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
