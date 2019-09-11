@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 04:20\n"
+"PO-Revision-Date: 2019-09-11 04:38\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1865,7 +1865,7 @@ msgstr "데이터베이스를 업그레이드 중입니다. 잠시만 기다려 
 
 #: public/views/modals/view-prosaic-contract.html:67
 msgid "Valid till"
-msgstr ""
+msgstr "계약 유효 시간"
 
 #: public/views/walletHome.html:492
 #: public/views/walletHome.html:598
@@ -1975,7 +1975,7 @@ msgstr "보낼 대상"
 #: public/views/walletHome.html:531
 #: public/views/walletHome.html:609
 msgid "Who signs:"
-msgstr "누가 서명했는지:"
+msgstr "서명한 사람:"
 
 #: public/views/preferencesEditWitness.html:13
 msgid "Witness address"
@@ -2020,7 +2020,7 @@ msgstr "프로필을 얻으려면 인증을 완료해야 합니다. 봇 스토�
 
 #: public/views/modals/offer-prosaic-contract.html:92
 msgid "You will be charged {{CHARGE_AMOUNT}} bytes to compensate for fees when posting signature proof."
-msgstr ""
+msgstr "포스팅 서명 증명 시 {{CHARGE_AMOUNT}} bytes 가 수수료로 청구될 것입니다."
 
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
@@ -2060,7 +2060,7 @@ msgstr "주소"
 
 #: public/views/preferencesAttestorAddresses.html:18
 msgid "addresses"
-msgstr ""
+msgstr "주소"
 
 #: public/views/modals/bind.html:37
 #: public/views/modals/offer-contract.html:44
@@ -2122,11 +2122,11 @@ msgstr ""
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
-msgstr "는 계약을 해제할 수 있습니다"
+msgstr "는(은) 계약을 해제할 수 있으며"
 
 #: public/views/modals/offer-contract.html:107
 msgid "can unlock the contract after it expires in"
-msgstr "는 다음 만료일 이후에는 계약을 해지할 수 있습니다"
+msgstr "는(은) 만료일 이후에 계약을 해지할 수 있으며 만료일은 다음과 같습니다:"
 
 #: public/views/copayers.html:38
 msgid "cancel wallet creation"
@@ -2159,7 +2159,7 @@ msgstr "일"
 #: public/views/modals/bind.html:82
 #: public/views/modals/offer-contract.html:99
 msgid "detailed instructions about using"
-msgstr ""
+msgstr "자세한 사용법"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
@@ -2197,7 +2197,7 @@ msgstr "시간"
 
 #: public/views/modals/offer-contract.html:78
 msgid "if an event is posted by an oracle"
-msgstr "오라클에 의해 이벤트가 게시되면,"
+msgstr "오라클에 의해 이벤트가 게시되어야 합니다. 오라클 주소는"
 
 #: public/views/modals/bind.html:75
 msgid "in merkle tree"
@@ -2259,7 +2259,7 @@ msgstr "또는 다음 경로에 위치한 모든 Obyte 데이터를 백업하세
 
 #: public/views/modals/offer-contract.html:51
 msgid "peer pays"
-msgstr "개별 결제"
+msgstr "상대방은 다음과 같은 금액을 결제합니다:"
 
 #: public/views/modals/bind.html:67
 msgid "posted"
@@ -2342,7 +2342,7 @@ msgstr "너무 깁니다!"
 #: public/views/modals/offer-prosaic-contract.html:55
 #: public/views/modals/offer-prosaic-contract.html:62
 msgid "trusted"
-msgstr "trusted"
+msgstr "믿을 수 있음"
 
 #: public/views/modals/view-prosaic-contract.html:94
 msgid "unit in DAG:"
