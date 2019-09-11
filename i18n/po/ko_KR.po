@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 06:30\n"
+"PO-Revision-Date: 2019-09-11 06:40\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -641,7 +641,7 @@ msgstr "기기 이름"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
-msgstr "장치 이름은 당신과 통신하는 다른 장치에 표시됩니다."
+msgstr "여러분이 통신하는 다른 기기에서 표시할 이 기기의 이름을 설정하세요."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
@@ -674,7 +674,7 @@ msgstr "편집"
 
 #: public/views/correspondentDevice.html:294
 msgid "Either you or {{correspondent.name}} have chat history recording disabled. History is not saved for anyone now."
-msgstr "당신이나 {{correspondent.name}}은 채팅 내역 기록을 이용하지 못하게 되었습니다. 기록은 현재 누구에게도 저장되어있지 않습니다."
+msgstr "당신 또는 {{correspondent.name}}이 채팅 내역 기록을 비활성화했습니다. 지금부터 채팅 내역은 누구에게도 저장되지 않습니다."
 
 #: public/views/editCorrespondentDevice.html:35
 #: public/views/preferencesGlobal.html:62
@@ -683,16 +683,16 @@ msgstr "푸시 알림 받기"
 
 #: public/views/acceptCorrespondentInvitation.html:47
 msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
-msgstr "다른 장치로 부터 받은 페어링 코드를 입력하거나 카메라(오른쪽 상단에 아이콘)을 사용하여 다른 장치에 표시된 QR코드를 스캔합니다."
+msgstr "다른 기기에서 받은 페어링 코드를 입력하거나 카메라(오른쪽 상단에 위치한 아이콘)을 이용해 다른 기기에 표시된 QR코드를 스캔하세요."
 
 #: public/views/includes/password.html:13
 msgid "Enter your password"
-msgstr "패스워드를 입력해주세요"
+msgstr "비밀번호를 입력해주세요"
 
 #: src/js/services/profileService.js:341
 #: src/js/services/profileService.js:393
 msgid "Error creating wallet"
-msgstr "지갑 생성 중 오류"
+msgstr "지갑 생성 과정에서 오류가 발생했습니다"
 
 #: public/views/modals/view-prosaic-contract.html:68
 msgid "Expired on"
@@ -713,7 +713,7 @@ msgstr "내보내기 진행 중..."
 
 #: public/views/preferencesInformation.html:83
 msgid "Extended Public Keys"
-msgstr "공개 키 확장"
+msgstr "확장 공개 키"
 
 #: public/views/export.html:25
 msgid "Failed to export"
