@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 06:40\n"
+"PO-Revision-Date: 2019-09-11 06:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -734,7 +734,7 @@ msgstr "/Obyte/ 디렉토리에 파일이 저장되었습니다. 여러 개의 �
 
 #: public/views/modals/tx-details.html:119
 msgid "Finality"
-msgstr "최종"
+msgstr "Finality"
 
 #: src/js/controllers/correspondentDevice.js:1327
 msgid "First name"
@@ -742,7 +742,7 @@ msgstr "이름"
 
 #: public/views/modals/tx-details.html:69
 msgid "From"
-msgstr "전송자"
+msgstr "보낸 사람"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
