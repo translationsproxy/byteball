@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 08:06\n"
+"PO-Revision-Date: 2019-09-11 08:17\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1666,7 +1666,7 @@ msgstr "허브가 다음의 증인을 교체할 것을 제안합니다:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
-msgstr "이 텍스토인에 자금이 저장되어 있습니다:"
+msgstr "이 텍스트코인에 저장된 자금:"
 
 #: public/views/modals/bind.html:23
 msgid "The peer receives this payment if"
@@ -1682,24 +1682,24 @@ msgstr "지갑에 보유 중인 총 수량은 다음과 같습니다"
 
 #: public/views/modals/vote.html:52
 msgid "The vote will be signed by all your funded addresses"
-msgstr "당신의 자금이 담긴 모든 주소에 의해 투표는 서명될 것입니다."
+msgstr "투표는 당신이 자금을 집행한 모든 주소에 의해 서명될 것입니다."
 
 #: src/js/controllers/copayers.js:76
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The wallet \"{{walletName}}\" was deleted"
-msgstr "지갑 \"{{walletName}}\"이 삭제 되었습니다."
+msgstr "\"{{walletName}}\" 지갑이 삭제되었습니다"
 
 #: public/views/splash.html:38
 msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
-msgstr "지갑 제공자는 여러분의 잔액과 여러분이 수행한 트랜잭션을 알 수 있습니다. 지갑은 지금부터 바로 사용할 수 있고 모든 기능을 다 갖추고 있습니다."
+msgstr "지갑 제공자는 여러분의 잔액과 여러분이 수행한 트랜잭션을 알 수 있습니다. 지갑은 바로 사용할 수 있고 모든 기능을 다 갖추고 있습니다."
 
 #: public/views/correspondentDevice.html:305
 msgid "Their recording preference"
-msgstr "그들의 기록 설정"
+msgstr "내역 기록 설정"
 
 #: public/views/paymentUri.html:23
 msgid "There are no wallets to make this payment"
-msgstr "이 지불을 위한 지갑이 없습니다."
+msgstr "이 결제를 수행할 지갑이 없습니다"
 
 #: public/views/walletHome.html:297
 msgid "This address is shared with {{index.shared_address_cosigners}}."
@@ -1707,7 +1707,7 @@ msgstr "이 주소는 {{index.shared_address_cosigners}}와 공유됩니다."
 
 #: public/views/splash.html:21
 msgid "This choice cannot be changed later"
-msgstr "이 선택은 나중에 바꾸실 수 없습니다."
+msgstr "나중에 바꿀 수 없으니 신중하게 선택하세요"
 
 #: public/views/splash.html:28
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
@@ -1790,11 +1790,11 @@ msgstr "계약 무결성 검증을 위해, 연관된 3개의 요소를 이용해
 
 #: public/views/walletHome.html:222
 msgid "Total Locked Balance"
-msgstr "총 고정 잔액"
+msgstr "동결된 잔액 합계"
 
 #: public/views/walletHome.html:377
 msgid "Total amount"
-msgstr "총 합계"
+msgstr "총액"
 
 #: public/views/create.html:66
 msgid "Total number of co-signers"
@@ -1802,7 +1802,7 @@ msgstr "총 공동 서명자 수"
 
 #: public/views/modals/tx-details.html:9
 msgid "Transaction"
-msgstr "거래"
+msgstr "트랜잭션"
 
 #: src/js/controllers/index.js:271
 msgid "Transaction created.\n"
@@ -2008,7 +2008,7 @@ msgstr "텍스트코인을 종이 지갑 같은 형태로 다른 곳에 저장�
 
 #: public/views/modals/bind.html:99
 msgid "You cannot bind your transaction to reverse payment as you are in a single address wallet.  Use a non-single address wallet and then transfer the money to this wallet."
-msgstr "싱글 주소 지갑으로 역지불 하기 위해 당신의 트랜젝션을 바인드 할 수 없습니다. 싱글 아닌 주소 지갑을 사용하십시오. 그리고 나서 이 지갑에 돈을 송금하십시오."
+msgstr "단일 주소 지갑에서는 트랜잭션과 결제 대금 환불을 연결할 수 없습니다. 단일 주소 지갑 이외의 지갑을 사용하시고 이 지갑으로 자금을 전송하세요."
 
 #: public/views/walletHome.html:42
 msgid "You do not have a wallet"
@@ -2045,7 +2045,7 @@ msgstr "지갑 키는 암호화될 예정입니다. 비밀번호는 복구할 �
 
 #: public/views/splash.html:90
 msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu."
-msgstr "당신의 지갑은 이 디바이스에서 생성되어질 것입니다. 안전하게 보관하십시오. 셋팅 메뉴에서 당신의 백업 옵션을 살펴 보십시오."
+msgstr "이 기기에서 지갑이 생성될 것입니다. 안전하게 관리하시길 바랍니다. 설정 메뉴에 있는 백업 방법을 꼭 확인하세요."
 
 #: public/views/create.html:94
 msgid "[ Add new co-signer device ]"
