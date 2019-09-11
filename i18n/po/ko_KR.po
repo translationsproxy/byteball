@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 05:20\n"
+"PO-Revision-Date: 2019-09-11 05:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -283,7 +283,7 @@ msgstr "자금을 받기 전에 지갑 키를 백업해 둘 것을 강력히 권
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig wallets with redundancy,"
-msgstr "더 좋은 선택은 좀 더 유연하게 관리할 수 있는 다중 서명 지갑을 사용하는 것입니다."
+msgstr "다중 서명 지갑 관리에도 적용할 수 있습니다."
 
 #: public/views/modals/bind.html:8
 #: public/views/modals/bind.html:94
