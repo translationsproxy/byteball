@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 05:11\n"
+"PO-Revision-Date: 2019-09-11 05:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -163,7 +163,7 @@ msgstr "설정 메뉴에서 비밀번호 설정같은 보안 옵션을 설정할
 
 #: public/views/walletHome.html:482
 msgid "Also send data..."
-msgstr ""
+msgstr "또는 데이터 보내기..."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -378,7 +378,7 @@ msgstr "요청중..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to"
-msgstr ""
+msgstr "버튼을 클릭하세요"
 
 #: public/views/walletHome.html:537
 msgid "Click this button to create a payment file and send it to a recipient."
@@ -766,7 +766,7 @@ msgstr ".csv 파일 생성중..."
 
 #: public/views/modals/destination-address.html:61
 msgid "Getting address for wallet"
-msgstr ""
+msgstr "지갑 주소 확인"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -827,11 +827,11 @@ msgstr "나는 다른 지불을 받습니다."
 
 #: src/js/controllers/correspondentDevice.js:1336
 msgid "ID expires at"
-msgstr ""
+msgstr "ID 만료일"
 
 #: src/js/controllers/correspondentDevice.js:1337
 msgid "ID issued at"
-msgstr ""
+msgstr "ID 발행일"
 
 #: src/js/controllers/correspondentDevice.js:1333
 msgid "ID number"
@@ -975,7 +975,7 @@ msgstr "메시지:"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
-msgstr ""
+msgstr "더보기"
 
 #: public/views/walletHome.html:690
 msgid "Moved"
@@ -1178,7 +1178,7 @@ msgstr "이 지갑을 영구 삭제합니다. 이 동작은 되돌릴 수 없습
 
 #: src/js/controllers/correspondentDevice.js:1331
 msgid "Personal code"
-msgstr ""
+msgstr "개인 코드"
 
 #: public/views/create.html:28
 msgid "Plain Wallet"
@@ -1226,7 +1226,7 @@ msgstr "Poll 봇에서 사용자가 투표할 수 있게, Obyte 네트워크에 
 
 #: public/views/walletHome.html:562
 msgid "Post arbitrary key-value pairs of data into Obyte network."
-msgstr ""
+msgstr "Obyte 네트워크에 임의의 key-value 페어로 구성된 데이터 게시"
 
 #: public/views/walletHome.html:553
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1762,7 +1762,7 @@ msgstr "수신자"
 
 #: public/views/walletHome.html:400
 msgid "To Obyte address"
-msgstr ""
+msgstr "Obyte 주소"
 
 #: public/views/backup.html:24
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
@@ -1770,7 +1770,7 @@ msgstr "모든 것을 복구하고 싶다면, 전체 백업을 생성하세요 (
 
 #: public/views/walletHome.html:628
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address wallet first or create one."
-msgstr ""
+msgstr "O<sub>byte</sub> 네트워크에 임의의 데이터를 보내기 위해서는 우선 단일 주소 지갑으로 변경하거나 단일 주소 지갑을 생성하시길 바랍니다."
 
 #: public/views/walletHome.html:447
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -2118,7 +2118,7 @@ msgstr "해시 계산 결과:"
 #: public/views/modals/address-definition.html:16
 #: public/views/modals/multi-payment.html:28
 msgid "can be spent if:"
-msgstr ""
+msgstr "다음 조건을 충족할 경우 사용 가능:"
 
 #: public/views/modals/offer-contract.html:77
 msgid "can unlock the contract"
@@ -2237,7 +2237,7 @@ msgstr "of"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
-msgstr ""
+msgstr "on"
 
 #: public/views/modals/bind.html:55
 #: public/views/modals/offer-contract.html:88
@@ -2267,7 +2267,7 @@ msgstr "보냈음"
 
 #: public/views/modals/share.html:30
 msgid "re"
-msgstr ""
+msgstr "다시"
 
 #: public/views/modals/tx-details.html:154
 msgid "re-send private payloads"
