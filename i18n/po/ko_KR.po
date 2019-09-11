@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 08:35\n"
+"PO-Revision-Date: 2019-09-11 08:42\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1723,7 +1723,7 @@ msgstr "이 결제는 단일 주소 지갑에서만 결제해야 합니다."
 
 #: public/views/modals/tx-details.html:89
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
-msgstr "이 거래는 효력이 없어졌습니다; 아마도 이중 지불 시도 때문일 것입니다."
+msgstr "이 트랜잭션은 더이상 유효하지 않습니다; 이중 지불 시도가 주요 원인일 것으로 추측됩니다."
 
 #: public/views/preferences.html:42
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
@@ -1812,7 +1812,7 @@ msgstr "트랜잭션이 생성되었습니다.\n"
 
 #: public/views/walletHome.html:678
 msgid "Transactions<br> Downloaded"
-msgstr "다운로드된 트렌젝션<br>"
+msgstr "트랜잭션<br> 다운로드됨"
 
 #: public/views/translators.html:8
 msgid "Translation Credits"
@@ -1832,7 +1832,7 @@ msgstr "미국"
 
 #: src/js/controllers/walletHome.js:857
 msgid "Unable to send transaction proposal"
-msgstr "거래 제안서 발송 불가"
+msgstr "트랜잭션 제안을 발송할 수 없습니다"
 
 #: public/views/modals/tx-details.html:121
 #: public/views/walletHome.html:709
@@ -1849,7 +1849,7 @@ msgstr "bytes 단위"
 
 #: public/views/walletHome.html:215
 msgid "Unsent transactions"
-msgstr "전송되지 않은 거래"
+msgstr "트랜잭션이 발송되지 않았습니다"
 
 #: public/views/walletHome.html:73
 msgid "Updating Wallet..."
