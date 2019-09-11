@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 06:21\n"
+"PO-Revision-Date: 2019-09-11 06:30\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -550,23 +550,23 @@ msgstr "{{requiredCosigners}}/{{totalCosigners}} 지갑 만들기"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
-msgstr "작성:"
+msgstr "생성일:"
 
 #: public/views/splash.html:75
 msgid "Creating Profile..."
-msgstr "프로필 만드는 중.."
+msgstr "프로필 생성 중.."
 
 #: public/views/create.html:20
 msgid "Creating Wallet..."
-msgstr "지갑 만드는 중..."
+msgstr "지갑 생성 중..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
-msgstr "단어 삭제"
+msgstr "단어 삭제하기"
 
 #: public/views/walletHome.html:347
 msgid "Data"
-msgstr "데이타"
+msgstr "데이터"
 
 #: public/views/walletHome.html:344
 msgid "Data into datafeed"
@@ -628,16 +628,16 @@ msgstr "파생 전략"
 #: public/views/modals/multi-payment.html:17
 #: public/views/modals/tx-details.html:34
 msgid "Details"
-msgstr "상세"
+msgstr "상세정보"
 
 #: public/views/preferencesGlobal.html:79
 msgid "Device address"
-msgstr "장치 주소"
+msgstr "기기 주소"
 
 #: public/views/preferencesDeviceName.html:12
 #: public/views/preferencesGlobal.html:17
 msgid "Device name"
-msgstr "장치 이름"
+msgstr "기기 이름"
 
 #: public/views/preferencesDeviceName.html:16
 msgid "Device name is visible to other devices you communicate with."
