@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 02:30\n"
+"PO-Revision-Date: 2019-09-11 04:20\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2101,7 +2101,7 @@ msgstr "인증처:"
 #: public/views/modals/view-prosaic-contract.html:74
 #: public/views/modals/view-prosaic-contract.html:81
 msgid "attestor is not trusted by you"
-msgstr ""
+msgstr "내가 신뢰하는 인증자가 아닙니다"
 
 #: public/views/walletHome.html:598
 msgid "available"
@@ -2113,7 +2113,7 @@ msgstr "주소로"
 
 #: public/views/modals/view-prosaic-contract.html:106
 msgid "calculated hash:"
-msgstr ""
+msgstr "해시 계산 결과:"
 
 #: public/views/modals/address-definition.html:16
 #: public/views/modals/multi-payment.html:28
@@ -2150,7 +2150,7 @@ msgstr "생성된"
 
 #: public/views/modals/view-prosaic-contract.html:96
 msgid "creation date:"
-msgstr "생성 일자:"
+msgstr "생성일:"
 
 #: public/views/modals/offer-contract.html:109
 msgid "days"
@@ -2183,11 +2183,11 @@ msgstr "명쾌하게"
 
 #: public/views/modals/view-prosaic-contract.html:107
 msgid "hash published in DAG:"
-msgstr ""
+msgstr "DAG 상에 게시된 해시:"
 
 #: public/views/modals/view-prosaic-contract.html:97
 msgid "hash source string:"
-msgstr ""
+msgstr "해시 소스 문자열:"
 
 #: public/views/modals/bind.html:87
 #: public/views/modals/offer-contract.html:69
