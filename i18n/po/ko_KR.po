@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-09-11 08:42\n"
+"PO-Revision-Date: 2019-09-11 08:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2163,15 +2163,15 @@ msgstr "자세한 사용법"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your laptop computer."
-msgstr "즉, 디바이스에 하나의 키를 가지고 있는 지갑과 당신의 랩탑 컴퓨터에 다른 키를 가진 둘 중 하나의 키"
+msgstr "예를 들면, 1-of-2 지갑이라면 이 기기에서는 이 키를 사용하고 노트북에 설치된 지갑에서는 다른 키를 사용하는 방법이 있습니다."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 wallet with one key on this device and another key on your smartphone."
-msgstr "즉, 둘 중 하나의 지갑 이 디바이스의 하나의 키를 가지고 있고 다른 스마트폰에 있는 다른 키"
+msgstr "예를 들면, 1-of-2 지갑이라면 이 기기에서는 이 키를 사용하고 스마트폰에 설치된 지갑에서는 다른 키를 사용하는 방법이 있습니다."
 
 #: public/views/modals/bind.html:79
 msgid "either way"
-msgstr "어느 쪽이 든"
+msgstr "둘 중 하나"
 
 #: public/views/modals/tx-details.html:151
 msgid "erase textcoin"
