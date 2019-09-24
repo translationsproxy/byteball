@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: testz\n"
 "Language-Team: Serbian (Latin)\n"
 "Language: sr_CS\n"
-"PO-Revision-Date: 2019-07-23 21:51\n"
+"PO-Revision-Date: 2019-09-24 19:12\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -29,7 +29,7 @@ msgstr "(novčanik koji se trenutno koristi)"
 msgid "(my other wallet)"
 msgstr "(moj drugi novčanik)"
 
-#: public/views/walletHome.html:698
+#: public/views/walletHome.html:717
 msgid "(possible double spend)"
 msgstr "(mogućnost dvostrukog trošenja)"
 
@@ -47,7 +47,7 @@ msgstr "O Obyte"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
-#: src/js/controllers/walletHome.js:130
+#: src/js/controllers/walletHome.js:137
 #: src/js/services/confirmDialog.js:8
 msgid "Accept"
 msgstr "Prihvati"
@@ -81,12 +81,12 @@ msgstr "Dodaj novu stavku"
 msgid "Add address"
 msgstr ""
 
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:617
 msgid "Add answer"
 msgstr "Dodaj odgovor"
 
-#: public/views/walletHome.html:498
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:517
+#: public/views/walletHome.html:617
 msgid "Add fields"
 msgstr "Dodaj polje"
 
@@ -104,9 +104,14 @@ msgstr "Dodato"
 msgid "Address"
 msgstr "Adresa"
 
-#: public/views/walletHome.html:570
+#: public/views/walletHome.html:589
 msgid "Address to attest"
 msgstr "Adresu koju treba potvrditi"
+
+#: public/views/modals/approveNewWitnesses.html:16
+#: public/views/modals/approveNewWitnesses.html:28
+msgid "Address:"
+msgstr ""
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -117,7 +122,7 @@ msgstr "Adresar"
 msgid "Addresses"
 msgstr ""
 
-#: public/views/preferences.html:66
+#: public/views/preferences.html:70
 msgid "Advanced"
 msgstr "Napredna podešavanja"
 
@@ -149,7 +154,7 @@ msgstr "Svi doprinosi u vidu prevođenja projekta Obyte su više nego dobrodošl
 msgid "Already Paid"
 msgstr "Već je plaćeno"
 
-#: src/js/controllers/correspondentDevice.js:1381
+#: src/js/controllers/correspondentDevice.js:1384
 msgid "Already saved"
 msgstr "Već je sačuvano"
 
@@ -161,7 +166,7 @@ msgstr "Takođe"
 msgid "Also in the Settings menu, you will find security options such as setting a password."
 msgstr "Osim toga, u meniju \"Podešavanja\", naći ćete bezbednosne opcije poput podešavanja lozinke."
 
-#: public/views/walletHome.html:482
+#: public/views/walletHome.html:501
 msgid "Also send data..."
 msgstr ""
 
@@ -178,7 +183,7 @@ msgstr "Osim toga, ne zaboravite da izbrišete seed, šifru koja omogućava da p
 msgid "Amount"
 msgstr "Iznos"
 
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:617
 msgid "Answer"
 msgstr "Odgovor"
 
@@ -203,7 +208,7 @@ msgstr "Da li ste sigurni da želite da obrišete novčanik?"
 msgid "Asset"
 msgstr "Sredstva"
 
-#: public/views/walletHome.html:556
+#: public/views/walletHome.html:575
 msgid "Attest profile data linked to any Obyte address."
 msgstr "Potvrda podataka o profilu koji je povezan sa nekom Byteball adresom."
 
@@ -269,7 +274,7 @@ msgstr "Izbrisane su reči koje tvore rezervnu kopiju"
 msgid "Backups"
 msgstr "Rezervne kopije"
 
-#: src/js/controllers/correspondentDevice.js:1364
+#: src/js/controllers/correspondentDevice.js:1367
 msgid "Bad profile"
 msgstr "Neispravan profil"
 
@@ -290,11 +295,11 @@ msgstr "Još bolje i jednostavnije, koristite multisig novčanike (novčanici ko
 msgid "Bind payment"
 msgstr "Vežite plaćanje"
 
-#: public/views/walletHome.html:450
+#: public/views/walletHome.html:469
 msgid "Bind the payment to a condition"
 msgstr "Vežite plaćanje sa uslovom"
 
-#: public/views/walletHome.html:437
+#: public/views/walletHome.html:456
 msgid "Bind the payment to a condition..."
 msgstr ""
 
@@ -324,10 +329,10 @@ msgid "CONTINUE"
 msgstr "Nastavite"
 
 #: public/views/modals/destination-address.html:128
-#: public/views/walletHome.html:515
+#: public/views/walletHome.html:534
 #: src/js/controllers/copayers.js:9
 #: src/js/controllers/preferencesDelete.js:10
-#: src/js/controllers/walletHome.js:131
+#: src/js/controllers/walletHome.js:138
 #: src/js/services/confirmDialog.js:9
 msgid "Cancel"
 msgstr "Otkaži"
@@ -360,7 +365,7 @@ msgstr "Odaberite uređaj na koji ćete poslati"
 msgid "Choose which fields to send:"
 msgstr "Odaberite koja polja ćete poslati:"
 
-#: src/js/controllers/walletHome.js:502
+#: src/js/controllers/walletHome.js:509
 msgid "Claim funds"
 msgstr "Ostvarite pravo na sredstva"
 
@@ -380,11 +385,11 @@ msgstr "Transakcija..."
 msgid "Click the button to"
 msgstr ""
 
-#: public/views/walletHome.html:537
+#: public/views/walletHome.html:556
 msgid "Click this button to create a payment file and send it to a recipient."
 msgstr "Kliknite dugme kako biste kreirali fajl za plaćanje i poslali ga."
 
-#: public/views/walletHome.html:536
+#: public/views/walletHome.html:555
 msgid "Click this button to create payment and share it via private message in chat apps or to create a paper wallet."
 msgstr "Kliknite ovo dugme kako biste kreirali uplatnicu i podelite je putem privatne poruke u aplikacijama za dopisivanje ili kreirajte papirni novčanik."
 
@@ -396,7 +401,7 @@ msgstr "Kliknite ovo dugme kako biste kreirali uplatnicu i podelite je putem pri
 #: public/views/modals/approveNewWitnesses.html:4
 #: public/views/modals/bind.html:4
 #: public/views/modals/choose-profile.html:4
-#: public/views/modals/choose-profile.html:70
+#: public/views/modals/choose-profile.html:71
 #: public/views/modals/claim-textcoin.html:4
 #: public/views/modals/customized-amount.html:4
 #: public/views/modals/destination-address.html:5
@@ -426,7 +431,7 @@ msgstr "Potpisnici"
 msgid "Co-signers for multisig"
 msgstr "Potpisnici za multisig"
 
-#: public/views/preferences.html:29
+#: public/views/preferences.html:33
 msgid "Color"
 msgstr "Boja"
 
@@ -441,9 +446,9 @@ msgstr "Komprimovanje fajla? (Sporiji način)"
 #: src/js/controllers/copayers.js:10
 #: src/js/controllers/index.js:661
 #: src/js/controllers/preferencesDelete.js:11
-#: src/js/controllers/walletHome.js:132
-#: src/js/controllers/walletHome.js:1858
-#: src/js/controllers/walletHome.js:1862
+#: src/js/controllers/walletHome.js:139
+#: src/js/controllers/walletHome.js:1867
+#: src/js/controllers/walletHome.js:1871
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "Potvrdi"
@@ -468,10 +473,10 @@ msgstr "Potvrđeno"
 msgid "Contacts"
 msgstr "Kontakti"
 
-#: src/js/controllers/correspondentDevice.js:1733
+#: src/js/controllers/correspondentDevice.js:1752
 #: src/js/controllers/editCorrespondentDevice.js:120
 #: src/js/controllers/inviteCorrespondentDevice.js:32
-#: src/js/controllers/walletHome.js:403
+#: src/js/controllers/walletHome.js:410
 msgid "Copied to clipboard"
 msgstr "Kopirano u međuspremnik"
 
@@ -488,7 +493,7 @@ msgstr ""
 msgid "Cosigners"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:708
+#: src/js/controllers/walletHome.js:715
 msgid "Could not create payment proposal"
 msgstr "Nije moguće kreirati predlog uplate"
 
@@ -508,7 +513,7 @@ msgstr "Nije moguće kreirati: neispravna je šifra za obnovu (seed)"
 msgid "Could not decrypt"
 msgstr "Dešifrovanje nije uspelo"
 
-#: public/views/walletHome.html:653
+#: public/views/walletHome.html:672
 msgid "Could not fetch transaction history"
 msgstr "Preuzimanje istorije transakcija nije uspelo"
 
@@ -522,11 +527,11 @@ msgstr "Nije moguće uvesti"
 msgid "Could not import. Check input file and password"
 msgstr "Nije moguće uvesti. Proverite ulazni fajl i lozinku"
 
-#: src/js/controllers/walletHome.js:708
+#: src/js/controllers/walletHome.js:715
 msgid "Could not send payment"
 msgstr "Nije moguće poslati uplatu"
 
-#: src/js/controllers/correspondentDevice.js:1330
+#: src/js/controllers/correspondentDevice.js:1333
 msgid "Country"
 msgstr "Država"
 
@@ -572,15 +577,15 @@ msgstr "Podaci"
 msgid "Data into datafeed"
 msgstr "Podaci u datafeed"
 
-#: public/views/walletHome.html:488
+#: public/views/walletHome.html:507
 msgid "Data to be posted with the payment:"
 msgstr ""
 
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:617
 msgid "Datafeed name"
 msgstr "Datafeed ime"
 
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:617
 msgid "Datafeed value"
 msgstr "Datafeed vrednost"
 
@@ -588,7 +593,7 @@ msgstr "Datafeed vrednost"
 msgid "Date"
 msgstr "Datum"
 
-#: src/js/controllers/correspondentDevice.js:1329
+#: src/js/controllers/correspondentDevice.js:1332
 msgid "Date of birth"
 msgstr "Datum rođenja"
 
@@ -616,7 +621,7 @@ msgstr "Izbriši novčanik"
 msgid "Delete wallet"
 msgstr "Izbriši novčanik"
 
-#: src/js/controllers/walletHome.js:1855
+#: src/js/controllers/walletHome.js:1864
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr "Brisanje textcoin-a znači da ćete izgubiti mogućnost da ga ponovo pošaljete ili koristite za ostvarivanje prava na sredstva"
 
@@ -660,7 +665,7 @@ msgstr "Ne vidite Vaš jezik na Crowdinu? Obratite se vlasniku preko Crowdin-a! 
 msgid "Done"
 msgstr "Završeno"
 
-#: public/views/walletHome.html:754
+#: public/views/walletHome.html:774
 msgid "Download CSV file"
 msgstr "Preuzmite CSV fajl"
 
@@ -723,8 +728,8 @@ msgstr "Izvoz nije uspeo"
 msgid "Fee"
 msgstr "Naknada"
 
-#: public/views/walletHome.html:491
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:510
+#: public/views/walletHome.html:617
 msgid "Field"
 msgstr "Polje"
 
@@ -736,7 +741,7 @@ msgstr ""
 msgid "Finality"
 msgstr "Transakcije se ne mogu preurediti (Finality)"
 
-#: src/js/controllers/correspondentDevice.js:1327
+#: src/js/controllers/correspondentDevice.js:1330
 msgid "First name"
 msgstr "Ime"
 
@@ -752,7 +757,7 @@ msgstr "Puna adresa:"
 msgid "GET STARTED"
 msgstr "POČNITE"
 
-#: src/js/controllers/walletHome.js:432
+#: src/js/controllers/walletHome.js:439
 msgid "Generate QR Code"
 msgstr "Generiši QR kod"
 
@@ -776,11 +781,11 @@ msgstr "Opšta podešavanja"
 msgid "Go back"
 msgstr "Nazad"
 
-#: public/views/preferences.html:51
+#: public/views/preferences.html:55
 msgid "Hardware wallet"
 msgstr "Hardverski novčanik"
 
-#: public/views/preferences.html:59
+#: public/views/preferences.html:63
 msgid "Hidden assets"
 msgstr "Skrivena sredstva"
 
@@ -825,23 +830,23 @@ msgstr "Plaćam"
 msgid "I receive another payment of"
 msgstr "Primam uplatu od"
 
-#: src/js/controllers/correspondentDevice.js:1336
+#: src/js/controllers/correspondentDevice.js:1339
 msgid "ID expires at"
 msgstr "ID ističe na"
 
-#: src/js/controllers/correspondentDevice.js:1337
+#: src/js/controllers/correspondentDevice.js:1340
 msgid "ID issued at"
 msgstr "ID je izdat u"
 
-#: src/js/controllers/correspondentDevice.js:1333
+#: src/js/controllers/correspondentDevice.js:1336
 msgid "ID number"
 msgstr "ID broj"
 
-#: src/js/controllers/correspondentDevice.js:1335
+#: src/js/controllers/correspondentDevice.js:1338
 msgid "ID subtype"
 msgstr "ID podtip"
 
-#: src/js/controllers/correspondentDevice.js:1334
+#: src/js/controllers/correspondentDevice.js:1337
 msgid "ID type"
 msgstr "ID tip"
 
@@ -886,7 +891,7 @@ msgstr "Novčanik se uvozi..."
 msgid "Including pending confirmation"
 msgstr "Uključujući i potvrde trenutno na čekanju"
 
-#: public/views/walletHome.html:672
+#: public/views/walletHome.html:691
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
 msgstr "Sinhronizacija inicijalne istorije transakcija može potrajati nekoliko minuta za novčanike sa puno transakcija.<br>\n"
@@ -900,7 +905,7 @@ msgstr "Upiši moju adresu"
 msgid "Insert private profile"
 msgstr "Unesite privatni profil"
 
-#: public/views/walletHome.html:691
+#: public/views/walletHome.html:710
 msgid "Invalid"
 msgstr "Nevažeće"
 
@@ -928,7 +933,7 @@ msgstr "Oznaka"
 msgid "Language"
 msgstr "Jezik"
 
-#: src/js/controllers/correspondentDevice.js:1328
+#: src/js/controllers/correspondentDevice.js:1331
 msgid "Last name"
 msgstr "Prezime"
 
@@ -944,7 +949,7 @@ msgstr "Učitavanje..."
 msgid "Make a payment to"
 msgstr "Izvrši uplatu"
 
-#: public/views/modals/approveNewWitnesses.html:29
+#: public/views/modals/approveNewWitnesses.html:47
 msgid "Maybe later"
 msgstr "Možda kasnije"
 
@@ -960,7 +965,7 @@ msgstr "Ja"
 msgid "Merchant message"
 msgstr "Poruka trgovca"
 
-#: public/views/walletHome.html:457
+#: public/views/walletHome.html:476
 msgid "Merkle proof"
 msgstr "Drvo odlučivanja (Merkle proof)"
 
@@ -977,7 +982,7 @@ msgstr "Poruka:"
 msgid "More"
 msgstr ""
 
-#: public/views/walletHome.html:690
+#: public/views/walletHome.html:709
 msgid "Moved"
 msgstr "Pomereno"
 
@@ -997,6 +1002,11 @@ msgstr "Moja snimljena podešavanja"
 msgid "Name of the contact"
 msgstr "Ime kontakta"
 
+#: public/views/modals/approveNewWitnesses.html:20
+#: public/views/modals/approveNewWitnesses.html:32
+msgid "Name:"
+msgstr ""
+
 #: public/views/paymentUri.html:18
 msgid "Network"
 msgstr "Mreža"
@@ -1015,7 +1025,7 @@ msgstr "Novi svedoci (witnesses)"
 
 #: public/views/authConfirmation.html:22
 #: src/js/controllers/index.js:660
-#: src/js/controllers/walletHome.js:1870
+#: src/js/controllers/walletHome.js:1879
 msgid "No"
 msgstr "Ne"
 
@@ -1023,33 +1033,33 @@ msgstr "Ne"
 msgid "No password given"
 msgstr "Lozinka nije data"
 
-#: public/views/modals/choose-profile.html:67
+#: public/views/modals/choose-profile.html:68
 msgid "No profiles matching the requested criteria."
 msgstr "Nijedan profil se ne poklapa sa traženim kriterijumima."
 
-#: public/views/modals/choose-profile.html:68
+#: public/views/modals/choose-profile.html:69
 msgid "No profiles yet."
 msgstr "I dalje nema profila."
 
-#: public/views/walletHome.html:656
+#: public/views/walletHome.html:675
 msgid "No transactions yet"
 msgstr "I dalje nema transakcija"
 
 #: public/views/modals/claim-textcoin.html:21
 #: public/views/modals/customized-amount.html:51
 #: public/views/modals/destination-address.html:113
-#: public/views/walletHome.html:368
-#: public/views/walletHome.html:405
-#: public/views/walletHome.html:414
-#: public/views/walletHome.html:575
+#: public/views/walletHome.html:371
+#: public/views/walletHome.html:424
+#: public/views/walletHome.html:433
+#: public/views/walletHome.html:594
 msgid "Not valid"
 msgstr "Nije važeće"
 
 #: public/views/includes/output.html:12
 #: public/views/modals/tx-details.html:109
 #: public/views/modals/tx-details.html:84
-#: public/views/walletHome.html:468
-#: public/views/walletHome.html:719
+#: public/views/walletHome.html:487
+#: public/views/walletHome.html:739
 msgid "Note"
 msgstr "Beleška"
 
@@ -1070,7 +1080,7 @@ msgid "Offer Contract"
 msgstr ""
 
 #: public/views/modals/offer-contract.html:33
-#: src/js/services/correspondentListService.js:129
+#: src/js/services/correspondentListService.js:150
 msgid "Offer a contract"
 msgstr "Ponudi ugovor"
 
@@ -1079,7 +1089,7 @@ msgid "Offer is valid for"
 msgstr ""
 
 #: public/views/modals/offer-prosaic-contract.html:42
-#: src/js/services/correspondentListService.js:129
+#: src/js/services/correspondentListService.js:150
 msgid "Offer prosaic contract"
 msgstr ""
 
@@ -1095,7 +1105,7 @@ msgstr "Jedino novčanik koji zahteva jedan potpis (single-sig) može biti vrać
 msgid "Open chat"
 msgstr "Otvori dopisivanje"
 
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:617
 msgid "Options for answering"
 msgstr "Opcije za odgovaranje"
 
@@ -1139,7 +1149,7 @@ msgstr "Molimo Vas, nalepite ovde privatni ključ Vašeg papirnog novčanika"
 msgid "Pay and offer"
 msgstr "Plati i ponudi"
 
-#: src/js/services/correspondentListService.js:129
+#: src/js/services/correspondentListService.js:150
 msgid "Pay to this address"
 msgstr "Uplati na ovu adresu"
 
@@ -1176,7 +1186,7 @@ msgstr "Korisnik:"
 msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
 msgstr "Obriši ovaj novčanik za sva vremena: OVA ODLUKA SE NE MOŽE PROMENITI"
 
-#: src/js/controllers/correspondentDevice.js:1331
+#: src/js/controllers/correspondentDevice.js:1334
 msgid "Personal code"
 msgstr "Lični kôd"
 
@@ -1220,19 +1230,19 @@ msgstr "Referendum"
 msgid "Port"
 msgstr "Port"
 
-#: public/views/walletHome.html:565
+#: public/views/walletHome.html:584
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
 msgstr "Pošaljite glasački listić u Obyte mrežu, putem Bota za referendum."
 
-#: public/views/walletHome.html:562
+#: public/views/walletHome.html:581
 msgid "Post arbitrary key-value pairs of data into Obyte network."
 msgstr "Postujte na Obyte mrežu arbitrarne vrednosti parova ključeva za podatake."
 
-#: public/views/walletHome.html:553
+#: public/views/walletHome.html:572
 msgid "Post values into datafeeds manually, be an oracle."
 msgstr "Postujte vrednosti ručno, u formi datafeed-a, postanite savetnik (oracle)."
 
-#: public/views/walletHome.html:559
+#: public/views/walletHome.html:578
 msgid "Post your profile data, anything you want to say about yourself."
 msgstr "Objavite podatke o svom profilu, šta god želite da kažete o sebi."
 
@@ -1249,8 +1259,8 @@ msgstr "Ponovo kliknite za izlazak"
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
 msgstr ""
 
-#: src/js/controllers/walletHome.js:1924
-#: src/js/controllers/walletHome.js:2000
+#: src/js/controllers/walletHome.js:1933
+#: src/js/controllers/walletHome.js:2009
 msgid "Private payloads sent"
 msgstr "Poslata je privatna pošiljka (payload)"
 
@@ -1262,11 +1272,11 @@ msgstr "Privatni profil"
 msgid "Profile"
 msgstr "Profil"
 
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:617
 msgid "Profile field"
 msgstr "Polje za profil"
 
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:617
 msgid "Profile field value"
 msgstr "Vrednost polja profila"
 
@@ -1286,7 +1296,7 @@ msgstr "QR kod"
 msgid "QR-Scanner"
 msgstr "QR skener"
 
-#: public/views/walletHome.html:585
+#: public/views/walletHome.html:604
 msgid "Question to be voted on"
 msgstr "Pitanje stavljeno na glasanje"
 
@@ -1302,7 +1312,7 @@ msgstr ""
 msgid "Receive"
 msgstr "Primi"
 
-#: public/views/walletHome.html:687
+#: public/views/walletHome.html:706
 msgid "Received"
 msgstr "Primljeno"
 
@@ -1360,7 +1370,7 @@ msgstr "Ponovite lozinku"
 msgid "Repeat the password"
 msgstr "Ponovite lozinku"
 
-#: public/views/modals/approveNewWitnesses.html:23
+#: public/views/modals/approveNewWitnesses.html:41
 msgid "Replace"
 msgstr "Zameni"
 
@@ -1403,7 +1413,7 @@ msgstr "ZADAVANJE"
 #: public/views/preferencesDeviceName.html:14
 #: public/views/preferencesEditAttestorAddress.html:14
 #: public/views/preferencesEditRealNameAttestors.html:29
-#: public/views/preferencesEditWitness.html:15
+#: public/views/preferencesEditWitness.html:37
 #: public/views/preferencesEmail.html:35
 #: public/views/preferencesHub.html:18
 #: public/views/preferencesTor.html:19
@@ -1414,7 +1424,7 @@ msgstr "Snimi"
 msgid "Saving preferences..."
 msgstr "Snimanje postavki..."
 
-#: public/views/preferences.html:76
+#: public/views/preferences.html:80
 msgid "Scan Fingerprint/FaceID"
 msgstr "Skeniraj otisak prsta/lice"
 
@@ -1455,8 +1465,8 @@ msgid "Select your identity"
 msgstr "Izaberite svoj identitet"
 
 #: public/views/includes/transaction.html:10
-#: public/views/walletHome.html:518
-#: public/views/walletHome.html:617
+#: public/views/walletHome.html:537
+#: public/views/walletHome.html:636
 #: src/js/controllers/index.js:814
 msgid "Send"
 msgstr "Pošalji"
@@ -1477,7 +1487,7 @@ msgstr "Pošalji sve"
 msgid "Send by email"
 msgstr "Pošalji e-poštom"
 
-#: public/views/modals/choose-profile.html:62
+#: public/views/modals/choose-profile.html:63
 msgid "Send this profile"
 msgstr "Pošalji ovaj profil"
 
@@ -1485,7 +1495,7 @@ msgstr "Pošalji ovaj profil"
 msgid "Sending..."
 msgstr "Šalje se..."
 
-#: public/views/walletHome.html:689
+#: public/views/walletHome.html:708
 msgid "Sent"
 msgstr "Pošalji"
 
@@ -1523,12 +1533,12 @@ msgstr "Podeli kod"
 msgid "Share this wallet address to receive payments."
 msgstr "Podelite adresu ovog novčanika kako biste primili uplate."
 
-#: public/views/walletHome.html:393
-#: public/views/walletHome.html:538
+#: public/views/walletHome.html:412
+#: public/views/walletHome.html:557
 msgid "Share via message"
 msgstr "Podelite putem poruke"
 
-#: public/views/walletHome.html:746
+#: public/views/walletHome.html:766
 msgid "Show all"
 msgstr "Prikaži sve"
 
@@ -1559,12 +1569,12 @@ msgid "Signing address:"
 msgstr "Adresa za potpisivanje:"
 
 #: public/views/create.html:56
-#: public/views/preferences.html:36
+#: public/views/preferences.html:40
 msgid "Single address wallet"
 msgstr "Novčanik sa jedinstvenom adresom"
 
 #: public/views/create.html:59
-#: public/views/preferences.html:38
+#: public/views/preferences.html:42
 msgid "Single address wallets will not spawn new addresses for every transaction, change will always go to the one and only address the wallet contains."
 msgstr "Novčanici sa jedinstvenom adresom neće praviti nove adrese za svaku narednu transakciju. Sve promene stanja na računu će ići preko jedne adrese koja je dodeljena novčaniku."
 
@@ -1580,7 +1590,7 @@ msgstr "Određivanje šifre za obnovu (seed)..."
 msgid "Spend unconfirmed funds"
 msgstr "Trošenje nepotvrđenih sredstava"
 
-#: public/views/preferences.html:70
+#: public/views/preferences.html:74
 #: public/views/preferencesGlobal.html:86
 msgid "Spending Restrictions"
 msgstr "Ograničenja troškova"
@@ -1593,7 +1603,7 @@ msgstr ""
 msgid "Still not done"
 msgstr "Još nije završeno"
 
-#: src/js/controllers/correspondentDevice.js:1383
+#: src/js/controllers/correspondentDevice.js:1386
 msgid "Store"
 msgstr "Snimi"
 
@@ -1603,8 +1613,8 @@ msgstr "Snimi"
 #: src/js/controllers/index.js:326
 #: src/js/controllers/index.js:354
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:1924
-#: src/js/controllers/walletHome.js:2000
+#: src/js/controllers/walletHome.js:1933
+#: src/js/controllers/walletHome.js:2009
 msgid "Success"
 msgstr "Uspešno"
 
@@ -1630,7 +1640,7 @@ msgstr "TOR omogućen"
 
 #: public/views/walletHome.html:117
 #: public/views/walletHome.html:122
-#: public/views/walletHome.html:654
+#: public/views/walletHome.html:673
 msgid "Tap to retry"
 msgstr "Tapnite za ponovni pokušaj"
 
@@ -1713,7 +1723,7 @@ msgstr "Ova odluka ostaje trajna i nepromenljiva"
 msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
 msgstr "Ova opcija je bolja za privatnost ali će zauzeti nekoliko gigabajta prostora na disku i sinhronizacija će potrajati nekoliko dana. Tokom tog procesa, procesor će biti prilično opterećen."
 
-#: public/views/walletHome.html:438
+#: public/views/walletHome.html:457
 msgid "This payment is bound to a condition..."
 msgstr ""
 
@@ -1725,19 +1735,19 @@ msgstr "Ovo plaćanje se mora izvršiti preko novčanika sa jedinstvenom adresom
 msgid "This transaction has become invalid; possibly due to a double spend attempt."
 msgstr "Ova transakcija je postala nevažeća; moguće je da se to dogodilo usled pokušaja dvostrukog plaćanja."
 
-#: public/views/preferences.html:42
+#: public/views/preferences.html:46
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
 msgstr "Ovaj novčanik ne može biti promenjen u novčanik sa višestrukim adresama pošto je već potvrđen"
 
-#: public/views/preferences.html:41
+#: public/views/preferences.html:45
 msgid "This wallet cannot be converted to multi address wallet as it is multidevice"
 msgstr "Ovaj novčanik ne može biti promenjen u novčanik sa višestrukim adresama pošto je namenjen većem broju uređaja"
 
-#: public/views/preferences.html:39
+#: public/views/preferences.html:43
 msgid "This wallet cannot be converted to single address wallet as it already consists of multiple addresses"
 msgstr "Ovaj novčanik ne može biti promenjen u novčanik sa jedinstvenom adresom pošto već sadrži veći broj adresa"
 
-#: public/views/preferences.html:40
+#: public/views/preferences.html:44
 msgid "This wallet cannot be converted to single address wallet as it is multidevice"
 msgstr "Ovaj novčanik ne može biti promenjen u novčanik sa jedinstvenom adresom pošto je namenjen većem broju uređaja"
 
@@ -1755,12 +1765,12 @@ msgstr ""
 #: public/views/includes/transaction.html:19
 #: public/views/modals/tx-details.html:39
 #: public/views/modals/tx-details.html:74
-#: public/views/walletHome.html:721
+#: public/views/walletHome.html:741
 #: src/js/controllers/index.js:1596
 msgid "To"
 msgstr "Za"
 
-#: public/views/walletHome.html:400
+#: public/views/walletHome.html:419
 msgid "To Obyte address"
 msgstr "Na Obyte adresu"
 
@@ -1768,11 +1778,11 @@ msgstr "Na Obyte adresu"
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
 msgstr "Kako biste bili u stanju da sve vratite u prethodno stanje, molimo Vas da kreirate puni backup (pronađite opciju u meniju)"
 
-#: public/views/walletHome.html:628
+#: public/views/walletHome.html:647
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address wallet first or create one."
 msgstr "Kako biste bili u mogućnosti da šaljete proizvoljne podatke na O<sub>byte</sub> mrežu, molimo Vas da se prvo prebacite na novčanik sa jedinstvenom adresom ili da ga kreirate, ako već niste."
 
-#: public/views/walletHome.html:447
+#: public/views/walletHome.html:466
 msgid "To bind the payment to a condition, please click the peer's address in chat"
 msgstr "Kako biste vezali uplatu za uslov, molimo Vas da kliknete na adresu partnera u chat-u"
 
@@ -1809,7 +1819,7 @@ msgid "Transaction created.\n"
 "Please approve it on the other devices."
 msgstr ""
 
-#: public/views/walletHome.html:678
+#: public/views/walletHome.html:697
 msgid "Transactions<br> Downloaded"
 msgstr "Transakcije<br> Preuzete"
 
@@ -1825,16 +1835,16 @@ msgstr "Prevodioci"
 msgid "Trusted nodes"
 msgstr "Nodovi od poverenja"
 
-#: src/js/controllers/correspondentDevice.js:1332
+#: src/js/controllers/correspondentDevice.js:1335
 msgid "US state"
 msgstr "US države"
 
-#: src/js/controllers/walletHome.js:857
+#: src/js/controllers/walletHome.js:864
 msgid "Unable to send transaction proposal"
 msgstr "Nije moguće poslati predlog transakcije"
 
 #: public/views/modals/tx-details.html:121
-#: public/views/walletHome.html:709
+#: public/views/walletHome.html:728
 msgid "Unconfirmed"
 msgstr "Nepotvrđeno"
 
@@ -1866,16 +1876,16 @@ msgstr "Nadogradnja baze podataka, molimo Vas da sačekate. Ponekad je potrebno 
 msgid "Valid till"
 msgstr ""
 
-#: public/views/walletHome.html:492
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:511
+#: public/views/walletHome.html:617
 msgid "Value"
 msgstr "Vrednost"
 
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:617
 msgid "Values"
 msgstr "Vrednosti"
 
-#: src/js/controllers/correspondentDevice.js:1356
+#: src/js/controllers/correspondentDevice.js:1359
 msgid "Verifying the profile..."
 msgstr "Potvrđivanje profila..."
 
@@ -1916,7 +1926,7 @@ msgstr "Čekanje..."
 msgid "Wallet"
 msgstr "Novčanik"
 
-#: public/views/preferences.html:20
+#: public/views/preferences.html:24
 msgid "Wallet Alias"
 msgstr "Pseudonim novčanika"
 
@@ -1962,7 +1972,7 @@ msgstr "Upozorenje!"
 msgid "Was claimed?"
 msgstr "Da li je preuzeto?"
 
-#: public/views/walletHome.html:340
+#: public/views/walletHome.html:339
 msgid "What to send"
 msgstr "Šta se šalje"
 
@@ -1970,13 +1980,13 @@ msgstr "Šta se šalje"
 #: public/views/modals/offer-contract.html:112
 #: public/views/modals/sign-message.html:28
 #: public/views/modals/vote.html:28
-#: public/views/walletHome.html:507
-#: public/views/walletHome.html:531
-#: public/views/walletHome.html:609
+#: public/views/walletHome.html:526
+#: public/views/walletHome.html:550
+#: public/views/walletHome.html:628
 msgid "Who signs:"
 msgstr "Ko potpisuje:"
 
-#: public/views/preferencesEditWitness.html:13
+#: public/views/preferencesEditWitness.html:12
 msgid "Witness address"
 msgstr "Adresa svedoka (witness)"
 
@@ -2013,7 +2023,7 @@ msgstr "Ne možete vezati svoju transakciju za reverzno plaćanje pošto se nala
 msgid "You do not have a wallet"
 msgstr "Nemate novčanik"
 
-#: public/views/modals/choose-profile.html:69
+#: public/views/modals/choose-profile.html:70
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
 msgstr "Morate proći kroz proces potvrđivanja profila. U okviru Bot Store, potražite Real Name Attestation bota."
 
@@ -2102,7 +2112,7 @@ msgstr ""
 msgid "attestor is not trusted by you"
 msgstr ""
 
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:617
 msgid "available"
 msgstr "dostupno"
 
@@ -2139,7 +2149,7 @@ msgstr "preuzeo {{btx.claimedByMe?'me':'receiver'|translate}}"
 msgid "clear chat history"
 msgstr "obriši istoriju dopisivanja"
 
-#: public/views/walletHome.html:598
+#: public/views/walletHome.html:617
 msgid "confirmed"
 msgstr "potvrđeno"
 
@@ -2243,8 +2253,8 @@ msgstr ""
 msgid "on feed name"
 msgstr "potvrđeni događaji"
 
-#: public/views/walletHome.html:458
-#: public/views/walletHome.html:469
+#: public/views/walletHome.html:477
+#: public/views/walletHome.html:488
 msgid "optional"
 msgstr "opciono"
 
@@ -2289,19 +2299,19 @@ msgid "send"
 msgstr "pošalji"
 
 #: public/views/modals/share.html:30
-#: src/js/controllers/walletHome.js:788
+#: src/js/controllers/walletHome.js:795
 msgid "send email"
 msgstr "pošalji email"
 
-#: src/js/controllers/walletHome.js:1027
-#: src/js/controllers/walletHome.js:1040
-#: src/js/controllers/walletHome.js:1140
-#: src/js/controllers/walletHome.js:1198
-#: src/js/controllers/walletHome.js:1349
-#: src/js/controllers/walletHome.js:1386
+#: src/js/controllers/walletHome.js:1034
+#: src/js/controllers/walletHome.js:1047
+#: src/js/controllers/walletHome.js:1147
+#: src/js/controllers/walletHome.js:1206
+#: src/js/controllers/walletHome.js:1357
 #: src/js/controllers/walletHome.js:1394
-#: src/js/controllers/walletHome.js:957
-#: src/js/controllers/walletHome.js:992
+#: src/js/controllers/walletHome.js:1403
+#: src/js/controllers/walletHome.js:964
+#: src/js/controllers/walletHome.js:999
 msgid "sending"
 msgstr "slanje"
 
@@ -2309,11 +2319,11 @@ msgstr "slanje"
 msgid "share again"
 msgstr "ponovo podeli"
 
-#: public/views/walletHome.html:444
+#: public/views/walletHome.html:463
 msgid "switch to multi-address"
 msgstr "prebacivanje u multi-adresni"
 
-#: public/views/walletHome.html:443
+#: public/views/walletHome.html:462
 msgid "switch to single address"
 msgstr "prebacivanje u jedno-adresni"
 
@@ -2325,7 +2335,7 @@ msgstr ""
 msgid "the text below and send it to the recipient via any messaging app"
 msgstr "tekst ispod i pošalji primaocu preko bilo koje aplikacije za slanje poruka"
 
-#: public/views/modals/approveNewWitnesses.html:17
+#: public/views/modals/approveNewWitnesses.html:26
 msgid "to"
 msgstr "za"
 
@@ -2333,8 +2343,8 @@ msgstr "za"
 msgid "together with"
 msgstr "zajedno sa"
 
-#: public/views/walletHome.html:459
-#: public/views/walletHome.html:470
+#: public/views/walletHome.html:478
+#: public/views/walletHome.html:489
 msgid "too long!"
 msgstr "predugo!"
 
@@ -2356,7 +2366,7 @@ msgstr "važeće"
 msgid "validate contract integrity"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:909
+#: src/js/controllers/walletHome.js:916
 msgid "wait for sync to complete before sending payments"
 msgstr "sačekajte da se proces sinhronizacije završi pre nego što pošaljete uplate"
 
