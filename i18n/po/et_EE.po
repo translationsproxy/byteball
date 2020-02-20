@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2020-02-20 19:41\n"
+"PO-Revision-Date: 2020-02-20 19:50\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -41,7 +41,7 @@ msgstr "12 kriipsudega eraldatud sõna"
 
 #: public/views/walletHome.html:418
 msgid "AAs not allowed in multi-send"
-msgstr "Autonoomne agent ei saa olla üks mitmest saajatest"
+msgstr "Autonoomne Agent ei saa olla üks mitmest saajatest"
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
@@ -1059,7 +1059,7 @@ msgstr "Uued Juhuslikud Lähtesõnad"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New order providers"
-msgstr "Uued Järjekorra Pakkuja"
+msgstr "Uued Järjekorra Pakkujad"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
@@ -1753,7 +1753,7 @@ msgstr "Kirjuta sõnum:"
 
 #: public/views/walletHome.html:662
 msgid "Text to be forever saved on the DAG:"
-msgstr ""
+msgstr "Tekst, mis salvestakse igaveseks avalikku andmebaasi:"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
@@ -1765,7 +1765,7 @@ msgstr "Tõendatud aadress kuulub:"
 
 #: public/views/walletHome.html:542
 msgid "The expected result:"
-msgstr ""
+msgstr "Eeldatav tulemus:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1838,7 +1838,7 @@ msgstr "See tehing on muutunud kehtetuks; tõenäoliselt topelt-kulutamise katse
 
 #: public/views/modals/tx-details.html:162
 msgid "This transaction was sent to an autonomous agent"
-msgstr ""
+msgstr "See tehing saadeti Autonoomsele Agendile"
 
 #: public/views/preferences.html:46
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
@@ -1909,7 +1909,7 @@ msgstr "Lepingu terviklikkuse kinnitamiseks arvutatakse SHA256 räsi kolmest kok
 
 #: public/views/walletHome.html:665
 msgid "Too long text"
-msgstr ""
+msgstr "Liiga pikk tekst"
 
 #: public/views/walletHome.html:222
 msgid "Total Locked Balance"
@@ -1951,7 +1951,7 @@ msgstr "Usaldusväärsed sõlmed"
 
 #: public/views/walletHome.html:546
 msgid "Try again"
-msgstr ""
+msgstr "Proovi uuesti"
 
 #: src/js/controllers/correspondentDevice.js:1361
 msgid "US state"
@@ -1988,7 +1988,7 @@ msgstr "Uuenda versioonini {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait."
-msgstr ""
+msgstr "Uuendatakse andmebaasi, palun oota."
 
 #: public/views/modals/view-prosaic-contract.html:67
 msgid "Valid till"
@@ -2005,7 +2005,7 @@ msgstr "Väärtused"
 
 #: public/views/walletHome.html:553
 msgid "Variable"
-msgstr ""
+msgstr "Muutuja"
 
 #: src/js/controllers/correspondentDevice.js:1385
 msgid "Verifying the profile..."
@@ -2128,11 +2128,11 @@ msgstr "Jah"
 
 #: public/views/walletHome.html:530
 msgid "You are sending to an autonomous agent, the expected result:"
-msgstr ""
+msgstr "Tehing saadetakse Autonoomsele Agendile, eeldatav tulemus:"
 
 #: public/views/walletHome.html:532
 msgid "You are sending to an autonomous agent:"
-msgstr ""
+msgstr "Tehing saadetakse Autonoomsele Agendile:"
 
 #: public/views/modals/tx-details.html:151
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
@@ -2266,7 +2266,7 @@ msgstr "tühista rahakoti loomine"
 
 #: public/views/walletHome.html:666
 msgid "character(s)"
-msgstr ""
+msgstr "tähemärk(i)"
 
 #: public/views/modals/tx-details.html:140
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
@@ -2294,7 +2294,7 @@ msgstr "päeva"
 
 #: src/js/controllers/walletHome.js:1174
 msgid "decreased by"
-msgstr ""
+msgstr "väheneb"
 
 #: public/views/modals/bind.html:82
 #: public/views/modals/offer-contract.html:99
@@ -2349,7 +2349,7 @@ msgstr "nutilepingutes"
 
 #: src/js/controllers/walletHome.js:1170
 msgid "increased by"
-msgstr ""
+msgstr "suureneb"
 
 #: public/views/modals/signed-message.html:28
 msgid "invalid"
@@ -2361,7 +2361,7 @@ msgstr "endale hoidmiseks"
 
 #: public/views/walletHome.html:537
 msgid "less"
-msgstr ""
+msgstr "vähem"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -2369,12 +2369,12 @@ msgstr "lukus ootel maksete tõttu"
 
 #: public/views/walletHome.html:536
 msgid "more"
-msgstr ""
+msgstr "rohkem"
 
 #: public/views/modals/tx-details.html:169
 #: src/js/controllers/walletHome.js:1220
 msgid "none"
-msgstr ""
+msgstr "pole ühtegi"
 
 #: public/views/modals/tx-details.html:134
 msgid "not claimed"
@@ -2466,7 +2466,7 @@ msgstr "saatmine"
 
 #: src/js/controllers/walletHome.js:1178
 msgid "set to"
-msgstr ""
+msgstr "määra"
 
 #: public/views/modals/tx-details.html:148
 msgid "share again"
@@ -2513,7 +2513,7 @@ msgstr "tehing andmebaasis:"
 
 #: src/js/controllers/walletHome.js:1211
 msgid "unlimited"
-msgstr ""
+msgstr "piiramatu"
 
 #: public/views/modals/signed-message.html:29
 #: public/views/modals/view-prosaic-contract.html:100
@@ -2530,7 +2530,7 @@ msgstr "enne maksete saatmist oota sünkroniseerimise lõpuni"
 
 #: public/views/walletHome.html:561
 msgid "were added as it is the minimum amount for this AA"
-msgstr ""
+msgstr "lisatud, sest see on minimaalne kogus selle Autonoomse Agendi jaoks"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
@@ -2543,9 +2543,9 @@ msgstr "eeldades väärtuseks"
 
 #: src/js/controllers/walletHome.js:1197
 msgid "you"
-msgstr ""
+msgstr "sina"
 
 #: public/views/walletHome.html:370
 msgid "{{home.custom_amount_error}}"
-msgstr ""
+msgstr "{{home.custom_amount_error}}"
 
