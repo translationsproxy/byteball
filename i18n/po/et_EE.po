@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2020-02-20 19:21\n"
+"PO-Revision-Date: 2020-02-20 19:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -234,11 +234,11 @@ msgstr "Tõendaja aadress"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the Order Provider (witness) list from the hub"
-msgstr ""
+msgstr "Automaatne Järjekorra Pakkujate nimekirja uuendamine jaotuspunktist"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the Order Provider (witness) list from this hub"
-msgstr ""
+msgstr "Automaatne Järjekorra Pakkujate nimekirja uuendamine sellest jaotuspunktist"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -319,11 +319,11 @@ msgstr "Sinul ja {{correspondent.name}} on mõlemil vestluse salvestamine lubatu
 
 #: src/js/controllers/walletHome.js:1164
 msgid "Bounce the request"
-msgstr ""
+msgstr "Põrka päring tagasi"
 
 #: public/views/modals/tx-details.html:173
 msgid "Bounced?"
-msgstr ""
+msgstr "Põrkas tagasi?"
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -581,7 +581,7 @@ msgstr "KUSTUTA LÄHTESÕNAD"
 
 #: public/views/walletHome.html:343
 msgid "Data into datafeed (searchable)"
-msgstr ""
+msgstr "Andmeid andmevoogu (otsitav)"
 
 #: public/views/walletHome.html:491
 msgid "Data to be posted with the payment:"
@@ -609,7 +609,7 @@ msgstr "Katkestatud"
 
 #: src/js/controllers/walletHome.js:1211
 msgid "Define a new asset with cap"
-msgstr ""
+msgstr "Defineeri uus vara piiratud koguses"
 
 #: public/views/walletHome.html:197
 msgid "Definition"
@@ -617,11 +617,11 @@ msgstr "Kirjeldus"
 
 #: public/views/walletHome.html:348
 msgid "Definition of autonomous agent"
-msgstr ""
+msgstr "Autonoomse Agendi kirjeldus"
 
 #: public/views/walletHome.html:654
 msgid "Definition of autonomous agent:"
-msgstr ""
+msgstr "Autonoomse Agendi kirjeldus:"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -714,7 +714,7 @@ msgstr "Sisesta oma salasõna"
 
 #: public/views/modals/tx-details.html:179
 msgid "Error"
-msgstr ""
+msgstr "Viga"
 
 #: src/js/services/profileService.js:341
 #: src/js/services/profileService.js:393
@@ -769,7 +769,7 @@ msgstr "Kellelt"
 
 #: public/views/walletHome.html:800
 msgid "From AA"
-msgstr ""
+msgstr "AAlt"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
@@ -797,7 +797,7 @@ msgstr "Aadressi otsimine rahakotile"
 
 #: src/js/controllers/correspondentDevice.js:1356
 msgid "Given name"
-msgstr ""
+msgstr "Eesnimi"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -830,7 +830,7 @@ msgstr "Avaleht"
 
 #: public/views/walletHome.html:540
 msgid "Home page:"
-msgstr ""
+msgstr "Koduleht:"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
@@ -1059,7 +1059,7 @@ msgstr "Uued Juhuslikud Lähtesõnad"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New order providers"
-msgstr ""
+msgstr "Uued Järjekorra Pakkuja"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
@@ -1162,11 +1162,11 @@ msgstr "Või kopeeri"
 
 #: public/views/preferencesEditWitness.html:12
 msgid "Order Provider (witness) address"
-msgstr ""
+msgstr "Järjekorra Pakkuja aadress"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Order Providers (Witnesses)"
-msgstr ""
+msgstr "Järjekorra Pakkujad"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1708,7 +1708,7 @@ msgstr "Õnnestus"
 
 #: src/js/controllers/correspondentDevice.js:1357
 msgid "Surname"
-msgstr ""
+msgstr "Perekonnanimi"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
@@ -1773,7 +1773,7 @@ msgstr "Teadete jaotuspunkti kasutatakse sõnumite saamiseks teistelt seadmetelt
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following Order Providers (also known as witnesses):"
-msgstr ""
+msgstr "Jaotuspunkt soovitab vahetada järgmised Järjekorra Pakkujad:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
@@ -1877,7 +1877,7 @@ msgstr "Kellele"
 
 #: public/views/walletHome.html:815
 msgid "To AA"
-msgstr ""
+msgstr "AAle"
 
 #: public/views/walletHome.html:402
 msgid "To Obyte address"
