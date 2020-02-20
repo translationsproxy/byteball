@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2020-02-20 19:31\n"
+"PO-Revision-Date: 2020-02-20 19:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -949,11 +949,11 @@ msgstr "Saada kutse teisele seadmele"
 
 #: src/js/controllers/walletHome.js:1330
 msgid "It is not allowed to bind conditions to payments to autonomous agents"
-msgstr ""
+msgstr "Autonoomsete Agentidega pole lubatud sõlmida tingimustega makseid"
 
 #: src/js/controllers/walletHome.js:1328
 msgid "It is not allowed to send private assets to autonomous agents"
-msgstr ""
+msgstr "Autonoomsete Agentidele pole lubatud saata privaatset vara"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
@@ -981,7 +981,7 @@ msgstr "Laadimine..."
 
 #: public/views/walletHome.html:658
 msgid "Looks OK"
-msgstr ""
+msgstr "Sobib"
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
@@ -1018,7 +1018,7 @@ msgstr "Sõnum:"
 
 #: src/js/controllers/walletHome.js:1124
 msgid "Minimum amount"
-msgstr ""
+msgstr "Minimaalne kogus"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
@@ -1108,7 +1108,7 @@ msgstr "Märkused"
 
 #: public/views/modals/tx-details.html:184
 msgid "Notice"
-msgstr ""
+msgstr "Teade"
 
 #: src/js/controllers/export.js:89
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
@@ -1287,11 +1287,11 @@ msgstr "Port"
 
 #: src/js/controllers/walletHome.js:1215
 msgid "Post a"
-msgstr ""
+msgstr "Postita"
 
 #: src/js/controllers/walletHome.js:1206
 msgid "Post a data feed"
-msgstr ""
+msgstr "Postita andmevoogu"
 
 #: public/views/walletHome.html:628
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
@@ -1303,7 +1303,7 @@ msgstr "Postita võti-väärtus andmepaare Obyte võrku."
 
 #: src/js/controllers/walletHome.js:1209
 msgid "Post data"
-msgstr ""
+msgstr "Postita andmeid"
 
 #: public/views/walletHome.html:616
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1345,7 +1345,7 @@ msgstr "Konto välja väärtus"
 
 #: public/views/walletHome.html:345
 msgid "Profile of my address"
-msgstr ""
+msgstr "Konto aadress"
 
 #: public/views/modals/view-prosaic-contract.html:89
 msgid "Proof of contract signing"
@@ -1373,7 +1373,7 @@ msgstr "Küsimus:"
 
 #: public/views/walletHome.html:346
 msgid "Raw data"
-msgstr ""
+msgstr "Struktrureerimata andmed"
 
 #: public/views/preferencesAttestorAddresses.html:16
 msgid "Real name attestors"
@@ -1464,15 +1464,15 @@ msgstr "Nõutav allkirjade arv"
 
 #: public/views/walletHome.html:556
 msgid "Response"
-msgstr ""
+msgstr "Vastus"
 
 #: public/views/modals/tx-details.html:167
 msgid "Response unit"
-msgstr ""
+msgstr "Vastuse tehing"
 
 #: public/views/modals/tx-details.html:189
 msgid "Response variables"
-msgstr ""
+msgstr "Vastuse muutujad"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
@@ -1668,7 +1668,7 @@ msgstr "Rahakott Väikestele Kuludele"
 
 #: public/views/walletHome.html:541
 msgid "Source code:"
-msgstr ""
+msgstr "Lähtekood:"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
