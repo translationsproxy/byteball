@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2020-02-20 19:50\n"
+"PO-Revision-Date: 2020-02-20 20:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1753,7 +1753,7 @@ msgstr "Kirjuta sõnum:"
 
 #: public/views/walletHome.html:662
 msgid "Text to be forever saved on the DAG:"
-msgstr "Tekst, mis salvestakse igaveseks avalikku andmebaasi:"
+msgstr "Tekst, mis salvestatakse igaveseks avalikku andmebaasi:"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
