@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2020-02-17 00:12\n"
+"PO-Revision-Date: 2020-03-24 01:04\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -234,11 +234,11 @@ msgstr "인증을 담당한 주소"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the Order Provider (witness) list from the hub"
-msgstr ""
+msgstr "허브에서 제공하는 정보를 이용해 순서 제공자(증인) 목록 자동 업데이트"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the Order Provider (witness) list from this hub"
-msgstr ""
+msgstr "이 허브에서 제공하는 정보를 이용해 순서 제공자(증인) 목록 자동 업데이트"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -617,11 +617,11 @@ msgstr "정의"
 
 #: public/views/walletHome.html:348
 msgid "Definition of autonomous agent"
-msgstr ""
+msgstr "자율 에이전트 정의"
 
 #: public/views/walletHome.html:654
 msgid "Definition of autonomous agent:"
-msgstr ""
+msgstr "자율 에이전트 정의:"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -714,7 +714,7 @@ msgstr "비밀번호를 입력해주세요"
 
 #: public/views/modals/tx-details.html:179
 msgid "Error"
-msgstr ""
+msgstr "오류"
 
 #: src/js/services/profileService.js:341
 #: src/js/services/profileService.js:393
