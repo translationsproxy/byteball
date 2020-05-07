@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2020-02-17 00:12\n"
+"PO-Revision-Date: 2020-05-07 17:32\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -41,7 +41,7 @@ msgstr "12 ord adskilt af bindestreger"
 
 #: public/views/walletHome.html:418
 msgid "AAs not allowed in multi-send"
-msgstr ""
+msgstr "Det er ikke tilladt at have en AA som modtager i multi-send"
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
@@ -216,7 +216,7 @@ msgstr "Attestér profildata knyttet til en vilkårlig Obyte-adresse."
 
 #: public/views/walletHome.html:344
 msgid "Attestation of any address"
-msgstr ""
+msgstr "Attestering af en vilkårlig adresse"
 
 #: public/views/modals/accept-profile.html:34
 #: public/views/modals/choose-profile.html:41
@@ -234,11 +234,11 @@ msgstr "Attestor-adresser"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the Order Provider (witness) list from the hub"
-msgstr ""
+msgstr "Opdatér Order Provider-liste (Vidner) automatisk fra hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the Order Provider (witness) list from this hub"
-msgstr ""
+msgstr "Opdatér Order Provider-liste (Vidner) automatisk fra hub"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -319,11 +319,11 @@ msgstr "Både du og {{correspondent.name}} slog lokal optagelse af chat-historik
 
 #: src/js/controllers/walletHome.js:1164
 msgid "Bounce the request"
-msgstr ""
+msgstr "Bounce forespørgslen"
 
 #: public/views/modals/tx-details.html:173
 msgid "Bounced?"
-msgstr ""
+msgstr "Bounced?"
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -581,7 +581,7 @@ msgstr "SLET ORD"
 
 #: public/views/walletHome.html:343
 msgid "Data into datafeed (searchable)"
-msgstr ""
+msgstr "Data i datafeed (søgbar)"
 
 #: public/views/walletHome.html:491
 msgid "Data to be posted with the payment:"
@@ -609,7 +609,7 @@ msgstr "Afvist"
 
 #: src/js/controllers/walletHome.js:1211
 msgid "Define a new asset with cap"
-msgstr ""
+msgstr "Opret nyt aktiv med øvre grænse"
 
 #: public/views/walletHome.html:197
 msgid "Definition"
@@ -617,11 +617,11 @@ msgstr "Definition"
 
 #: public/views/walletHome.html:348
 msgid "Definition of autonomous agent"
-msgstr ""
+msgstr "Definition på autonomous agent"
 
 #: public/views/walletHome.html:654
 msgid "Definition of autonomous agent:"
-msgstr ""
+msgstr "Definition på autonomous agent:"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -714,7 +714,7 @@ msgstr "Angiv adgangskode"
 
 #: public/views/modals/tx-details.html:179
 msgid "Error"
-msgstr ""
+msgstr "Fejl"
 
 #: src/js/services/profileService.js:341
 #: src/js/services/profileService.js:393
@@ -769,7 +769,7 @@ msgstr "Fra"
 
 #: public/views/walletHome.html:800
 msgid "From AA"
-msgstr ""
+msgstr "Fra AA"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
@@ -797,7 +797,7 @@ msgstr "Henter adresse for wallet"
 
 #: src/js/controllers/correspondentDevice.js:1356
 msgid "Given name"
-msgstr ""
+msgstr "Fornavn"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -830,7 +830,7 @@ msgstr "Hjem"
 
 #: public/views/walletHome.html:540
 msgid "Home page:"
-msgstr ""
+msgstr "Hjemmeside:"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
@@ -949,11 +949,11 @@ msgstr "Inviter anden enhed"
 
 #: src/js/controllers/walletHome.js:1330
 msgid "It is not allowed to bind conditions to payments to autonomous agents"
-msgstr ""
+msgstr "Det er ikke tilladt at betinge betalinger til autonomous agents"
 
 #: src/js/controllers/walletHome.js:1328
 msgid "It is not allowed to send private assets to autonomous agents"
-msgstr ""
+msgstr "Det er ikke tilladt at sende private aktiver til automous agents"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
@@ -981,7 +981,7 @@ msgstr "Loader..."
 
 #: public/views/walletHome.html:658
 msgid "Looks OK"
-msgstr ""
+msgstr "Ser fint ud"
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
@@ -1018,7 +1018,7 @@ msgstr "Besked:"
 
 #: src/js/controllers/walletHome.js:1124
 msgid "Minimum amount"
-msgstr ""
+msgstr "Mindste beløb"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
@@ -1059,7 +1059,7 @@ msgstr "Nyt tilfældigt seed"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New order providers"
-msgstr ""
+msgstr "Nye Order Providers"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
@@ -1108,7 +1108,7 @@ msgstr "Note"
 
 #: public/views/modals/tx-details.html:184
 msgid "Notice"
-msgstr ""
+msgstr "Besked"
 
 #: src/js/controllers/export.js:89
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
@@ -1162,11 +1162,11 @@ msgstr "Eller kopier"
 
 #: public/views/preferencesEditWitness.html:12
 msgid "Order Provider (witness) address"
-msgstr ""
+msgstr "Order Provider (vidne) adresse"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Order Providers (Witnesses)"
-msgstr ""
+msgstr "Order Providers (vidner)"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1287,11 +1287,11 @@ msgstr "Port"
 
 #: src/js/controllers/walletHome.js:1215
 msgid "Post a"
-msgstr ""
+msgstr "Send"
 
 #: src/js/controllers/walletHome.js:1206
 msgid "Post a data feed"
-msgstr ""
+msgstr "Send et datafeed"
 
 #: public/views/walletHome.html:628
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
@@ -1303,7 +1303,7 @@ msgstr "Send vilkårlige key-value data til Obyte-netværket."
 
 #: src/js/controllers/walletHome.js:1209
 msgid "Post data"
-msgstr ""
+msgstr "Send data"
 
 #: public/views/walletHome.html:616
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1345,7 +1345,7 @@ msgstr "Profil-feltværdi"
 
 #: public/views/walletHome.html:345
 msgid "Profile of my address"
-msgstr ""
+msgstr "Min adresse-profil"
 
 #: public/views/modals/view-prosaic-contract.html:89
 msgid "Proof of contract signing"
@@ -1373,7 +1373,7 @@ msgstr "Spørgsmål:"
 
 #: public/views/walletHome.html:346
 msgid "Raw data"
-msgstr ""
+msgstr "Rådata"
 
 #: public/views/preferencesAttestorAddresses.html:16
 msgid "Real name attestors"
@@ -1464,15 +1464,15 @@ msgstr "Nødvendigt antal signaturer"
 
 #: public/views/walletHome.html:556
 msgid "Response"
-msgstr ""
+msgstr "Svar"
 
 #: public/views/modals/tx-details.html:167
 msgid "Response unit"
-msgstr ""
+msgstr "Svar-unit"
 
 #: public/views/modals/tx-details.html:189
 msgid "Response variables"
-msgstr ""
+msgstr "Svar-variable"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
@@ -1668,7 +1668,7 @@ msgstr "Wallet til mikrobetalinger"
 
 #: public/views/walletHome.html:541
 msgid "Source code:"
-msgstr ""
+msgstr "Kildekode:"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
@@ -1708,7 +1708,7 @@ msgstr "Succes"
 
 #: src/js/controllers/correspondentDevice.js:1357
 msgid "Surname"
-msgstr ""
+msgstr "Efternavn"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
@@ -1753,7 +1753,7 @@ msgstr "Tekstbesked til"
 
 #: public/views/walletHome.html:662
 msgid "Text to be forever saved on the DAG:"
-msgstr ""
+msgstr "Tekst, der skal lagret permanent på DAG:"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
@@ -1765,7 +1765,7 @@ msgstr "Den attesterede adresse tilhører:"
 
 #: public/views/walletHome.html:542
 msgid "The expected result:"
-msgstr ""
+msgstr "Forventet resultat:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1773,7 +1773,7 @@ msgstr "Den hub, der modtager beskeder fra andre enheder."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following Order Providers (also known as witnesses):"
-msgstr ""
+msgstr "Din hub foreslår at udskifte følgende Order Providers (tidligere kaldt vidner):"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
@@ -1838,7 +1838,7 @@ msgstr "Denne transaktion er blevet ugyldig - muligvis pga. forsøg på at bruge
 
 #: public/views/modals/tx-details.html:162
 msgid "This transaction was sent to an autonomous agent"
-msgstr ""
+msgstr "Denne transaktion blev sendt til en autonomous agent"
 
 #: public/views/preferences.html:46
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
@@ -1877,7 +1877,7 @@ msgstr "Til"
 
 #: public/views/walletHome.html:815
 msgid "To AA"
-msgstr ""
+msgstr "Til AA"
 
 #: public/views/walletHome.html:402
 msgid "To Obyte address"
@@ -1909,7 +1909,7 @@ msgstr "For at verificere kontraktens integritet beregnes et SHA256 hash på bag
 
 #: public/views/walletHome.html:665
 msgid "Too long text"
-msgstr ""
+msgstr "Tekst for lang"
 
 #: public/views/walletHome.html:222
 msgid "Total Locked Balance"
@@ -1951,7 +1951,7 @@ msgstr "Noder du har tillid til"
 
 #: public/views/walletHome.html:546
 msgid "Try again"
-msgstr ""
+msgstr "Prøv igen"
 
 #: src/js/controllers/correspondentDevice.js:1361
 msgid "US state"
@@ -1988,7 +1988,7 @@ msgstr "Opgrader til {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait."
-msgstr ""
+msgstr "Opgraderer database, vent venligst."
 
 #: public/views/modals/view-prosaic-contract.html:67
 msgid "Valid till"
@@ -2005,7 +2005,7 @@ msgstr "Værdier"
 
 #: public/views/walletHome.html:553
 msgid "Variable"
-msgstr ""
+msgstr "Variable"
 
 #: src/js/controllers/correspondentDevice.js:1385
 msgid "Verifying the profile..."
@@ -2128,11 +2128,11 @@ msgstr "Ja"
 
 #: public/views/walletHome.html:530
 msgid "You are sending to an autonomous agent, the expected result:"
-msgstr ""
+msgstr "Du sender til en autonomous agent. Forventet resultat:"
 
 #: public/views/walletHome.html:532
 msgid "You are sending to an autonomous agent:"
-msgstr ""
+msgstr "Du sender til en autonomous agent:"
 
 #: public/views/modals/tx-details.html:151
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
@@ -2266,7 +2266,7 @@ msgstr "annuller oprettelse af wallet"
 
 #: public/views/walletHome.html:666
 msgid "character(s)"
-msgstr ""
+msgstr "tegn"
 
 #: public/views/modals/tx-details.html:140
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
@@ -2294,7 +2294,7 @@ msgstr "dage"
 
 #: src/js/controllers/walletHome.js:1174
 msgid "decreased by"
-msgstr ""
+msgstr "reduceret med"
 
 #: public/views/modals/bind.html:82
 #: public/views/modals/offer-contract.html:99
@@ -2349,7 +2349,7 @@ msgstr "i smart-wallets"
 
 #: src/js/controllers/walletHome.js:1170
 msgid "increased by"
-msgstr ""
+msgstr "øget med"
 
 #: public/views/modals/signed-message.html:28
 msgid "invalid"
@@ -2361,7 +2361,7 @@ msgstr "behold for mig selv"
 
 #: public/views/walletHome.html:537
 msgid "less"
-msgstr ""
+msgstr "mindre"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -2369,12 +2369,12 @@ msgstr "låst pga. ventende betaling"
 
 #: public/views/walletHome.html:536
 msgid "more"
-msgstr ""
+msgstr "mere"
 
 #: public/views/modals/tx-details.html:169
 #: src/js/controllers/walletHome.js:1220
 msgid "none"
-msgstr ""
+msgstr "ingen"
 
 #: public/views/modals/tx-details.html:134
 msgid "not claimed"
@@ -2466,7 +2466,7 @@ msgstr "sender"
 
 #: src/js/controllers/walletHome.js:1178
 msgid "set to"
-msgstr ""
+msgstr "sat til"
 
 #: public/views/modals/tx-details.html:148
 msgid "share again"
@@ -2513,7 +2513,7 @@ msgstr "enhed i DAG-netværket:"
 
 #: src/js/controllers/walletHome.js:1211
 msgid "unlimited"
-msgstr ""
+msgstr "ubegrænset"
 
 #: public/views/modals/signed-message.html:29
 #: public/views/modals/view-prosaic-contract.html:100
@@ -2530,7 +2530,7 @@ msgstr "vent med at sende betalinger til synkroniseringen er fuldført"
 
 #: public/views/walletHome.html:561
 msgid "were added as it is the minimum amount for this AA"
-msgstr ""
+msgstr "blev tilføjet, da det er minimum for denne AA"
 
 #: public/views/modals/select-subwallet.html:37
 msgid "with"
@@ -2543,9 +2543,9 @@ msgstr "med forventet værdi"
 
 #: src/js/controllers/walletHome.js:1197
 msgid "you"
-msgstr ""
+msgstr "dig"
 
 #: public/views/walletHome.html:370
 msgid "{{home.custom_amount_error}}"
-msgstr ""
+msgstr "{{home.custom_amount_error}}"
 
