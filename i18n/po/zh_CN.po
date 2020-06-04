@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2020-06-04 16:32\n"
+"PO-Revision-Date: 2020-06-04 16:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -319,11 +319,11 @@ msgstr "您和{{correspondent.name}}都启用了本地聊天记录。"
 
 #: src/js/controllers/walletHome.js:1164
 msgid "Bounce the request"
-msgstr ""
+msgstr "退回请求"
 
 #: public/views/modals/tx-details.html:173
 msgid "Bounced?"
-msgstr ""
+msgstr "已退回？"
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -501,7 +501,7 @@ msgstr "通讯员和聊天室没有恢复。"
 #: public/views/modals/offer-prosaic-contract.html:73
 #: public/views/modals/view-prosaic-contract.html:109
 msgid "Cosigners"
-msgstr ""
+msgstr "共签者"
 
 #: src/js/controllers/walletHome.js:722
 msgid "Could not create payment proposal"
@@ -581,7 +581,7 @@ msgstr "删除单词"
 
 #: public/views/walletHome.html:343
 msgid "Data into datafeed (searchable)"
-msgstr ""
+msgstr "数据进入数据源(可搜索)"
 
 #: public/views/walletHome.html:491
 msgid "Data to be posted with the payment:"
@@ -609,7 +609,7 @@ msgstr "已拒绝"
 
 #: src/js/controllers/walletHome.js:1211
 msgid "Define a new asset with cap"
-msgstr ""
+msgstr "定义一个带上限的新资产"
 
 #: public/views/walletHome.html:197
 msgid "Definition"
@@ -617,11 +617,11 @@ msgstr "定义"
 
 #: public/views/walletHome.html:348
 msgid "Definition of autonomous agent"
-msgstr ""
+msgstr "自治代理的定义"
 
 #: public/views/walletHome.html:654
 msgid "Definition of autonomous agent:"
-msgstr ""
+msgstr "自治代理的定义:"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -714,7 +714,7 @@ msgstr "输入您的密码"
 
 #: public/views/modals/tx-details.html:179
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #: src/js/services/profileService.js:341
 #: src/js/services/profileService.js:393
@@ -769,7 +769,7 @@ msgstr "来自"
 
 #: public/views/walletHome.html:800
 msgid "From AA"
-msgstr ""
+msgstr "从AA"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
@@ -797,7 +797,7 @@ msgstr "获取钱包地址"
 
 #: src/js/controllers/correspondentDevice.js:1356
 msgid "Given name"
-msgstr ""
+msgstr "名字"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -830,7 +830,7 @@ msgstr "首页"
 
 #: public/views/walletHome.html:540
 msgid "Home page:"
-msgstr ""
+msgstr "主页："
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
@@ -949,11 +949,11 @@ msgstr "邀请其他设备"
 
 #: src/js/controllers/walletHome.js:1330
 msgid "It is not allowed to bind conditions to payments to autonomous agents"
-msgstr ""
+msgstr "不允许将条件约束给自治代理的付款"
 
 #: src/js/controllers/walletHome.js:1328
 msgid "It is not allowed to send private assets to autonomous agents"
-msgstr ""
+msgstr "不允许向自治代理发送隐私资产"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
@@ -981,7 +981,7 @@ msgstr "加载中..."
 
 #: public/views/walletHome.html:658
 msgid "Looks OK"
-msgstr ""
+msgstr "看起来没问题"
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
@@ -1018,7 +1018,7 @@ msgstr "消息："
 
 #: src/js/controllers/walletHome.js:1124
 msgid "Minimum amount"
-msgstr ""
+msgstr "最小金额"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
