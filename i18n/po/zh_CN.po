@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2020-02-17 00:12\n"
+"PO-Revision-Date: 2020-06-04 15:22\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -41,7 +41,7 @@ msgstr "用连接号(-)隔开的12个单词"
 
 #: public/views/walletHome.html:418
 msgid "AAs not allowed in multi-send"
-msgstr ""
+msgstr "AA不允许多重发送"
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
@@ -134,7 +134,7 @@ msgstr "在接受合同后，您将被要求签署包含该合同哈希的交易
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
-msgstr ""
+msgstr "写下之后，交易可以发现在"
 
 #: public/views/disclaimer.html:37
 msgid "Agree"
@@ -142,7 +142,7 @@ msgstr "同意"
 
 #: public/views/preferencesAlias.html:12
 msgid "Alias for"
-msgstr ""
+msgstr "钱包别名"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Wallet Addresses"
@@ -216,7 +216,7 @@ msgstr "证明配置文件已经与Obyte地址建立链接"
 
 #: public/views/walletHome.html:344
 msgid "Attestation of any address"
-msgstr ""
+msgstr "任何地址的认证"
 
 #: public/views/modals/accept-profile.html:34
 #: public/views/modals/choose-profile.html:41
