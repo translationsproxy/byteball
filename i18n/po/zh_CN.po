@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2020-06-04 16:41\n"
+"PO-Revision-Date: 2020-06-04 17:00\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1059,7 +1059,7 @@ msgstr "新的随机种子"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New order providers"
-msgstr ""
+msgstr "新见证人"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
@@ -1108,7 +1108,7 @@ msgstr "注意"
 
 #: public/views/modals/tx-details.html:184
 msgid "Notice"
-msgstr ""
+msgstr "通知"
 
 #: src/js/controllers/export.js:89
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
@@ -1133,12 +1133,12 @@ msgstr "签定合约"
 
 #: public/views/modals/offer-prosaic-contract.html:70
 msgid "Offer is valid for"
-msgstr ""
+msgstr "优惠有效于"
 
 #: public/views/modals/offer-prosaic-contract.html:42
 #: src/js/services/correspondentListService.js:134
 msgid "Offer prosaic contract"
-msgstr ""
+msgstr "签定通用合约"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
@@ -1162,11 +1162,11 @@ msgstr "或复制"
 
 #: public/views/preferencesEditWitness.html:12
 msgid "Order Provider (witness) address"
-msgstr ""
+msgstr "订单提供者(见证人) 地址"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Order Providers (Witnesses)"
-msgstr ""
+msgstr "订单提供者(见证人)"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1275,7 +1275,7 @@ msgstr "请切换到单地址钱包, 您可能需要再次插入您的地址。"
 
 #: public/views/includes/backup-reminder.html:8
 msgid "Please visit the Backups section in"
-msgstr ""
+msgstr "请访问备份部分"
 
 #: public/views/walletHome.html:347
 msgid "Poll"
@@ -1287,11 +1287,11 @@ msgstr "端口："
 
 #: src/js/controllers/walletHome.js:1215
 msgid "Post a"
-msgstr ""
+msgstr "发送一个"
 
 #: src/js/controllers/walletHome.js:1206
 msgid "Post a data feed"
-msgstr ""
+msgstr "发布数据源"
 
 #: public/views/walletHome.html:628
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
@@ -1303,7 +1303,7 @@ msgstr "将输入的任意数据发送到 Obyte 网络中。"
 
 #: src/js/controllers/walletHome.js:1209
 msgid "Post data"
-msgstr ""
+msgstr "发送数据"
 
 #: public/views/walletHome.html:616
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1345,7 +1345,7 @@ msgstr "配置文件字段值"
 
 #: public/views/walletHome.html:345
 msgid "Profile of my address"
-msgstr ""
+msgstr "我的地址资料"
 
 #: public/views/modals/view-prosaic-contract.html:89
 msgid "Proof of contract signing"
@@ -1353,7 +1353,7 @@ msgstr "合同签名证明"
 
 #: public/views/modals/view-prosaic-contract.html:57
 msgid "Prosaic contract"
-msgstr ""
+msgstr "通用合同"
 
 #: public/views/modals/customized-amount.html:16
 msgid "QR Code"
@@ -1373,7 +1373,7 @@ msgstr "问题："
 
 #: public/views/walletHome.html:346
 msgid "Raw data"
-msgstr ""
+msgstr "原始数据"
 
 #: public/views/preferencesAttestorAddresses.html:16
 msgid "Real name attestors"
@@ -1464,15 +1464,15 @@ msgstr "通过所需签名数"
 
 #: public/views/walletHome.html:556
 msgid "Response"
-msgstr ""
+msgstr "响应"
 
 #: public/views/modals/tx-details.html:167
 msgid "Response unit"
-msgstr ""
+msgstr "响应单位"
 
 #: public/views/modals/tx-details.html:189
 msgid "Response variables"
-msgstr ""
+msgstr "响应变量"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
@@ -1668,7 +1668,7 @@ msgstr "小额钱包"
 
 #: public/views/walletHome.html:541
 msgid "Source code:"
-msgstr ""
+msgstr "源代码："
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
@@ -1708,7 +1708,7 @@ msgstr "成功"
 
 #: src/js/controllers/correspondentDevice.js:1357
 msgid "Surname"
-msgstr ""
+msgstr "姓"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
@@ -1753,7 +1753,7 @@ msgstr "发送短信至"
 
 #: public/views/walletHome.html:662
 msgid "Text to be forever saved on the DAG:"
-msgstr ""
+msgstr "要永远保存在DAG上的文本："
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
@@ -1765,7 +1765,7 @@ msgstr "证明的地址属于:"
 
 #: public/views/walletHome.html:542
 msgid "The expected result:"
-msgstr ""
+msgstr "预期结果："
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1773,7 +1773,7 @@ msgstr "通过Hub从其他设备接收消息。"
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following Order Providers (also known as witnesses):"
-msgstr ""
+msgstr "该节点建议更换下列订单提供者(也称见证人):"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
@@ -1838,7 +1838,7 @@ msgstr "此交易已失效，可能由于尝试双重支付导致。"
 
 #: public/views/modals/tx-details.html:162
 msgid "This transaction was sent to an autonomous agent"
-msgstr ""
+msgstr "此交易已发送给一个自治代理"
 
 #: public/views/preferences.html:46
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
@@ -1877,7 +1877,7 @@ msgstr "到"
 
 #: public/views/walletHome.html:815
 msgid "To AA"
-msgstr ""
+msgstr "到 AA"
 
 #: public/views/walletHome.html:402
 msgid "To Obyte address"
@@ -1909,7 +1909,7 @@ msgstr "为了验证合同的完整性，SHA256哈希是从三个连接组件计
 
 #: public/views/walletHome.html:665
 msgid "Too long text"
-msgstr ""
+msgstr "文本过长"
 
 #: public/views/walletHome.html:222
 msgid "Total Locked Balance"
@@ -1951,7 +1951,7 @@ msgstr "受信任节点"
 
 #: public/views/walletHome.html:546
 msgid "Try again"
-msgstr ""
+msgstr "再试一次"
 
 #: src/js/controllers/correspondentDevice.js:1361
 msgid "US state"
@@ -1988,7 +1988,7 @@ msgstr "升级到 {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait."
-msgstr ""
+msgstr "升级数据库中，请稍候。"
 
 #: public/views/modals/view-prosaic-contract.html:67
 msgid "Valid till"
@@ -2005,7 +2005,7 @@ msgstr "值"
 
 #: public/views/walletHome.html:553
 msgid "Variable"
-msgstr ""
+msgstr "变量"
 
 #: src/js/controllers/correspondentDevice.js:1385
 msgid "Verifying the profile..."
@@ -2128,11 +2128,11 @@ msgstr "是的"
 
 #: public/views/walletHome.html:530
 msgid "You are sending to an autonomous agent, the expected result:"
-msgstr ""
+msgstr "将向一个自治代理发送，预期结果："
 
 #: public/views/walletHome.html:532
 msgid "You are sending to an autonomous agent:"
-msgstr ""
+msgstr "将向一个自治代理发送:"
 
 #: public/views/modals/tx-details.html:151
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
