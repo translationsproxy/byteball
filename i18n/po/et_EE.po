@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2020-06-11 17:43\n"
+"PO-Revision-Date: 2020-06-11 17:52\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -821,7 +821,7 @@ msgstr "Peidetud vara"
 
 #: public/views/preferences.html:70
 msgid "Hidden subwallets"
-msgstr ""
+msgstr "Peidetud kontod"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -1545,15 +1545,15 @@ msgstr "Vali rahakott"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select subwallet"
-msgstr "Vali alamrahakott"
+msgstr "Vali konto"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the wallet"
-msgstr "Vali vara, mida soovid peita rahakotis"
+msgstr "Vali vara, mida soovid peita"
 
 #: public/views/preferencesHiddenSubWallets.html:29
 msgid "Select the subwallets to hide in the wallet"
-msgstr ""
+msgstr "Vali konto, mida soovid peita"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
