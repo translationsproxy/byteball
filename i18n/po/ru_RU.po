@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2020-06-12 11:14\n"
+"PO-Revision-Date: 2020-06-12 11:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -130,7 +130,7 @@ msgstr "Подробнее"
 
 #: public/views/modals/view-prosaic-contract.html:134
 msgid "After accepting the contract, you will be asked to sign a transaction containing this contract's hash. This second step happens as soon as the offerer receives your response."
-msgstr ""
+msgstr "После принятия контракта Вам будет предложено подписать транзакцию, содержащую хэш данного контракта. Второе действие происходит сразу же, как только инициатор контракта получит ваш ответ."
 
 #: public/views/modals/share.html:43
 msgid "After writing it down, find this transaction in"
