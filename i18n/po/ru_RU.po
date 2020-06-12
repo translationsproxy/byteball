@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2020-06-12 11:21\n"
+"PO-Revision-Date: 2020-06-12 11:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -150,7 +150,7 @@ msgstr "Все адреса кошелька"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
-msgstr ""
+msgstr "Приветствуется любое участие в переводе Obyte. Регистрируйтесь на crowdin.com и присоединяйтесь к проекту O<sub>byte</sub> на"
 
 #: public/views/modals/multi-payment.html:56
 msgid "Already Paid"
@@ -212,11 +212,11 @@ msgstr "Актив"
 
 #: public/views/walletHome.html:629
 msgid "Attest profile data linked to any Obyte address."
-msgstr ""
+msgstr "Аттестовать данные профиля связанные с любым Obyte адресом."
 
 #: public/views/walletHome.html:345
 msgid "Attestation of any address"
-msgstr ""
+msgstr "Аттестация любого адреса"
 
 #: public/views/modals/accept-profile.html:34
 #: public/views/modals/choose-profile.html:41
@@ -258,7 +258,7 @@ msgstr "Назад"
 
 #: public/views/preferencesGlobal.html:105
 msgid "Backup all wallet data"
-msgstr ""
+msgstr "Резервное копирование всех данных кошелька"
 
 #: public/views/walletHome.html:250
 msgid "Backup now"
@@ -266,7 +266,7 @@ msgstr "Создать резервную копию"
 
 #: public/views/preferencesGlobal.html:126
 msgid "Backup only the seed words"
-msgstr ""
+msgstr "Резервное копирование только мнемофразы"
 
 #: src/js/controllers/backup.js:7
 msgid "Backup words deleted"
@@ -303,7 +303,7 @@ msgstr "Привязать платеж к условию"
 
 #: public/views/walletHome.html:450
 msgid "Bind the payment to a condition..."
-msgstr ""
+msgstr "Привязать платеж к условию..."
 
 #: public/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
