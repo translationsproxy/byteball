@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2020-06-12 11:31\n"
+"PO-Revision-Date: 2020-06-12 12:42\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -45,7 +45,7 @@ msgstr ""
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
-msgstr ""
+msgstr "Об Obyte"
 
 #: src/js/controllers/copayers.js:8
 #: src/js/controllers/preferencesDelete.js:9
@@ -393,7 +393,7 @@ msgstr "Получаем..."
 
 #: public/views/modals/share.html:30
 msgid "Click the button to"
-msgstr ""
+msgstr "Нажмите на кнопку, чтобы"
 
 #: public/views/walletHome.html:610
 msgid "Click this button to create a payment file and send it to a recipient."
@@ -431,7 +431,7 @@ msgstr "Закрыть"
 
 #: public/views/create.html:90
 msgid "Co-signer"
-msgstr ""
+msgstr "Совладелец"
 
 #: public/views/preferencesInformation.html:73
 msgid "Co-signers"
