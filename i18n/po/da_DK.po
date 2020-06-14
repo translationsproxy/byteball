@@ -5,11 +5,13 @@ msgstr ""
 "Project-Id-Version: byteball\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: byteball\n"
+"X-Crowdin-Project-ID: 270960\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
+"X-Crowdin-File-ID: 222\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2020-06-11 17:32\n"
+"PO-Revision-Date: 2020-06-14 14:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -773,7 +775,7 @@ msgstr "Fra AA"
 
 #: public/views/walletHome.html:409
 msgid "From Obyte address"
-msgstr ""
+msgstr "Fra Obyte-adresse"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
@@ -821,7 +823,7 @@ msgstr "Skjulte tokens"
 
 #: public/views/preferences.html:70
 msgid "Hidden subwallets"
-msgstr ""
+msgstr "Skjulte subwallets"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -1553,7 +1555,7 @@ msgstr "Vælg en token du vil skjule i din wallet"
 
 #: public/views/preferencesHiddenSubWallets.html:29
 msgid "Select the subwallets to hide in the wallet"
-msgstr ""
+msgstr "Vælg de subwallets du ønsker at skjule i dine wallet"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
