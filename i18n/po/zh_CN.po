@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2020-06-16 12:32\n"
+"PO-Revision-Date: 2020-06-16 12:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2376,7 +2376,7 @@ msgstr "为自己保留"
 
 #: public/views/walletHome.html:547
 msgid "less"
-msgstr ""
+msgstr "更少"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -2384,12 +2384,12 @@ msgstr "待付锁定"
 
 #: public/views/walletHome.html:546
 msgid "more"
-msgstr ""
+msgstr "更多"
 
 #: public/views/modals/tx-details.html:169
 #: src/js/controllers/walletHome.js:1228
 msgid "none"
-msgstr ""
+msgstr "没有"
 
 #: public/views/modals/tx-details.html:134
 msgid "not claimed"
@@ -2405,7 +2405,7 @@ msgstr "无效"
 #: public/views/modals/destination-address.html:73
 #: public/views/paymentUri.html:37
 msgid "of"
-msgstr ""
+msgstr "的"
 
 #: public/views/editCorrespondentDevice.html:59
 msgid "on"
@@ -2481,7 +2481,7 @@ msgstr "发送中"
 
 #: src/js/controllers/walletHome.js:1186
 msgid "set to"
-msgstr ""
+msgstr "设置为"
 
 #: public/views/modals/tx-details.html:148
 msgid "share again"
@@ -2524,11 +2524,11 @@ msgstr "信任的"
 
 #: public/views/modals/view-prosaic-contract.html:92
 msgid "unit in DAG:"
-msgstr ""
+msgstr "DAG中的单元："
 
 #: src/js/controllers/walletHome.js:1219
 msgid "unlimited"
-msgstr ""
+msgstr "无限"
 
 #: public/views/modals/signed-message.html:29
 #: public/views/modals/view-prosaic-contract.html:100
@@ -2545,7 +2545,7 @@ msgstr "发送付款前等待同步完成"
 
 #: public/views/walletHome.html:571
 msgid "were added as it is the minimum amount for this AA"
-msgstr ""
+msgstr "添加了，因为这是此AA的最低金额"
 
 #: public/views/modals/select-subwallet.html:37
 #: public/views/preferencesHiddenSubWallets.html:36
@@ -2559,7 +2559,7 @@ msgstr "具有预期值"
 
 #: src/js/controllers/walletHome.js:1205
 msgid "you"
-msgstr ""
+msgstr "你"
 
 #: public/views/walletHome.html:371
 msgid "{{home.custom_amount_error}}"
