@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-09-14 04:21\n"
+"PO-Revision-Date: 2020-09-14 04:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -840,7 +840,7 @@ msgstr "Rumah"
 
 #: public/views/walletHome.html:550
 msgid "Home page:"
-msgstr ""
+msgstr "Laman Utama:"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
@@ -991,7 +991,7 @@ msgstr "Pemuatan..."
 
 #: public/views/walletHome.html:668
 msgid "Looks OK"
-msgstr ""
+msgstr "Terlihat OK"
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
@@ -1892,7 +1892,7 @@ msgstr "Ke"
 
 #: public/views/walletHome.html:825
 msgid "To AA"
-msgstr ""
+msgstr "Ke AA"
 
 #: public/views/walletHome.html:412
 msgid "To Obyte address"
@@ -1924,7 +1924,7 @@ msgstr "Untuk memverifikasi integritas kontrak, hash SHA256 dihitung dari tiga k
 
 #: public/views/walletHome.html:675
 msgid "Too long text"
-msgstr ""
+msgstr "Teks terlalu panjang"
 
 #: public/views/walletHome.html:222
 msgid "Total Locked Balance"
@@ -1966,7 +1966,7 @@ msgstr "Node terpercaya"
 
 #: public/views/walletHome.html:556
 msgid "Try again"
-msgstr ""
+msgstr "Coba lagi"
 
 #: src/js/controllers/correspondentDevice.js:1367
 msgid "US state"
@@ -2003,7 +2003,7 @@ msgstr "Pemutahiran ke {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait."
-msgstr ""
+msgstr "Mengupgrade database, harap tunggu."
 
 #: public/views/modals/view-prosaic-contract.html:67
 msgid "Valid till"
@@ -2020,7 +2020,7 @@ msgstr "Nilai-nilai"
 
 #: public/views/walletHome.html:563
 msgid "Variable"
-msgstr ""
+msgstr "Variabel"
 
 #: src/js/controllers/correspondentDevice.js:1391
 msgid "Verifying the profile..."
