@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-09-14 05:41\n"
+"PO-Revision-Date: 2020-09-14 05:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -236,11 +236,11 @@ msgstr "Alamat pengesahan"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the Order Provider (witness) list from the hub"
-msgstr ""
+msgstr "Pemutakihran otomatis daftar Penyedia Pesanan (saksi) dari hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the Order Provider (witness) list from this hub"
-msgstr ""
+msgstr "Pemutakihran otomatis daftar Penyedia Pesanan (saksi) dari hub ini"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -583,7 +583,7 @@ msgstr "HAPUS KATA-KATA"
 
 #: public/views/walletHome.html:344
 msgid "Data into datafeed (searchable)"
-msgstr ""
+msgstr "Data kedalam penyedia data (dapat dicari)"
 
 #: public/views/walletHome.html:501
 msgid "Data to be posted with the payment:"
@@ -611,7 +611,7 @@ msgstr "Menolak"
 
 #: src/js/controllers/walletHome.js:1219
 msgid "Define a new asset with cap"
-msgstr ""
+msgstr "Tentukan aset baru dengan batasan"
 
 #: public/views/walletHome.html:197
 msgid "Definition"
@@ -619,11 +619,11 @@ msgstr "Definisi"
 
 #: public/views/walletHome.html:349
 msgid "Definition of autonomous agent"
-msgstr ""
+msgstr "Definisi agen otonom"
 
 #: public/views/walletHome.html:664
 msgid "Definition of autonomous agent:"
-msgstr ""
+msgstr "Definisi agen otonom:"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -959,11 +959,11 @@ msgstr "Mengundang perangkat lain"
 
 #: src/js/controllers/walletHome.js:1338
 msgid "It is not allowed to bind conditions to payments to autonomous agents"
-msgstr ""
+msgstr "Tidak diperbolehkan mengikat persyaratan pembayaran ke agen otonom"
 
 #: src/js/controllers/walletHome.js:1336
 msgid "It is not allowed to send private assets to autonomous agents"
-msgstr ""
+msgstr "Tidak diperbolehkan mengirim aset pribadi ke agen otonom"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig wallets, smart contracts, contacts, chat history, and private assets such as blackbytes."
@@ -1172,7 +1172,7 @@ msgstr "Atau menyalin"
 
 #: public/views/preferencesEditWitness.html:12
 msgid "Order Provider (witness) address"
-msgstr "Alamat Penyedia Pesanan (Saksi)"
+msgstr "Alamat Penyedia Pesanan (saksi)"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Order Providers (Witnesses)"
@@ -1313,7 +1313,7 @@ msgstr "Posting pasangan kunci-nilai sewenang-wenang data ke jaringan Obyte."
 
 #: src/js/controllers/walletHome.js:1217
 msgid "Post data"
-msgstr ""
+msgstr "Terbitkan data"
 
 #: public/views/walletHome.html:626
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1555,7 +1555,7 @@ msgstr "Pilih aset yang akan disembunyikan dalam dompet"
 
 #: public/views/preferencesHiddenSubWallets.html:29
 msgid "Select the subwallets to hide in the wallet"
-msgstr ""
+msgstr "Pilih sub dompet yang akan disembunyikan di dalam dompet"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
