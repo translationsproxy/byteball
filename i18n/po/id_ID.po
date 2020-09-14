@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-09-14 04:11\n"
+"PO-Revision-Date: 2020-09-14 04:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -771,7 +771,7 @@ msgstr "Dari"
 
 #: public/views/walletHome.html:810
 msgid "From AA"
-msgstr ""
+msgstr "Dari AA"
 
 #: public/views/walletHome.html:409
 msgid "From Obyte address"
@@ -803,7 +803,7 @@ msgstr "Mendapatkan alamat untuk dompet"
 
 #: src/js/controllers/correspondentDevice.js:1362
 msgid "Given name"
-msgstr ""
+msgstr "Nama Depan"
 
 #: public/views/includes/sidebar.html:45
 msgid "Global preferences"
@@ -823,7 +823,7 @@ msgstr "Aset tersembunyi"
 
 #: public/views/preferences.html:70
 msgid "Hidden subwallets"
-msgstr ""
+msgstr "Sub dompet tersembunyi"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -1682,7 +1682,7 @@ msgstr "Dompet Pengeluaran Kecil"
 
 #: public/views/walletHome.html:551
 msgid "Source code:"
-msgstr ""
+msgstr "Kode sumber:"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
@@ -1722,7 +1722,7 @@ msgstr "Sukses"
 
 #: src/js/controllers/correspondentDevice.js:1363
 msgid "Surname"
-msgstr ""
+msgstr "Nama Belakang"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
@@ -2376,7 +2376,7 @@ msgstr "simpan untuk diri sendiri"
 
 #: public/views/walletHome.html:547
 msgid "less"
-msgstr ""
+msgstr "kurang"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
