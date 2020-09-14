@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-09-14 05:31\n"
+"PO-Revision-Date: 2020-09-14 05:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -27,7 +27,7 @@ msgstr "(dompet saat ini)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other wallet)"
-msgstr "(dompet lain saya)"
+msgstr "(dompet saya yang lain)"
 
 #: public/views/walletHome.html:787
 msgid "(possible double spend)"
@@ -1069,7 +1069,7 @@ msgstr "Bibit Acak Baru"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New order providers"
-msgstr ""
+msgstr "Penyedia pesanan baru"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
@@ -1172,7 +1172,7 @@ msgstr "Atau menyalin"
 
 #: public/views/preferencesEditWitness.html:12
 msgid "Order Provider (witness) address"
-msgstr ""
+msgstr "Alamat Penyedia Pesanan (Saksi)"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Order Providers (Witnesses)"
@@ -1297,11 +1297,11 @@ msgstr "Port"
 
 #: src/js/controllers/walletHome.js:1223
 msgid "Post a"
-msgstr ""
+msgstr "Terbitkan"
 
 #: src/js/controllers/walletHome.js:1214
 msgid "Post a data feed"
-msgstr ""
+msgstr "Terbitkan penyedia data"
 
 #: public/views/walletHome.html:638
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
@@ -1355,7 +1355,7 @@ msgstr "Isi kolom profil"
 
 #: public/views/walletHome.html:346
 msgid "Profile of my address"
-msgstr ""
+msgstr "Profil alamat saya"
 
 #: public/views/modals/view-prosaic-contract.html:89
 msgid "Proof of contract signing"
@@ -1767,7 +1767,7 @@ msgstr "Kirim pesan ke"
 
 #: public/views/walletHome.html:672
 msgid "Text to be forever saved on the DAG:"
-msgstr ""
+msgstr "Teks yang akan disimpan selamanya di DAG:"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
@@ -1779,7 +1779,7 @@ msgstr "Alamat yang disahkan atas nama:"
 
 #: public/views/walletHome.html:552
 msgid "The expected result:"
-msgstr ""
+msgstr "Hasil yang diharapkan:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1787,7 +1787,7 @@ msgstr "Hub untuk menerima pesan dari perangkat lain."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following Order Providers (also known as witnesses):"
-msgstr ""
+msgstr "Hub menyarankan mengganti Penyedia Pesanan (juga dikenal sebagai saksi) berikut:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
@@ -1853,7 +1853,7 @@ msgstr "Transaksi ini telah menjadi tidak sah; mungkin karena upaya pembayaran g
 
 #: public/views/modals/tx-details.html:162
 msgid "This transaction was sent to an autonomous agent"
-msgstr ""
+msgstr "Transaksi ini telah dikirim ke agen otonom"
 
 #: public/views/preferences.html:46
 msgid "This wallet cannot be converted to multi address wallet as it already has attestations"
@@ -2143,11 +2143,11 @@ msgstr "Ya"
 
 #: public/views/walletHome.html:540
 msgid "You are sending to an autonomous agent, the expected result:"
-msgstr ""
+msgstr "Anda mengirim ke agen otonom, hasil yang diharapkan:"
 
 #: public/views/walletHome.html:542
 msgid "You are sending to an autonomous agent:"
-msgstr ""
+msgstr "Anda mengirim ke agen otonom:"
 
 #: public/views/modals/tx-details.html:151
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
