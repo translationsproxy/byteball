@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-09-14 06:12\n"
+"PO-Revision-Date: 2020-09-14 06:22\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1032,7 +1032,7 @@ msgstr "Jumlah minimal"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
-msgstr "Lainnya"
+msgstr "Selengkapnya"
 
 #: public/views/walletHome.html:779
 msgid "Moved"
@@ -1265,7 +1265,7 @@ msgstr "Setujui setoran biaya kontrak di perangkat lain."
 
 #: src/js/controllers/index.js:288
 msgid "Please approve posting prosaic contract hash on the other devices."
-msgstr "Harap setujui memposting hash kontrak prosaik di perangkat lain."
+msgstr "Harap menyetujui menerbitkan hash kontrak prosaik di perangkat lain."
 
 #: public/views/splash.html:20
 msgid "Please choose how much data to store in your wallet"
