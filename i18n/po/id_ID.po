@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-09-14 06:01\n"
+"PO-Revision-Date: 2020-09-14 06:12\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -587,7 +587,7 @@ msgstr "Data kedalam penyedia data (dapat dicari)"
 
 #: public/views/walletHome.html:501
 msgid "Data to be posted with the payment:"
-msgstr "Data akan diposting dengan pembayaran:"
+msgstr "Data akan diterbitkan dengan pembayaran:"
 
 #: public/views/walletHome.html:687
 msgid "Datafeed name"
@@ -691,7 +691,7 @@ msgstr "Unduh berkas CSV"
 
 #: public/views/splash.html:26
 msgid "Download the entire Obyte database"
-msgstr "Mengunduh seluruh basisdata Byteball"
+msgstr "Mengunduh seluruh basisdata Obyte"
 
 #: public/views/modals/destination-address.html:38
 msgid "Edit"
