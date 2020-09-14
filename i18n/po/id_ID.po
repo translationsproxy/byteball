@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-09-14 04:31\n"
+"PO-Revision-Date: 2020-09-14 04:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2281,7 +2281,7 @@ msgstr "batalkan pembuatan dompet"
 
 #: public/views/walletHome.html:676
 msgid "character(s)"
-msgstr ""
+msgstr "karakter"
 
 #: public/views/modals/tx-details.html:140
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
@@ -2389,7 +2389,7 @@ msgstr ""
 #: public/views/modals/tx-details.html:169
 #: src/js/controllers/walletHome.js:1228
 msgid "none"
-msgstr ""
+msgstr "tidak ada"
 
 #: public/views/modals/tx-details.html:134
 msgid "not claimed"
@@ -2481,7 +2481,7 @@ msgstr "mengirim"
 
 #: src/js/controllers/walletHome.js:1186
 msgid "set to"
-msgstr ""
+msgstr "atur ke"
 
 #: public/views/modals/tx-details.html:148
 msgid "share again"
@@ -2528,7 +2528,7 @@ msgstr "unit dalam DAG:"
 
 #: src/js/controllers/walletHome.js:1219
 msgid "unlimited"
-msgstr ""
+msgstr "tak terbatas"
 
 #: public/views/modals/signed-message.html:29
 #: public/views/modals/view-prosaic-contract.html:100
@@ -2559,7 +2559,7 @@ msgstr "dengan nilai yang diharapkan"
 
 #: src/js/controllers/walletHome.js:1205
 msgid "you"
-msgstr ""
+msgstr "anda"
 
 #: public/views/walletHome.html:371
 msgid "{{home.custom_amount_error}}"
