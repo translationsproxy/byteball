@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-09-14 04:41\n"
+"PO-Revision-Date: 2020-09-14 05:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -321,11 +321,11 @@ msgstr "Baik anda dan {{correspondent.name}} mengaktifkan rekaman lokal riwayat 
 
 #: src/js/controllers/walletHome.js:1172
 msgid "Bounce the request"
-msgstr ""
+msgstr "Pantulkan permintaan"
 
 #: public/views/modals/tx-details.html:173
 msgid "Bounced?"
-msgstr ""
+msgstr "Terpental?"
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -2309,7 +2309,7 @@ msgstr "hari"
 
 #: src/js/controllers/walletHome.js:1182
 msgid "decreased by"
-msgstr ""
+msgstr "berkurang sebanyak"
 
 #: public/views/modals/bind.html:82
 #: public/views/modals/offer-contract.html:99
@@ -2364,7 +2364,7 @@ msgstr "di dompet pintar"
 
 #: src/js/controllers/walletHome.js:1178
 msgid "increased by"
-msgstr ""
+msgstr "bertambah sebanyak"
 
 #: public/views/modals/signed-message.html:28
 msgid "invalid"
@@ -2384,7 +2384,7 @@ msgstr "terkunci oleh pembayaran tertunda"
 
 #: public/views/walletHome.html:546
 msgid "more"
-msgstr ""
+msgstr "selengkapnya"
 
 #: public/views/modals/tx-details.html:169
 #: src/js/controllers/walletHome.js:1228
@@ -2545,7 +2545,7 @@ msgstr "tunggu sinkronisasi selesai sebelum mengirim pembayaran"
 
 #: public/views/walletHome.html:571
 msgid "were added as it is the minimum amount for this AA"
-msgstr ""
+msgstr "ditambahkan karena ini adalah jumlah minimum untuk AA ini"
 
 #: public/views/modals/select-subwallet.html:37
 #: public/views/preferencesHiddenSubWallets.html:36
@@ -2563,5 +2563,5 @@ msgstr "anda"
 
 #: public/views/walletHome.html:371
 msgid "{{home.custom_amount_error}}"
-msgstr ""
+msgstr "{{home.custom_amount_error}}"
 
