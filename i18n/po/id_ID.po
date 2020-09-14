@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-09-14 04:02\n"
+"PO-Revision-Date: 2020-09-14 04:11\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1028,7 +1028,7 @@ msgstr "Pesan:"
 
 #: src/js/controllers/walletHome.js:1132
 msgid "Minimum amount"
-msgstr ""
+msgstr "Jumlah minimal"
 
 #: public/views/correspondentDevice.html:26
 msgid "More"
@@ -1118,7 +1118,7 @@ msgstr "Catatan"
 
 #: public/views/modals/tx-details.html:184
 msgid "Notice"
-msgstr ""
+msgstr "Catatan"
 
 #: src/js/controllers/export.js:128
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
@@ -1383,7 +1383,7 @@ msgstr "Pertanyaan:"
 
 #: public/views/walletHome.html:347
 msgid "Raw data"
-msgstr ""
+msgstr "Data mentah"
 
 #: public/views/preferencesAttestorAddresses.html:16
 msgid "Real name attestors"
@@ -1474,15 +1474,15 @@ msgstr "Diperlukan jumlah tanda tangan"
 
 #: public/views/walletHome.html:566
 msgid "Response"
-msgstr ""
+msgstr "Tanggapan"
 
 #: public/views/modals/tx-details.html:167
 msgid "Response unit"
-msgstr ""
+msgstr "Unit tanggapan"
 
 #: public/views/modals/tx-details.html:189
 msgid "Response variables"
-msgstr ""
+msgstr "Variabel tanggapan"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
