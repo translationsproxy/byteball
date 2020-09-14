@@ -5,11 +5,13 @@ msgstr ""
 "Project-Id-Version: byteball\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: byteball\n"
+"X-Crowdin-Project-ID: 270960\n"
 "X-Crowdin-Language: id\n"
 "X-Crowdin-File: /master/i18n/po/template.pot\n"
+"X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-06-11 17:31\n"
+"PO-Revision-Date: 2020-09-14 04:02\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -714,7 +716,7 @@ msgstr "Masukkan kata kunci anda"
 
 #: public/views/modals/tx-details.html:179
 msgid "Error"
-msgstr ""
+msgstr "Galat"
 
 #: src/js/services/profileService.js:340
 #: src/js/services/profileService.js:392
@@ -773,7 +775,7 @@ msgstr ""
 
 #: public/views/walletHome.html:409
 msgid "From Obyte address"
-msgstr ""
+msgstr "Dari alamat Obyte"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
@@ -1676,7 +1678,7 @@ msgstr "Dompet alamat tunggal tidak akan membuat alamat baru pada setiap transak
 
 #: src/js/services/profileService.js:334
 msgid "Small Expenses Wallet"
-msgstr "Dompet Kecil Pengeluaran"
+msgstr "Dompet Pengeluaran Kecil"
 
 #: public/views/walletHome.html:551
 msgid "Source code:"
