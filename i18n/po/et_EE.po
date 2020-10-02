@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2020-10-02 13:33\n"
+"PO-Revision-Date: 2020-10-02 13:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -44,7 +44,8 @@ msgstr "12 kriipsudega eraldatud sõna"
 #: public/views/modals/tx-details.html:167
 msgid "<i class=\"fi-refresh size-18 m5r\"></i>\n"
 "        Resend"
-msgstr ""
+msgstr "<i class=\"fi-refresh size-18 m5r\"></i>\n"
+"        Korda uuesti"
 
 #: public/views/walletHome.html:481
 msgid "AAs not allowed in multi-send"
@@ -76,37 +77,37 @@ msgstr "Konto Järjekord"
 
 #: public/views/preferences.html:15
 msgid "Account Alias"
-msgstr ""
+msgstr "Konto Nimi"
 
 #: public/views/preferencesInformation.html:27
 msgid "Account Configuration (m-n)"
-msgstr ""
+msgstr "Konfiguratsioon (mitu-mitmest)"
 
 #: public/views/preferencesInformation.html:20
 msgid "Account Id"
-msgstr ""
+msgstr "ID"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
 msgid "Account Information"
-msgstr ""
+msgstr "Konto Andmed"
 
 #: public/views/preferencesInformation.html:12
 msgid "Account Name (at creation)"
-msgstr ""
+msgstr "Konto Nimi (loomise ajal)"
 
 #: src/js/services/profileService.js:455
 msgid "Account already in Obyte:"
-msgstr ""
+msgstr "Konto on juba rakenduses:"
 
 #: public/views/create.html:48
 msgid "Account name"
-msgstr ""
+msgstr "Konto Nimi"
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Accounts"
-msgstr ""
+msgstr "Kontod"
 
 #: public/views/bot.html:85
 msgid "Add Bot"
@@ -123,7 +124,7 @@ msgstr "Lisa uus kirje"
 
 #: public/views/includes/sidebar.html:26
 msgid "Add account"
-msgstr ""
+msgstr "Lisa konto"
 
 #: public/views/preferencesEditRealNameAttestors.html:25
 msgid "Add address"
@@ -188,7 +189,7 @@ msgstr "Nimi rahakotile"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Account Addresses"
-msgstr ""
+msgstr "Kõik Konto Aadressid"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
@@ -237,7 +238,7 @@ msgstr "Vastus:"
 
 #: public/views/copayers.html:19
 msgid "Approve the account creation on other devices"
-msgstr ""
+msgstr "Kinnita konto loomine teistel seadmetel"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
@@ -246,7 +247,7 @@ msgstr "Kas oled kindel, et soovid kustutada varukoopia lähtesõnu?"
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this account?"
-msgstr ""
+msgstr "Kas oled kindel, et soovid kustutada seda kontot?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
@@ -328,7 +329,7 @@ msgstr "Enne vahendite vastuvõtmist on soovitatav teha rahakoti võtmetest varu
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig accounts with redundancy,"
-msgstr ""
+msgstr "Pigem kasuta mitme allkirjaga kontosid,"
 
 #: public/views/modals/bind.html:134
 #: public/views/modals/bind.html:49
@@ -391,7 +392,7 @@ msgstr "Muuda jaotuspunkti:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing account alias only affects the local account name."
-msgstr ""
+msgstr "Konto nime muutmine muudab ainult lokaalse konto nime."
 
 #: src/js/controllers/index.js:867
 msgid "Chat"
@@ -590,7 +591,7 @@ msgstr "Loo"
 
 #: public/views/includes/sidebar.html:28
 msgid "Create a new account"
-msgstr ""
+msgstr "Loo uus konto"
 
 #: public/views/create.html:175
 #: src/js/controllers/index.js:383
