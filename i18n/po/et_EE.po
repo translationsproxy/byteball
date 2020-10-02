@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2020-10-02 14:41\n"
+"PO-Revision-Date: 2020-10-02 19:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -29,7 +29,7 @@ msgstr "(praegune konto)"
 msgid "(my other account)"
 msgstr "(mitte-valitud konto)"
 
-#: public/views/walletHome.html:863
+#: public/views/walletHome.html:867
 msgid "(possible double spend)"
 msgstr "(tõenäoline topelt-kulutamine)"
 
@@ -399,7 +399,7 @@ msgid "Chat"
 msgstr "Vestlus"
 
 #: public/views/import.html:33
-#: public/views/walletHome.html:747
+#: public/views/walletHome.html:749
 msgid "Choose File"
 msgstr "Vali Fail"
 
@@ -497,8 +497,8 @@ msgstr "Paki fail kokku? (Aeglasem)"
 #: src/js/controllers/index.js:673
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:224
-#: src/js/controllers/walletHome.js:2540
-#: src/js/controllers/walletHome.js:2544
+#: src/js/controllers/walletHome.js:2549
+#: src/js/controllers/walletHome.js:2553
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "Kinnita"
@@ -563,7 +563,7 @@ msgstr "Ei õnnestu luua: Valed rahakoti lähtesõnad"
 msgid "Could not decrypt"
 msgstr "Lahti krüpteerimine ebaõnnestus"
 
-#: public/views/walletHome.html:819
+#: public/views/walletHome.html:823
 msgid "Could not fetch transaction history"
 msgstr "Tehingute ajaloo kätte saamine ebaõnnestus"
 
@@ -674,7 +674,7 @@ msgstr "Kustuta Konto"
 msgid "Delete account"
 msgstr "Kustuta konto"
 
-#: src/js/controllers/walletHome.js:2537
+#: src/js/controllers/walletHome.js:2546
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr "Tekstiliste vahendite kustutamine kaotab võimaluse neid tagasi võtta või edasi saata"
 
@@ -718,7 +718,7 @@ msgstr "Kas ei näe oma keelt Crowdin lehel? Võta ühendust Crowdin projekti ha
 msgid "Done"
 msgstr "Valmis"
 
-#: public/views/walletHome.html:934
+#: public/views/walletHome.html:938
 msgid "Download CSV file"
 msgstr "Lae alla CSV fail"
 
@@ -802,7 +802,7 @@ msgstr "Lõplik seisund"
 msgid "From"
 msgstr "Kellelt"
 
-#: public/views/walletHome.html:889
+#: public/views/walletHome.html:893
 msgid "From AA"
 msgstr "AAlt"
 
@@ -964,7 +964,7 @@ msgstr "Rahakoti importimine..."
 msgid "Including pending confirmation"
 msgstr "Sellest kinnitamisel"
 
-#: public/views/walletHome.html:838
+#: public/views/walletHome.html:842
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
 msgstr "Paljude tehingutega rahakottide esialgse ajaloo sünkroniseerimine võib aega võtta mõned minutid.<br>\n"
@@ -978,7 +978,7 @@ msgstr "Sisesta minu aadress"
 msgid "Insert private profile"
 msgstr "Sisesta privaatse konto andmed"
 
-#: public/views/walletHome.html:856
+#: public/views/walletHome.html:860
 msgid "Invalid"
 msgstr "Sobimatu"
 
@@ -1067,7 +1067,7 @@ msgstr "Minimaalne kogus"
 msgid "More"
 msgstr "Rohkem"
 
-#: public/views/walletHome.html:855
+#: public/views/walletHome.html:859
 msgid "Moved"
 msgstr "Liigutus"
 
@@ -1111,7 +1111,7 @@ msgstr "Uus versioon on saadaval!"
 #: public/views/authConfirmation.html:22
 #: public/views/modals/tx-details.html:188
 #: src/js/controllers/index.js:672
-#: src/js/controllers/walletHome.js:2552
+#: src/js/controllers/walletHome.js:2561
 msgid "No"
 msgstr "Ei"
 
@@ -1127,7 +1127,7 @@ msgstr "Ükski konto ei vasta nõutud kriteeriumitele."
 msgid "No profiles yet."
 msgstr "Pole veel ühtegi kontot."
 
-#: public/views/walletHome.html:822
+#: public/views/walletHome.html:826
 msgid "No transactions yet"
 msgstr "Veel ei ole ühtegi tehingut"
 
@@ -1145,7 +1145,7 @@ msgstr "Vigane"
 #: public/views/modals/tx-details.html:116
 #: public/views/modals/tx-details.html:91
 #: public/views/walletHome.html:534
-#: public/views/walletHome.html:893
+#: public/views/walletHome.html:897
 msgid "Note"
 msgstr "Märkused"
 
@@ -1365,8 +1365,8 @@ msgstr "Väljumiseks vajuta uuesti"
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
 msgstr "Privaatne vara (nagu blackbytes) ja nutilepingud ei ole taastatavad."
 
-#: src/js/controllers/walletHome.js:2611
-#: src/js/controllers/walletHome.js:2687
+#: src/js/controllers/walletHome.js:2620
+#: src/js/controllers/walletHome.js:2696
 msgid "Private payloads sent"
 msgstr "Privaatsed makseandmed saadetud"
 
@@ -1414,7 +1414,7 @@ msgstr "Pärisnime tõendajad"
 msgid "Receive"
 msgstr "Võta vastu"
 
-#: public/views/walletHome.html:853
+#: public/views/walletHome.html:857
 msgid "Received"
 msgstr "Sisse"
 
@@ -1575,8 +1575,8 @@ msgid "Select the assets to hide in the account"
 msgstr "Vali vara, mida soovid sellel kontol peita"
 
 #: public/views/preferencesHiddenSubWallets.html:29
-msgid "Select the subaccounts to hide in the account"
-msgstr "Vali nutilepingud, mida soovid sellel kontol peita"
+msgid "Select the smart contracts to hide in the account"
+msgstr ""
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1584,7 +1584,7 @@ msgstr "Vali oma identiteet"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:644
-#: public/views/walletHome.html:765
+#: public/views/walletHome.html:769
 #: src/js/controllers/index.js:859
 #: src/js/controllers/walletHome.js:1321
 msgid "Send"
@@ -1618,7 +1618,7 @@ msgstr "Saada need konto andmed"
 msgid "Sending..."
 msgstr "Saatmine..."
 
-#: public/views/walletHome.html:854
+#: public/views/walletHome.html:858
 msgid "Sent"
 msgstr "Välja"
 
@@ -1661,7 +1661,7 @@ msgstr "Jaga seda rahakoti aadressi maksete saamiseks."
 msgid "Share via message"
 msgstr "Sõnumiga jagamiseks"
 
-#: public/views/walletHome.html:926
+#: public/views/walletHome.html:930
 msgid "Show all"
 msgstr "Näita kõiki"
 
@@ -1748,8 +1748,8 @@ msgstr "Salvesta"
 #: src/js/controllers/index.js:338
 #: src/js/controllers/index.js:366
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:2611
-#: src/js/controllers/walletHome.js:2687
+#: src/js/controllers/walletHome.js:2620
+#: src/js/controllers/walletHome.js:2696
 msgid "Success"
 msgstr "Õnnestus"
 
@@ -1779,7 +1779,7 @@ msgstr "TOR kasutamine"
 
 #: public/views/walletHome.html:134
 #: public/views/walletHome.html:139
-#: public/views/walletHome.html:820
+#: public/views/walletHome.html:824
 msgid "Tap to retry"
 msgstr "Puuduta, et proovida uuesti"
 
@@ -1923,12 +1923,12 @@ msgstr "Lepingu pealkiri"
 #: public/views/includes/transaction.html:19
 #: public/views/modals/tx-details.html:39
 #: public/views/modals/tx-details.html:81
-#: public/views/walletHome.html:895
+#: public/views/walletHome.html:899
 #: src/js/controllers/index.js:1656
 msgid "To"
 msgstr "Kellele"
 
-#: public/views/walletHome.html:907
+#: public/views/walletHome.html:911
 msgid "To AA"
 msgstr "AAle"
 
@@ -1940,7 +1940,7 @@ msgstr "Obyte aadressile"
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
 msgstr "Selleks, et saaks taastada kõike, tee täielik varukoopia (leiad selle valiku menüüst)"
 
-#: public/views/walletHome.html:776
+#: public/views/walletHome.html:780
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address account first or create one."
 msgstr "Selleks, et saata andmeid O<sub>byte</sub> võrku, palun vali kõigepealt ühe aadressiga konto või loo selline."
 
@@ -1986,7 +1986,7 @@ msgid "Transaction created.\n"
 msgstr "Tehing loodud.\n"
 "Palun kinnita see teistel seadmetel."
 
-#: public/views/walletHome.html:844
+#: public/views/walletHome.html:848
 msgid "Transactions<br> Downloaded"
 msgstr "Tehingud<br> Allalaetud"
 
@@ -2015,7 +2015,7 @@ msgid "Unable to send transaction proposal"
 msgstr "Ei õnnestud saata tehingu ettepanekut"
 
 #: public/views/modals/tx-details.html:128
-#: public/views/walletHome.html:875
+#: public/views/walletHome.html:879
 msgid "Unconfirmed"
 msgstr "Kinnitamata"
 
@@ -2120,7 +2120,7 @@ msgstr "Mida saadetakse"
 #: public/views/modals/vote.html:28
 #: public/views/walletHome.html:633
 #: public/views/walletHome.html:657
-#: public/views/walletHome.html:757
+#: public/views/walletHome.html:761
 msgid "Who signs:"
 msgstr "Kes allkirjastab:"
 
