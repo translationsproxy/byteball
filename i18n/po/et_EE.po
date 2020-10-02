@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2020-10-02 13:22\n"
+"PO-Revision-Date: 2020-10-02 13:33\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -23,11 +23,11 @@ msgstr "(Veebileht ei näe kontojääki ja raha ei kulutata)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current account)"
-msgstr ""
+msgstr "(praegune konto)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other account)"
-msgstr ""
+msgstr "(hetkel mitte-valitud konto)"
 
 #: public/views/walletHome.html:863
 msgid "(possible double spend)"
