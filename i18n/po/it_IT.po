@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2020-10-02 13:23\n"
+"PO-Revision-Date: 2020-10-02 19:32\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -29,7 +29,7 @@ msgstr ""
 msgid "(my other account)"
 msgstr ""
 
-#: public/views/walletHome.html:863
+#: public/views/walletHome.html:867
 msgid "(possible double spend)"
 msgstr "(possibile doppia spesa)"
 
@@ -398,7 +398,7 @@ msgid "Chat"
 msgstr "Chat"
 
 #: public/views/import.html:33
-#: public/views/walletHome.html:747
+#: public/views/walletHome.html:749
 msgid "Choose File"
 msgstr "Seleziona file"
 
@@ -496,8 +496,8 @@ msgstr "Comprimere il file? (più lento)"
 #: src/js/controllers/index.js:673
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:224
-#: src/js/controllers/walletHome.js:2540
-#: src/js/controllers/walletHome.js:2544
+#: src/js/controllers/walletHome.js:2549
+#: src/js/controllers/walletHome.js:2553
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "Conferma"
@@ -562,7 +562,7 @@ msgstr "Non è possibile crearlo: il seed del wallet non é valido"
 msgid "Could not decrypt"
 msgstr "Impossibile decriptare"
 
-#: public/views/walletHome.html:819
+#: public/views/walletHome.html:823
 msgid "Could not fetch transaction history"
 msgstr "Impossibile recuperare la cronologie delle transazioni"
 
@@ -673,7 +673,7 @@ msgstr ""
 msgid "Delete account"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:2537
+#: src/js/controllers/walletHome.js:2546
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr "L'eliminazione del textcoin toglierà la possibilità di reclamarlo o reinviarlo"
 
@@ -717,7 +717,7 @@ msgstr "Non vedi la tua lingua su Crowdin? Contatta il proprietario su Crowdin! 
 msgid "Done"
 msgstr "Fatto"
 
-#: public/views/walletHome.html:934
+#: public/views/walletHome.html:938
 msgid "Download CSV file"
 msgstr "Scarica il file in formato CSV"
 
@@ -801,7 +801,7 @@ msgstr "Finalità"
 msgid "From"
 msgstr "Da"
 
-#: public/views/walletHome.html:889
+#: public/views/walletHome.html:893
 msgid "From AA"
 msgstr ""
 
@@ -963,7 +963,7 @@ msgstr "Importando il portafoglio..."
 msgid "Including pending confirmation"
 msgstr "Inclusa la conferma in attesa"
 
-#: public/views/walletHome.html:838
+#: public/views/walletHome.html:842
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
 msgstr "La sincronizzazione iniziale della storia delle transazioni può richiedere alcuni minuti per ogni portafoglio con molte transazioni. <br>\n"
@@ -977,7 +977,7 @@ msgstr "Inserisci il mio indirizzo"
 msgid "Insert private profile"
 msgstr "Inserisci il profilo privato"
 
-#: public/views/walletHome.html:856
+#: public/views/walletHome.html:860
 msgid "Invalid"
 msgstr "Invalido"
 
@@ -1066,7 +1066,7 @@ msgstr ""
 msgid "More"
 msgstr "Altro"
 
-#: public/views/walletHome.html:855
+#: public/views/walletHome.html:859
 msgid "Moved"
 msgstr "Spostato"
 
@@ -1110,7 +1110,7 @@ msgstr "La nuova versione è disponibile!"
 #: public/views/authConfirmation.html:22
 #: public/views/modals/tx-details.html:188
 #: src/js/controllers/index.js:672
-#: src/js/controllers/walletHome.js:2552
+#: src/js/controllers/walletHome.js:2561
 msgid "No"
 msgstr "No"
 
@@ -1126,7 +1126,7 @@ msgstr "Nessun profilo corrisponde ai criteri richiesti."
 msgid "No profiles yet."
 msgstr "Ancora nessun profilo."
 
-#: public/views/walletHome.html:822
+#: public/views/walletHome.html:826
 msgid "No transactions yet"
 msgstr "Ancora nessuna transazione"
 
@@ -1144,7 +1144,7 @@ msgstr "Non valido"
 #: public/views/modals/tx-details.html:116
 #: public/views/modals/tx-details.html:91
 #: public/views/walletHome.html:534
-#: public/views/walletHome.html:893
+#: public/views/walletHome.html:897
 msgid "Note"
 msgstr "Nota"
 
@@ -1364,8 +1364,8 @@ msgstr "Premi ancora per uscire"
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
 msgstr "Asset privati (come i blackbyte) e smart contract non vengono recuperati."
 
-#: src/js/controllers/walletHome.js:2611
-#: src/js/controllers/walletHome.js:2687
+#: src/js/controllers/walletHome.js:2620
+#: src/js/controllers/walletHome.js:2696
 msgid "Private payloads sent"
 msgstr "I Payload privati sono stati inviati"
 
@@ -1413,7 +1413,7 @@ msgstr "Attestor del nome reale"
 msgid "Receive"
 msgstr "Ricevi"
 
-#: public/views/walletHome.html:853
+#: public/views/walletHome.html:857
 msgid "Received"
 msgstr "Ricevuti"
 
@@ -1574,7 +1574,7 @@ msgid "Select the assets to hide in the account"
 msgstr ""
 
 #: public/views/preferencesHiddenSubWallets.html:29
-msgid "Select the subaccounts to hide in the account"
+msgid "Select the smart contracts to hide in the account"
 msgstr ""
 
 #: public/views/authConfirmation.html:10
@@ -1583,7 +1583,7 @@ msgstr "Seleziona la tua identità"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:644
-#: public/views/walletHome.html:765
+#: public/views/walletHome.html:769
 #: src/js/controllers/index.js:859
 #: src/js/controllers/walletHome.js:1321
 msgid "Send"
@@ -1617,7 +1617,7 @@ msgstr "Invia questo profilo"
 msgid "Sending..."
 msgstr "Invio in corso..."
 
-#: public/views/walletHome.html:854
+#: public/views/walletHome.html:858
 msgid "Sent"
 msgstr "Inviato"
 
@@ -1660,7 +1660,7 @@ msgstr "Condividi questo indirizzo del portafoglio per ricevere pagamenti."
 msgid "Share via message"
 msgstr "Condividi tramite messaggio"
 
-#: public/views/walletHome.html:926
+#: public/views/walletHome.html:930
 msgid "Show all"
 msgstr "Mostra tutti"
 
@@ -1747,8 +1747,8 @@ msgstr "Store"
 #: src/js/controllers/index.js:338
 #: src/js/controllers/index.js:366
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:2611
-#: src/js/controllers/walletHome.js:2687
+#: src/js/controllers/walletHome.js:2620
+#: src/js/controllers/walletHome.js:2696
 msgid "Success"
 msgstr "Completato"
 
@@ -1778,7 +1778,7 @@ msgstr "TOR attivato"
 
 #: public/views/walletHome.html:134
 #: public/views/walletHome.html:139
-#: public/views/walletHome.html:820
+#: public/views/walletHome.html:824
 msgid "Tap to retry"
 msgstr "Tocca per riprovare"
 
@@ -1922,12 +1922,12 @@ msgstr "Titolo di contratto"
 #: public/views/includes/transaction.html:19
 #: public/views/modals/tx-details.html:39
 #: public/views/modals/tx-details.html:81
-#: public/views/walletHome.html:895
+#: public/views/walletHome.html:899
 #: src/js/controllers/index.js:1656
 msgid "To"
 msgstr "A"
 
-#: public/views/walletHome.html:907
+#: public/views/walletHome.html:911
 msgid "To AA"
 msgstr ""
 
@@ -1939,7 +1939,7 @@ msgstr "All'indirizzo Obyte"
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
 msgstr "Per poter ripristinare tutto, perfavore crea un backup completo (trova l'opzione nel menu)"
 
-#: public/views/walletHome.html:776
+#: public/views/walletHome.html:780
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address account first or create one."
 msgstr ""
 
@@ -1985,7 +1985,7 @@ msgid "Transaction created.\n"
 msgstr "Transazione creata.\n"
 "Approvala sugli altri dispositivi."
 
-#: public/views/walletHome.html:844
+#: public/views/walletHome.html:848
 msgid "Transactions<br> Downloaded"
 msgstr "Transazioni<br> Scaricate"
 
@@ -2014,7 +2014,7 @@ msgid "Unable to send transaction proposal"
 msgstr "Impossibile inviare la proposta di transazione"
 
 #: public/views/modals/tx-details.html:128
-#: public/views/walletHome.html:875
+#: public/views/walletHome.html:879
 msgid "Unconfirmed"
 msgstr "Non confermato"
 
@@ -2119,7 +2119,7 @@ msgstr "Cosa inviare"
 #: public/views/modals/vote.html:28
 #: public/views/walletHome.html:633
 #: public/views/walletHome.html:657
-#: public/views/walletHome.html:757
+#: public/views/walletHome.html:761
 msgid "Who signs:"
 msgstr "Chi firma:"
 
