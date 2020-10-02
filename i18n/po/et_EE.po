@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2020-10-02 14:21\n"
+"PO-Revision-Date: 2020-10-02 14:33\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -94,7 +94,7 @@ msgstr "Konto Andmed"
 
 #: public/views/preferencesInformation.html:12
 msgid "Account Name (at creation)"
-msgstr "Konto Nimi (loomise ajal)"
+msgstr "Nimi (loomise ajal)"
 
 #: src/js/services/profileService.js:455
 msgid "Account already in Obyte:"
@@ -1867,15 +1867,15 @@ msgstr "Seda kontot pole võimalik muuta mitme aadressiga kontoks, sest see on j
 
 #: public/views/preferences.html:44
 msgid "This account cannot be converted to multi address account as it is multidevice"
-msgstr ""
+msgstr "Seda kontot ei saa muuta mitme aadressiga kontoks, sest see on mitmel seadmel"
 
 #: public/views/preferences.html:42
 msgid "This account cannot be converted to single address account as it already consists of multiple addresses"
-msgstr ""
+msgstr "Seda kontot ei saa muuta ühe aadressiga kontoks, sest selles on juba mitu aadressi"
 
 #: public/views/preferences.html:43
 msgid "This account cannot be converted to single address account as it is multidevice"
-msgstr ""
+msgstr "Seda kontot ei saa muuta ühe aadressiga kontoks, sest see on mitmel seadmel"
 
 #: public/views/walletHome.html:315
 msgid "This address is shared with {{index.shared_address_cosigners}}."
@@ -1895,7 +1895,7 @@ msgstr "See makse on seotud tingimusega..."
 
 #: src/js/controllers/correspondentDevice.js:160
 msgid "This payment must be paid only from single-address account"
-msgstr ""
+msgstr "Seda makset saab maksta ainult ühe aadressiga kontolt"
 
 #: src/js/controllers/walletHome.js:2235
 msgid "This payment must be paid only from single-address wallet"
@@ -1912,7 +1912,7 @@ msgstr "See tehing saadeti Autonoomsele Agendile"
 #: public/views/import.html:47
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing accounts!"
-msgstr ""
+msgstr "See kustutaks jäädavalt kõik sinu kontod!"
 
 #: public/views/modals/offer-prosaic-contract.html:73
 #: public/views/modals/view-prosaic-contract.html:90
@@ -1942,7 +1942,7 @@ msgstr "Selleks, et saaks taastada kõike, tee täielik varukoopia (leiad selle 
 
 #: public/views/walletHome.html:776
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address account first or create one."
-msgstr ""
+msgstr "Selleks, et saata andmeid O<sub>byte</sub> võrku, palun vali kõigepealt ühe aadressiga konto või loo selline."
 
 #: public/views/walletHome.html:513
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -2156,11 +2156,11 @@ msgstr "Sa võid kustutada tekstilised vahendid oma rahakotist kui oled selle ju
 
 #: public/views/modals/bind.html:139
 msgid "You cannot bind your transaction to reverse payment as you are in a single address account.  Use a non-single address account and then transfer the money to that account."
-msgstr ""
+msgstr "Sa ei saa siduda oma tehingut tagasi saatma iseendale kui sul on ühe aadressiga konto. Kasuta mitme aadressiga kontot ja siis kanna raha sinna kontole."
 
 #: public/views/walletHome.html:59
 msgid "You do not have an account"
-msgstr ""
+msgstr "Sul ei ole kontot"
 
 #: public/views/modals/choose-profile.html:70
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
@@ -2168,7 +2168,7 @@ msgstr "Konto andmete saamiseks pead läbima vastavuse tõendamise. Seda saab te
 
 #: public/views/preferencesTor.html:25
 msgid "You need to have Tor service or Tor Browser running to use this feature!"
-msgstr ""
+msgstr "Tor teenus või Tor veebilehitseja peab töötama selle võimaluse kasutamiseks!"
 
 #: public/views/modals/offer-prosaic-contract.html:99
 msgid "You will be charged {{CHARGE_AMOUNT}} bytes to compensate for fees when posting signature proof."
@@ -2282,7 +2282,7 @@ msgstr "lukustan/lukustab lahti selle lepingu kui see aegub pärast"
 
 #: public/views/copayers.html:38
 msgid "cancel the account creation"
-msgstr ""
+msgstr "tühista konto loomine"
 
 #: public/views/walletHome.html:729
 msgid "character(s)"
@@ -2323,11 +2323,11 @@ msgstr "üksikasjalikud juhised kasutamaks"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 account with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "näiteks 1-2st konto, kus üks võti on selles seadmes ja teine võti on arvutis."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 account with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "näiteks 1-2st konto, kus üks võti on selles seadmes ja teine võti on nutitelefonis."
 
 #: public/views/modals/bind.html:119
 msgid "either way"
@@ -2365,7 +2365,7 @@ msgstr "räsipuus"
 
 #: public/views/walletHome.html:188
 msgid "in smart contracts"
-msgstr ""
+msgstr "nutilepingutes"
 
 #: src/js/controllers/walletHome.js:1292
 msgid "increased by"
