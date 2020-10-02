@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2020-10-02 13:22\n"
+"PO-Revision-Date: 2020-10-02 19:32\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -29,7 +29,7 @@ msgstr ""
 msgid "(my other account)"
 msgstr ""
 
-#: public/views/walletHome.html:863
+#: public/views/walletHome.html:867
 msgid "(possible double spend)"
 msgstr "(إنفاق مزدوج محتمل)"
 
@@ -398,7 +398,7 @@ msgid "Chat"
 msgstr "الدردشة"
 
 #: public/views/import.html:33
-#: public/views/walletHome.html:747
+#: public/views/walletHome.html:749
 msgid "Choose File"
 msgstr "إختيار الملف"
 
@@ -496,8 +496,8 @@ msgstr "ضغط الملف؟ (يتطلب وقتا أطول)"
 #: src/js/controllers/index.js:673
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:224
-#: src/js/controllers/walletHome.js:2540
-#: src/js/controllers/walletHome.js:2544
+#: src/js/controllers/walletHome.js:2549
+#: src/js/controllers/walletHome.js:2553
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "تأكيد"
@@ -562,7 +562,7 @@ msgstr "تعذر الإنشاء: seed المحفظة غير صحيح"
 msgid "Could not decrypt"
 msgstr "مشكل في فك التشفير"
 
-#: public/views/walletHome.html:819
+#: public/views/walletHome.html:823
 msgid "Could not fetch transaction history"
 msgstr "تعذر إستيراد سجل المعاملات"
 
@@ -673,7 +673,7 @@ msgstr ""
 msgid "Delete account"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:2537
+#: src/js/controllers/walletHome.js:2546
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr "إن قمت بحذف الـ textcoin فلن تتمكن من المطالبة به من جديد أو إعادة إرساله"
 
@@ -717,7 +717,7 @@ msgstr "لا ترى لغتك موجودة على كرودن؟ قم بالتوا�
 msgid "Done"
 msgstr "إنهاء"
 
-#: public/views/walletHome.html:934
+#: public/views/walletHome.html:938
 msgid "Download CSV file"
 msgstr "تنزيل الملف بصيغة CSV"
 
@@ -801,7 +801,7 @@ msgstr "النهائي"
 msgid "From"
 msgstr "من"
 
-#: public/views/walletHome.html:889
+#: public/views/walletHome.html:893
 msgid "From AA"
 msgstr ""
 
@@ -963,7 +963,7 @@ msgstr "استيراد المحفظة..."
 msgid "Including pending confirmation"
 msgstr "بالإضافة إلى التأكيد المنتظر"
 
-#: public/views/walletHome.html:838
+#: public/views/walletHome.html:842
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
 msgstr "إن مزامنة تاريخ المعاملات الأولي قد يتطلب بعضا من الوقت بالنسبة للمحافظ ذات العدد الكبير من المعاملات.<br>\n"
@@ -977,7 +977,7 @@ msgstr "إدخال عنواني"
 msgid "Insert private profile"
 msgstr "إدخال البروفايل الخاص"
 
-#: public/views/walletHome.html:856
+#: public/views/walletHome.html:860
 msgid "Invalid"
 msgstr "غير صحيحة"
 
@@ -1066,7 +1066,7 @@ msgstr ""
 msgid "More"
 msgstr "أكثر"
 
-#: public/views/walletHome.html:855
+#: public/views/walletHome.html:859
 msgid "Moved"
 msgstr "تم النقل"
 
@@ -1110,7 +1110,7 @@ msgstr "هناك إصدار جديد متوفر!"
 #: public/views/authConfirmation.html:22
 #: public/views/modals/tx-details.html:188
 #: src/js/controllers/index.js:672
-#: src/js/controllers/walletHome.js:2552
+#: src/js/controllers/walletHome.js:2561
 msgid "No"
 msgstr "لا"
 
@@ -1126,7 +1126,7 @@ msgstr "ليس هناك بروفايل يطابق المعايير المطلو�
 msgid "No profiles yet."
 msgstr "ليس هناك بروفايل بعد."
 
-#: public/views/walletHome.html:822
+#: public/views/walletHome.html:826
 msgid "No transactions yet"
 msgstr "ليس هناك أي معاملة بعد"
 
@@ -1144,7 +1144,7 @@ msgstr "غير صالح"
 #: public/views/modals/tx-details.html:116
 #: public/views/modals/tx-details.html:91
 #: public/views/walletHome.html:534
-#: public/views/walletHome.html:893
+#: public/views/walletHome.html:897
 msgid "Note"
 msgstr "ملاحظة"
 
@@ -1364,8 +1364,8 @@ msgstr "أعد الضغط للخروج"
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
 msgstr "لا يتم استرداد الأصول الخاصة (مثل blackbytes) والعقود الذكية."
 
-#: src/js/controllers/walletHome.js:2611
-#: src/js/controllers/walletHome.js:2687
+#: src/js/controllers/walletHome.js:2620
+#: src/js/controllers/walletHome.js:2696
 msgid "Private payloads sent"
 msgstr "تم إرسال الحمولات الخاصة"
 
@@ -1413,7 +1413,7 @@ msgstr "المصادقون على الاسم الحقيقي"
 msgid "Receive"
 msgstr "الإستلام"
 
-#: public/views/walletHome.html:853
+#: public/views/walletHome.html:857
 msgid "Received"
 msgstr "مستلم"
 
@@ -1574,7 +1574,7 @@ msgid "Select the assets to hide in the account"
 msgstr ""
 
 #: public/views/preferencesHiddenSubWallets.html:29
-msgid "Select the subaccounts to hide in the account"
+msgid "Select the smart contracts to hide in the account"
 msgstr ""
 
 #: public/views/authConfirmation.html:10
@@ -1583,7 +1583,7 @@ msgstr "قم بإختيار هويتك"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:644
-#: public/views/walletHome.html:765
+#: public/views/walletHome.html:769
 #: src/js/controllers/index.js:859
 #: src/js/controllers/walletHome.js:1321
 msgid "Send"
@@ -1617,7 +1617,7 @@ msgstr "إرسال هذا البروفايل"
 msgid "Sending..."
 msgstr "إرسال..."
 
-#: public/views/walletHome.html:854
+#: public/views/walletHome.html:858
 msgid "Sent"
 msgstr "أرسلت"
 
@@ -1660,7 +1660,7 @@ msgstr "مشاركة عنوان هذه المحفظة من أجل إستلام �
 msgid "Share via message"
 msgstr "مشاركة عن طريق رسالة"
 
-#: public/views/walletHome.html:926
+#: public/views/walletHome.html:930
 msgid "Show all"
 msgstr "إظهار الكل"
 
@@ -1747,8 +1747,8 @@ msgstr "المتجر"
 #: src/js/controllers/index.js:338
 #: src/js/controllers/index.js:366
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:2611
-#: src/js/controllers/walletHome.js:2687
+#: src/js/controllers/walletHome.js:2620
+#: src/js/controllers/walletHome.js:2696
 msgid "Success"
 msgstr "تم بنجاح"
 
@@ -1778,7 +1778,7 @@ msgstr "تمكين TOR"
 
 #: public/views/walletHome.html:134
 #: public/views/walletHome.html:139
-#: public/views/walletHome.html:820
+#: public/views/walletHome.html:824
 msgid "Tap to retry"
 msgstr "أنقر لإعادة المحاولة"
 
@@ -1922,12 +1922,12 @@ msgstr "عنوان العقد"
 #: public/views/includes/transaction.html:19
 #: public/views/modals/tx-details.html:39
 #: public/views/modals/tx-details.html:81
-#: public/views/walletHome.html:895
+#: public/views/walletHome.html:899
 #: src/js/controllers/index.js:1656
 msgid "To"
 msgstr "إلى"
 
-#: public/views/walletHome.html:907
+#: public/views/walletHome.html:911
 msgid "To AA"
 msgstr ""
 
@@ -1939,7 +1939,7 @@ msgstr "لعنوان Obyte"
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
 msgstr "من أجل أن تقوم باسترجاع كل شيئ, قم بإنشاء نسخة إحتياطية كاملة(ستجد هذا الخيار في القائمة)"
 
-#: public/views/walletHome.html:776
+#: public/views/walletHome.html:780
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address account first or create one."
 msgstr ""
 
@@ -1985,7 +1985,7 @@ msgid "Transaction created.\n"
 msgstr "تم إنشاء المعاملة.\n"
 "يرجى الموافقة عليها على الأجهزة الأخرى."
 
-#: public/views/walletHome.html:844
+#: public/views/walletHome.html:848
 msgid "Transactions<br> Downloaded"
 msgstr "تم تحميل <br> المعاملات"
 
@@ -2014,7 +2014,7 @@ msgid "Unable to send transaction proposal"
 msgstr "تعذر إرسال طلب المعاملة"
 
 #: public/views/modals/tx-details.html:128
-#: public/views/walletHome.html:875
+#: public/views/walletHome.html:879
 msgid "Unconfirmed"
 msgstr "غير مؤكدة"
 
@@ -2119,7 +2119,7 @@ msgstr "ما الذي يجب إرساله"
 #: public/views/modals/vote.html:28
 #: public/views/walletHome.html:633
 #: public/views/walletHome.html:657
-#: public/views/walletHome.html:757
+#: public/views/walletHome.html:761
 msgid "Who signs:"
 msgstr "من الذي يجب أن يوقع:"
 
