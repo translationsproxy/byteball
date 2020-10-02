@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2020-10-02 14:11\n"
+"PO-Revision-Date: 2020-10-02 14:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1684,7 +1684,7 @@ msgstr "Allkirjasta sõnum"
 
 #: public/views/modals/signed-message.html:26
 msgid "Signature:"
-msgstr ""
+msgstr "Allkiri:"
 
 #: public/views/editCorrespondentDevice.html:57
 msgid "Signed contracts:"
@@ -1702,16 +1702,16 @@ msgstr "Allkirjastatav aadress:"
 #: public/views/create.html:56
 #: public/views/preferences.html:39
 msgid "Single address account"
-msgstr ""
+msgstr "Ühe aadressiga konto"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:41
 msgid "Single address accounts will not spawn new addresses for every transaction, change will always go to the one and only address the account contains."
-msgstr ""
+msgstr "Ühe aadressiga kontod ei tekita iga tehinguga uut aadressi, tehingust ülejäävad vahendid suunatakse alati tagasi ühele ainsale selle konto aadressile."
 
 #: src/js/services/profileService.js:334
 msgid "Small Expenses Account"
-msgstr ""
+msgstr "Konto Väikestele Kuludele"
 
 #: public/views/walletHome.html:604
 msgid "Source code:"
@@ -1807,11 +1807,11 @@ msgstr "Tekstiliste vahendite sõnad"
 
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The account \"{{walletName}}\" has been deleted"
-msgstr ""
+msgstr "Konto \"{{walletName}}\" on kustutatud"
 
 #: src/js/controllers/copayers.js:76
 msgid "The account \"{{walletName}}\" was deleted"
-msgstr ""
+msgstr "Konto \"{{walletName}}\" kustutati"
 
 #: public/views/modals/accept-profile.html:38
 msgid "The attested address belongs to:"
@@ -1863,7 +1863,7 @@ msgstr "Selle makse tegemiseks ei ole ühtegi rahakotti"
 
 #: public/views/preferences.html:45
 msgid "This account cannot be converted to multi address account as it already has attestations"
-msgstr ""
+msgstr "Seda kontot pole võimalik muuta mitme aadressiga kontoks, sest see on juba läbinud vastavuse tõendamise"
 
 #: public/views/preferences.html:44
 msgid "This account cannot be converted to multi address account as it is multidevice"
