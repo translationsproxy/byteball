@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
-"PO-Revision-Date: 2020-10-02 13:22\n"
+"PO-Revision-Date: 2020-10-02 19:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -29,7 +29,7 @@ msgstr ""
 msgid "(my other account)"
 msgstr ""
 
-#: public/views/walletHome.html:863
+#: public/views/walletHome.html:867
 msgid "(possible double spend)"
 msgstr "(संभवतः दुगुना खर्च)"
 
@@ -398,7 +398,7 @@ msgid "Chat"
 msgstr "बातचीत"
 
 #: public/views/import.html:33
-#: public/views/walletHome.html:747
+#: public/views/walletHome.html:749
 msgid "Choose File"
 msgstr "फाइल चुनें"
 
@@ -496,8 +496,8 @@ msgstr "क्या फाइल को छोटा करना है? (ध�
 #: src/js/controllers/index.js:673
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:224
-#: src/js/controllers/walletHome.js:2540
-#: src/js/controllers/walletHome.js:2544
+#: src/js/controllers/walletHome.js:2549
+#: src/js/controllers/walletHome.js:2553
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "पुष्टि करें"
@@ -562,7 +562,7 @@ msgstr "बन नहीं सका: अमान्य वटुवा अं
 msgid "Could not decrypt"
 msgstr "डिक्रीप्ट नहीं हो सका"
 
-#: public/views/walletHome.html:819
+#: public/views/walletHome.html:823
 msgid "Could not fetch transaction history"
 msgstr "लेन-देन का विवरण नहीं ला सका"
 
@@ -673,7 +673,7 @@ msgstr ""
 msgid "Delete account"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:2537
+#: src/js/controllers/walletHome.js:2546
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr ""
 
@@ -717,7 +717,7 @@ msgstr "क्या आप क्रोडिन में अपना भा�
 msgid "Done"
 msgstr "संपन्न"
 
-#: public/views/walletHome.html:934
+#: public/views/walletHome.html:938
 msgid "Download CSV file"
 msgstr "सीएसवी फाइल डाउनलोड करें"
 
@@ -801,7 +801,7 @@ msgstr "अंतिम स्थिति"
 msgid "From"
 msgstr "से"
 
-#: public/views/walletHome.html:889
+#: public/views/walletHome.html:893
 msgid "From AA"
 msgstr ""
 
@@ -963,7 +963,7 @@ msgstr "वटुवा आयात हो रहा है..."
 msgid "Including pending confirmation"
 msgstr "लंबित पुष्टिकरण को शामिल करते हुवे"
 
-#: public/views/walletHome.html:838
+#: public/views/walletHome.html:842
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
 msgstr "वटुवा के लिए बहुत लेन-देन के साथ शुरुवाती लेन-देन विवरण का तुल्यकालन में कुछ समय लग सकता है|<br>\n"
@@ -977,7 +977,7 @@ msgstr "मेरा पता सन्निविष्ट करें"
 msgid "Insert private profile"
 msgstr ""
 
-#: public/views/walletHome.html:856
+#: public/views/walletHome.html:860
 msgid "Invalid"
 msgstr "अमान्य"
 
@@ -1066,7 +1066,7 @@ msgstr ""
 msgid "More"
 msgstr ""
 
-#: public/views/walletHome.html:855
+#: public/views/walletHome.html:859
 msgid "Moved"
 msgstr "स्थान परिवर्तन हुवा"
 
@@ -1110,7 +1110,7 @@ msgstr "नयी संस्करण उपलब्ध है!"
 #: public/views/authConfirmation.html:22
 #: public/views/modals/tx-details.html:188
 #: src/js/controllers/index.js:672
-#: src/js/controllers/walletHome.js:2552
+#: src/js/controllers/walletHome.js:2561
 msgid "No"
 msgstr "नहीं"
 
@@ -1126,7 +1126,7 @@ msgstr ""
 msgid "No profiles yet."
 msgstr ""
 
-#: public/views/walletHome.html:822
+#: public/views/walletHome.html:826
 msgid "No transactions yet"
 msgstr "अभी तक कोई लेन-देन नहीं"
 
@@ -1144,7 +1144,7 @@ msgstr "अमान्य"
 #: public/views/modals/tx-details.html:116
 #: public/views/modals/tx-details.html:91
 #: public/views/walletHome.html:534
-#: public/views/walletHome.html:893
+#: public/views/walletHome.html:897
 msgid "Note"
 msgstr "नोट करें"
 
@@ -1364,8 +1364,8 @@ msgstr "फिर से दबाएं बाहर आने के लिए
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
 msgstr ""
 
-#: src/js/controllers/walletHome.js:2611
-#: src/js/controllers/walletHome.js:2687
+#: src/js/controllers/walletHome.js:2620
+#: src/js/controllers/walletHome.js:2696
 msgid "Private payloads sent"
 msgstr "निजी भार भेजा गया"
 
@@ -1413,7 +1413,7 @@ msgstr ""
 msgid "Receive"
 msgstr "ग्रहण करें"
 
-#: public/views/walletHome.html:853
+#: public/views/walletHome.html:857
 msgid "Received"
 msgstr "लिया"
 
@@ -1574,7 +1574,7 @@ msgid "Select the assets to hide in the account"
 msgstr ""
 
 #: public/views/preferencesHiddenSubWallets.html:29
-msgid "Select the subaccounts to hide in the account"
+msgid "Select the smart contracts to hide in the account"
 msgstr ""
 
 #: public/views/authConfirmation.html:10
@@ -1583,7 +1583,7 @@ msgstr "अपनी पहचान चुनें"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:644
-#: public/views/walletHome.html:765
+#: public/views/walletHome.html:769
 #: src/js/controllers/index.js:859
 #: src/js/controllers/walletHome.js:1321
 msgid "Send"
@@ -1617,7 +1617,7 @@ msgstr ""
 msgid "Sending..."
 msgstr "भेज रहे है..."
 
-#: public/views/walletHome.html:854
+#: public/views/walletHome.html:858
 msgid "Sent"
 msgstr "भेजा गया"
 
@@ -1660,7 +1660,7 @@ msgstr "इस बटुवा का पता साझा करें भु
 msgid "Share via message"
 msgstr "सन्देश के द्वारा साझा करें"
 
-#: public/views/walletHome.html:926
+#: public/views/walletHome.html:930
 msgid "Show all"
 msgstr "सब दिखाएँ"
 
@@ -1747,8 +1747,8 @@ msgstr ""
 #: src/js/controllers/index.js:338
 #: src/js/controllers/index.js:366
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:2611
-#: src/js/controllers/walletHome.js:2687
+#: src/js/controllers/walletHome.js:2620
+#: src/js/controllers/walletHome.js:2696
 msgid "Success"
 msgstr "सफल"
 
@@ -1778,7 +1778,7 @@ msgstr ""
 
 #: public/views/walletHome.html:134
 #: public/views/walletHome.html:139
-#: public/views/walletHome.html:820
+#: public/views/walletHome.html:824
 msgid "Tap to retry"
 msgstr "दुबारा प्रयाश के लिए टेप करें"
 
@@ -1922,12 +1922,12 @@ msgstr ""
 #: public/views/includes/transaction.html:19
 #: public/views/modals/tx-details.html:39
 #: public/views/modals/tx-details.html:81
-#: public/views/walletHome.html:895
+#: public/views/walletHome.html:899
 #: src/js/controllers/index.js:1656
 msgid "To"
 msgstr "को"
 
-#: public/views/walletHome.html:907
+#: public/views/walletHome.html:911
 msgid "To AA"
 msgstr ""
 
@@ -1939,7 +1939,7 @@ msgstr ""
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
 msgstr "सबकुछ पुनः स्थापित करने के लायक हो जाएँ, पूरी बैकअप तैयार कर लें (मेनुए में विकल्प ढूंढें)"
 
-#: public/views/walletHome.html:776
+#: public/views/walletHome.html:780
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address account first or create one."
 msgstr ""
 
@@ -1984,7 +1984,7 @@ msgid "Transaction created.\n"
 "Please approve it on the other devices."
 msgstr ""
 
-#: public/views/walletHome.html:844
+#: public/views/walletHome.html:848
 msgid "Transactions<br> Downloaded"
 msgstr "लेन-देन<br>\n"
 "डाउनलोड"
@@ -2014,7 +2014,7 @@ msgid "Unable to send transaction proposal"
 msgstr "लेन-देन प्रस्ताव भेजने में असमर्थ"
 
 #: public/views/modals/tx-details.html:128
-#: public/views/walletHome.html:875
+#: public/views/walletHome.html:879
 msgid "Unconfirmed"
 msgstr "अपुष्ट"
 
@@ -2119,7 +2119,7 @@ msgstr "क्या भेजना है"
 #: public/views/modals/vote.html:28
 #: public/views/walletHome.html:633
 #: public/views/walletHome.html:657
-#: public/views/walletHome.html:757
+#: public/views/walletHome.html:761
 msgid "Who signs:"
 msgstr "कौन हस्ताक्षर करता है:"
 
