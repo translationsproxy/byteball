@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-10-02 13:22\n"
+"PO-Revision-Date: 2020-10-02 19:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -29,7 +29,7 @@ msgstr ""
 msgid "(my other account)"
 msgstr ""
 
-#: public/views/walletHome.html:863
+#: public/views/walletHome.html:867
 msgid "(possible double spend)"
 msgstr "(kemungkinan pembayaran ganda)"
 
@@ -398,7 +398,7 @@ msgid "Chat"
 msgstr "Obrolan"
 
 #: public/views/import.html:33
-#: public/views/walletHome.html:747
+#: public/views/walletHome.html:749
 msgid "Choose File"
 msgstr "Pilih Berkas"
 
@@ -496,8 +496,8 @@ msgstr "Kompresi berkas? (Lambat)"
 #: src/js/controllers/index.js:673
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:224
-#: src/js/controllers/walletHome.js:2540
-#: src/js/controllers/walletHome.js:2544
+#: src/js/controllers/walletHome.js:2549
+#: src/js/controllers/walletHome.js:2553
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "Menyetujui"
@@ -562,7 +562,7 @@ msgstr "Tidak dapat membuat: Benih dompet tidak valid"
 msgid "Could not decrypt"
 msgstr "Tidak dapat mendeskripsi"
 
-#: public/views/walletHome.html:819
+#: public/views/walletHome.html:823
 msgid "Could not fetch transaction history"
 msgstr "Tidak dapat memperbarui riwayat transaksi"
 
@@ -673,7 +673,7 @@ msgstr ""
 msgid "Delete account"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:2537
+#: src/js/controllers/walletHome.js:2546
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr "Menghapus textcoin akan menghilangkan kemampuan untuk mengklaim kembali atau mengirim ulang"
 
@@ -717,7 +717,7 @@ msgstr "Bahasa anda tidak tersedia pada Crowdin? Hubungi Pemilik pada Crowdin! K
 msgid "Done"
 msgstr "Selesai"
 
-#: public/views/walletHome.html:934
+#: public/views/walletHome.html:938
 msgid "Download CSV file"
 msgstr "Unduh berkas CSV"
 
@@ -801,7 +801,7 @@ msgstr "Kepastian"
 msgid "From"
 msgstr "Dari"
 
-#: public/views/walletHome.html:889
+#: public/views/walletHome.html:893
 msgid "From AA"
 msgstr "Dari AA"
 
@@ -963,7 +963,7 @@ msgstr "Mengimpor dompet..."
 msgid "Including pending confirmation"
 msgstr "Termasuk konfirmasi yang tertunda"
 
-#: public/views/walletHome.html:838
+#: public/views/walletHome.html:842
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
 msgstr "Sinkronisasi riwayat transaksi awal dapat memakan waktu beberapa menit untuk dompet dengan banyak transaksi.<br>\n"
@@ -977,7 +977,7 @@ msgstr "Masukkan alamat saya"
 msgid "Insert private profile"
 msgstr "Masukkan profil pribadi"
 
-#: public/views/walletHome.html:856
+#: public/views/walletHome.html:860
 msgid "Invalid"
 msgstr "Tidak sah"
 
@@ -1066,7 +1066,7 @@ msgstr "Jumlah minimal"
 msgid "More"
 msgstr "Selengkapnya"
 
-#: public/views/walletHome.html:855
+#: public/views/walletHome.html:859
 msgid "Moved"
 msgstr "Dipindahkan"
 
@@ -1110,7 +1110,7 @@ msgstr "Versi baru tersedia!"
 #: public/views/authConfirmation.html:22
 #: public/views/modals/tx-details.html:188
 #: src/js/controllers/index.js:672
-#: src/js/controllers/walletHome.js:2552
+#: src/js/controllers/walletHome.js:2561
 msgid "No"
 msgstr "Tidak"
 
@@ -1126,7 +1126,7 @@ msgstr "Profil tidak cocok dengan kriteria yang diminta."
 msgid "No profiles yet."
 msgstr "Belum memiliki profil."
 
-#: public/views/walletHome.html:822
+#: public/views/walletHome.html:826
 msgid "No transactions yet"
 msgstr "Belum ada transaksi"
 
@@ -1144,7 +1144,7 @@ msgstr "Tidak sah"
 #: public/views/modals/tx-details.html:116
 #: public/views/modals/tx-details.html:91
 #: public/views/walletHome.html:534
-#: public/views/walletHome.html:893
+#: public/views/walletHome.html:897
 msgid "Note"
 msgstr "Catatan"
 
@@ -1364,8 +1364,8 @@ msgstr "Tekan lagi untuk keluar"
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
 msgstr "Aset pribadi (seperti blackbytes) dan kontrak pintar tidak dapat dipulihkan."
 
-#: src/js/controllers/walletHome.js:2611
-#: src/js/controllers/walletHome.js:2687
+#: src/js/controllers/walletHome.js:2620
+#: src/js/controllers/walletHome.js:2696
 msgid "Private payloads sent"
 msgstr "Muatan pribadi dikirim"
 
@@ -1413,7 +1413,7 @@ msgstr "Pengesah nama asli"
 msgid "Receive"
 msgstr "Terima"
 
-#: public/views/walletHome.html:853
+#: public/views/walletHome.html:857
 msgid "Received"
 msgstr "Diterima"
 
@@ -1574,7 +1574,7 @@ msgid "Select the assets to hide in the account"
 msgstr ""
 
 #: public/views/preferencesHiddenSubWallets.html:29
-msgid "Select the subaccounts to hide in the account"
+msgid "Select the smart contracts to hide in the account"
 msgstr ""
 
 #: public/views/authConfirmation.html:10
@@ -1583,7 +1583,7 @@ msgstr "Pilih identitas anda"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:644
-#: public/views/walletHome.html:765
+#: public/views/walletHome.html:769
 #: src/js/controllers/index.js:859
 #: src/js/controllers/walletHome.js:1321
 msgid "Send"
@@ -1617,7 +1617,7 @@ msgstr "Kirim profil ini"
 msgid "Sending..."
 msgstr "Mengirim..."
 
-#: public/views/walletHome.html:854
+#: public/views/walletHome.html:858
 msgid "Sent"
 msgstr "Terkirim"
 
@@ -1660,7 +1660,7 @@ msgstr "Berbagi alamat dompet ini untuk menerima pembayaran."
 msgid "Share via message"
 msgstr "Berbagi melalui pesan"
 
-#: public/views/walletHome.html:926
+#: public/views/walletHome.html:930
 msgid "Show all"
 msgstr "Tampilkan semua"
 
@@ -1747,8 +1747,8 @@ msgstr "Toko"
 #: src/js/controllers/index.js:338
 #: src/js/controllers/index.js:366
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:2611
-#: src/js/controllers/walletHome.js:2687
+#: src/js/controllers/walletHome.js:2620
+#: src/js/controllers/walletHome.js:2696
 msgid "Success"
 msgstr "Sukses"
 
@@ -1778,7 +1778,7 @@ msgstr "Aktifkan TOR"
 
 #: public/views/walletHome.html:134
 #: public/views/walletHome.html:139
-#: public/views/walletHome.html:820
+#: public/views/walletHome.html:824
 msgid "Tap to retry"
 msgstr "Ketuk untuk mencoba lagi"
 
@@ -1922,12 +1922,12 @@ msgstr "Judul kontrak"
 #: public/views/includes/transaction.html:19
 #: public/views/modals/tx-details.html:39
 #: public/views/modals/tx-details.html:81
-#: public/views/walletHome.html:895
+#: public/views/walletHome.html:899
 #: src/js/controllers/index.js:1656
 msgid "To"
 msgstr "Ke"
 
-#: public/views/walletHome.html:907
+#: public/views/walletHome.html:911
 msgid "To AA"
 msgstr "Ke AA"
 
@@ -1939,7 +1939,7 @@ msgstr "Ke alamat Obyte"
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
 msgstr "Untuk dapat mengembalikan segalanya, silakan membuat cadangan lengkap (pilihan tersedia pada menu)"
 
-#: public/views/walletHome.html:776
+#: public/views/walletHome.html:780
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address account first or create one."
 msgstr ""
 
@@ -1985,7 +1985,7 @@ msgid "Transaction created.\n"
 msgstr "Transaksi dibuat.\n"
 "Harap setujui di perangkat lain."
 
-#: public/views/walletHome.html:844
+#: public/views/walletHome.html:848
 msgid "Transactions<br> Downloaded"
 msgstr "Transaksi<br> Terunduh"
 
@@ -2014,7 +2014,7 @@ msgid "Unable to send transaction proposal"
 msgstr "Tidak dapat mengirim proposal transaksi"
 
 #: public/views/modals/tx-details.html:128
-#: public/views/walletHome.html:875
+#: public/views/walletHome.html:879
 msgid "Unconfirmed"
 msgstr "Belum dikonfirmasi"
 
@@ -2119,7 +2119,7 @@ msgstr "Apa yang dikirim"
 #: public/views/modals/vote.html:28
 #: public/views/walletHome.html:633
 #: public/views/walletHome.html:657
-#: public/views/walletHome.html:757
+#: public/views/walletHome.html:761
 msgid "Who signs:"
 msgstr "Siapa yang menandatangani:"
 
