@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2020-10-02 14:33\n"
+"PO-Revision-Date: 2020-10-02 14:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -27,7 +27,7 @@ msgstr "(praegune konto)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other account)"
-msgstr "(hetkel mitte-valitud konto)"
+msgstr "(mitte-valitud konto)"
 
 #: public/views/walletHome.html:863
 msgid "(possible double spend)"
@@ -102,7 +102,7 @@ msgstr "Konto on juba rakenduses:"
 
 #: public/views/create.html:48
 msgid "Account name"
-msgstr "Konto Nimi"
+msgstr "Konto nimi"
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
@@ -1711,7 +1711,7 @@ msgstr "Ühe aadressiga kontod ei tekita iga tehinguga uut aadressi, tehingust �
 
 #: src/js/services/profileService.js:334
 msgid "Small Expenses Account"
-msgstr "Konto Väikestele Kuludele"
+msgstr "Konto Väikestele Ostudele"
 
 #: public/views/walletHome.html:604
 msgid "Source code:"
