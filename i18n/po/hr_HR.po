@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
-"PO-Revision-Date: 2020-10-02 13:22\n"
+"PO-Revision-Date: 2020-10-02 19:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -29,7 +29,7 @@ msgstr ""
 msgid "(my other account)"
 msgstr ""
 
-#: public/views/walletHome.html:863
+#: public/views/walletHome.html:867
 msgid "(possible double spend)"
 msgstr "(moguće dvostruko plaćanje)"
 
@@ -398,7 +398,7 @@ msgid "Chat"
 msgstr "Razgovor"
 
 #: public/views/import.html:33
-#: public/views/walletHome.html:747
+#: public/views/walletHome.html:749
 msgid "Choose File"
 msgstr "Izaberite datoteku"
 
@@ -496,8 +496,8 @@ msgstr "Kompresirajte datoteku? (sporije)"
 #: src/js/controllers/index.js:673
 #: src/js/controllers/preferencesDelete.js:11
 #: src/js/controllers/walletHome.js:224
-#: src/js/controllers/walletHome.js:2540
-#: src/js/controllers/walletHome.js:2544
+#: src/js/controllers/walletHome.js:2549
+#: src/js/controllers/walletHome.js:2553
 #: src/js/services/confirmDialog.js:10
 msgid "Confirm"
 msgstr "Potvrdite"
@@ -562,7 +562,7 @@ msgstr "Nije moguće stvoriti: nevaljano dijeljenje"
 msgid "Could not decrypt"
 msgstr "Nije moguće dešifrirati"
 
-#: public/views/walletHome.html:819
+#: public/views/walletHome.html:823
 msgid "Could not fetch transaction history"
 msgstr "Nije moguće prenijeti povijest transakcija"
 
@@ -673,7 +673,7 @@ msgstr ""
 msgid "Delete account"
 msgstr ""
 
-#: src/js/controllers/walletHome.js:2537
+#: src/js/controllers/walletHome.js:2546
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
 msgstr ""
 
@@ -717,7 +717,7 @@ msgstr "Ne vidite vaš jezik na Crowdinu? Obratite se vlasniku na Crowdinu! Mi b
 msgid "Done"
 msgstr "Gotovo"
 
-#: public/views/walletHome.html:934
+#: public/views/walletHome.html:938
 msgid "Download CSV file"
 msgstr "Preuzmite CSV datoteku"
 
@@ -801,7 +801,7 @@ msgstr "Konačnost"
 msgid "From"
 msgstr "Od"
 
-#: public/views/walletHome.html:889
+#: public/views/walletHome.html:893
 msgid "From AA"
 msgstr ""
 
@@ -963,7 +963,7 @@ msgstr "Uvozimo novčanik..."
 msgid "Including pending confirmation"
 msgstr "Uključujuje čekanje potvrde"
 
-#: public/views/walletHome.html:838
+#: public/views/walletHome.html:842
 msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>\n"
 "          Please stand by."
 msgstr "Povijest sinkronizacije prve transakcije može potrajati nekoliko minuta za novčanike s mnogo transakcija.<br>\n"
@@ -977,7 +977,7 @@ msgstr "Ubaci moju adresu"
 msgid "Insert private profile"
 msgstr ""
 
-#: public/views/walletHome.html:856
+#: public/views/walletHome.html:860
 msgid "Invalid"
 msgstr "Nevažeće"
 
@@ -1066,7 +1066,7 @@ msgstr ""
 msgid "More"
 msgstr ""
 
-#: public/views/walletHome.html:855
+#: public/views/walletHome.html:859
 msgid "Moved"
 msgstr "Premješteno"
 
@@ -1110,7 +1110,7 @@ msgstr "Nova verzija je dostupna!"
 #: public/views/authConfirmation.html:22
 #: public/views/modals/tx-details.html:188
 #: src/js/controllers/index.js:672
-#: src/js/controllers/walletHome.js:2552
+#: src/js/controllers/walletHome.js:2561
 msgid "No"
 msgstr "Ne"
 
@@ -1126,7 +1126,7 @@ msgstr ""
 msgid "No profiles yet."
 msgstr ""
 
-#: public/views/walletHome.html:822
+#: public/views/walletHome.html:826
 msgid "No transactions yet"
 msgstr "Još nema transakcija"
 
@@ -1144,7 +1144,7 @@ msgstr "Nije valjano"
 #: public/views/modals/tx-details.html:116
 #: public/views/modals/tx-details.html:91
 #: public/views/walletHome.html:534
-#: public/views/walletHome.html:893
+#: public/views/walletHome.html:897
 msgid "Note"
 msgstr "Bilješka"
 
@@ -1364,8 +1364,8 @@ msgstr "Pritisnite još jednom za izlaz"
 msgid "Private assets (such as blackbytes) and smart contracts are not recovered."
 msgstr ""
 
-#: src/js/controllers/walletHome.js:2611
-#: src/js/controllers/walletHome.js:2687
+#: src/js/controllers/walletHome.js:2620
+#: src/js/controllers/walletHome.js:2696
 msgid "Private payloads sent"
 msgstr "Privatna količina poslana"
 
@@ -1413,7 +1413,7 @@ msgstr ""
 msgid "Receive"
 msgstr "Primanje"
 
-#: public/views/walletHome.html:853
+#: public/views/walletHome.html:857
 msgid "Received"
 msgstr "Primljeno"
 
@@ -1574,7 +1574,7 @@ msgid "Select the assets to hide in the account"
 msgstr ""
 
 #: public/views/preferencesHiddenSubWallets.html:29
-msgid "Select the subaccounts to hide in the account"
+msgid "Select the smart contracts to hide in the account"
 msgstr ""
 
 #: public/views/authConfirmation.html:10
@@ -1583,7 +1583,7 @@ msgstr "Odaberite vaš identitet"
 
 #: public/views/includes/transaction.html:10
 #: public/views/walletHome.html:644
-#: public/views/walletHome.html:765
+#: public/views/walletHome.html:769
 #: src/js/controllers/index.js:859
 #: src/js/controllers/walletHome.js:1321
 msgid "Send"
@@ -1617,7 +1617,7 @@ msgstr ""
 msgid "Sending..."
 msgstr "Slanje..."
 
-#: public/views/walletHome.html:854
+#: public/views/walletHome.html:858
 msgid "Sent"
 msgstr "Poslano"
 
@@ -1660,7 +1660,7 @@ msgstr "Podijelite uvu adresu za novčanik da biste primili isplatu."
 msgid "Share via message"
 msgstr "Podijelite preko poruke"
 
-#: public/views/walletHome.html:926
+#: public/views/walletHome.html:930
 msgid "Show all"
 msgstr "Prikaži sve"
 
@@ -1747,8 +1747,8 @@ msgstr ""
 #: src/js/controllers/index.js:338
 #: src/js/controllers/index.js:366
 #: src/js/controllers/preferencesDelete.js:56
-#: src/js/controllers/walletHome.js:2611
-#: src/js/controllers/walletHome.js:2687
+#: src/js/controllers/walletHome.js:2620
+#: src/js/controllers/walletHome.js:2696
 msgid "Success"
 msgstr "Uspješno"
 
@@ -1778,7 +1778,7 @@ msgstr ""
 
 #: public/views/walletHome.html:134
 #: public/views/walletHome.html:139
-#: public/views/walletHome.html:820
+#: public/views/walletHome.html:824
 msgid "Tap to retry"
 msgstr "Dodirnite za ponovni pokušaj"
 
@@ -1922,12 +1922,12 @@ msgstr ""
 #: public/views/includes/transaction.html:19
 #: public/views/modals/tx-details.html:39
 #: public/views/modals/tx-details.html:81
-#: public/views/walletHome.html:895
+#: public/views/walletHome.html:899
 #: src/js/controllers/index.js:1656
 msgid "To"
 msgstr "Za"
 
-#: public/views/walletHome.html:907
+#: public/views/walletHome.html:911
 msgid "To AA"
 msgstr ""
 
@@ -1939,7 +1939,7 @@ msgstr ""
 msgid "To be able to restore everything, please create a full backup (find the option in the menu)"
 msgstr "Da biste vratili sve, molimo stvoritie punu sigurnosnu kopiju (pronađite opciju u izborniku)"
 
-#: public/views/walletHome.html:776
+#: public/views/walletHome.html:780
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address account first or create one."
 msgstr ""
 
@@ -1984,7 +1984,7 @@ msgid "Transaction created.\n"
 "Please approve it on the other devices."
 msgstr ""
 
-#: public/views/walletHome.html:844
+#: public/views/walletHome.html:848
 msgid "Transactions<br> Downloaded"
 msgstr "Preuzete<br> Transakcije"
 
@@ -2013,7 +2013,7 @@ msgid "Unable to send transaction proposal"
 msgstr "Nemoguće poslati prijedlog za transakciju"
 
 #: public/views/modals/tx-details.html:128
-#: public/views/walletHome.html:875
+#: public/views/walletHome.html:879
 msgid "Unconfirmed"
 msgstr "Nepotvrđeno"
 
@@ -2118,7 +2118,7 @@ msgstr "Što treba poslati"
 #: public/views/modals/vote.html:28
 #: public/views/walletHome.html:633
 #: public/views/walletHome.html:657
-#: public/views/walletHome.html:757
+#: public/views/walletHome.html:761
 msgid "Who signs:"
 msgstr "Tko potpisuje:"
 
