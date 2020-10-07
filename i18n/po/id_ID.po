@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-10-07 08:17\n"
+"PO-Revision-Date: 2020-10-07 08:29\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -217,7 +217,7 @@ msgstr "Kirim juga data..."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
-msgstr "Juga, jangan lupa untuk menghapus benih anda"
+msgstr "Juga, jangan lupa untuk menghapus seed anda"
 
 #: public/views/includes/output.html:6
 #: public/views/modals/customized-amount.html:38
@@ -557,7 +557,7 @@ msgstr "Tidak dapat membuat dengan menggunakan perpanjangan kunci publik spesifi
 
 #: src/js/services/profileService.js:273
 msgid "Could not create: Invalid wallet seed"
-msgstr "Tidak dapat membuat: Benih dompet tidak valid"
+msgstr "Tidak dapat membuat: Seed dompet tidak valid"
 
 #: src/js/controllers/backup.js:81
 msgid "Could not decrypt"
@@ -703,7 +703,7 @@ msgstr "Nama perangkat dapat dilihat oleh perangkat lain yang berkomunikasi."
 
 #: public/views/recoveryFromSeed.html:43
 msgid "Do not clone wallets, stop using the original wallet with this seed."
-msgstr "Jangan menggandakan dompet, hentikan penggunakan dompet asli dengan benih ini."
+msgstr "Jangan menggandakan dompet, hentikan penggunakan dompet asli dengan seed ini."
 
 #: public/views/backup.html:59
 msgid "Do not use it to clone the wallet."
@@ -860,7 +860,7 @@ msgstr "Kontrak pintar tersembunyi"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
-msgstr "Sembunyikan Benih Dompet"
+msgstr "Sembunyikan Seed Dompet"
 
 #: public/views/modals/share.html:43
 #: src/js/controllers/index.js:863
@@ -1098,7 +1098,7 @@ msgstr "Jaringan"
 
 #: src/js/controllers/create.js:29
 msgid "New Random Seed"
-msgstr "Bibit Acak Baru"
+msgstr "Seed Acak Baru"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New order providers"
@@ -1185,7 +1185,7 @@ msgstr "Tawarkan kontrak biasa"
 
 #: public/views/backup.html:87
 msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
-msgstr "Setelah Anda menuliskan benih dompet Anda, sebaiknya Anda menghapusnya dari perangkat ini."
+msgstr "Setelah Anda menuliskan seed dompet Anda, sebaiknya Anda menghapusnya dari perangkat ini."
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig accounts can be recovered."
@@ -1667,7 +1667,7 @@ msgstr "Tampilkan semua"
 
 #: public/views/backup.html:44
 msgid "Show the Wallet Seed Anyway"
-msgstr "Tetap tunjukkan Benih Dompet"
+msgstr "Tetap Tampilkan Seed Dompet"
 
 #: public/views/modals/sign-message.html:45
 msgid "Sign"
@@ -1719,7 +1719,7 @@ msgstr "Kode sumber:"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
-msgstr "Tentukan Benih..."
+msgstr "Tentukan Seed..."
 
 #: public/views/preferencesGlobal.html:94
 msgid "Spend unconfirmed funds"
@@ -2078,7 +2078,7 @@ msgstr "PERINGATAN: Cadangan diperlukan"
 
 #: public/views/backup.html:77
 msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
-msgstr "PERINGATAN: Benih ini dibuat dengan frasa sandi. Untuk memulihkan dompet ini diperlukan baik mnemonik dan frasa sandi."
+msgstr "PERINGATAN: Seed ini dibuat dengan frasa sandi. Untuk memulihkan dompet ini diperlukan baik mnemonik dan frasa sandi."
 
 #: public/views/import.html:45
 #: public/views/preferencesTor.html:23
@@ -2100,7 +2100,7 @@ msgstr "Menunggu..."
 
 #: public/views/backup.html:34
 msgid "Wallet seed not available."
-msgstr "Benih dompet tidak tersedia."
+msgstr "Seed dompet tidak tersedia."
 
 #: public/views/preferencesDeleteWallet.html:15
 msgid "Warning!"
@@ -2177,7 +2177,7 @@ msgstr "Anda akan dibebankan {{CHARGE_AMOUNT}} byte untuk mengkompensasi biaya k
 #: public/views/backup.html:55
 #: public/views/recoveryFromSeed.html:31
 msgid "Your Wallet Seed:"
-msgstr "Benih Wallet Anda:"
+msgstr "Seed Wallet Anda:"
 
 #: public/views/export.html:33
 msgid "Your export password"
