@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2020-10-07 07:52\n"
+"PO-Revision-Date: 2020-10-07 08:03\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1314,7 +1314,7 @@ msgstr "Berikan nama perangkat ini"
 
 #: src/js/controllers/correspondentDevice.js:160
 msgid "Please switch to a single-address account and you probably need to insert your address again."
-msgstr ""
+msgstr "Harap beralih ke akun alamat tunggal dan anda mungkin perlu untuk memasukkan alamat anda lagi."
 
 #: public/views/includes/backup-reminder.html:8
 msgid "Please visit the Backups section in"
@@ -1564,7 +1564,7 @@ msgstr "Memindai alamat..."
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select Smart Contract"
-msgstr ""
+msgstr "Pilih Kontrak Pintar"
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1572,11 +1572,11 @@ msgstr "Pilih dompet"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the account"
-msgstr ""
+msgstr "Pilih aset yang akan disembunyikan di akun"
 
 #: public/views/preferencesHiddenSubWallets.html:29
 msgid "Select the smart contracts to hide in the account"
-msgstr ""
+msgstr "Pilih kontrak pintar yang akan disembunyikan di akun"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1608,7 +1608,7 @@ msgstr "Kirim melalui surel"
 
 #: public/views/preferencesInformation.html:118
 msgid "Send this"
-msgstr ""
+msgstr "Kirim ini"
 
 #: public/views/modals/choose-profile.html:63
 msgid "Send this profile"
@@ -1675,7 +1675,7 @@ msgstr "Masuk"
 
 #: public/views/preferencesInformation.html:104
 msgid "Sign a message with this address"
-msgstr ""
+msgstr "Tanda tangani pesan dengan alamat ini"
 
 #: public/views/modals/sign-message.html:8
 #: src/js/controllers/index.js:480
@@ -1684,7 +1684,7 @@ msgstr "Tanda tangani pesan"
 
 #: public/views/modals/signed-message.html:26
 msgid "Signature:"
-msgstr ""
+msgstr "Tanda tangan:"
 
 #: public/views/editCorrespondentDevice.html:57
 msgid "Signed contracts:"
@@ -1702,16 +1702,16 @@ msgstr "Alamat yang ditandatangani:"
 #: public/views/create.html:56
 #: public/views/preferences.html:39
 msgid "Single address account"
-msgstr ""
+msgstr "Akun alamat tunggal"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:41
 msgid "Single address accounts will not spawn new addresses for every transaction, change will always go to the one and only address the account contains."
-msgstr ""
+msgstr "Akun alamat tunggal tidak akan membuat alamat baru pada setiap transaksi, kembalian akan selalu ditujukan ke satu-satunya alamat pada dompet."
 
 #: src/js/services/profileService.js:334
 msgid "Small Expenses Account"
-msgstr ""
+msgstr "Akun Pengeluaran Kecil"
 
 #: public/views/walletHome.html:604
 msgid "Source code:"
@@ -1807,11 +1807,11 @@ msgstr "Textcoin"
 
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The account \"{{walletName}}\" has been deleted"
-msgstr ""
+msgstr "Akun \"{{walletName}}\" telah dihapus"
 
 #: src/js/controllers/copayers.js:76
 msgid "The account \"{{walletName}}\" was deleted"
-msgstr ""
+msgstr "Akun \"{{walletName}}\" telah dihapus"
 
 #: public/views/modals/accept-profile.html:38
 msgid "The attested address belongs to:"
@@ -1863,11 +1863,11 @@ msgstr "Tidak ada dompet untuk melakukan pembayaran ini"
 
 #: public/views/preferences.html:45
 msgid "This account cannot be converted to multi address account as it already has attestations"
-msgstr ""
+msgstr "Akun ini tidak dapat diubah menjadi akun multi alamat karena sudah memiliki pengesahan"
 
 #: public/views/preferences.html:44
 msgid "This account cannot be converted to multi address account as it is multidevice"
-msgstr ""
+msgstr "Akun ini tidak dapat diubah menjadi akun multi alamat karena merupakan multi perangkat"
 
 #: public/views/preferences.html:42
 msgid "This account cannot be converted to single address account as it already consists of multiple addresses"
