@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2020-10-15 19:51\n"
+"PO-Revision-Date: 2020-10-15 20:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -90,24 +90,24 @@ msgstr "Konto-ID"
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
 msgid "Account Information"
-msgstr ""
+msgstr "Konto-information"
 
 #: public/views/preferencesInformation.html:12
 msgid "Account Name (at creation)"
-msgstr ""
+msgstr "Konto-navn (ved oprettelse)"
 
 #: src/js/services/profileService.js:455
 msgid "Account already in Obyte:"
-msgstr ""
+msgstr "Konto-navn allerede i brug:"
 
 #: public/views/create.html:48
 msgid "Account name"
-msgstr ""
+msgstr "Konto-navn"
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Accounts"
-msgstr ""
+msgstr "Konti"
 
 #: public/views/bot.html:85
 msgid "Add Bot"
@@ -124,7 +124,7 @@ msgstr "Tilføj ny post"
 
 #: public/views/includes/sidebar.html:26
 msgid "Add account"
-msgstr ""
+msgstr "Tilføj konto"
 
 #: public/views/preferencesEditRealNameAttestors.html:25
 msgid "Add address"
@@ -189,7 +189,7 @@ msgstr "Alias for"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Account Addresses"
-msgstr ""
+msgstr "Alle konto-adresser"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
@@ -238,7 +238,7 @@ msgstr "Svar:"
 
 #: public/views/copayers.html:19
 msgid "Approve the account creation on other devices"
-msgstr ""
+msgstr "Godkend konto-oprettelse på andre enheder"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
@@ -247,7 +247,7 @@ msgstr "Er du sikker på, du vil slette backup-ordene?"
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this account?"
-msgstr ""
+msgstr "Er du sikker på du vil slette denne konto?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
@@ -329,7 +329,7 @@ msgstr "Før du begynder at modtage beløb, anbefales det, at du laver backup af
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig accounts with redundancy,"
-msgstr ""
+msgstr "Eller endnu bedre, brug multisignatur-konti med redundans"
 
 #: public/views/modals/bind.html:134
 #: public/views/modals/bind.html:49
@@ -392,7 +392,7 @@ msgstr "Skift hub:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing account alias only affects the local account name."
-msgstr ""
+msgstr "Ændring af konto-alias påvirker kun det lokale konto-navn."
 
 #: src/js/controllers/index.js:867
 msgid "Chat"
@@ -591,12 +591,12 @@ msgstr "Opret"
 
 #: public/views/includes/sidebar.html:28
 msgid "Create a new account"
-msgstr ""
+msgstr "Opret ny konto"
 
 #: public/views/create.html:175
 #: src/js/controllers/index.js:383
 msgid "Create new account"
-msgstr ""
+msgstr "Opret ny konto"
 
 #: public/views/add.html:15
 msgid "Create new wallet"
@@ -604,7 +604,7 @@ msgstr "Opret ny wallet"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} account"
-msgstr ""
+msgstr "Opret ({{requiredCosigners}}-af-{{totalCosigners}})-konto"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -616,7 +616,7 @@ msgstr "Opretter profil..."
 
 #: public/views/create.html:20
 msgid "Creating new account..."
-msgstr ""
+msgstr "Opretter ny konto..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
@@ -668,11 +668,11 @@ msgstr "Definitioner af adresser"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Account"
-msgstr ""
+msgstr "Slet konto"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete account"
-msgstr ""
+msgstr "Slet konto"
 
 #: src/js/controllers/walletHome.js:2546
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
@@ -856,7 +856,7 @@ msgstr "Skjulte tokens"
 
 #: public/views/preferences.html:69
 msgid "Hidden smart contracts"
-msgstr ""
+msgstr "Skjulte smart-contracts"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -1000,7 +1000,7 @@ msgstr "Det er ikke tilladt at sende private aktiver til automous agents"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig accounts, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr ""
+msgstr "Konto-seed er sjældent nok. Med seed kan du ikke gendanne multisignatur-konto, smart-contracts, kontakter, chat-historik og private assets som f.eks. blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -1073,7 +1073,7 @@ msgstr "Flyttet"
 
 #: public/views/create.html:32
 msgid "Multidevice Account"
-msgstr ""
+msgstr "Multienhed-konto"
 
 #: public/views/walletHome.html:276
 msgid "My Obyte address"
@@ -1189,7 +1189,7 @@ msgstr "Når du har skrevet dit wallet-seed ned, anbefales det at du sletter det
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig accounts can be recovered."
-msgstr ""
+msgstr "Det er kun konti med enkelt-signatur, der kan gendannes."
 
 #: public/views/bot.html:84
 msgid "Open chat"
@@ -1282,7 +1282,7 @@ msgstr "Modpart:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this account. THIS ACTION CANNOT BE REVERSED"
-msgstr ""
+msgstr "Slet denne konto permanent. DETTE KAN IKKE FORTRYDES"
 
 #: src/js/controllers/correspondentDevice.js:1363
 msgid "Personal code"
@@ -1290,7 +1290,7 @@ msgstr "Personlig kode"
 
 #: public/views/create.html:28
 msgid "Plain Account"
-msgstr ""
+msgstr "Almindelig konto"
 
 #: src/js/controllers/index.js:288
 msgid "Please approve contract fees deposit on the other devices."
@@ -1314,7 +1314,7 @@ msgstr "Navngiv denne enhed"
 
 #: src/js/controllers/correspondentDevice.js:160
 msgid "Please switch to a single-address account and you probably need to insert your address again."
-msgstr ""
+msgstr "Skift til en single-signatur-konto og forsøg igen ved at indsætte din adresse."
 
 #: public/views/includes/backup-reminder.html:8
 msgid "Please visit the Backups section in"
@@ -1564,7 +1564,7 @@ msgstr "Scanner efter adresser..."
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select Smart Contract"
-msgstr ""
+msgstr "Vælg smart-contract"
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1572,11 +1572,11 @@ msgstr "Vælg wallet"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the account"
-msgstr ""
+msgstr "Vælg hvilket asset, du ønsker at skjule på kontoen"
 
 #: public/views/preferencesHiddenSubWallets.html:29
 msgid "Select the smart contracts to hide in the account"
-msgstr ""
+msgstr "Vælg de smart contracts, du ønsker at skjule på kontoen"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1608,7 +1608,7 @@ msgstr "Send som email"
 
 #: public/views/preferencesInformation.html:118
 msgid "Send this"
-msgstr ""
+msgstr "Send"
 
 #: public/views/modals/choose-profile.html:63
 msgid "Send this profile"
@@ -1675,7 +1675,7 @@ msgstr "Signér"
 
 #: public/views/preferencesInformation.html:104
 msgid "Sign a message with this address"
-msgstr ""
+msgstr "Signér en besked med denne adresse"
 
 #: public/views/modals/sign-message.html:8
 #: src/js/controllers/index.js:480
@@ -1684,7 +1684,7 @@ msgstr "Signér besked"
 
 #: public/views/modals/signed-message.html:26
 msgid "Signature:"
-msgstr ""
+msgstr "Signatur:"
 
 #: public/views/editCorrespondentDevice.html:57
 msgid "Signed contracts:"
@@ -1702,7 +1702,7 @@ msgstr "Signerende adresse:"
 #: public/views/create.html:56
 #: public/views/preferences.html:39
 msgid "Single address account"
-msgstr ""
+msgstr "Enkelt-adresse-konto"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:41
