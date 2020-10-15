@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2020-10-02 19:32\n"
+"PO-Revision-Date: 2020-10-15 19:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -23,11 +23,11 @@ msgstr "(Siden ser ikke din balance og ingen penge bliver brugt)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current account)"
-msgstr ""
+msgstr "(aktuel konto)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other account)"
-msgstr ""
+msgstr "(min anden konto)"
 
 #: public/views/walletHome.html:867
 msgid "(possible double spend)"
@@ -44,7 +44,8 @@ msgstr "12 ord adskilt af bindestreger"
 #: public/views/modals/tx-details.html:167
 msgid "<i class=\"fi-refresh size-18 m5r\"></i>\n"
 "        Resend"
-msgstr ""
+msgstr "<i class=\"fi-refresh size-18 m5r\"></i>\n"
+"        Gensend"
 
 #: public/views/walletHome.html:481
 msgid "AAs not allowed in multi-send"
@@ -76,15 +77,15 @@ msgstr "Konto"
 
 #: public/views/preferences.html:15
 msgid "Account Alias"
-msgstr ""
+msgstr "Konto-alias"
 
 #: public/views/preferencesInformation.html:27
 msgid "Account Configuration (m-n)"
-msgstr ""
+msgstr "Konto-konfiguration (m-n)"
 
 #: public/views/preferencesInformation.html:20
 msgid "Account Id"
-msgstr ""
+msgstr "Konto-ID"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
