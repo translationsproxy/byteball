@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2020-10-02 19:32\n"
+"PO-Revision-Date: 2020-10-17 05:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -23,7 +23,7 @@ msgstr "(Diese Seite wird Ihr Guthaben nicht sehen und kein Geld wird ausgegeben
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current account)"
-msgstr ""
+msgstr "(aktueller Account)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other account)"
