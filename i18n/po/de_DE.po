@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2020-10-17 06:11\n"
+"PO-Revision-Date: 2020-10-17 06:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -329,7 +329,7 @@ msgstr "Bevor Beträge empfangen werden, wird dringend empfohlen die Wallet-Schl
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig accounts with redundancy,"
-msgstr ""
+msgstr "Noch besser ist es multisig Accounts zur Redundanz zu verwenden,"
 
 #: public/views/modals/bind.html:134
 #: public/views/modals/bind.html:49
@@ -358,11 +358,11 @@ msgstr "Sie und {{correspondent.name}} haben die lokale Chat Aufzeichnung aktivi
 
 #: src/js/controllers/walletHome.js:1286
 msgid "Bounce the request"
-msgstr ""
+msgstr "Anfrage zurückweisen"
 
 #: public/views/modals/tx-details.html:186
 msgid "Bounced?"
-msgstr ""
+msgstr "Zurückgewiesen?"
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -392,7 +392,7 @@ msgstr "Hub ändern:"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing account alias only affects the local account name."
-msgstr ""
+msgstr "Eine Änderung des Account alias wirkt sich nur auf den lokalen Account Namen aus."
 
 #: src/js/controllers/index.js:867
 msgid "Chat"
@@ -591,12 +591,12 @@ msgstr "Erstellen"
 
 #: public/views/includes/sidebar.html:28
 msgid "Create a new account"
-msgstr ""
+msgstr "Erstelle einen neuen Account"
 
 #: public/views/create.html:175
 #: src/js/controllers/index.js:383
 msgid "Create new account"
-msgstr ""
+msgstr "Neuen Account erstellen"
 
 #: public/views/add.html:15
 msgid "Create new wallet"
@@ -604,7 +604,7 @@ msgstr "Neues Wallet erstellen"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} account"
-msgstr ""
+msgstr "Erstelle {{requiredCosigners}}-von-{{totalCosigners}} Account"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -616,7 +616,7 @@ msgstr "Profil wird erstellt..."
 
 #: public/views/create.html:20
 msgid "Creating new account..."
-msgstr ""
+msgstr "Neuer Account wird erstellt..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
@@ -648,7 +648,7 @@ msgstr "Abgelehnt"
 
 #: src/js/controllers/walletHome.js:1333
 msgid "Define a new asset with cap"
-msgstr ""
+msgstr "Erstelle ein neues gedeckeltes Asset"
 
 #: public/views/walletHome.html:215
 msgid "Definition"
@@ -656,7 +656,7 @@ msgstr "Definition"
 
 #: public/views/walletHome.html:717
 msgid "Definition of autonomous agent:"
-msgstr ""
+msgstr "Definition des Autonomen Agenten:"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -668,11 +668,11 @@ msgstr "Definitionen der Adressen"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Account"
-msgstr ""
+msgstr "Account löschen"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete account"
-msgstr ""
+msgstr "Account löschen"
 
 #: src/js/controllers/walletHome.js:2546
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
@@ -749,7 +749,7 @@ msgstr "Passwort eingeben"
 
 #: public/views/modals/tx-details.html:192
 msgid "Error"
-msgstr ""
+msgstr "Fehler"
 
 #: src/js/services/profileService.js:340
 #: src/js/services/profileService.js:392
@@ -804,11 +804,11 @@ msgstr "Von"
 
 #: public/views/walletHome.html:893
 msgid "From AA"
-msgstr ""
+msgstr "Von AA"
 
 #: public/views/walletHome.html:452
 msgid "From Obyte address"
-msgstr ""
+msgstr "Von Obyte Adresse"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
