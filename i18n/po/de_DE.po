@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2020-10-17 06:51\n"
+"PO-Revision-Date: 2020-10-17 07:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2155,11 +2155,11 @@ msgstr "Wenn Sie diese bereits an anderer Stelle (z. B. als Paper-Wallet) gesich
 
 #: public/views/modals/bind.html:139
 msgid "You cannot bind your transaction to reverse payment as you are in a single address account.  Use a non-single address account and then transfer the money to that account."
-msgstr ""
+msgstr "Du kannst deine Transaktion nicht an eine Rückzahlungsbedingung binden, da du einen Single-Address-Account benutzen. Verwende einen Multi-Address-Account, und sende dein Geld an diesen Account."
 
 #: public/views/walletHome.html:59
 msgid "You do not have an account"
-msgstr ""
+msgstr "Du hast keinen Account"
 
 #: public/views/modals/choose-profile.html:70
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
@@ -2167,7 +2167,7 @@ msgstr "Sie müssen ein Verifizierungsverfahren durchlaufen, um ein Profil zu er
 
 #: public/views/preferencesTor.html:25
 msgid "You need to have Tor service or Tor Browser running to use this feature!"
-msgstr ""
+msgstr "Du musst den Tor Dienst oder Tor Browser laufen lassen um diese Funktion nutzen zu können!"
 
 #: public/views/modals/offer-prosaic-contract.html:99
 msgid "You will be charged {{CHARGE_AMOUNT}} bytes to compensate for fees when posting signature proof."
@@ -2281,11 +2281,11 @@ msgstr "kann den Vertrag entsperren, nachdem er abgelaufen ist, in"
 
 #: public/views/copayers.html:38
 msgid "cancel the account creation"
-msgstr ""
+msgstr "Account Erstellung abbrechen"
 
 #: public/views/walletHome.html:729
 msgid "character(s)"
-msgstr ""
+msgstr "Buchstabe(n)"
 
 #: public/views/modals/tx-details.html:147
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
@@ -2313,7 +2313,7 @@ msgstr "Tage"
 
 #: src/js/controllers/walletHome.js:1296
 msgid "decreased by"
-msgstr ""
+msgstr "gesenkt um"
 
 #: public/views/modals/bind.html:122
 #: public/views/modals/offer-contract.html:137
@@ -2322,11 +2322,11 @@ msgstr "detaillierte Anweisungen zur Benutzung"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 account with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "z.B. 1-von-2 Account mit einem Schlüssel auf diesem Gerät und einem weiteren Schlüssel auf deinem Computer."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 account with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "z.B. 1-von-2 Acount mit einem Schlüssel auf diesem Gerät und einem weiteren Schlüssel auf deinem Smartphone."
 
 #: public/views/modals/bind.html:119
 msgid "either way"
@@ -2364,11 +2364,11 @@ msgstr "im Hash-Baum"
 
 #: public/views/walletHome.html:188
 msgid "in smart contracts"
-msgstr ""
+msgstr "in Smart Contracts"
 
 #: src/js/controllers/walletHome.js:1292
 msgid "increased by"
-msgstr ""
+msgstr "erhöht um"
 
 #: public/views/modals/signed-message.html:33
 msgid "invalid"
@@ -2380,7 +2380,7 @@ msgstr "für mich behalten"
 
 #: public/views/walletHome.html:600
 msgid "less"
-msgstr ""
+msgstr "weniger"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -2388,12 +2388,12 @@ msgstr "durch ausstehende Zahlungen gesperrt"
 
 #: public/views/walletHome.html:599
 msgid "more"
-msgstr ""
+msgstr "mehr"
 
 #: public/views/modals/tx-details.html:182
 #: src/js/controllers/walletHome.js:1342
 msgid "none"
-msgstr ""
+msgstr "keine"
 
 #: public/views/modals/tx-details.html:141
 msgid "not claimed"
@@ -2485,7 +2485,7 @@ msgstr "Sende"
 
 #: src/js/controllers/walletHome.js:1300
 msgid "set to"
-msgstr ""
+msgstr "festgelegt auf"
 
 #: public/views/modals/tx-details.html:155
 msgid "share again"
@@ -2532,7 +2532,7 @@ msgstr "Einheit in DAG:"
 
 #: src/js/controllers/walletHome.js:1333
 msgid "unlimited"
-msgstr ""
+msgstr "unbegrenzt"
 
 #: public/views/modals/signed-message.html:34
 #: public/views/modals/view-prosaic-contract.html:107
@@ -2549,7 +2549,7 @@ msgstr "warten Sie bis die Synchronisierung abgeschlossen ist, bevor Sie Zahlung
 
 #: public/views/walletHome.html:624
 msgid "were added as it is the minimum amount for this AA"
-msgstr ""
+msgstr "wurden hinzugefügt, da es der Mindestbetrag für diesen AA ist"
 
 #: public/views/modals/select-subwallet.html:45
 #: public/views/preferencesHiddenSubWallets.html:36
@@ -2563,9 +2563,9 @@ msgstr "mit erwartetem Wert"
 
 #: src/js/controllers/walletHome.js:1319
 msgid "you"
-msgstr ""
+msgstr "Du"
 
 #: public/views/walletHome.html:423
 msgid "{{home.custom_amount_error}}"
-msgstr ""
+msgstr "{{home.custom_amount_error}}"
 
