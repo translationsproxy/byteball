@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2020-10-17 06:31\n"
+"PO-Revision-Date: 2020-10-17 06:41\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1341,7 +1341,7 @@ msgstr "Senden Sie beliebige Schlüssel-Wert-Paare von Daten in das Obyte-Netzwe
 
 #: src/js/controllers/walletHome.js:1331
 msgid "Post data"
-msgstr ""
+msgstr "Daten senden"
 
 #: public/views/walletHome.html:679
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1494,15 +1494,15 @@ msgstr "Erforderliche Anzahl an Signaturen"
 
 #: public/views/walletHome.html:619
 msgid "Response"
-msgstr ""
+msgstr "Antwort"
 
 #: public/views/modals/tx-details.html:180
 msgid "Response unit"
-msgstr ""
+msgstr "Antwort Unit"
 
 #: public/views/modals/tx-details.html:202
 msgid "Response variables"
-msgstr ""
+msgstr "Antwortvariablen"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
@@ -1563,7 +1563,7 @@ msgstr "Suche nach Adressen..."
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select Smart Contract"
-msgstr ""
+msgstr "Smart Contract auswählen"
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1571,11 +1571,11 @@ msgstr "Wallet wählen"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the account"
-msgstr ""
+msgstr "Wähle die Assets aus, die du in deinem Account ausblenden möchtest"
 
 #: public/views/preferencesHiddenSubWallets.html:29
 msgid "Select the smart contracts to hide in the account"
-msgstr ""
+msgstr "Wähle die Smart Contracts aus, die du in deinem Account ausblenden möchtest"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1607,7 +1607,7 @@ msgstr "Per E-Mail senden"
 
 #: public/views/preferencesInformation.html:118
 msgid "Send this"
-msgstr ""
+msgstr "Senden"
 
 #: public/views/modals/choose-profile.html:63
 msgid "Send this profile"
@@ -1674,7 +1674,7 @@ msgstr "Unterzeichnen"
 
 #: public/views/preferencesInformation.html:104
 msgid "Sign a message with this address"
-msgstr ""
+msgstr "Signiere eine Nachricht mit dieser Adresse"
 
 #: public/views/modals/sign-message.html:8
 #: src/js/controllers/index.js:480
@@ -1683,7 +1683,7 @@ msgstr "Nachricht unterzeichnen"
 
 #: public/views/modals/signed-message.html:26
 msgid "Signature:"
-msgstr ""
+msgstr "Signatur:"
 
 #: public/views/editCorrespondentDevice.html:57
 msgid "Signed contracts:"
@@ -1701,20 +1701,20 @@ msgstr "Unterzeichnungs-Adresse:"
 #: public/views/create.html:56
 #: public/views/preferences.html:39
 msgid "Single address account"
-msgstr ""
+msgstr "Single Address Account"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:41
 msgid "Single address accounts will not spawn new addresses for every transaction, change will always go to the one and only address the account contains."
-msgstr ""
+msgstr "Single-Address Accounts werden keine neuen Adressen für jede Transaktion erzeugen, Wechselbeträge werden immer zu dieser alleinigen Adresse gesendet."
 
 #: src/js/services/profileService.js:334
 msgid "Small Expenses Account"
-msgstr ""
+msgstr "Account für kleine Ausgaben"
 
 #: public/views/walletHome.html:604
 msgid "Source code:"
-msgstr ""
+msgstr "Quellcode:"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
@@ -1754,7 +1754,7 @@ msgstr "Erfolgreich"
 
 #: src/js/controllers/correspondentDevice.js:1360
 msgid "Surname"
-msgstr ""
+msgstr "Nachname"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
@@ -1798,7 +1798,7 @@ msgstr "Textnachricht an"
 
 #: public/views/walletHome.html:725
 msgid "Text to be forever saved on the DAG:"
-msgstr ""
+msgstr "Text der für immer auf dem DAG gespeichert wird:"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
@@ -1806,11 +1806,11 @@ msgstr "Textcoin"
 
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The account \"{{walletName}}\" has been deleted"
-msgstr ""
+msgstr "Der Account \"{{walletName}}\" wurde gelöscht"
 
 #: src/js/controllers/copayers.js:76
 msgid "The account \"{{walletName}}\" was deleted"
-msgstr ""
+msgstr "Der Account \"{{walletName}}\" wurde gelöscht"
 
 #: public/views/modals/accept-profile.html:38
 msgid "The attested address belongs to:"
@@ -1818,7 +1818,7 @@ msgstr "Die bestätigte Adresse gehört zu:"
 
 #: public/views/walletHome.html:605
 msgid "The expected result:"
-msgstr ""
+msgstr "Das erwartete Ergebnis:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
