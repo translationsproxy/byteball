@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2020-10-17 05:41\n"
+"PO-Revision-Date: 2020-10-17 05:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -273,11 +273,11 @@ msgstr "Gutachteradressen"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the Order Provider (witness) list from the hub"
-msgstr ""
+msgstr "Auto-update der Order Provider (Witness) Liste vom Hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the Order Provider (witness) list from this hub"
-msgstr ""
+msgstr "Auto-update der Order Provider (Witness) Liste von diesem Hub"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
