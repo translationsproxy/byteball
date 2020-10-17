@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2020-10-17 06:41\n"
+"PO-Revision-Date: 2020-10-17 06:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1826,7 +1826,7 @@ msgstr "Hub, um Nachrichten von anderen Geräten zu empfangen."
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following Order Providers (also known as witnesses):"
-msgstr ""
+msgstr "Der Hub schlägt vor, die folgenden Order Provider (auch als Witnesses bekannt) zu ersetzen:"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
@@ -1862,19 +1862,19 @@ msgstr "Es gibt keine Wallets, um diese Zahlung auszuführen"
 
 #: public/views/preferences.html:45
 msgid "This account cannot be converted to multi address account as it already has attestations"
-msgstr ""
+msgstr "Dieser Account kann nicht in einen multi-address Account umgewandelt werden, da er bereits Attestations hat"
 
 #: public/views/preferences.html:44
 msgid "This account cannot be converted to multi address account as it is multidevice"
-msgstr ""
+msgstr "Dieser Account kann nicht in einen Multi-Address-Account umgewandelt werden, da es ein Multidevice-Account ist"
 
 #: public/views/preferences.html:42
 msgid "This account cannot be converted to single address account as it already consists of multiple addresses"
-msgstr ""
+msgstr "Diese Account kann nicht zu einem Single-Address-Account umgewandelt werden, da er schon mehrere Adressen enthält"
 
 #: public/views/preferences.html:43
 msgid "This account cannot be converted to single address account as it is multidevice"
-msgstr ""
+msgstr "Dieser Account kann nicht in einen Single-Address-Account umgewandelt werden, da es ein Multidevice-Account ist"
 
 #: public/views/walletHome.html:315
 msgid "This address is shared with {{index.shared_address_cosigners}}."
@@ -1894,7 +1894,7 @@ msgstr "Diese Zahlung ist an eine Bedingung gebunden..."
 
 #: src/js/controllers/correspondentDevice.js:160
 msgid "This payment must be paid only from single-address account"
-msgstr ""
+msgstr "Diese Zahlung darf nur von einem Single-Address-Account getätigt werden"
 
 #: src/js/controllers/walletHome.js:2235
 msgid "This payment must be paid only from single-address wallet"
@@ -1906,12 +1906,12 @@ msgstr "Diese Transaktion ist ungültig geworden; dies kann durch eine versuchte
 
 #: public/views/modals/tx-details.html:175
 msgid "This transaction was sent to an autonomous agent"
-msgstr ""
+msgstr "Diese Transaktion wurde an einen autonomen Agenten gesendet"
 
 #: public/views/import.html:47
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing accounts!"
-msgstr ""
+msgstr "Dies löscht dauerhaft alle Ihre bestehenden Accounts!"
 
 #: public/views/modals/offer-prosaic-contract.html:73
 #: public/views/modals/view-prosaic-contract.html:90
@@ -1929,7 +1929,7 @@ msgstr "An"
 
 #: public/views/walletHome.html:911
 msgid "To AA"
-msgstr ""
+msgstr "An AA"
 
 #: public/views/walletHome.html:465
 msgid "To Obyte address"
@@ -1941,7 +1941,7 @@ msgstr "Um Ihre Daten später wiederherstellen zu können, benötigen Sie ein ko
 
 #: public/views/walletHome.html:780
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address account first or create one."
-msgstr ""
+msgstr "Um beliebige Daten an das O<sub>byte</sub> Netzwerk zu senden, wechsle bitte zu einem Single-Address-Account oder erstelle einen."
 
 #: public/views/walletHome.html:513
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1961,7 +1961,7 @@ msgstr "Um die Integrität des Vertrages zu überprüfen, wird ein SHA256 Hash a
 
 #: public/views/walletHome.html:728
 msgid "Too long text"
-msgstr ""
+msgstr "Zu langer Text"
 
 #: public/views/walletHome.html:240
 msgid "Total Locked Balance"
@@ -2003,7 +2003,7 @@ msgstr "Vertrauenswürdige Knoten"
 
 #: public/views/walletHome.html:609
 msgid "Try again"
-msgstr ""
+msgstr "Nochmal versuchen"
 
 #: src/js/controllers/correspondentDevice.js:1364
 msgid "US state"
@@ -2040,7 +2040,7 @@ msgstr "Aktualisieren Sie auf Version {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait."
-msgstr ""
+msgstr "Aktualisiere die Datenbank, bitte warten."
 
 #: public/views/modals/view-prosaic-contract.html:74
 msgid "Valid till"
@@ -2057,7 +2057,7 @@ msgstr "Werte"
 
 #: public/views/walletHome.html:616
 msgid "Variable"
-msgstr ""
+msgstr "Variable"
 
 #: src/js/controllers/correspondentDevice.js:1388
 msgid "Verifying the profile..."
@@ -2143,11 +2143,11 @@ msgstr "Ja"
 
 #: public/views/walletHome.html:593
 msgid "You are sending to an autonomous agent, the expected result:"
-msgstr ""
+msgstr "Du sendest an einen Autonomen Agenten, erwartetes Ergebnis:"
 
 #: public/views/walletHome.html:595
 msgid "You are sending to an autonomous agent:"
-msgstr ""
+msgstr "Sie senden an einen autonomen Agenten:"
 
 #: public/views/modals/tx-details.html:158
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
