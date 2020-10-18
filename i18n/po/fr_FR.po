@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-10-18 19:01\n"
+"PO-Revision-Date: 2020-10-18 19:11\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -23,7 +23,7 @@ msgstr "(Le site ne verra pas votre solde et aucun byte ne sera dépensé)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current account)"
-msgstr "Compte actuel"
+msgstr "(Compte actuel)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other account)"
@@ -44,7 +44,8 @@ msgstr "12 mots séparés par des tirets"
 #: public/views/modals/tx-details.html:167
 msgid "<i class=\"fi-refresh size-18 m5r\"></i>\n"
 "        Resend"
-msgstr "        Renvoyer"
+msgstr "<i class=\"fi-refresh size-18 m5r\">\n"
+"        Renvoyer"
 
 #: public/views/walletHome.html:481
 msgid "AAs not allowed in multi-send"
@@ -1313,7 +1314,7 @@ msgstr "Veuillez nommer cet appareil"
 
 #: src/js/controllers/correspondentDevice.js:160
 msgid "Please switch to a single-address account and you probably need to insert your address again."
-msgstr ""
+msgstr "Veuillez passer à un portefeuille à adresse unique et vous devrez probablement insérer à nouveau votre adresse."
 
 #: public/views/includes/backup-reminder.html:8
 msgid "Please visit the Backups section in"
@@ -1325,11 +1326,11 @@ msgstr "Port"
 
 #: src/js/controllers/walletHome.js:1337
 msgid "Post a"
-msgstr ""
+msgstr "Publier un"
 
 #: src/js/controllers/walletHome.js:1328
 msgid "Post a data feed"
-msgstr ""
+msgstr "Publier un flux de données"
 
 #: public/views/walletHome.html:691
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
@@ -1341,7 +1342,7 @@ msgstr "Poster des paires clé-valeur arbitraires dans le réseau Obyte."
 
 #: src/js/controllers/walletHome.js:1331
 msgid "Post data"
-msgstr ""
+msgstr "Publier des données"
 
 #: public/views/walletHome.html:679
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1494,7 +1495,7 @@ msgstr "Nombre requis de signatures"
 
 #: public/views/walletHome.html:619
 msgid "Response"
-msgstr ""
+msgstr "Réponse"
 
 #: public/views/modals/tx-details.html:180
 msgid "Response unit"
@@ -2549,7 +2550,7 @@ msgstr "attendez la synchronisation complète avant d’envoyer des paiements"
 
 #: public/views/walletHome.html:624
 msgid "were added as it is the minimum amount for this AA"
-msgstr ""
+msgstr "ont été ajoutés car c'est le montant minimum pour cette AA"
 
 #: public/views/modals/select-subwallet.html:45
 #: public/views/preferencesHiddenSubWallets.html:36
@@ -2563,9 +2564,9 @@ msgstr "avec la valeur attendue"
 
 #: src/js/controllers/walletHome.js:1319
 msgid "you"
-msgstr ""
+msgstr "vous"
 
 #: public/views/walletHome.html:423
 msgid "{{home.custom_amount_error}}"
-msgstr ""
+msgstr "{{home.custom_amount_error}}"
 
