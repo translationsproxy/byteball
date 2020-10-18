@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-10-18 19:11\n"
+"PO-Revision-Date: 2020-10-18 19:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1499,11 +1499,11 @@ msgstr "Réponse"
 
 #: public/views/modals/tx-details.html:180
 msgid "Response unit"
-msgstr ""
+msgstr "Élément retourné"
 
 #: public/views/modals/tx-details.html:202
 msgid "Response variables"
-msgstr ""
+msgstr "Variables en retour"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
@@ -1564,7 +1564,7 @@ msgstr "Recherche d'adresse"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select Smart Contract"
-msgstr ""
+msgstr "Choisir un Contract Intelligent"
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1572,11 +1572,11 @@ msgstr "Sélectionner un portefeuille"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the account"
-msgstr ""
+msgstr "Sélectionnez l’actif à cacher sur ce compte"
 
 #: public/views/preferencesHiddenSubWallets.html:29
 msgid "Select the smart contracts to hide in the account"
-msgstr ""
+msgstr "Sélectionnez le contract intelligent à cacher sur ce compte"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1608,7 +1608,7 @@ msgstr "Envoyer par e-mail"
 
 #: public/views/preferencesInformation.html:118
 msgid "Send this"
-msgstr ""
+msgstr "Envoyer ceci"
 
 #: public/views/modals/choose-profile.html:63
 msgid "Send this profile"
@@ -1675,7 +1675,7 @@ msgstr "Signer"
 
 #: public/views/preferencesInformation.html:104
 msgid "Sign a message with this address"
-msgstr ""
+msgstr "Signer un message avec cette adresse"
 
 #: public/views/modals/sign-message.html:8
 #: src/js/controllers/index.js:480
@@ -1684,7 +1684,7 @@ msgstr "Signer le message"
 
 #: public/views/modals/signed-message.html:26
 msgid "Signature:"
-msgstr ""
+msgstr "Signature:"
 
 #: public/views/editCorrespondentDevice.html:57
 msgid "Signed contracts:"
@@ -1702,20 +1702,20 @@ msgstr "Adresse de signature :"
 #: public/views/create.html:56
 #: public/views/preferences.html:39
 msgid "Single address account"
-msgstr ""
+msgstr "Compte à adresse unique"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:41
 msgid "Single address accounts will not spawn new addresses for every transaction, change will always go to the one and only address the account contains."
-msgstr ""
+msgstr "Les comptes à adresses uniques ne généreront pas de nouvelles adresses pour chaque transaction, le change ira toujours à l'adresse unique que contient le compte."
 
 #: src/js/services/profileService.js:334
 msgid "Small Expenses Account"
-msgstr ""
+msgstr "Compte de petites dépenses"
 
 #: public/views/walletHome.html:604
 msgid "Source code:"
-msgstr ""
+msgstr "Code source:"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
@@ -1755,7 +1755,7 @@ msgstr "Succès"
 
 #: src/js/controllers/correspondentDevice.js:1360
 msgid "Surname"
-msgstr ""
+msgstr "Nom de famille"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
@@ -1799,7 +1799,7 @@ msgstr "Message texte à"
 
 #: public/views/walletHome.html:725
 msgid "Text to be forever saved on the DAG:"
-msgstr ""
+msgstr "Texte à sauvegarder définitivement sur le DAG:"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
@@ -1807,11 +1807,11 @@ msgstr "Textcoin"
 
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The account \"{{walletName}}\" has been deleted"
-msgstr ""
+msgstr "Le portefeuille \"{{walletName}}\" a été supprimé"
 
 #: src/js/controllers/copayers.js:76
 msgid "The account \"{{walletName}}\" was deleted"
-msgstr ""
+msgstr "Le compte \"{{walletName}}\" a été supprimé"
 
 #: public/views/modals/accept-profile.html:38
 msgid "The attested address belongs to:"
@@ -1819,7 +1819,7 @@ msgstr "L’adresse attestée appartient à :"
 
 #: public/views/walletHome.html:605
 msgid "The expected result:"
-msgstr ""
+msgstr "Résultats attendus:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1827,7 +1827,7 @@ msgstr "Votre hub pour recevoir des messages des autre appareils"
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following Order Providers (also known as witnesses):"
-msgstr ""
+msgstr "Le hub suggère de remplacer les fournisseurs d'ordres suivants (également appelés témoins):"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
@@ -1863,15 +1863,15 @@ msgstr "Il n'y a pas de portefeuilles pour faire ce paiement"
 
 #: public/views/preferences.html:45
 msgid "This account cannot be converted to multi address account as it already has attestations"
-msgstr ""
+msgstr "Ce compte ne peut être converti en portefeuille à adresses multiples car il a déjà des attestations"
 
 #: public/views/preferences.html:44
 msgid "This account cannot be converted to multi address account as it is multidevice"
-msgstr ""
+msgstr "Ce compte ne peut pas être converti en compte à adresses multiples car c’est un compte à appareils multiples"
 
 #: public/views/preferences.html:42
 msgid "This account cannot be converted to single address account as it already consists of multiple addresses"
-msgstr ""
+msgstr "Ce compte ne peut pas être converti en compte à adresse unique car il se compose déjà de plusieurs adresses"
 
 #: public/views/preferences.html:43
 msgid "This account cannot be converted to single address account as it is multidevice"
