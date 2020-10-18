@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-10-18 18:41\n"
+"PO-Revision-Date: 2020-10-18 18:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -328,7 +328,7 @@ msgstr "Avant de recevoir des fonds, il est fortement recommandé de sauvegarder
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig accounts with redundancy,"
-msgstr ""
+msgstr "Encore mieux, utiliser des comptes à signatures mutiples avec redondance,"
 
 #: public/views/modals/bind.html:134
 #: public/views/modals/bind.html:49
@@ -357,11 +357,11 @@ msgstr "Vous et {{correspondent.name}} avez activé l'enregistrement de l'histor
 
 #: src/js/controllers/walletHome.js:1286
 msgid "Bounce the request"
-msgstr ""
+msgstr "Retourner la requête"
 
 #: public/views/modals/tx-details.html:186
 msgid "Bounced?"
-msgstr ""
+msgstr "Retourné ?"
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -391,7 +391,7 @@ msgstr "Changer de hub :"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing account alias only affects the local account name."
-msgstr ""
+msgstr "Changer l'alias du compte n'affecte le nom. Du comptr que localement."
 
 #: src/js/controllers/index.js:867
 msgid "Chat"
@@ -590,12 +590,12 @@ msgstr "Créer"
 
 #: public/views/includes/sidebar.html:28
 msgid "Create a new account"
-msgstr ""
+msgstr "Créer un nouveau compte"
 
 #: public/views/create.html:175
 #: src/js/controllers/index.js:383
 msgid "Create new account"
-msgstr ""
+msgstr "Créer nouveau compte"
 
 #: public/views/add.html:15
 msgid "Create new wallet"
@@ -603,7 +603,7 @@ msgstr "Créer un nouveau portefeuille"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} account"
-msgstr ""
+msgstr "Créer {{requiredCosigners}} du compte {{totalCosigners}}"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -615,7 +615,7 @@ msgstr "Création du profile..."
 
 #: public/views/create.html:20
 msgid "Creating new account..."
-msgstr ""
+msgstr "Nouveau compte en création..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
