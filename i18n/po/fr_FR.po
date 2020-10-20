@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-10-02 19:32\n"
+"PO-Revision-Date: 2020-10-18 19:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -23,11 +23,11 @@ msgstr "(Le site ne verra pas votre solde et aucun byte ne sera dépensé)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current account)"
-msgstr ""
+msgstr "(Compte actuel)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other account)"
-msgstr ""
+msgstr "(mon autre compte)"
 
 #: public/views/walletHome.html:867
 msgid "(possible double spend)"
@@ -44,11 +44,12 @@ msgstr "12 mots séparés par des tirets"
 #: public/views/modals/tx-details.html:167
 msgid "<i class=\"fi-refresh size-18 m5r\"></i>\n"
 "        Resend"
-msgstr ""
+msgstr "<i class=\"fi-refresh size-18 m5r\">\n"
+"        Renvoyer"
 
 #: public/views/walletHome.html:481
 msgid "AAs not allowed in multi-send"
-msgstr ""
+msgstr "Les AAs ne sont pas permis lors d'envoi-multiples"
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
@@ -76,37 +77,37 @@ msgstr "Compte"
 
 #: public/views/preferences.html:15
 msgid "Account Alias"
-msgstr ""
+msgstr "Alias du compte"
 
 #: public/views/preferencesInformation.html:27
 msgid "Account Configuration (m-n)"
-msgstr ""
+msgstr "Configuration du compte (m-n)"
 
 #: public/views/preferencesInformation.html:20
 msgid "Account Id"
-msgstr ""
+msgstr "Numéro du compte"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
 msgid "Account Information"
-msgstr ""
+msgstr "Informations sur le compte"
 
 #: public/views/preferencesInformation.html:12
 msgid "Account Name (at creation)"
-msgstr ""
+msgstr "Nom du compte (lors de la création)"
 
 #: src/js/services/profileService.js:455
 msgid "Account already in Obyte:"
-msgstr ""
+msgstr "Le compte existe déjà sur Obyte:"
 
 #: public/views/create.html:48
 msgid "Account name"
-msgstr ""
+msgstr "Nom du compte"
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Accounts"
-msgstr ""
+msgstr "Comptes"
 
 #: public/views/bot.html:85
 msgid "Add Bot"
@@ -123,7 +124,7 @@ msgstr "Ajouter une nouvelle entrée"
 
 #: public/views/includes/sidebar.html:26
 msgid "Add account"
-msgstr ""
+msgstr "Ajouter un compte"
 
 #: public/views/preferencesEditRealNameAttestors.html:25
 msgid "Add address"
@@ -155,7 +156,7 @@ msgstr "Adresse à attester"
 #: public/views/modals/approveNewWitnesses.html:16
 #: public/views/modals/approveNewWitnesses.html:28
 msgid "Address:"
-msgstr ""
+msgstr "Adresse:"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -188,7 +189,7 @@ msgstr "Alias de"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Account Addresses"
-msgstr ""
+msgstr "Les adresses de tous les comptes"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
@@ -237,7 +238,7 @@ msgstr "Réponse :"
 
 #: public/views/copayers.html:19
 msgid "Approve the account creation on other devices"
-msgstr ""
+msgstr "Valider la création du compte sur les autres appareils"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
@@ -246,7 +247,7 @@ msgstr "Êtes-vous sûr de vouloir supprimer les mots de sauvegarde ?"
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this account?"
-msgstr ""
+msgstr "Voulez vous réellement supprimer ce compte?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
@@ -272,11 +273,11 @@ msgstr "Adresses attestor"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the Order Provider (witness) list from the hub"
-msgstr ""
+msgstr "Mettre à jour automatiquement la liste des 'Fournisseurs d'ordre' (Témoins) à partir du hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the Order Provider (witness) list from this hub"
-msgstr ""
+msgstr "Mettre à jour automatiquement la liste des 'Fournisseurs d'ordre' (Témoins) à partir de ce hub"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -328,7 +329,7 @@ msgstr "Avant de recevoir des fonds, il est fortement recommandé de sauvegarder
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig accounts with redundancy,"
-msgstr ""
+msgstr "Encore mieux, utiliser des comptes à signatures mutiples avec redondance,"
 
 #: public/views/modals/bind.html:134
 #: public/views/modals/bind.html:49
@@ -357,11 +358,11 @@ msgstr "Vous et {{correspondent.name}} avez activé l'enregistrement de l'histor
 
 #: src/js/controllers/walletHome.js:1286
 msgid "Bounce the request"
-msgstr ""
+msgstr "Retourner la requête"
 
 #: public/views/modals/tx-details.html:186
 msgid "Bounced?"
-msgstr ""
+msgstr "Retourné ?"
 
 #: public/views/unsupported.html:6
 msgid "Browser unsupported"
@@ -391,7 +392,7 @@ msgstr "Changer de hub :"
 
 #: public/views/preferencesAlias.html:16
 msgid "Changing account alias only affects the local account name."
-msgstr ""
+msgstr "Changer l'alias du compte n'affecte le nom. Du comptr que localement."
 
 #: src/js/controllers/index.js:867
 msgid "Chat"
@@ -590,12 +591,12 @@ msgstr "Créer"
 
 #: public/views/includes/sidebar.html:28
 msgid "Create a new account"
-msgstr ""
+msgstr "Créer un nouveau compte"
 
 #: public/views/create.html:175
 #: src/js/controllers/index.js:383
 msgid "Create new account"
-msgstr ""
+msgstr "Créer nouveau compte"
 
 #: public/views/add.html:15
 msgid "Create new wallet"
@@ -603,7 +604,7 @@ msgstr "Créer un nouveau portefeuille"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} account"
-msgstr ""
+msgstr "Créer {{requiredCosigners}} du compte {{totalCosigners}}"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
@@ -615,7 +616,7 @@ msgstr "Création du profile..."
 
 #: public/views/create.html:20
 msgid "Creating new account..."
-msgstr ""
+msgstr "Nouveau compte en création..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
@@ -647,7 +648,7 @@ msgstr "Rejeté"
 
 #: src/js/controllers/walletHome.js:1333
 msgid "Define a new asset with cap"
-msgstr ""
+msgstr "Définir un nouvel actif borné"
 
 #: public/views/walletHome.html:215
 msgid "Definition"
@@ -655,7 +656,7 @@ msgstr "Définition"
 
 #: public/views/walletHome.html:717
 msgid "Definition of autonomous agent:"
-msgstr ""
+msgstr "Définition d'un Agent Autonome:"
 
 #: public/views/modals/address-definition.html:8
 msgid "Definition of smart address"
@@ -667,11 +668,11 @@ msgstr "Définitions d'adresses"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Account"
-msgstr ""
+msgstr "Supprimer le Compte"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete account"
-msgstr ""
+msgstr "Supprimer le compte"
 
 #: src/js/controllers/walletHome.js:2546
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
@@ -748,7 +749,7 @@ msgstr "Saisissez votre mot de passe"
 
 #: public/views/modals/tx-details.html:192
 msgid "Error"
-msgstr ""
+msgstr "Erreur"
 
 #: src/js/services/profileService.js:340
 #: src/js/services/profileService.js:392
@@ -803,11 +804,11 @@ msgstr "De"
 
 #: public/views/walletHome.html:893
 msgid "From AA"
-msgstr ""
+msgstr "Venant d'un AA"
 
 #: public/views/walletHome.html:452
 msgid "From Obyte address"
-msgstr ""
+msgstr "Venant d'une adresse Obyte"
 
 #: public/views/editCorrespondentDevice.html:27
 msgid "Full address:"
@@ -835,7 +836,7 @@ msgstr "Obtenir l'adresse pour le portefeuille"
 
 #: src/js/controllers/correspondentDevice.js:1359
 msgid "Given name"
-msgstr ""
+msgstr "Nom donné"
 
 #: public/views/includes/sidebar.html:48
 msgid "Global preferences"
@@ -855,7 +856,7 @@ msgstr "Actifs cachés"
 
 #: public/views/preferences.html:69
 msgid "Hidden smart contracts"
-msgstr ""
+msgstr "Contracts intelligents cachés"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
@@ -872,7 +873,7 @@ msgstr "Accueil"
 
 #: public/views/walletHome.html:603
 msgid "Home page:"
-msgstr ""
+msgstr "Page d'accueil:"
 
 #: public/views/preferencesTor.html:14
 msgid "Host"
@@ -991,15 +992,15 @@ msgstr "Inviter l'autre appareil"
 
 #: src/js/controllers/walletHome.js:1452
 msgid "It is not allowed to bind conditions to payments to autonomous agents"
-msgstr ""
+msgstr "Il n'est pas autorisé de lier des conditions aux paiements vers des Agents Autonomes"
 
 #: src/js/controllers/walletHome.js:1450
 msgid "It is not allowed to send private assets to autonomous agents"
-msgstr ""
+msgstr "Il n'est pas autorisé d'envoyer des actifs privés à des Agents Autonomes"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig accounts, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr ""
+msgstr "La graine de portefeuille ne suffit pas. Avec la graine seule, vous ne pourrez pas restaurer les portefeuilles multisigs, les contrats intelligents, les contacts, les historiques de chat et les actifs privés tels que les blackbytes."
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -1023,7 +1024,7 @@ msgstr "Chargement..."
 
 #: public/views/walletHome.html:721
 msgid "Looks OK"
-msgstr ""
+msgstr "Semble OK"
 
 #: public/views/paymentUri.html:13
 msgid "Make a payment to"
@@ -1060,7 +1061,7 @@ msgstr "Message :"
 
 #: src/js/controllers/walletHome.js:1246
 msgid "Minimum amount"
-msgstr ""
+msgstr "Montant minimum"
 
 #: public/views/correspondentDevice.html:27
 msgid "More"
@@ -1072,7 +1073,7 @@ msgstr "Déplacé"
 
 #: public/views/create.html:32
 msgid "Multidevice Account"
-msgstr ""
+msgstr "Compte multi-appareil"
 
 #: public/views/walletHome.html:276
 msgid "My Obyte address"
@@ -1089,7 +1090,7 @@ msgstr "Nom du contact"
 #: public/views/modals/approveNewWitnesses.html:20
 #: public/views/modals/approveNewWitnesses.html:32
 msgid "Name:"
-msgstr ""
+msgstr "Nom :"
 
 #: public/views/paymentUri.html:18
 msgid "Network"
@@ -1101,7 +1102,7 @@ msgstr "Nouvelle graine aléatoire"
 
 #: public/views/modals/approveNewWitnesses.html:9
 msgid "New order providers"
-msgstr ""
+msgstr "Nouveaux fournisseurs d'ordre (témoins)"
 
 #: public/views/modals/newVersionIsAvailable.html:3
 msgid "New version is available!"
@@ -1150,7 +1151,7 @@ msgstr "Note"
 
 #: public/views/modals/tx-details.html:197
 msgid "Notice"
-msgstr ""
+msgstr "Avis d'information"
 
 #: src/js/controllers/export.js:131
 msgid "Now you have to send this file somewhere to restore from it later (\"Save to Files\", send to yourself using chat apps, etc.)"
@@ -1188,7 +1189,7 @@ msgstr "Une fois notée la graine d'aléa il est recommandé de l'effacerde cet 
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig accounts can be recovered."
-msgstr ""
+msgstr "Seuls les portefeuilles mono-signature peuvent être récupérés."
 
 #: public/views/bot.html:84
 msgid "Open chat"
@@ -1204,11 +1205,11 @@ msgstr "Ou copie"
 
 #: public/views/preferencesEditWitness.html:12
 msgid "Order Provider (witness) address"
-msgstr ""
+msgstr "Adresse du fournisseur d'ordre (témoin)"
 
 #: public/views/preferencesGlobal.html:71
 msgid "Order Providers (Witnesses)"
-msgstr ""
+msgstr "Fournisseurs d'ordre (témoin)"
 
 #: public/views/acceptCorrespondentInvitation.html:54
 msgid "Pair"
@@ -1281,7 +1282,7 @@ msgstr "Pair"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this account. THIS ACTION CANNOT BE REVERSED"
-msgstr ""
+msgstr "Supprimer définitivement ce compte. CETTE ACTION NE PEUT PAS ÊTRE ANNULÉE"
 
 #: src/js/controllers/correspondentDevice.js:1363
 msgid "Personal code"
@@ -1289,7 +1290,7 @@ msgstr "Code personnel"
 
 #: public/views/create.html:28
 msgid "Plain Account"
-msgstr ""
+msgstr "Compte simple"
 
 #: src/js/controllers/index.js:288
 msgid "Please approve contract fees deposit on the other devices."
@@ -1313,7 +1314,7 @@ msgstr "Veuillez nommer cet appareil"
 
 #: src/js/controllers/correspondentDevice.js:160
 msgid "Please switch to a single-address account and you probably need to insert your address again."
-msgstr ""
+msgstr "Veuillez passer à un compte à adresse unique et vous devrez probablement insérer à nouveau votre adresse."
 
 #: public/views/includes/backup-reminder.html:8
 msgid "Please visit the Backups section in"
@@ -1325,11 +1326,11 @@ msgstr "Port"
 
 #: src/js/controllers/walletHome.js:1337
 msgid "Post a"
-msgstr ""
+msgstr "Publier un"
 
 #: src/js/controllers/walletHome.js:1328
 msgid "Post a data feed"
-msgstr ""
+msgstr "Publier un flux de données"
 
 #: public/views/walletHome.html:691
 msgid "Post a poll into Obyte network that users can vote on with Poll bot."
@@ -1341,7 +1342,7 @@ msgstr "Poster des paires clé-valeur arbitraires dans le réseau Obyte."
 
 #: src/js/controllers/walletHome.js:1331
 msgid "Post data"
-msgstr ""
+msgstr "Publier des données"
 
 #: public/views/walletHome.html:679
 msgid "Post values into datafeeds manually, be an oracle."
@@ -1494,15 +1495,15 @@ msgstr "Nombre requis de signatures"
 
 #: public/views/walletHome.html:619
 msgid "Response"
-msgstr ""
+msgstr "Réponse"
 
 #: public/views/modals/tx-details.html:180
 msgid "Response unit"
-msgstr ""
+msgstr "Élément retourné"
 
 #: public/views/modals/tx-details.html:202
 msgid "Response variables"
-msgstr ""
+msgstr "Variables en retour"
 
 #: public/views/preferencesGlobal.html:114
 msgid "Restore all wallet data"
@@ -1563,7 +1564,7 @@ msgstr "Recherche d'adresse"
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select Smart Contract"
-msgstr ""
+msgstr "Choisir un Contract Intelligent"
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
@@ -1571,11 +1572,11 @@ msgstr "Sélectionner un portefeuille"
 
 #: public/views/preferencesHiddenAssets.html:29
 msgid "Select the assets to hide in the account"
-msgstr ""
+msgstr "Sélectionnez l’actif à cacher sur ce compte"
 
 #: public/views/preferencesHiddenSubWallets.html:29
 msgid "Select the smart contracts to hide in the account"
-msgstr ""
+msgstr "Sélectionnez le contract intelligent à cacher sur ce compte"
 
 #: public/views/authConfirmation.html:10
 msgid "Select your identity"
@@ -1607,7 +1608,7 @@ msgstr "Envoyer par e-mail"
 
 #: public/views/preferencesInformation.html:118
 msgid "Send this"
-msgstr ""
+msgstr "Envoyer ceci"
 
 #: public/views/modals/choose-profile.html:63
 msgid "Send this profile"
@@ -1674,7 +1675,7 @@ msgstr "Signer"
 
 #: public/views/preferencesInformation.html:104
 msgid "Sign a message with this address"
-msgstr ""
+msgstr "Signer un message avec cette adresse"
 
 #: public/views/modals/sign-message.html:8
 #: src/js/controllers/index.js:480
@@ -1683,7 +1684,7 @@ msgstr "Signer le message"
 
 #: public/views/modals/signed-message.html:26
 msgid "Signature:"
-msgstr ""
+msgstr "Signature:"
 
 #: public/views/editCorrespondentDevice.html:57
 msgid "Signed contracts:"
@@ -1701,20 +1702,20 @@ msgstr "Adresse de signature :"
 #: public/views/create.html:56
 #: public/views/preferences.html:39
 msgid "Single address account"
-msgstr ""
+msgstr "Compte à adresse unique"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:41
 msgid "Single address accounts will not spawn new addresses for every transaction, change will always go to the one and only address the account contains."
-msgstr ""
+msgstr "Les comptes à adresses uniques ne généreront pas de nouvelles adresses pour chaque transaction, le change ira toujours à l'adresse unique que contient le compte."
 
 #: src/js/services/profileService.js:334
 msgid "Small Expenses Account"
-msgstr ""
+msgstr "Compte de petites dépenses"
 
 #: public/views/walletHome.html:604
 msgid "Source code:"
-msgstr ""
+msgstr "Code source:"
 
 #: src/js/controllers/create.js:32
 msgid "Specify Seed..."
@@ -1754,7 +1755,7 @@ msgstr "Succès"
 
 #: src/js/controllers/correspondentDevice.js:1360
 msgid "Surname"
-msgstr ""
+msgstr "Nom de famille"
 
 #: public/views/preferencesAdvanced.html:19
 msgid "Sweep paper wallet"
@@ -1798,7 +1799,7 @@ msgstr "Message texte à"
 
 #: public/views/walletHome.html:725
 msgid "Text to be forever saved on the DAG:"
-msgstr ""
+msgstr "Texte à sauvegarder définitivement sur le DAG:"
 
 #: public/views/modals/claim-textcoin.html:29
 msgid "Textcoin"
@@ -1806,11 +1807,11 @@ msgstr "Textcoin"
 
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The account \"{{walletName}}\" has been deleted"
-msgstr ""
+msgstr "Le portefeuille \"{{walletName}}\" a été supprimé"
 
 #: src/js/controllers/copayers.js:76
 msgid "The account \"{{walletName}}\" was deleted"
-msgstr ""
+msgstr "Le compte \"{{walletName}}\" a été supprimé"
 
 #: public/views/modals/accept-profile.html:38
 msgid "The attested address belongs to:"
@@ -1818,7 +1819,7 @@ msgstr "L’adresse attestée appartient à :"
 
 #: public/views/walletHome.html:605
 msgid "The expected result:"
-msgstr ""
+msgstr "Résultats attendus:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
@@ -1826,7 +1827,7 @@ msgstr "Votre hub pour recevoir des messages des autre appareils"
 
 #: public/views/modals/approveNewWitnesses.html:11
 msgid "The hub suggests replacing the following Order Providers (also known as witnesses):"
-msgstr ""
+msgstr "Le hub suggère de remplacer les fournisseurs d'ordres suivants (également appelés témoins):"
 
 #: public/views/modals/share.html:27
 msgid "The money is stored on this textcoin:"
@@ -1862,19 +1863,19 @@ msgstr "Il n'y a pas de portefeuilles pour faire ce paiement"
 
 #: public/views/preferences.html:45
 msgid "This account cannot be converted to multi address account as it already has attestations"
-msgstr ""
+msgstr "Ce compte ne peut être converti en portefeuille à adresses multiples car il a déjà des attestations"
 
 #: public/views/preferences.html:44
 msgid "This account cannot be converted to multi address account as it is multidevice"
-msgstr ""
+msgstr "Ce compte ne peut pas être converti en compte à adresses multiples car c’est un compte à appareils multiples"
 
 #: public/views/preferences.html:42
 msgid "This account cannot be converted to single address account as it already consists of multiple addresses"
-msgstr ""
+msgstr "Ce compte ne peut pas être converti en compte à adresse unique car il se compose déjà de plusieurs adresses"
 
 #: public/views/preferences.html:43
 msgid "This account cannot be converted to single address account as it is multidevice"
-msgstr ""
+msgstr "Ce compte ne peut pas être converti en compte à adresse unique car il se compose déjà de plusieurs adresses"
 
 #: public/views/walletHome.html:315
 msgid "This address is shared with {{index.shared_address_cosigners}}."
@@ -1894,7 +1895,7 @@ msgstr "Ce paiement est lié à une condition..."
 
 #: src/js/controllers/correspondentDevice.js:160
 msgid "This payment must be paid only from single-address account"
-msgstr ""
+msgstr "Ce paiement doit être payé uniquement à partir d'un compte à adresse unique"
 
 #: src/js/controllers/walletHome.js:2235
 msgid "This payment must be paid only from single-address wallet"
@@ -1906,12 +1907,12 @@ msgstr "Cette transaction est devenue invalide ; il s'agit peut-être d'une tent
 
 #: public/views/modals/tx-details.html:175
 msgid "This transaction was sent to an autonomous agent"
-msgstr ""
+msgstr "Cette transaction a été envoyée à un agent autonome"
 
 #: public/views/import.html:47
 #: public/views/recoveryFromSeed.html:39
 msgid "This will permanently delete all your existing accounts!"
-msgstr ""
+msgstr "Cela supprimera définitivement tous vos comptes existants !"
 
 #: public/views/modals/offer-prosaic-contract.html:73
 #: public/views/modals/view-prosaic-contract.html:90
@@ -1929,7 +1930,7 @@ msgstr "À"
 
 #: public/views/walletHome.html:911
 msgid "To AA"
-msgstr ""
+msgstr "Vers l'AA"
 
 #: public/views/walletHome.html:465
 msgid "To Obyte address"
@@ -1941,7 +1942,7 @@ msgstr "Pour être en mesure de restaurer tout, veuillez créer une sauvegarde c
 
 #: public/views/walletHome.html:780
 msgid "To be able to send arbitrary data into O<sub>byte</sub> network, please switch to a single-address account first or create one."
-msgstr ""
+msgstr "Pour pouvoir envoyer des données arbitraires dans le réseau O<sub>byte</sub>, veuillez d'abord passer à un compte à adresse unique ou en créer un."
 
 #: public/views/walletHome.html:513
 msgid "To bind the payment to a condition, please click the peer's address in chat"
@@ -1961,7 +1962,7 @@ msgstr "Pour vérifier l'intégrité du contrat, SHA256 est calculé à partir d
 
 #: public/views/walletHome.html:728
 msgid "Too long text"
-msgstr ""
+msgstr "Texte trop long"
 
 #: public/views/walletHome.html:240
 msgid "Total Locked Balance"
@@ -2003,7 +2004,7 @@ msgstr "Nœuds de confiance"
 
 #: public/views/walletHome.html:609
 msgid "Try again"
-msgstr ""
+msgstr "Essayez à nouveau"
 
 #: src/js/controllers/correspondentDevice.js:1364
 msgid "US state"
@@ -2040,7 +2041,7 @@ msgstr "Mettre à jour vers {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait."
-msgstr ""
+msgstr "Mise à jour de la base de données, veuillez patienter."
 
 #: public/views/modals/view-prosaic-contract.html:74
 msgid "Valid till"
@@ -2057,7 +2058,7 @@ msgstr "Valeurs"
 
 #: public/views/walletHome.html:616
 msgid "Variable"
-msgstr ""
+msgstr "Variable"
 
 #: src/js/controllers/correspondentDevice.js:1388
 msgid "Verifying the profile..."
@@ -2143,11 +2144,11 @@ msgstr "Oui"
 
 #: public/views/walletHome.html:593
 msgid "You are sending to an autonomous agent, the expected result:"
-msgstr ""
+msgstr "Vous envoyez à un agent autonome, le résultat attendu:"
 
 #: public/views/walletHome.html:595
 msgid "You are sending to an autonomous agent:"
-msgstr ""
+msgstr "Vous envoyez à un agent autonome :"
 
 #: public/views/modals/tx-details.html:158
 msgid "You can erase the textcoin from your wallet if you have already saved it elsewhere (e.g. as a paper wallet):"
@@ -2155,11 +2156,11 @@ msgstr "Vous pouvez effacer le textcoin de votre portefeuille si vous l'avez dé
 
 #: public/views/modals/bind.html:139
 msgid "You cannot bind your transaction to reverse payment as you are in a single address account.  Use a non-single address account and then transfer the money to that account."
-msgstr ""
+msgstr "Vous ne pouvez pas lier votre transaction à un paiement inversé car vous êtes dans un compte d'adresse unique. Utilisez un compte d'adresse non unique, puis transférez l'argent vers ce compte."
 
 #: public/views/walletHome.html:59
 msgid "You do not have an account"
-msgstr ""
+msgstr "Vous n'avez pas encore de compte"
 
 #: public/views/modals/choose-profile.html:70
 msgid "You need to go through an attestation to get a profile.  Look for Real Name Attestation bot in the Bot Store."
@@ -2167,7 +2168,7 @@ msgstr "Vous avez besoin de passer par une attestation pour obtenir un profil.  
 
 #: public/views/preferencesTor.html:25
 msgid "You need to have Tor service or Tor Browser running to use this feature!"
-msgstr ""
+msgstr "Vous devez avoir un service Tor ou un navigateur Tor pour utiliser cette fonctionnalité !"
 
 #: public/views/modals/offer-prosaic-contract.html:99
 msgid "You will be charged {{CHARGE_AMOUNT}} bytes to compensate for fees when posting signature proof."
@@ -2281,11 +2282,11 @@ msgstr "peut débloquer le contrat après son expiration dans"
 
 #: public/views/copayers.html:38
 msgid "cancel the account creation"
-msgstr ""
+msgstr "annuler la création du compte"
 
 #: public/views/walletHome.html:729
 msgid "character(s)"
-msgstr ""
+msgstr "caractère(s)"
 
 #: public/views/modals/tx-details.html:147
 msgid "claimed by {{btx.claimedByMe?'me':'receiver'|translate}}"
@@ -2313,7 +2314,7 @@ msgstr "jours"
 
 #: src/js/controllers/walletHome.js:1296
 msgid "decreased by"
-msgstr ""
+msgstr "diminué de"
 
 #: public/views/modals/bind.html:122
 #: public/views/modals/offer-contract.html:137
@@ -2322,11 +2323,11 @@ msgstr "instructions détaillées sur l’utilisation"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 account with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "par exemple, un compte 1-sur-2 avec une clé sur cet appareil et une autre clé sur votre ordinateur portable."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 account with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "par exemple 1-de-2 compte avec une clé sur cet appareil et une autre clé sur votre mobile."
 
 #: public/views/modals/bind.html:119
 msgid "either way"
@@ -2364,11 +2365,11 @@ msgstr "dans l'arbre de mekle"
 
 #: public/views/walletHome.html:188
 msgid "in smart contracts"
-msgstr ""
+msgstr "dans les contrats intelligents"
 
 #: src/js/controllers/walletHome.js:1292
 msgid "increased by"
-msgstr ""
+msgstr "augmenter de"
 
 #: public/views/modals/signed-message.html:33
 msgid "invalid"
@@ -2380,7 +2381,7 @@ msgstr "garder pour moi"
 
 #: public/views/walletHome.html:600
 msgid "less"
-msgstr ""
+msgstr "moins"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
@@ -2388,12 +2389,12 @@ msgstr "verrouillés par les paiements en attente"
 
 #: public/views/walletHome.html:599
 msgid "more"
-msgstr ""
+msgstr "plus"
 
 #: public/views/modals/tx-details.html:182
 #: src/js/controllers/walletHome.js:1342
 msgid "none"
-msgstr ""
+msgstr "aucun"
 
 #: public/views/modals/tx-details.html:141
 msgid "not claimed"
@@ -2485,7 +2486,7 @@ msgstr "envoyer"
 
 #: src/js/controllers/walletHome.js:1300
 msgid "set to"
-msgstr ""
+msgstr "défini à"
 
 #: public/views/modals/tx-details.html:155
 msgid "share again"
@@ -2532,7 +2533,7 @@ msgstr "unité en DAG :"
 
 #: src/js/controllers/walletHome.js:1333
 msgid "unlimited"
-msgstr ""
+msgstr "illimité"
 
 #: public/views/modals/signed-message.html:34
 #: public/views/modals/view-prosaic-contract.html:107
@@ -2549,7 +2550,7 @@ msgstr "attendez la synchronisation complète avant d’envoyer des paiements"
 
 #: public/views/walletHome.html:624
 msgid "were added as it is the minimum amount for this AA"
-msgstr ""
+msgstr "ont été ajoutés car c'est le montant minimum pour cette AA"
 
 #: public/views/modals/select-subwallet.html:45
 #: public/views/preferencesHiddenSubWallets.html:36
@@ -2563,9 +2564,9 @@ msgstr "avec la valeur attendue"
 
 #: src/js/controllers/walletHome.js:1319
 msgid "you"
-msgstr ""
+msgstr "vous"
 
 #: public/views/walletHome.html:423
 msgid "{{home.custom_amount_error}}"
-msgstr ""
+msgstr "{{home.custom_amount_error}}"
 
