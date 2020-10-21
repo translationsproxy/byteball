@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-10-21 05:21\n"
+"PO-Revision-Date: 2020-10-21 06:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -604,7 +604,7 @@ msgstr "Créer un nouveau portefeuille"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} account"
-msgstr "Créer {{requiredCosigners}} du compte {{totalCosigners}}"
+msgstr "Créer un compte {{requiredCosigners}}-sur-{{totalCosigners}}"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
