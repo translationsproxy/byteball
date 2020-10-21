@@ -11,11 +11,11 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-10-18 19:31\n"
+"PO-Revision-Date: 2020-10-21 05:11\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
-msgstr "Onglet 'Recevoir' → Demander un montant via textcoin."
+msgstr "Onglet 'Recevoir' → 'Réclamer des fonds' via un textcoin."
 
 #: public/views/authConfirmation.html:10
 msgid "(The site won't see your balance and no money will be spent)"
