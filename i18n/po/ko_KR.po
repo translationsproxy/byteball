@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2020-10-02 19:32\n"
+"PO-Revision-Date: 2020-10-26 02:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -123,7 +123,7 @@ msgstr "새로운 주소 추가"
 
 #: public/views/includes/sidebar.html:26
 msgid "Add account"
-msgstr ""
+msgstr "계정 추가"
 
 #: public/views/preferencesEditRealNameAttestors.html:25
 msgid "Add address"
@@ -590,12 +590,12 @@ msgstr "생성"
 
 #: public/views/includes/sidebar.html:28
 msgid "Create a new account"
-msgstr ""
+msgstr "새로운 계정 만들기"
 
 #: public/views/create.html:175
 #: src/js/controllers/index.js:383
 msgid "Create new account"
-msgstr ""
+msgstr "새로운 계정 만들기"
 
 #: public/views/add.html:15
 msgid "Create new wallet"
@@ -1289,7 +1289,7 @@ msgstr "개인 코드"
 
 #: public/views/create.html:28
 msgid "Plain Account"
-msgstr ""
+msgstr "일반 계정"
 
 #: src/js/controllers/index.js:288
 msgid "Please approve contract fees deposit on the other devices."
@@ -2111,7 +2111,7 @@ msgstr "요청 되었습니까?"
 
 #: public/views/walletHome.html:357
 msgid "What to send"
-msgstr "무엇을 보내실 건가요"
+msgstr "전송 대상"
 
 #: public/views/modals/multi-payment.html:35
 #: public/views/modals/offer-contract.html:150
