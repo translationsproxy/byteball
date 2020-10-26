@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2020-10-26 02:41\n"
+"PO-Revision-Date: 2020-10-26 02:51\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -212,7 +212,7 @@ msgstr "설정 메뉴에서 비밀번호 설정같은 보안 옵션을 설정할
 
 #: public/views/walletHome.html:548
 msgid "Also send data..."
-msgstr "또는 데이터 보내기..."
+msgstr "데이터 전송 추가..."
 
 #: public/views/includes/password.html:42
 msgid "Also, don't forget to delete your seed"
@@ -268,7 +268,7 @@ msgstr "인증처:"
 
 #: public/views/preferencesGlobal.html:75
 msgid "Attestor addresses"
-msgstr "인증을 담당한 주소"
+msgstr "인증 관련 주소"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the Order Provider (witness) list from the hub"
@@ -1727,7 +1727,7 @@ msgstr "미확인 자금 사용"
 #: public/views/preferences.html:80
 #: public/views/preferencesGlobal.html:86
 msgid "Spending Restrictions"
-msgstr "지출 제한"
+msgstr "지출 관리"
 
 #: public/views/modals/view-prosaic-contract.html:72
 msgid "Status"
@@ -1995,11 +1995,11 @@ msgstr "번역 공헌자"
 
 #: public/views/preferencesAbout.html:34
 msgid "Translators"
-msgstr "번역자"
+msgstr "번역 공헌자 목록"
 
 #: public/views/preferencesGlobal.html:67
 msgid "Trusted nodes"
-msgstr "믿을 수 있는 노드"
+msgstr "신뢰할 수 있는 노드"
 
 #: public/views/walletHome.html:609
 msgid "Try again"
