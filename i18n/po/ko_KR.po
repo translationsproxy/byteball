@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2020-10-26 02:21\n"
+"PO-Revision-Date: 2020-10-26 02:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -615,7 +615,7 @@ msgstr "프로필 생성 중.."
 
 #: public/views/create.html:20
 msgid "Creating new account..."
-msgstr ""
+msgstr "새로운 계정 생성 중..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
@@ -1701,12 +1701,12 @@ msgstr "서명 주소:"
 #: public/views/create.html:56
 #: public/views/preferences.html:39
 msgid "Single address account"
-msgstr ""
+msgstr "단일 주소 지갑"
 
 #: public/views/create.html:59
 #: public/views/preferences.html:41
 msgid "Single address accounts will not spawn new addresses for every transaction, change will always go to the one and only address the account contains."
-msgstr ""
+msgstr "단일 주소 지갑은 트랜잭션마다 새로운 주소를 생성하지 않으며, 모든 변경 사항은 계정에 포함되어 있는 단 하나의 주소에 기록될 것입니다."
 
 #: src/js/services/profileService.js:334
 msgid "Small Expenses Account"
