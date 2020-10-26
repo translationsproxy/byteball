@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2020-10-26 02:51\n"
+"PO-Revision-Date: 2020-10-26 03:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -623,7 +623,7 @@ msgstr "단어 삭제하기"
 
 #: public/views/walletHome.html:554
 msgid "Data to be posted with the payment:"
-msgstr "결제와 함께 게시된 데이터:"
+msgstr "결제와 함께 게시될 데이터:"
 
 #: public/views/walletHome.html:740
 msgid "Datafeed name"
@@ -1818,7 +1818,7 @@ msgstr "인증된 주소가 속한 곳:"
 
 #: public/views/walletHome.html:605
 msgid "The expected result:"
-msgstr ""
+msgstr "예상되는 결과:"
 
 #: public/views/preferencesHub.html:20
 msgid "The hub for receiving messages from other devices."
