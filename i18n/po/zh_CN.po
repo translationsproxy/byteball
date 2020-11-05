@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2020-11-05 14:22\n"
+"PO-Revision-Date: 2020-11-05 15:16\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -616,7 +616,7 @@ msgstr "创建配置文件…"
 
 #: public/views/create.html:20
 msgid "Creating new account..."
-msgstr ""
+msgstr "正在创建新账户..."
 
 #: public/views/backup.html:93
 msgid "DELETE WORDS"
@@ -668,11 +668,11 @@ msgstr "地址的定义"
 
 #: public/views/preferencesAdvanced.html:31
 msgid "Delete Account"
-msgstr ""
+msgstr "删除账号"
 
 #: public/views/preferencesDeleteWallet.html:23
 msgid "Delete account"
-msgstr ""
+msgstr "删除帐户"
 
 #: src/js/controllers/walletHome.js:2546
 msgid "Deleting the textcoin will remove the ability to claim it back or resend"
@@ -856,7 +856,7 @@ msgstr "隐藏资产"
 
 #: public/views/preferences.html:69
 msgid "Hidden smart contracts"
-msgstr ""
+msgstr "隐藏智能合同"
 
 #: public/views/backup.html:45
 msgid "Hide the Wallet Seed"
