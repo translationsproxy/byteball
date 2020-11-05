@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2020-11-05 14:16\n"
+"PO-Revision-Date: 2020-11-05 14:22\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -604,7 +604,7 @@ msgstr "创建新钱包"
 
 #: public/views/create.html:171
 msgid "Create {{requiredCosigners}}-of-{{totalCosigners}} account"
-msgstr ""
+msgstr "创建{{totalCosigners}} 中的 {{requiredCosigners}} 签署帐号"
 
 #: public/views/modals/address-definition.html:23
 msgid "Created:"
