@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2020-11-05 15:16\n"
+"PO-Revision-Date: 2020-11-05 15:23\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1000,7 +1000,7 @@ msgstr "不允许向自治代理发送隐私资产"
 
 #: public/views/backup.html:22
 msgid "Just the wallet seed is not enough.  With the seed alone, you won't be able to restore multisig accounts, smart contracts, contacts, chat history, and private assets such as blackbytes."
-msgstr ""
+msgstr "仅仅钱包助记词短语是不够的。仅靠助记词短语，不能恢复多重签名钱包、智能合同、联系人、聊天历史以及黑球等私人资产。"
 
 #: public/views/splash.html:36
 msgid "Keep only data relevant to you"
@@ -1073,7 +1073,7 @@ msgstr "已移动"
 
 #: public/views/create.html:32
 msgid "Multidevice Account"
-msgstr ""
+msgstr "多设备帐户"
 
 #: public/views/walletHome.html:276
 msgid "My Obyte address"
@@ -1189,7 +1189,7 @@ msgstr "一旦你写下你的钱包种子，建议从这个设备中删除它。
 
 #: public/views/recoveryFromSeed.html:41
 msgid "Only single-sig accounts can be recovered."
-msgstr ""
+msgstr "只有单签钱包能恢复。"
 
 #: public/views/bot.html:84
 msgid "Open chat"
@@ -1282,7 +1282,7 @@ msgstr "对方:"
 
 #: public/views/preferencesDeleteWallet.html:22
 msgid "Permanently delete this account. THIS ACTION CANNOT BE REVERSED"
-msgstr ""
+msgstr "永久删除此帐户。此操作无法恢复"
 
 #: src/js/controllers/correspondentDevice.js:1363
 msgid "Personal code"
@@ -1290,7 +1290,7 @@ msgstr "个人代码"
 
 #: public/views/create.html:28
 msgid "Plain Account"
-msgstr ""
+msgstr "普通账户"
 
 #: src/js/controllers/index.js:288
 msgid "Please approve contract fees deposit on the other devices."
@@ -1314,7 +1314,7 @@ msgstr "请为此设备命名"
 
 #: src/js/controllers/correspondentDevice.js:160
 msgid "Please switch to a single-address account and you probably need to insert your address again."
-msgstr ""
+msgstr "请切换到单地址帐户，您可能需要重新插入您的地址。"
 
 #: public/views/includes/backup-reminder.html:8
 msgid "Please visit the Backups section in"
@@ -1564,7 +1564,7 @@ msgstr "正在扫描地址..."
 
 #: public/views/modals/select-subwallet.html:8
 msgid "Select Smart Contract"
-msgstr ""
+msgstr "选择智能合同"
 
 #: public/views/paymentUri.html:30
 msgid "Select a wallet"
