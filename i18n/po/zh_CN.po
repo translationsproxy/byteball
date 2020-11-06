@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2020-11-06 13:12\n"
+"PO-Revision-Date: 2020-11-06 13:32\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -1707,11 +1707,11 @@ msgstr "单地址帐户"
 #: public/views/create.html:59
 #: public/views/preferences.html:41
 msgid "Single address accounts will not spawn new addresses for every transaction, change will always go to the one and only address the account contains."
-msgstr ""
+msgstr "单地址帐号不会为每个交易产生新地址，余额改变将始终应用到帐号包含的唯一地址上。"
 
 #: src/js/services/profileService.js:334
 msgid "Small Expenses Account"
-msgstr ""
+msgstr "小额钱包"
 
 #: public/views/walletHome.html:604
 msgid "Source code:"
@@ -1807,11 +1807,11 @@ msgstr "文本币"
 
 #: src/js/controllers/preferencesDelete.js:56
 msgid "The account \"{{walletName}}\" has been deleted"
-msgstr ""
+msgstr "钱包 \"{{walletName}}\"已被删除"
 
 #: src/js/controllers/copayers.js:76
 msgid "The account \"{{walletName}}\" was deleted"
-msgstr ""
+msgstr "钱包 \"{{walletName}}\"已被删除"
 
 #: public/views/modals/accept-profile.html:38
 msgid "The attested address belongs to:"
@@ -1863,19 +1863,19 @@ msgstr "没有钱包可以进行付款"
 
 #: public/views/preferences.html:45
 msgid "This account cannot be converted to multi address account as it already has attestations"
-msgstr ""
+msgstr "这个帐户不能转换为多地址帐户，因为它已经有认证了"
 
 #: public/views/preferences.html:44
 msgid "This account cannot be converted to multi address account as it is multidevice"
-msgstr ""
+msgstr "此钱包无法转换为多地址钱包，因为它是多设备"
 
 #: public/views/preferences.html:42
 msgid "This account cannot be converted to single address account as it already consists of multiple addresses"
-msgstr ""
+msgstr "这个钱包不能转换为单地址钱包, 因为它已经包含多个地址"
 
 #: public/views/preferences.html:43
 msgid "This account cannot be converted to single address account as it is multidevice"
-msgstr ""
+msgstr "此钱包无法转换为多地址钱包，因为它是多设备"
 
 #: public/views/walletHome.html:315
 msgid "This address is shared with {{index.shared_address_cosigners}}."
@@ -1895,7 +1895,7 @@ msgstr "此付款必须符合条件..."
 
 #: src/js/controllers/correspondentDevice.js:160
 msgid "This payment must be paid only from single-address account"
-msgstr ""
+msgstr "此付款必须仅从单地址钱包中支付"
 
 #: src/js/controllers/walletHome.js:2235
 msgid "This payment must be paid only from single-address wallet"
