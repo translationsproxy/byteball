@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2020-11-25 07:01\n"
+"PO-Revision-Date: 2020-11-25 07:11\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -23,11 +23,11 @@ msgstr "(Сайт не будет видеть Ваш баланс и деньг
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current account)"
-msgstr ""
+msgstr "(текущий аккаунт)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other account)"
-msgstr ""
+msgstr "(мой другой аккаунт)"
 
 #: public/views/walletHome.html:867
 msgid "(possible double spend)"
@@ -45,7 +45,7 @@ msgstr "12 слов, разделённых пробелами"
 msgid "<i class=\"fi-refresh size-18 m5r\"></i>\n"
 "        Resend"
 msgstr "<i class=\"fi-refresh size-18 m5r\"></i>\n"
-"        Отправить снова"
+"      Повторить отправку"
 
 #: public/views/walletHome.html:481
 msgid "AAs not allowed in multi-send"
@@ -1175,7 +1175,7 @@ msgstr "Предложить контракт"
 
 #: public/views/modals/offer-prosaic-contract.html:79
 msgid "Offer is valid for"
-msgstr ""
+msgstr "Предложение действительно для"
 
 #: public/views/modals/offer-prosaic-contract.html:51
 #: src/js/services/correspondentListService.js:136
