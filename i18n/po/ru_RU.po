@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2020-11-25 07:21\n"
+"PO-Revision-Date: 2020-11-25 07:31\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2040,11 +2040,11 @@ msgstr "Обновить до {{version}}"
 
 #: public/views/includes/upgrading_db.html:8
 msgid "Upgrading the database, please wait."
-msgstr ""
+msgstr "Обновление базы данных, пожалуйста, подождите."
 
 #: public/views/modals/view-prosaic-contract.html:74
 msgid "Valid till"
-msgstr ""
+msgstr "Действителен до"
 
 #: public/views/walletHome.html:578
 #: public/views/walletHome.html:740
