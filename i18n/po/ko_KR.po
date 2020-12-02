@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2020-12-02 00:02\n"
+"PO-Revision-Date: 2020-12-02 00:11\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -27,7 +27,7 @@ msgstr "(현재 계정)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other account)"
-msgstr ""
+msgstr "(다른 계정)"
 
 #: public/views/walletHome.html:867
 msgid "(possible double spend)"
@@ -44,11 +44,12 @@ msgstr "대시로 구분된 12단어"
 #: public/views/modals/tx-details.html:167
 msgid "<i class=\"fi-refresh size-18 m5r\"></i>\n"
 "        Resend"
-msgstr ""
+msgstr "<i class=\"fi-refresh size-18 m5r\"></i>\n"
+"        재전송"
 
 #: public/views/walletHome.html:481
 msgid "AAs not allowed in multi-send"
-msgstr ""
+msgstr "AA는 다중 전송 대상이 될 수 없습니다"
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
@@ -188,7 +189,7 @@ msgstr "별칭 설정 대상:"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Account Addresses"
-msgstr ""
+msgstr "계정 주소 전체 목록"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
@@ -2003,7 +2004,7 @@ msgstr "신뢰할 수 있는 노드"
 
 #: public/views/walletHome.html:609
 msgid "Try again"
-msgstr ""
+msgstr "다시 시도하기"
 
 #: src/js/controllers/correspondentDevice.js:1364
 msgid "US state"
