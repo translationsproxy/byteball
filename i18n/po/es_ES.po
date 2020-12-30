@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-10-02 19:32\n"
+"PO-Revision-Date: 2020-12-30 16:21\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -23,11 +23,11 @@ msgstr "(El sitio no verá su balance, no se gastará ningún dinero)"
 
 #: public/views/modals/choose-profile.html:44
 msgid "(current account)"
-msgstr ""
+msgstr "(cuenta actual)"
 
 #: public/views/modals/choose-profile.html:47
 msgid "(my other account)"
-msgstr ""
+msgstr "(mi otra cuenta)"
 
 #: public/views/walletHome.html:867
 msgid "(possible double spend)"
@@ -44,11 +44,12 @@ msgstr "12 palabras separadas por guiones"
 #: public/views/modals/tx-details.html:167
 msgid "<i class=\"fi-refresh size-18 m5r\"></i>\n"
 "        Resend"
-msgstr ""
+msgstr "<i class=\"fi-refresh size-18 m5r\"></i>\n"
+"        Reenviar"
 
 #: public/views/walletHome.html:481
 msgid "AAs not allowed in multi-send"
-msgstr ""
+msgstr "AAs no permitidas en envíos múltiples"
 
 #: public/views/preferencesGlobal.html:143
 msgid "About Obyte"
@@ -76,37 +77,37 @@ msgstr "Cuenta"
 
 #: public/views/preferences.html:15
 msgid "Account Alias"
-msgstr ""
+msgstr "Alias de la cuenta"
 
 #: public/views/preferencesInformation.html:27
 msgid "Account Configuration (m-n)"
-msgstr ""
+msgstr "Configuración de la Cuenta (m-n)"
 
 #: public/views/preferencesInformation.html:20
 msgid "Account Id"
-msgstr ""
+msgstr "Id de Cuenta"
 
 #: public/views/preferencesAdvanced.html:14
 #: public/views/preferencesInformation.html:8
 msgid "Account Information"
-msgstr ""
+msgstr "Información de la cuenta"
 
 #: public/views/preferencesInformation.html:12
 msgid "Account Name (at creation)"
-msgstr ""
+msgstr "Nombre de la Cuenta (al crear)"
 
 #: src/js/services/profileService.js:455
 msgid "Account already in Obyte:"
-msgstr ""
+msgstr "Cuenta ya en Obyte:"
 
 #: public/views/create.html:48
 msgid "Account name"
-msgstr ""
+msgstr "Nombre de la Cuenta"
 
 #: public/views/modals/destination-address.html:15
 #: public/views/modals/destination-address.html:29
 msgid "Accounts"
-msgstr ""
+msgstr "Cuentas"
 
 #: public/views/bot.html:85
 msgid "Add Bot"
@@ -123,7 +124,7 @@ msgstr "Añadir entrada nueva"
 
 #: public/views/includes/sidebar.html:26
 msgid "Add account"
-msgstr ""
+msgstr "Agregar cuenta"
 
 #: public/views/preferencesEditRealNameAttestors.html:25
 msgid "Add address"
@@ -155,7 +156,7 @@ msgstr "Dirección a verificar"
 #: public/views/modals/approveNewWitnesses.html:16
 #: public/views/modals/approveNewWitnesses.html:28
 msgid "Address:"
-msgstr ""
+msgstr "Dirección:"
 
 #: public/views/modals/destination-address.html:19
 #: public/views/modals/destination-address.html:23
@@ -188,7 +189,7 @@ msgstr "Alias para"
 
 #: public/views/preferencesInformation.html:95
 msgid "All Account Addresses"
-msgstr ""
+msgstr "Todas las direcciones de la cuenta"
 
 #: public/views/translators.html:52
 msgid "All contributions to Obyte's translation are welcome. Sign up at crowdin.com and join the O<sub>byte</sub> project at"
@@ -237,7 +238,7 @@ msgstr "Respuesta:"
 
 #: public/views/copayers.html:19
 msgid "Approve the account creation on other devices"
-msgstr ""
+msgstr "Aprobar creación de la cuenta en otros dispositivos"
 
 #: src/js/controllers/backup.js:6
 msgid "Are you sure you want to delete the backup words?"
@@ -246,7 +247,7 @@ msgstr "¿Está seguro que quiere eliminar las palabras de la copia de seguridad
 #: src/js/controllers/copayers.js:7
 #: src/js/controllers/preferencesDelete.js:8
 msgid "Are you sure you want to delete this account?"
-msgstr ""
+msgstr "¿Seguro que quieres eliminar esta cuenta?"
 
 #: public/views/modals/customized-amount.html:72
 msgid "Asset"
@@ -272,11 +273,11 @@ msgstr "Direcciones de verificador"
 
 #: public/views/preferencesWitnesses.html:11
 msgid "Auto-update the Order Provider (witness) list from the hub"
-msgstr ""
+msgstr "Auto-actualizar lista de Proveedores de Ordenes (testigos) desde el hub"
 
 #: public/views/preferencesHub.html:16
 msgid "Auto-update the Order Provider (witness) list from this hub"
-msgstr ""
+msgstr "Auto-actualizar lista de Proveedores de Ordenes (testigos) desde el hub"
 
 #: public/views/includes/available-balance.html:7
 msgid "Available Balance"
@@ -328,7 +329,7 @@ msgstr "Antes de recibir fondos, es muy recomendable realizar una copia de segur
 
 #: public/views/backup.html:26
 msgid "Better yet, use multisig accounts with redundancy,"
-msgstr ""
+msgstr "Mejor aún, use cuentas multifirma con redundancia,"
 
 #: public/views/modals/bind.html:134
 #: public/views/modals/bind.html:49
@@ -357,7 +358,7 @@ msgstr "Tanto Vd. como {{correspondent.name}} habilitan la grabación del histor
 
 #: src/js/controllers/walletHome.js:1286
 msgid "Bounce the request"
-msgstr ""
+msgstr "Rebotar la solicitud"
 
 #: public/views/modals/tx-details.html:186
 msgid "Bounced?"
