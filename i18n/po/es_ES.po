@@ -11,7 +11,7 @@ msgstr ""
 "X-Crowdin-File-ID: 222\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-12-30 16:52\n"
+"PO-Revision-Date: 2020-12-30 17:01\n"
 
 #: public/views/modals/share.html:43
 msgid "'Receive' tab → 'Claim funds using textcoin' button."
@@ -2323,11 +2323,11 @@ msgstr "instrucciones detalladas sobre el uso"
 
 #: public/views/backup.html:28
 msgid "e.g. 1-of-2 account with one key on this device and another key on your laptop computer."
-msgstr ""
+msgstr "por ejemplo, 1-de-2 cuentas con una de las claves en este dispositivo y la otra clave en tu portátil."
 
 #: public/views/backup.html:27
 msgid "e.g. 1-of-2 account with one key on this device and another key on your smartphone."
-msgstr ""
+msgstr "por ejemplo, 1-de-2 cuentas, con una de las claves en este dispositivo y la otra clave en tu teléfono móvil."
 
 #: public/views/modals/bind.html:119
 msgid "either way"
@@ -2365,11 +2365,11 @@ msgstr "en el árbol \"Merkle\""
 
 #: public/views/walletHome.html:188
 msgid "in smart contracts"
-msgstr ""
+msgstr "en contratos inteligentes"
 
 #: src/js/controllers/walletHome.js:1292
 msgid "increased by"
-msgstr ""
+msgstr "incrementado por"
 
 #: public/views/modals/signed-message.html:33
 msgid "invalid"
@@ -2381,7 +2381,7 @@ msgstr "mantenerlo en secreto"
 
 #: public/views/walletHome.html:600
 msgid "less"
-msgstr ""
+msgstr "menos"
 
 #: public/views/includes/available-balance.html:12
 msgid "locked by pending payments"
